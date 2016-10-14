@@ -36,13 +36,33 @@
                 </xsl:otherwise>
             </xsl:choose>
         </xsl:for-each>
-    </xsl:function>    
+    </xsl:function>   
+    <xsl:function name="syriaca:split-names">
+        <xsl:param name="name" as="xs:string"/>
+        <xsl:analyze-string select="$name" regex="((.*),\s*(.*))|((.*)\s+(\S+))">
+            <xsl:matching-substring>
+                <xsl:variable name="surname" select="concat(regex-group(2),regex-group(6))"/>
+                <xsl:variable name="givennname" select="concat(regex-group(3),regex-group(5))"/>
+                <xsl:choose>
+                    <xsl:when test="$surname or $givennname">
+                        <foaf:surname><xsl:value-of select="$surname"/></foaf:surname>
+                        <foaf:givenname><xsl:value-of select="$givennname"/></foaf:givenname>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <foaf:surname><xsl:value-of select="."/></foaf:surname>
+                    </xsl:otherwise>
+                </xsl:choose>
+            </xsl:matching-substring>
+        </xsl:analyze-string>
+    </xsl:function>
     
     
     <xsl:template match="/tei:TEI/tei:text/tei:body">
         <xsl:result-document href="{$filename}" format="xml">
             <rdf:RDF>
                 <xsl:for-each select="tei:p[starts-with(.,'[#]')]">
+<!--                    Tried to use the following to process abstracts, but haven't figured out how to properly capture them yet. -->
+<!--                <xsl:for-each select="tei:p[starts-with(.,'[#]') or preceding-sibling::*[starts-with(.,'[#]')]]">-->
                     <xsl:variable name="entry-with-titles">
                         <entry>
                                 <xsl:apply-templates/>
@@ -64,122 +84,120 @@
                                             <xsl:variable name="regex-journal-volume" select="'(^[\s\S]*?|^)\s*(\d+\.?\d*)\s*\(*$'"/>
                                             <xsl:variable name="regex-authors" select="'\[#\]\s*([\w\s,À-ʸ\-\.]+)'"/>
                                             <xsl:variable name="regex-article-title" select="'[“-‟&quot;]+([\s\S]*)[“-‟&quot;]+'"/>
-                                            <xsl:analyze-string 
-                                                select="." 
-                                                regex="{$regex-date}"> 
-                                                <xsl:matching-substring>
-                                                    <xsl:if test="regex-group(1)">
-                                                        <dc:date><xsl:value-of select="regex-group(1)"/></dc:date>
-                                                    </xsl:if>
-                                                </xsl:matching-substring>
-                                                <xsl:non-matching-substring>
+                                            
                                                     <xsl:analyze-string 
                                                         select="." 
-                                                        regex="{$regex-pages}">
+                                                        regex="{$regex-date}"> 
                                                         <xsl:matching-substring>
                                                             <xsl:if test="regex-group(1)">
-                                                                <bib:pages><xsl:value-of select="regex-group(1)"/></bib:pages>
+                                                                <dc:date><xsl:value-of select="regex-group(1)"/></dc:date>
                                                             </xsl:if>
                                                         </xsl:matching-substring>
                                                         <xsl:non-matching-substring>
-                                                                <xsl:analyze-string 
+                                                            <xsl:analyze-string 
                                                                 select="." 
-                                                                regex="{$regex-volume}">
+                                                                regex="{$regex-pages}">
                                                                 <xsl:matching-substring>
                                                                     <xsl:if test="regex-group(1)">
-                                                                        <prism:volume><xsl:value-of select="regex-group(1)"/></prism:volume>
+                                                                        <bib:pages><xsl:value-of select="regex-group(1)"/></bib:pages>
                                                                     </xsl:if>
                                                                 </xsl:matching-substring>
                                                                 <xsl:non-matching-substring>
-                                                                    <xsl:analyze-string 
+                                                                        <xsl:analyze-string 
                                                                         select="." 
-                                                                        regex="{$regex-publisher}">
+                                                                        regex="{$regex-volume}">
                                                                         <xsl:matching-substring>
                                                                             <xsl:if test="regex-group(1)">
-                                                                                <dc:publisher>
-                                                                                    <foaf:Organization>
-                                                                                        <vcard:adr>
-                                                                                            <vcard:Address>
-                                                                                                <vcard:locality><xsl:value-of select="regex-group(1)"/></vcard:locality>
-                                                                                            </vcard:Address>
-                                                                                        </vcard:adr>
-                                                                                        <foaf:name><xsl:value-of select="regex-group(2)"/></foaf:name>
-                                                                                    </foaf:Organization>
-                                                                                </dc:publisher>
+                                                                                <prism:volume><xsl:value-of select="regex-group(1)"/></prism:volume>
                                                                             </xsl:if>
                                                                         </xsl:matching-substring>
                                                                         <xsl:non-matching-substring>
                                                                             <xsl:analyze-string 
                                                                                 select="." 
-                                                                                regex="{$regex-edition}">
+                                                                                regex="{$regex-publisher}">
                                                                                 <xsl:matching-substring>
                                                                                     <xsl:if test="regex-group(1)">
-                                                                                        <prism:edition><xsl:value-of select="regex-group(1)"/></prism:edition>
+                                                                                        <dc:publisher>
+                                                                                            <foaf:Organization>
+                                                                                                <vcard:adr>
+                                                                                                    <vcard:Address>
+                                                                                                        <vcard:locality><xsl:value-of select="regex-group(1)"/></vcard:locality>
+                                                                                                    </vcard:Address>
+                                                                                                </vcard:adr>
+                                                                                                <foaf:name><xsl:value-of select="regex-group(2)"/></foaf:name>
+                                                                                            </foaf:Organization>
+                                                                                        </dc:publisher>
                                                                                     </xsl:if>
                                                                                 </xsl:matching-substring>
                                                                                 <xsl:non-matching-substring>
                                                                                     <xsl:analyze-string 
                                                                                         select="." 
-                                                                                        regex="{$regex-editors}">
+                                                                                        regex="{$regex-edition}">
                                                                                         <xsl:matching-substring>
-                                                                                            <xsl:if test="regex-group(2)">
-                                                                                                <bib:editors>
-                                                                                                    <rdf:Seq>
-                                                                                                        <xsl:for-each select="tokenize(regex-group(2),',*\s+([au]nd|&amp;)\s+')">
-                                                                                                            <rdf:li>
-                                                                                                                <foaf:Person><xsl:value-of select="."/></foaf:Person>
-                                                                                                            </rdf:li>
-                                                                                                        </xsl:for-each>
-                                                                                                    </rdf:Seq>
-                                                                                                </bib:editors>
+                                                                                            <xsl:if test="regex-group(1)">
+                                                                                                <prism:edition><xsl:value-of select="regex-group(1)"/></prism:edition>
                                                                                             </xsl:if>
                                                                                         </xsl:matching-substring>
                                                                                         <xsl:non-matching-substring>
                                                                                             <xsl:analyze-string 
                                                                                                 select="." 
-                                                                                                regex="{$regex-article-title}">
+                                                                                                regex="{$regex-editors}">
                                                                                                 <xsl:matching-substring>
-                                                                                                    <xsl:if test="regex-group(1)">
-                                                                                                        <dc:title><xsl:value-of select="regex-group(1)"/></dc:title>
+                                                                                                    <xsl:if test="regex-group(2)">
+                                                                                                        <bib:editors>
+                                                                                                            <rdf:Seq>
+                                                                                                                <xsl:for-each select="tokenize(regex-group(2),',*\s+([au]nd|&amp;)\s+')">
+                                                                                                                    <rdf:li>
+                                                                                                                        <foaf:Person><xsl:value-of select="."/></foaf:Person>
+                                                                                                                    </rdf:li>
+                                                                                                                </xsl:for-each>
+                                                                                                            </rdf:Seq>
+                                                                                                        </bib:editors>
                                                                                                     </xsl:if>
                                                                                                 </xsl:matching-substring>
                                                                                                 <xsl:non-matching-substring>
                                                                                                     <xsl:analyze-string 
                                                                                                         select="." 
-                                                                                                        regex="{$regex-authors}">
+                                                                                                        regex="{$regex-article-title}">
                                                                                                         <xsl:matching-substring>
-                                                                                                            <xsl:if test="regex-group(1)[matches(.,'[A-Za-zÀ-ʸ]')]">
-                                                                                                                <bib:authors>
-                                                                                                                    <rdf:Seq>
-                                                                                                                        <xsl:for-each select="tokenize(regex-group(1),'(\s+[au]nd|\s+&amp;|,)\s+')[matches(.,'[A-Za-zÀ-ʸ]')]">
-                                                                                                                            <rdf:li>
-                                                                                                                                <foaf:Person>
-                                                                                                                                    <xsl:analyze-string select="." regex="((.*),\s*(.*))|((.*)\s+(\S+))">
-                                                                                                                                        <xsl:matching-substring>
-                                                                                                                                            <foaf:surname><xsl:value-of select="concat(regex-group(2),regex-group(6))"/></foaf:surname>
-                                                                                                                                            <foaf:givenname><xsl:value-of select="concat(regex-group(3),regex-group(5))"/></foaf:givenname>
-                                                                                                                                        </xsl:matching-substring>
-                                                                                                                                    </xsl:analyze-string>
-                                                                                                                                </foaf:Person>
-                                                                                                                            </rdf:li>
-                                                                                                                        </xsl:for-each>
-                                                                                                                    </rdf:Seq>
-                                                                                                                </bib:authors>
+                                                                                                            <xsl:if test="regex-group(1)">
+                                                                                                                <dc:title><xsl:value-of select="regex-group(1)"/></dc:title>
                                                                                                             </xsl:if>
                                                                                                         </xsl:matching-substring>
                                                                                                         <xsl:non-matching-substring>
                                                                                                             <xsl:analyze-string 
                                                                                                                 select="." 
-                                                                                                                regex="{$regex-journal-volume}">
+                                                                                                                regex="{$regex-authors}">
                                                                                                                 <xsl:matching-substring>
-                                                                                                                    <xsl:if test="regex-group(1)">
-                                                                                                                        <dc:title><xsl:value-of select="regex-group(1)"/></dc:title>
-                                                                                                                    </xsl:if>
-                                                                                                                    <xsl:if test="regex-group(2)">
-                                                                                                                        <prism:volume><xsl:value-of select="regex-group(2)"/></prism:volume>
+                                                                                                                    <xsl:if test="regex-group(1)[matches(.,'[A-Za-zÀ-ʸ]')]">
+                                                                                                                        <bib:authors>
+                                                                                                                            <rdf:Seq>
+                                                                                                                                <xsl:for-each select="tokenize(regex-group(1),'(\s+[au]nd|\s+&amp;|,)\s+')[matches(.,'[A-Za-zÀ-ʸ]')]">
+                                                                                                                                    <rdf:li>
+                                                                                                                                        <foaf:Person>
+                                                                                                                                            <xsl:copy-of select="syriaca:split-names(.)"/>
+                                                                                                                                        </foaf:Person>
+                                                                                                                                    </rdf:li>
+                                                                                                                                </xsl:for-each>
+                                                                                                                            </rdf:Seq>
+                                                                                                                        </bib:authors>
                                                                                                                     </xsl:if>
                                                                                                                 </xsl:matching-substring>
-                                                                                                                <xsl:non-matching-substring><xsl:copy-of select="."/></xsl:non-matching-substring>
+                                                                                                                <xsl:non-matching-substring>
+                                                                                                                    <xsl:analyze-string 
+                                                                                                                        select="." 
+                                                                                                                        regex="{$regex-journal-volume}">
+                                                                                                                        <xsl:matching-substring>
+                                                                                                                            <xsl:if test="regex-group(1)">
+                                                                                                                                <dc:title><xsl:value-of select="regex-group(1)"/></dc:title>
+                                                                                                                            </xsl:if>
+                                                                                                                            <xsl:if test="regex-group(2)">
+                                                                                                                                <prism:volume><xsl:value-of select="regex-group(2)"/></prism:volume>
+                                                                                                                            </xsl:if>
+                                                                                                                        </xsl:matching-substring>
+                                                                                                                        <xsl:non-matching-substring><xsl:copy-of select="."/></xsl:non-matching-substring>
+                                                                                                                    </xsl:analyze-string>
+                                                                                                                </xsl:non-matching-substring>
                                                                                                             </xsl:analyze-string>
                                                                                                         </xsl:non-matching-substring>
                                                                                                     </xsl:analyze-string>
@@ -190,13 +208,11 @@
                                                                                 </xsl:non-matching-substring>
                                                                             </xsl:analyze-string>
                                                                         </xsl:non-matching-substring>
-                                                                    </xsl:analyze-string>
+                                                                        </xsl:analyze-string>
                                                                 </xsl:non-matching-substring>
-                                                                </xsl:analyze-string>
+                                                            </xsl:analyze-string>
                                                         </xsl:non-matching-substring>
                                                     </xsl:analyze-string>
-                                                </xsl:non-matching-substring>
-                                            </xsl:analyze-string>
                                         </xsl:otherwise>
                                     </xsl:choose>   
                             </xsl:for-each>
@@ -204,8 +220,7 @@
                         </xsl:for-each>
                     </xsl:variable>
                     
-                    <!-- Journal format. Looks like this is basically working but apparently need author names split into parts for 
-                    authors to be imported. -->
+                    <!-- Journal format.  -->
                     <xsl:if test="$entry/entry[count(dc:title)=2 and prism:volume and dc:date and bib:pages and not(bib:editors|dc:publisher)]">
                         <bib:Article>
                             <z:itemType>journalArticle</z:itemType>
@@ -219,6 +234,7 @@
                             <xsl:copy-of select="$entry/entry/dc:title[1]"/>
                             <xsl:copy-of select="$entry/entry/bib:pages"/>
                             <xsl:copy-of select="$entry/entry/dc:date"/>
+                            <xsl:copy-of select="$entry/entry/dcterms:abstract"/>
                         </bib:Article>
                     </xsl:if>
                     
