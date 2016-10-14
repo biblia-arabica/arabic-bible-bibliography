@@ -30,8 +30,8 @@
                     <xsl:analyze-string 
                         select="$input-nodes" 
                         regex="\s*pp\.\s*([0-9A-Za-z]+(\-[0-9A-Za-z]+)?)\.*">
-                        <xsl:non-matching-substring><xsl:copy-of select="."/></xsl:non-matching-substring>
                         <xsl:matching-substring><bib:pages><xsl:value-of select="regex-group(1)"/></bib:pages></xsl:matching-substring>
+                        <xsl:non-matching-substring><xsl:copy-of select="."/></xsl:non-matching-substring>
                     </xsl:analyze-string>
                 </xsl:otherwise>
             </xsl:choose>
@@ -153,7 +153,14 @@
                                                                                                                     <rdf:Seq>
                                                                                                                         <xsl:for-each select="tokenize(regex-group(1),'(\s+[au]nd|\s+&amp;|,)\s+')[matches(.,'[A-Za-zÀ-ʸ]')]">
                                                                                                                             <rdf:li>
-                                                                                                                                <foaf:Person><xsl:value-of select="."/></foaf:Person>
+                                                                                                                                <foaf:Person>
+                                                                                                                                    <xsl:analyze-string select="." regex="((.*),\s*(.*))|((.*)\s+(\S+))">
+                                                                                                                                        <xsl:matching-substring>
+                                                                                                                                            <foaf:surname><xsl:value-of select="concat(regex-group(2),regex-group(6))"/></foaf:surname>
+                                                                                                                                            <foaf:givenname><xsl:value-of select="concat(regex-group(3),regex-group(5))"/></foaf:givenname>
+                                                                                                                                        </xsl:matching-substring>
+                                                                                                                                    </xsl:analyze-string>
+                                                                                                                                </foaf:Person>
                                                                                                                             </rdf:li>
                                                                                                                         </xsl:for-each>
                                                                                                                     </rdf:Seq>

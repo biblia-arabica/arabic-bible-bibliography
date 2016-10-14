@@ -24,13 +24,22 @@ Internazionale/ Oasis: A Biannual Journal of the Oasis International Foundation<
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Camilla Adang</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Adang</foaf:surname>
+                  <foaf:givenname>Camilla</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
             <rdf:li>
-               <foaf:Person>Sabine Schmidtke</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Schmidtke</foaf:surname>
+                  <foaf:givenname>Sabine</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
             <rdf:li>
-               <foaf:Person>Meira Polliack</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Polliack</foaf:surname>
+                  <foaf:givenname>Meira</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -50,7 +59,10 @@ L’onore della traduzione | La tâche de la traduction,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Kenneth Ewing Bailey</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Bailey</foaf:surname>
+                  <foaf:givenname>Kenneth Ewing</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -70,7 +82,10 @@ of the Bible</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Francis Crawford Burkitt</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Burkitt</foaf:surname>
+                  <foaf:givenname>Francis Crawford</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -90,7 +105,10 @@ of the Bible</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Henry Snyder Gehman</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Gehman</foaf:surname>
+                  <foaf:givenname>Henry Snyder</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -109,7 +127,10 @@ of the Bible</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Joseph Henninger</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Henninger</foaf:surname>
+                  <foaf:givenname>Joseph</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -130,7 +151,10 @@ Instituto Egipcio de Estudios Islámicos </dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Juan Pedro Monferrer-Sala</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Monferrer-Sala</foaf:surname>
+                  <foaf:givenname>Juan Pedro</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -150,7 +174,10 @@ versión árabe de las ‘Sagradas Escrituras’ izada en al-Andalus.</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Carmel Sant</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Sant</foaf:surname>
+                  <foaf:givenname>Carmel</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -169,7 +196,10 @@ versión árabe de las ‘Sagradas Escrituras’ izada en al-Andalus.</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Heather J. Sharkey</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Sharkey</foaf:surname>
+                  <foaf:givenname>Heather J.</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -189,7 +219,10 @@ translation,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Peter Paul Saydon</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Saydon</foaf:surname>
+                  <foaf:givenname>Peter Paul</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -210,7 +243,10 @@ il-Malti</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Peter Paul Saydon</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Saydon</foaf:surname>
+                  <foaf:givenname>Peter Paul</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -230,7 +266,10 @@ Bible Translator </dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>John Arthur Thompson</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Thompson</foaf:surname>
+                  <foaf:givenname>John Arthur</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -249,7 +288,10 @@ Bible Translator </dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Gérard Troupeau</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Troupeau</foaf:surname>
+                  <foaf:givenname>Gérard</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -269,7 +311,10 @@ Bible Translator </dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Tamar Zewi</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Zewi</foaf:surname>
+                  <foaf:givenname>Tamar</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -289,7 +334,10 @@ several Arabic Bible Translations,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Brian Walton</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Walton</foaf:surname>
+                  <foaf:givenname>Brian</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -312,7 +360,10 @@ several Arabic Bible Translations,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Isaac H. Hall</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Hall</foaf:surname>
+                  <foaf:givenname>Isaac H.</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -332,7 +383,10 @@ Dyck,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Issa A. Saliba</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Saliba</foaf:surname>
+                  <foaf:givenname>Issa A.</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -352,7 +406,10 @@ Translation,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Eli Smith</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Smith</foaf:surname>
+                  <foaf:givenname>Eli</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -371,7 +428,10 @@ Translation,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Charles Cutler Torrey</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Torrey</foaf:surname>
+                  <foaf:givenname>Charles Cutler</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -390,7 +450,10 @@ Translation,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Aharon Yaffe</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Yaffe</foaf:surname>
+                  <foaf:givenname>Aharon</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -410,7 +473,10 @@ Translation,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Sāmī al-Khūrī</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>al-Khūrī</foaf:surname>
+                  <foaf:givenname>Sāmī</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -430,7 +496,10 @@ Translation,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Thomas Walker Arnold</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Arnold</foaf:surname>
+                  <foaf:givenname>Thomas Walker</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -450,7 +519,10 @@ Jacobite and Nestorian Churches,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Anton Baumstark</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Baumstark</foaf:surname>
+                  <foaf:givenname>Anton</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -470,7 +542,10 @@ Bildschmuck eines arabischen Evangelienbuches des 14. Jahrhunderts,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Anton Baumstark</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Baumstark</foaf:surname>
+                  <foaf:givenname>Anton</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -490,7 +565,10 @@ Prophetenillustrationen durch stehende Autorenbilder” ,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Anton Baumstark</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Baumstark</foaf:surname>
+                  <foaf:givenname>Anton</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -510,7 +588,10 @@ mesopotamischer Federzeichnung vom Jahre 1299,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Anton Baumstark</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Baumstark</foaf:surname>
+                  <foaf:givenname>Anton</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -529,7 +610,10 @@ mesopotamischer Federzeichnung vom Jahre 1299,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Nadezhda Brovenko</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Brovenko</foaf:surname>
+                  <foaf:givenname>Nadezhda</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -550,7 +634,10 @@ Restoration,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Kurt Holter</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Holter</foaf:surname>
+                  <foaf:givenname>Kurt</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -571,7 +658,10 @@ Bücherfreunde</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Ernst von Horstkamp-Sydow</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Horstkamp-Sydow</foaf:surname>
+                  <foaf:givenname>Ernst von</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -591,7 +681,10 @@ Kuriositäten der Kaiserlichen Öffentlichen Bibliothek zu St. Petersburg,</dc:t
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Jules Leroy</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Leroy</foaf:surname>
+                  <foaf:givenname>Jules</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -611,7 +704,10 @@ bibliothèque de Topqapi Sarayi à décor byzantin et islamique,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Robert S. Nelson</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Nelson</foaf:surname>
+                  <foaf:givenname>Robert S.</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -632,7 +728,10 @@ Russkoe Archeologicheskoe Obshchestvo, Zapiski</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Egor Kuz</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Kuz</foaf:surname>
+                  <foaf:givenname>Egor</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -653,7 +752,10 @@ apocryphal Infancy Gospel at the Laurentian Library Florence],</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Lucy-Anne Hunt</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Hunt</foaf:surname>
+                  <foaf:givenname>Lucy-Anne</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -674,7 +776,10 @@ Oriental Studies</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Pieter Sj. van Koningsveld</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Koningsveld</foaf:surname>
+                  <foaf:givenname>Pieter Sj. van</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -694,7 +799,10 @@ Manuscripts from Christian Spain: A comparative Intercultural Approach,</dc:titl
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>James W. Pollock</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Pollock</foaf:surname>
+                  <foaf:givenname>James W.</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -714,7 +822,10 @@ in the Bryn Mawr Library,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Valery Vyacheslavoich Polosin</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Polosin</foaf:surname>
+                  <foaf:givenname>Valery Vyacheslavoich</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -735,10 +846,16 @@ Turning Again to an Old Controversy,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Valery Vyacheslavoich Polosin</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Polosin</foaf:surname>
+                  <foaf:givenname>Valery Vyacheslavoich</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
             <rdf:li>
-               <foaf:Person>Efim Rezvan</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Rezvan</foaf:surname>
+                  <foaf:givenname>Efim</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -758,7 +875,10 @@ the CD-ROM Edition of the St. Petersburg Arabic Bible,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>H. Stock,</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>H. Stock</foaf:surname>
+                  <foaf:givenname/>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -778,7 +898,10 @@ the CD-ROM Edition of the St. Petersburg Arabic Bible,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Kurt Weitzmann</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Weitzmann</foaf:surname>
+                  <foaf:givenname>Kurt</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -797,7 +920,10 @@ the CD-ROM Edition of the St. Petersburg Arabic Bible,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Joshua Blau</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Blau</foaf:surname>
+                  <foaf:givenname>Joshua</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -818,7 +944,10 @@ Gebiete </dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Sebastian Euringer</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Euringer</foaf:surname>
+                  <foaf:givenname>Sebastian</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -838,7 +967,10 @@ Bibelhandschriften Vat. ar. 468 and 467,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Ignatii Krachkovskii</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Krachkovskii</foaf:surname>
+                  <foaf:givenname>Ignatii</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -859,7 +991,10 @@ Orientalia</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Ibrahim Bassal</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Bassal</foaf:surname>
+                  <foaf:givenname>Ibrahim</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -879,7 +1014,10 @@ Christian Arabic copy of the Pentateuch (Ms Sin Ar. 2),</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Louis Cheikho</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Cheikho</foaf:surname>
+                  <foaf:givenname>Louis</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -898,7 +1036,10 @@ Christian Arabic copy of the Pentateuch (Ms Sin Ar. 2),</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Raffael Edelmann</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Edelmann</foaf:surname>
+                  <foaf:givenname>Raffael</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -918,7 +1059,10 @@ Christian Arabic copy of the Pentateuch (Ms Sin Ar. 2),</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Georg Graf</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Graf</foaf:surname>
+                  <foaf:givenname>Georg</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -939,7 +1083,10 @@ cod. Monac. arab. 234,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Joseph Nasrallah</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Nasrallah</foaf:surname>
+                  <foaf:givenname>Joseph</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -959,7 +1106,10 @@ partielles de la Bible du IXe et du Xe siècles,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Eberhard Nestle</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Nestle</foaf:surname>
+                  <foaf:givenname>Eberhard</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -979,7 +1129,10 @@ hammephorasch und andere Gottesnamen. Ein Beitrag zur Geschichte des Tetragramma
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Michael Breydy</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Breydy</foaf:surname>
+                  <foaf:givenname>Michael</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -999,7 +1152,10 @@ n'appartiennent ni à St. Ephrem ni au patrimoine liturgique des Maronites,</dc:
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Georg Graf</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Graf</foaf:surname>
+                  <foaf:givenname>Georg</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1018,7 +1174,10 @@ n'appartiennent ni à St. Ephrem ni au patrimoine liturgique des Maronites,</dc:
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Alberto Vaccari</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Vaccari</foaf:surname>
+                  <foaf:givenname>Alberto</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1037,7 +1196,10 @@ n'appartiennent ni à St. Ephrem ni au patrimoine liturgique des Maronites,</dc:
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Alberto Vaccari</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Vaccari</foaf:surname>
+                  <foaf:givenname>Alberto</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1056,7 +1218,10 @@ n'appartiennent ni à St. Ephrem ni au patrimoine liturgique des Maronites,</dc:
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Henry Snyder Gehman</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Gehman</foaf:surname>
+                  <foaf:givenname>Henry Snyder</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1076,7 +1241,10 @@ Versions of Daniel,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Henry Snyder Gehman</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Gehman</foaf:surname>
+                  <foaf:givenname>Henry Snyder</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1096,7 +1264,10 @@ Arabic Text of Daniel and its Affinities,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Ernst Liebmann</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Liebmann</foaf:surname>
+                  <foaf:givenname>Ernst</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1115,7 +1286,10 @@ Arabic Text of Daniel and its Affinities,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Stephen M. Reynolds</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Reynolds</foaf:surname>
+                  <foaf:givenname>Stephen M.</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1135,7 +1309,10 @@ Zechariah,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Viktor Ryssel</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Ryssel</foaf:surname>
+                  <foaf:givenname>Viktor</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1155,7 +1332,10 @@ in der Pariser und Londoner Polyglotte,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Juan Pedro Monferrer-Sala</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Monferrer-Sala</foaf:surname>
+                  <foaf:givenname>Juan Pedro</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1176,10 +1356,16 @@ Escorial,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Juan Pedro Monferrer-Sala</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Monferrer-Sala</foaf:surname>
+                  <foaf:givenname>Juan Pedro</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
             <rdf:li>
-               <foaf:Person>Ana Giner-Nicolás</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Giner-Nicolás</foaf:surname>
+                  <foaf:givenname>Ana</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1200,7 +1386,10 @@ cantares’ contenida en el Vat. ar. 448. Edición y precisiones codicológicas,
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>N. Pigulevskaya</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Pigulevskaya</foaf:surname>
+                  <foaf:givenname>N.</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1219,7 +1408,10 @@ cantares’ contenida en el Vat. ar. 448. Edición y precisiones codicológicas,
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Bruno Violet</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Violet</foaf:surname>
+                  <foaf:givenname>Bruno</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1238,7 +1430,10 @@ cantares’ contenida en el Vat. ar. 448. Edición y precisiones codicológicas,
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Douglas Morton Dunlop</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Dunlop</foaf:surname>
+                  <foaf:givenname>Douglas Morton</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1257,7 +1452,10 @@ cantares’ contenida en el Vat. ar. 448. Edición y precisiones codicológicas,
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Pieter Sj. van Koningsveld</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Koningsveld</foaf:surname>
+                  <foaf:givenname>Pieter Sj. van</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1277,7 +1475,10 @@ the Psalms,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Adolf Neubauer</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Neubauer</foaf:surname>
+                  <foaf:givenname>Adolf</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1296,7 +1497,10 @@ the Psalms,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Kenneth Ewing Bailey</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Bailey</foaf:surname>
+                  <foaf:givenname>Kenneth Ewing</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1316,7 +1520,10 @@ of Mt. Sinai and the Task of Exegesis (with special focus on Sinai Ar. 72 and Lu
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Anton Baumstark</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Baumstark</foaf:surname>
+                  <foaf:givenname>Anton</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1335,7 +1542,10 @@ of Mt. Sinai and the Task of Exegesis (with special focus on Sinai Ar. 72 and Lu
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Heinrich Leberecht Fleischer</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Fleischer</foaf:surname>
+                  <foaf:givenname>Heinrich Leberecht</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1354,7 +1564,10 @@ of Mt. Sinai and the Task of Exegesis (with special focus on Sinai Ar. 72 and Lu
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Sebastià Janeras</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Janeras</foaf:surname>
+                  <foaf:givenname>Sebastià</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1374,7 +1587,10 @@ Orientalia </dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Juan Pedro Monferrer-Sala</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Monferrer-Sala</foaf:surname>
+                  <foaf:givenname>Juan Pedro</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1395,7 +1611,10 @@ de la columna árabe del BnF Suppl. grec. 911 (año 1043),</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Juan Pedro Monferrer-Sala</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Monferrer-Sala</foaf:surname>
+                  <foaf:givenname>Juan Pedro</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1415,8 +1634,10 @@ oriental inédito en Toledo (Ms. 387 de la BRC–LM),</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Juan Pedro
-Monferrer-Sala</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Monferrer-Sala</foaf:surname>
+                  <foaf:givenname>Juan Pedro</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1437,7 +1658,10 @@ University of Ireland </dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Peter le Page Renouf</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Renouf</foaf:surname>
+                  <foaf:givenname>Peter le Page</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1457,7 +1681,10 @@ the Gospels,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Curt Peters</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Peters</foaf:surname>
+                  <foaf:givenname>Curt</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1477,8 +1704,10 @@ Evangelientextes,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Curt
-Peters</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Peters</foaf:surname>
+                  <foaf:givenname>Curt</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1497,7 +1726,10 @@ Peters</foaf:Person>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Ángel Urbán</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Urbán</foaf:surname>
+                  <foaf:givenname>Ángel</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1518,7 +1750,10 @@ Christiana Orientalia </dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Ángel Urbán</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Urbán</foaf:surname>
+                  <foaf:givenname>Ángel</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1537,10 +1772,16 @@ Christiana Orientalia </dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Ángel Urban</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Urban</foaf:surname>
+                  <foaf:givenname>Ángel</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
             <rdf:li>
-               <foaf:Person>Juan Pedro Monferrer-Sala</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Monferrer-Sala</foaf:surname>
+                  <foaf:givenname>Juan Pedro</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1560,7 +1801,10 @@ in a Greek-Arabic Ms BnF Suppl. grec 911 (A.D. 1043),</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Jean Valentin</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Valentin</foaf:surname>
+                  <foaf:givenname>Jean</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1581,7 +1825,10 @@ Traducteurs, réviseurs, types textuels,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Tjitze Baarda</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Baarda</foaf:surname>
+                  <foaf:givenname>Tjitze</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1601,7 +1848,10 @@ Arabic Diatesseron,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Louis Cheikho</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Cheikho</foaf:surname>
+                  <foaf:givenname>Louis</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1622,7 +1872,10 @@ Society of Biblical Literature</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>A. J. B. Higgins</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Higgins</foaf:surname>
+                  <foaf:givenname>A. J. B.</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1641,7 +1894,10 @@ Society of Biblical Literature</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Peter Joosse</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Joosse</foaf:surname>
+                  <foaf:givenname>Peter</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1662,7 +1918,10 @@ Syrian</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Louis Leloir</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Leloir</foaf:surname>
+                  <foaf:givenname>Louis</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1682,7 +1941,10 @@ Theological Studies</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>A. J. B. Higgins</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Higgins</foaf:surname>
+                  <foaf:givenname>A. J. B.</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1701,7 +1963,10 @@ Theological Studies</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Samir Khalil Samir</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Samir</foaf:surname>
+                  <foaf:givenname>Samir Khalil</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1720,7 +1985,10 @@ Theological Studies</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Abullif Wadi</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Wadi</foaf:surname>
+                  <foaf:givenname>Abullif</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1740,7 +2008,10 @@ quattro Vangeli</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Siegmund Fraenkel</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Fraenkel</foaf:surname>
+                  <foaf:givenname>Siegmund</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1759,10 +2030,16 @@ quattro Vangeli</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Karl Vollers</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Vollers</foaf:surname>
+                  <foaf:givenname>Karl</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
             <rdf:li>
-               <foaf:Person>Ernst von Dobschütz</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Dobschütz</foaf:surname>
+                  <foaf:givenname>Ernst von</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1782,7 +2059,10 @@ spanisch-arabisches Evangelienfragment,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Franz Taeuschner</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Taeuschner</foaf:surname>
+                  <foaf:givenname>Franz</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1803,7 +2083,10 @@ Isaak Velasquez nach der Münchener Handschrift Cod. Arab. 238,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>John Gwynn</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Gwynn</foaf:surname>
+                  <foaf:givenname>John</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1823,7 +2106,10 @@ Ussher,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>John Gwynn</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Gwynn</foaf:surname>
+                  <foaf:givenname>John</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1842,7 +2128,10 @@ Ussher,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Harvey Staal</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Staal</foaf:surname>
+                  <foaf:givenname>Harvey</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1862,7 +2151,10 @@ the Hebrews according to Mt Sinai Arabic manuscript 151,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Juan Pedro Monteferrer-Sala</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Monteferrer-Sala</foaf:surname>
+                  <foaf:givenname>Juan Pedro</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1882,7 +2174,10 @@ de Santiago’, guardado en la Biblioteca de El Escorial,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Georg Graf</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Graf</foaf:surname>
+                  <foaf:givenname>Georg</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1902,7 +2197,10 @@ de Santiago’, guardado en la Biblioteca de El Escorial,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Juan Pedro Monferrer-Sala</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Monferrer-Sala</foaf:surname>
+                  <foaf:givenname>Juan Pedro</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1922,7 +2220,10 @@ el Cod. Ár. 1625 de la Biblioteca de El Escorial: Estudio y edición,</dc:title
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Alessandro Bausi</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Bausi</foaf:surname>
+                  <foaf:givenname>Alessandro</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1942,7 +2243,10 @@ of Paul,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Eduard Bratke</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Bratke</foaf:surname>
+                  <foaf:givenname>Eduard</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1962,7 +2266,10 @@ Arabisch-Äthiopischen Petrusapokalypse,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>O. H. E. Burmester</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Burmester</foaf:surname>
+                  <foaf:givenname>O. H. E.</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -1982,7 +2289,10 @@ l’Orient </dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Adriana Drint</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Drint</foaf:surname>
+                  <foaf:givenname>Adriana</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2002,7 +2312,10 @@ IV Ezra and the Apocalypse of Baruch in Ms Mount Sinai Arabic 589,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Adriana Drint</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Drint</foaf:surname>
+                  <foaf:givenname>Adriana</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2022,7 +2335,10 @@ Ezra: characteristics and relevance of an early Arabic translation of the Syriac
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Michel van Esbroek</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Esbroek</foaf:surname>
+                  <foaf:givenname>Michel van</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2042,7 +2358,10 @@ Ezra: characteristics and relevance of an early Arabic translation of the Syriac
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Michel van Esbroek</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Esbroek</foaf:surname>
+                  <foaf:givenname>Michel van</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2061,7 +2380,10 @@ Ezra: characteristics and relevance of an early Arabic translation of the Syriac
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Basil Thomas Alfred Evetts</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Evetts</foaf:surname>
+                  <foaf:givenname>Basil Thomas Alfred</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2082,7 +2404,10 @@ Gesellschaft der Wissenschaften zu Göttingen</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Heinrich Ewald</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Ewald</foaf:surname>
+                  <foaf:givenname>Heinrich</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2103,7 +2428,10 @@ Wissenschaften zu Göttingen</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Heinrich Ewald</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Ewald</foaf:surname>
+                  <foaf:givenname>Heinrich</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2122,7 +2450,10 @@ Wissenschaften zu Göttingen</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Paul Féghali</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Féghali</foaf:surname>
+                  <foaf:givenname>Paul</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2141,7 +2472,10 @@ Wissenschaften zu Göttingen</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Gérard Garitte</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Garitte</foaf:surname>
+                  <foaf:givenname>Gérard</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2160,7 +2494,10 @@ Wissenschaften zu Göttingen</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Ignazio Guidi</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Guidi</foaf:surname>
+                  <foaf:givenname>Ignazio</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2180,7 +2517,10 @@ etiopici,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Josef Hofmann</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Hofmann</foaf:surname>
+                  <foaf:givenname>Josef</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2202,7 +2542,10 @@ Johannes-Apokalypse,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Pieter Sj. van Koningsveld</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Koningsveld</foaf:surname>
+                  <foaf:givenname>Pieter Sj. van</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2222,10 +2565,13 @@ the Apocalypse of Baruch,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>van Lantschoot</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Lantschoot</foaf:surname>
+                  <foaf:givenname>van</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
             <rdf:li>
-               <foaf:Person>A</foaf:Person>
+               <foaf:Person/>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2244,7 +2590,10 @@ the Apocalypse of Baruch,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Fred Leemhuis</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Leemhuis</foaf:surname>
+                  <foaf:givenname>Fred</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2264,7 +2613,10 @@ Text?,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Oscar Löfgren</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Löfgren</foaf:surname>
+                  <foaf:givenname>Oscar</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2283,7 +2635,10 @@ Text?,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Frédéric Macler</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Macler</foaf:surname>
+                  <foaf:givenname>Frédéric</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2303,7 +2658,10 @@ Studies</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Alphonse Mingana</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Mingana</foaf:surname>
+                  <foaf:givenname>Alphonse</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2322,10 +2680,16 @@ Studies</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Juan Pedro Monferrer-Sala</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Monferrer-Sala</foaf:surname>
+                  <foaf:givenname>Juan Pedro</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
             <rdf:li>
-               <foaf:Person>Philippe Roisse</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Roisse</foaf:surname>
+                  <foaf:givenname>Philippe</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2345,7 +2709,10 @@ la ‘Epístola apócrifa a los Laodicenses,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Paul Peeters</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Peeters</foaf:surname>
+                  <foaf:givenname>Paul</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2366,7 +2733,10 @@ Theologie</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Heinrich Steiner</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Steiner</foaf:surname>
+                  <foaf:givenname>Heinrich</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2386,7 +2756,10 @@ Berichtigungen zu der arabischen Uebersetzung,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Michael E. Stone</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Stone</foaf:surname>
+                  <foaf:givenname>Michael E.</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2406,7 +2779,10 @@ Book of Ezra,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Michel Hayek</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Hayek</foaf:surname>
+                  <foaf:givenname>Michel</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2426,7 +2802,10 @@ langue arabe, ou deux apologies du christianisme</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>James Rendel Harris</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Harris</foaf:surname>
+                  <foaf:givenname>James Rendel</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2445,7 +2824,10 @@ langue arabe, ou deux apologies du christianisme</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Samir Khalil Samir</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Samir</foaf:surname>
+                  <foaf:givenname>Samir Khalil</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2464,7 +2846,10 @@ langue arabe, ou deux apologies du christianisme</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Arthur S. Tritton</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Tritton</foaf:surname>
+                  <foaf:givenname>Arthur S.</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2483,7 +2868,10 @@ langue arabe, ou deux apologies du christianisme</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Robert Caspar</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Caspar</foaf:surname>
+                  <foaf:givenname>Robert</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2503,7 +2891,10 @@ I et le calife al-Mahdî (II/VIII siècle): ‘Mohammed a suivi la voie des prop
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Louis Cheikho </foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Cheikho</foaf:surname>
+                  <foaf:givenname>Louis</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2524,10 +2915,16 @@ Caliph al-Mahdi and Timothy the Patriarch,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Joshua Blau</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Blau</foaf:surname>
+                  <foaf:givenname>Joshua</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
             <rdf:li>
-               <foaf:Person>Simon Hopkins</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Hopkins</foaf:surname>
+                  <foaf:givenname>Simon</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2547,7 +2944,10 @@ Translations to Judeo-Arabic,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Joshua Blau</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Blau</foaf:surname>
+                  <foaf:givenname>Joshua</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2567,7 +2967,10 @@ Pentateuch,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Joshua Blau</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Blau</foaf:surname>
+                  <foaf:givenname>Joshua</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2587,7 +2990,10 @@ Targum Rasag la-Torah,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Anton Baumstark</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Baumstark</foaf:surname>
+                  <foaf:givenname>Anton</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2608,7 +3014,10 @@ Wissenschaften</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Daniel Hanneberg</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Hanneberg</foaf:surname>
+                  <foaf:givenname>Daniel</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2628,7 +3037,10 @@ arabische Psalmenübersetzung des R. Saadia Gaon: mit einer Probe,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Michael Wechsler</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Wechsler</foaf:surname>
+                  <foaf:givenname>Michael</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2649,7 +3061,10 @@ Proverbs 31:1–9,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Theodor Willem Jan Juynboll</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Juynboll</foaf:surname>
+                  <foaf:givenname>Theodor Willem Jan</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2669,7 +3084,10 @@ de scholiis, quae codicibus Parisiensibus n. 2 et 4 adscripta sunt,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>José Ramon Díaz</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Díaz</foaf:surname>
+                  <foaf:givenname>José Ramon</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2689,7 +3107,10 @@ Relations</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Martin Accad</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Accad</foaf:surname>
+                  <foaf:givenname>Martin</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2709,7 +3130,10 @@ Fourteenth Centuries: An Exegetical Inventorial Table,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Wilhelm Bacher</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Bacher</foaf:surname>
+                  <foaf:givenname>Wilhelm</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2728,7 +3152,10 @@ Fourteenth Centuries: An Exegetical Inventorial Table,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Carl Brockelmann</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Brockelmann</foaf:surname>
+                  <foaf:givenname>Carl</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2747,7 +3174,10 @@ Fourteenth Centuries: An Exegetical Inventorial Table,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Jean-Louis Déclais</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Déclais</foaf:surname>
+                  <foaf:givenname>Jean-Louis</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2766,7 +3196,10 @@ Fourteenth Centuries: An Exegetical Inventorial Table,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>G. Gabrieli</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Gabrieli</foaf:surname>
+                  <foaf:givenname>G.</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2786,7 +3219,10 @@ Vangelo?,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Ignaz Goldziher</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Goldziher</foaf:surname>
+                  <foaf:givenname>Ignaz</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2805,7 +3241,10 @@ Vangelo?,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Ignaz Goldziher</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Goldziher</foaf:surname>
+                  <foaf:givenname>Ignaz</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2824,7 +3263,10 @@ Vangelo?,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Ignaz Goldziher</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Goldziher</foaf:surname>
+                  <foaf:givenname>Ignaz</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2843,7 +3285,10 @@ Vangelo?,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Mohammad al-Sadeq Hussein</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Hussein</foaf:surname>
+                  <foaf:givenname>Mohammad al-Sadeq</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2863,7 +3308,10 @@ traduits en arabe,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Raif Georges Khoury</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Khoury</foaf:surname>
+                  <foaf:givenname>Raif Georges</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2884,7 +3332,10 @@ l'Hégire,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Juan Pedro Monferrer-Sala</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Monferrer-Sala</foaf:surname>
+                  <foaf:givenname>Juan Pedro</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2904,7 +3355,10 @@ versions árabes del Padre Nuestro,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Martin Schreiner</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Schreiner</foaf:surname>
+                  <foaf:givenname>Martin</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2925,7 +3379,10 @@ and Ireland</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Baron Hammer Purgstall</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Purgstall</foaf:surname>
+                  <foaf:givenname>Baron Hammer</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2945,7 +3402,10 @@ the Gospels into Arabic,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Wilhelm Bacher</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Bacher</foaf:surname>
+                  <foaf:givenname>Wilhelm</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2964,7 +3424,10 @@ the Gospels into Arabic,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Ceza Qasim-Draz</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Qasim-Draz</foaf:surname>
+                  <foaf:givenname>Ceza</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -2984,7 +3447,10 @@ Intellectual and Cultural Studies</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Juan Pedro Monferrer-Sala</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Monferrer-Sala</foaf:surname>
+                  <foaf:givenname>Juan Pedro</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -3003,7 +3469,10 @@ Intellectual and Cultural Studies</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Raimund Köbert</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Köbert</foaf:surname>
+                  <foaf:givenname>Raimund</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -3022,7 +3491,10 @@ Intellectual and Cultural Studies</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Constance E. Padwick</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Padwick</foaf:surname>
+                  <foaf:givenname>Constance E.</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -3042,7 +3514,10 @@ Unsolved Problem,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Walid Saleh</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Saleh</foaf:surname>
+                  <foaf:givenname>Walid</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -3063,7 +3538,10 @@ the Bible to Interpret the Qurʾān,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Arthur Jeffery</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Jeffery</foaf:surname>
+                  <foaf:givenname>Arthur</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
@@ -3082,7 +3560,10 @@ the Bible to Interpret the Qurʾān,</dc:title>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
-               <foaf:Person>Louis Cheikho</foaf:Person>
+               <foaf:Person>
+                  <foaf:surname>Cheikho</foaf:surname>
+                  <foaf:givenname>Louis</foaf:givenname>
+               </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
