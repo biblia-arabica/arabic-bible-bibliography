@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:z="http://www.zotero.org/namespaces/export#" xmlns:dcterms="http://purl.org/dc/terms/"
+xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:bib="http://purl.org/net/biblio#"
+xmlns:vcard="http://nwalsh.com/rdf/vCard#" xmlns:foaf="http://xmlns.com/foaf/0.1/"
+xmlns:link="http://purl.org/rss/1.0/modules/link/"
+xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+<bib:BookSection>
+<z:itemType>bookSection</z:itemType>
+<bib:authors>
+<rdf:Seq>
+<rdf:li>
+<foaf:Person>
+<foaf:surname>Adang</foaf:surname>
+<foaf:givenname>Camilla</foaf:givenname>
+</foaf:Person>
+</rdf:li>
+</rdf:Seq>
+</bib:authors>
+<dc:title>Torah</dc:title>
+<dcterms:isPartOf>
+<bib:Book>
+<dc:title>Encyclopaedia of the Qur’ān</dc:title>
+</bib:Book>
+</dcterms:isPartOf>
+<bib:editors>
+<rdf:Seq>
+<rdf:li>
+<foaf:Person>
+<foaf:surname>McAuliffe</foaf:surname>
+<foaf:givenname>Jane Dammen</foaf:givenname>
+</foaf:Person>
+</rdf:li>
+</rdf:Seq>
+</bib:editors>
+<dc:publisher>
+<foaf:Organization>
+<vcard:adr>
+<vcard:Address>
+<vcard:locality>Leiden</vcard:locality>
+</vcard:Address>
+</vcard:adr>
+<foaf:name>Brill</foaf:name>
+</foaf:Organization>
+</dc:publisher>
+<dc:date>2006</dc:date>
+<prism:volume>5</prism:volume>
+<bib:pages>300-311</bib:pages>
+</bib:BookSection>
+<bib:Book>
+<z:itemType>book</z:itemType>
+<bib:authors>
+<rdf:Seq>
+<rdf:li>
+<foaf:Person>
+<foaf:surname>Adler</foaf:surname>
+<foaf:givenname>Jacob Georg Christian</foaf:givenname>
+</foaf:Person>
+</rdf:li>
+</rdf:Seq>
+</bib:authors>
+<dc:title>Bibliotheca Biblica. Serenissimi Würtenbergensium Ducis olim Lorckiana</dc:title>
+<dc:publisher>
+<foaf:Organization>
+<vcard:adr>
+<vcard:Address>
+<vcard:locality>Altona</vcard:locality>
+</vcard:Address>
+</vcard:adr>
+<foaf:name>J.D.A. Eckhardt</foaf:name>
+</foaf:Organization>
+</dc:publisher>
+<dc:date>1787</dc:date>
+<!-- pages do not transfer to book. Will have to put these in as note -->
+<bib:pages>1-13 and 134-139</bib:pages>
+<dcterms:abstract>Lists printed Arabic versions and Polyglot Bibles.</dcterms:abstract>
+</bib:Book>
+<bib:BookSection>
+<z:itemType>bookSection</z:itemType>
+<bib:authors>
+<rdf:Seq>
+<rdf:li>
+<foaf:Person>
+<foaf:surname>Aßfalg</foaf:surname>
+<foaf:givenname>Julius</foaf:givenname>
+</foaf:Person>
+</rdf:li>
+</rdf:Seq>
+</bib:authors>
+<dc:title>Arabische christliche Literatur</dc:title>
+<dcterms:isPartOf>
+<bib:Book>
+<dc:title>Die Religion in Geschichte und Gegenwart: Handwörterbuch für Theologie und
+Religionswissenschaft</dc:title>
+</bib:Book>
+</dcterms:isPartOf>
+<prism:edition>3.</prism:edition>
+<dc:publisher>
+<foaf:Organization>
+<vcard:adr>
+<vcard:Address>
+<vcard:locality>Tübingen</vcard:locality>
+</vcard:Address>
+</vcard:adr>
+<foaf:name>Mohr Siebeck</foaf:name>
+</foaf:Organization>
+</dc:publisher>
+<dc:date>1957</dc:date>
+<prism:volume>1</prism:volume>
+<bib:pages>cols. 529-531</bib:pages>
+</bib:BookSection>
+<bib:BookSection>
+<z:itemType>bookSection</z:itemType>
+<bib:authors>
+<rdf:Seq>
+<rdf:li>
+<foaf:Person>
+<foaf:surname>Aßfalg</foaf:surname>
+<foaf:givenname>Julius</foaf:givenname>
+</foaf:Person>
+</rdf:li>
+</rdf:Seq>
+</bib:authors>
+<dc:title>Arabische B[ibelübersetzungen]</dc:title>
+<dcterms:isPartOf>
+<bib:Book>
+<dc:title>Lexikon für Theologie und Kirche</dc:title>
+</bib:Book>
+</dcterms:isPartOf>
+<prism:edition>2.</prism:edition>
+<dc:publisher>
+<foaf:Organization>
+<vcard:adr>
+<vcard:Address>
+<vcard:locality>Freiburg im Breisgau</vcard:locality>
+</vcard:Address>
+</vcard:adr>
+<foaf:name>Herder &amp; Co. GMBH Verlagsbuchhandlung</foaf:name>
+</foaf:Organization>
+</dc:publisher>
+<dc:date>1958</dc:date>
+<prism:volume>2</prism:volume>
+<bib:pages>cols. 394-396</bib:pages>
+<dcterms:abstract>An update of Baumstark [#].</dcterms:abstract>
+<dc:subject>MS: Sinai, Ar. 154</dc:subject>
+<dc:subject>MS: Sinai, Ar. 155</dc:subject>
+<dc:subject>MS: Vatican, BAV, Ar. 28</dc:subject>
+<dc:subject>MS: Vatican, BAV, Ar. 468</dc:subject>
+<dc:subject>MS: Vatican, BAV, Ar. 605</dc:subject>
+<dc:subject>MS: Munich, Staatsbibliothek, Ar. 234</dc:subject>
+<dc:subject>MS: London, BL, Or. 2291</dc:subject>
+</bib:BookSection>
+<bib:Article>
+<z:itemType>journalArticle</z:itemType>
+<bib:authors>
+<rdf:Seq>
+<rdf:li>
+<foaf:Person>
+<foaf:surname>Bailey</foaf:surname>
+<foaf:givenname>Kenneth E.</foaf:givenname>
+</foaf:Person>
+</rdf:li>
+</rdf:Seq>
+</bib:authors>
+<dc:title>The Arabic Versions of the Bible [in Arabic]</dc:title>
+<dcterms:isPartOf>
+<bib:Journal>
+<!-- extra space seems to have been normalized -->
+<dc:title>Near East Theological Review </dc:title>
+<prism:volume>5</prism:volume>
+</bib:Journal>
+</dcterms:isPartOf>
+<dc:date>1982</dc:date>
+<bib:pages>155-243</bib:pages>
+<!-- line breaks are preserved -->
+<dcterms:abstract>Presents the
+most famous manuscripts and historic printings.</dcterms:abstract>
+<dc:subject>MS: Vatican, BAV, Ar. 13</dc:subject>
+<dc:subject>MS: Vatican, BAV, Ar. 71</dc:subject>
+<dc:subject>MS: Vatican, BAV, Ar. 95</dc:subject>
+<dc:subject>MS: Vatican, BAV, Copt. 9</dc:subject>
+<dc:subject>MS: Sinai, Ar. 151</dc:subject>
+</bib:Article>
+</rdf:RDF>

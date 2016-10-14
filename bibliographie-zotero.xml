@@ -1,0 +1,3093 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:tei="http://www.tei-c.org/ns/1.0"
+         xmlns:syriaca="http://syriaca.org"
+         xmlns:saxon="http://saxon.sf.net/"
+         xmlns:functx="http://www.functx.com"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:z="http://www.zotero.org/namespaces/export#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:bib="http://purl.org/net/biblio#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+         xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+         xmlns:link="http://purl.org/rss/1.0/modules/link/">
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title> Oasis: Rivista semestrale della Fondazione
+Internazionale/ Oasis: A Biannual Journal of the Oasis International Foundation</dc:title>
+            <prism:volume>17</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Camilla Adang</foaf:Person>
+            </rdf:li>
+            <rdf:li>
+               <foaf:Person>Sabine Schmidtke</foaf:Person>
+            </rdf:li>
+            <rdf:li>
+               <foaf:Person>Meira Polliack</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>The Task of Translation |
+L’onore della traduzione | La tâche de la traduction,</dc:title>
+      <bib:pages>90-97</bib:pages>
+      <dc:date>2013</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Near East Theological Review </dc:title>
+            <prism:volume>5</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Kenneth Ewing Bailey</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>The Arabic Versions of the Bible</dc:title>
+      <bib:pages>155-243</bib:pages>
+      <dc:date>1982</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>A Dictionary
+of the Bible</dc:title>
+            <prism:volume>1</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Francis Crawford Burkitt</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Arabic Versions,</dc:title>
+      <bib:pages>136-138</bib:pages>
+      <dc:date>1898-1904</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Speculum
+</dc:title>
+            <prism:volume>1</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Henry Snyder Gehman</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>The Arabic Bible in Spain,</dc:title>
+      <bib:pages>219-221</bib:pages>
+      <dc:date>1926</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Neue Zeitschrift für Missionswissenschaft </dc:title>
+            <prism:volume>17.3</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Joseph Henninger</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Arabische Bibelübersetzungen vom Frühmittelalter bis zum
+19. Jahrhundert,</dc:title>
+      <bib:pages>201-233</bib:pages>
+      <dc:date>1961</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Revista del
+Instituto Egipcio de Estudios Islámicos </dc:title>
+            <prism:volume>31</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Juan Pedro Monferrer-Sala</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>De nuevo sobre Iohannes Hispalensis y la primera
+versión árabe de las ‘Sagradas Escrituras’ izada en al-Andalus.</dc:title>
+      <bib:pages>77-105</bib:pages>
+      <dc:date>1999</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title> in Sijon</dc:title>
+            <prism:volume>6</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Carmel Sant</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Il-Bibbja bil-Malti,</dc:title>
+      <bib:pages>27-31</bib:pages>
+      <dc:date>1973</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>The Bible Translator </dc:title>
+            <prism:volume>62</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Heather J. Sharkey</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Sudanese Arabic Bibles and the politics of
+translation,</dc:title>
+      <bib:pages>37-45</bib:pages>
+      <dc:date>2011</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Catholic Biblical Quarterly</dc:title>
+            <prism:volume>23</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Peter Paul Saydon</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Philological and Textual Notes to the Maltese Translation
+of the Old Testament,</dc:title>
+      <bib:pages>249-257</bib:pages>
+      <dc:date>1961</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Lehen
+il-Malti</dc:title>
+            <prism:volume>15</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Peter Paul Saydon</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>il-Kotba Mqaddsa bil-Malti,</dc:title>
+      <bib:pages>37-44</bib:pages>
+      <dc:date>1945</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>The
+Bible Translator </dc:title>
+            <prism:volume>6</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>John Arthur Thompson</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>The Major Arabic Bibles,</dc:title>
+      <bib:pages>1-12, 51-55, 98-106, 146-150</bib:pages>
+      <dc:date>1955</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Cahiers de Civilisation Médiévale</dc:title>
+            <prism:volume>14</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Gérard Troupeau</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>La Littérature Arabe Chrétienne,</dc:title>
+      <bib:pages>1-20</bib:pages>
+      <bib:pages>12</bib:pages>
+      <dc:date>1971</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Australian Journal of Linguistics</dc:title>
+            <prism:volume>19</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Tamar Zewi</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Incomplete Topicalization in Biblical and modern Hebrew and
+several Arabic Bible Translations,</dc:title>
+      <bib:pages>241-253</bib:pages>
+      <dc:date>1999</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Biblia Sacra Polyglotta </dc:title>
+            <prism:volume>1</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Brian Walton</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>De Lingua Arabica et Scripturae Versionibus Arabicis,</dc:title>
+      <bib:pages>93-97
+</bib:pages>
+      <bib:pages>633-664</bib:pages>
+      <bib:pages>35 of original</bib:pages>
+      <dc:date>1657</dc:date>
+      <dc:date>1777</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>JAOS </dc:title>
+            <prism:volume>11</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Isaac H. Hall</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>The Arabic Bible of Drs. Eli Smith and Cornelius V. A. Van
+Dyck,</dc:title>
+      <bib:pages>276-286</bib:pages>
+      <dc:date>1882-85</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>The Muslim World </dc:title>
+            <prism:volume>65</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Issa A. Saliba</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>The Bible in Arabic: The 19th Century Protestant
+Translation,</dc:title>
+      <bib:pages>254-263</bib:pages>
+      <dc:date>1975</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>ZDMG</dc:title>
+            <prism:volume>10</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Eli Smith</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Aus einem Briefe von Dr. E. Smith,</dc:title>
+      <bib:pages>813-814</bib:pages>
+      <dc:date>1856</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>The American Journal of Theology</dc:title>
+            <prism:volume>23</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Charles Cutler Torrey</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>A New Edition of the Arabic Bible,</dc:title>
+      <bib:pages>105-107</bib:pages>
+      <dc:date>1919</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title> Pe‘amim</dc:title>
+            <prism:volume>83</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Aharon Yaffe</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>The American Mission Bible Translation to Arabic,</dc:title>
+      <bib:pages>57-69 </bib:pages>
+      <dc:date>2000</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>,” al-Mashriq</dc:title>
+            <prism:volume>1881</prism:volume>
+            <prism:volume>65</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Sāmī al-Khūrī</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>“al-shaykh Ibrāhīm al-Yazījī wa-l-maṭbaʿa al-kāthūlīkiyya baina
+1872 wa-</dc:title>
+      <bib:pages>127-128</bib:pages>
+      <dc:date>1991</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title> Byzantinische Zeitschrift</dc:title>
+            <prism:volume>30</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Thomas Walker Arnold</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>The pictorial art of the
+Jacobite and Nestorian Churches,</dc:title>
+      <bib:pages>595-597</bib:pages>
+      <dc:date>1929</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title> OC, III. Serie,</dc:title>
+            <prism:volume>13</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Anton Baumstark</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Erbe christlicher Antike im
+Bildschmuck eines arabischen Evangelienbuches des 14. Jahrhunderts,</dc:title>
+      <bib:pages>1-38</bib:pages>
+      <dc:date>1938</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title> OC, III. Serie,</dc:title>
+            <prism:volume>9</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Anton Baumstark</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Frühchristlich-syrische
+Prophetenillustrationen durch stehende Autorenbilder” ,</dc:title>
+      <bib:pages>99-104</bib:pages>
+      <dc:date>1934</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title> OC, NS</dc:title>
+            <prism:volume>1</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Anton Baumstark</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Ein apokryphes Herrenleben in
+mesopotamischer Federzeichnung vom Jahre 1299,</dc:title>
+      <bib:pages>249-271</bib:pages>
+      <dc:date>1911</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title> Römische Quartalschrift</dc:title>
+            <prism:volume>20</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Anton Baumstark</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Palaestinensia,</dc:title>
+      <bib:pages>123-149</bib:pages>
+      <dc:date>1906</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title> Manuscripta Orientalia</dc:title>
+            <prism:volume>4</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Nadezhda Brovenko</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>An Arabic Bible in the
+Collection of the St. Petersburg Branch of the Institute of Oriental Studies: The Problems of
+Restoration,</dc:title>
+      <bib:pages>35-38</bib:pages>
+      <dc:date>1998</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title> Jahrbuch der Kunsthistorischen Sammlungen in Wien</dc:title>
+            <prism:volume>11</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Kurt Holter</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Die Galen-Handschrift und Makamen des
+Ḥarīrī der Wiener Nationalbibliothek,</dc:title>
+      <bib:pages>1-48</bib:pages>
+      <dc:date>1937</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title> Zeitschrift für
+Bücherfreunde</dc:title>
+            <prism:volume>12</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Ernst von Horstkamp-Sydow</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Seltenheiten und
+Kuriositäten der Kaiserlichen Öffentlichen Bibliothek zu St. Petersburg,</dc:title>
+      <bib:pages>26-34</bib:pages>
+      <dc:date>1908-09</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title> Syria</dc:title>
+            <prism:volume>44</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Jules Leroy</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Un évangélaire arabe de la
+bibliothèque de Topqapi Sarayi à décor byzantin et islamique,</dc:title>
+      <bib:pages>119-130</bib:pages>
+      <dc:date>1967</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title> Art Bulletin</dc:title>
+            <prism:volume>65</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Robert S. Nelson</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>An Icon at Mt. Sinai and
+Christian Painting in Muslim Egypt During the Thirteenth and Fourteenth Centuries,</dc:title>
+      <bib:pages>201-218</bib:pages>
+      <dc:date>1983</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Imperatorskoe
+Russkoe Archeologicheskoe Obshchestvo, Zapiski</dc:title>
+            <prism:volume>7</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Egor Kuz</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Miniatiury apokrificheskago
+arabskago evangeliia detstva Khrista Lavrencianskoi bibloteki vo Florencii [The miniatures of the
+apocryphal Infancy Gospel at the Laurentian Library Florence],</dc:title>
+      <bib:pages>57-71</bib:pages>
+      <dc:date>1895</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title> Cahiers Archeologiques</dc:title>
+            <prism:volume>33</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Lucy-Anne Hunt</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Christian-Muslim Relations in
+Painting in Egypt of the Twelfth to mid-Thirteenth Centuries,</dc:title>
+      <bib:pages>111-155</bib:pages>
+      <dc:date>1985</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Israel
+Oriental Studies</dc:title>
+            <prism:volume>12</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Pieter Sj. van Koningsveld</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Andalusian-Arabic
+Manuscripts from Christian Spain: A comparative Intercultural Approach,</dc:title>
+      <bib:pages>75-110</bib:pages>
+      <dc:date>1992</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Journal of American Oriental Society</dc:title>
+            <prism:volume>110</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>James W. Pollock</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Two Christian Arabic manuscripts
+in the Bryn Mawr Library,</dc:title>
+      <bib:pages>330-331</bib:pages>
+      <dc:date>1990</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Manuscripta Orientalia </dc:title>
+            <prism:volume>6</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Valery Vyacheslavoich Polosin</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>The Arabic Bible:
+Turning Again to an Old Controversy,</dc:title>
+      <bib:pages>3-18</bib:pages>
+      <dc:date>2000</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Manuscripta Orientalia
+</dc:title>
+            <prism:volume>3</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Valery Vyacheslavoich Polosin</foaf:Person>
+            </rdf:li>
+            <rdf:li>
+               <foaf:Person>Efim Rezvan</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>To
+the CD-ROM Edition of the St. Petersburg Arabic Bible,</dc:title>
+      <bib:pages>40-47</bib:pages>
+      <dc:date>1997</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Byzantinisch-neugriechiesche Jahrbücher</dc:title>
+            <prism:volume>2</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>H. Stock,</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Die Magierminiaturen des Cod. Med. Pal.
+387, die literarische Ueberlieferung und der ‘Orientalische Typus,</dc:title>
+      <bib:pages>329-343</bib:pages>
+      <dc:date>1921</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Ars Islamica</dc:title>
+            <prism:volume>10</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Kurt Weitzmann</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>An Early Copto-Arabic Miniature in Leningrad,</dc:title>
+      <bib:pages>119-134</bib:pages>
+      <dc:date>1943</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Le Muséon </dc:title>
+            <prism:volume>86</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Joshua Blau</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Sind uns Reste arabischer Bibelübersetzungen aus vorislamischer
+Zeit erhalten geblieben?,</dc:title>
+      <bib:pages>67-72</bib:pages>
+      <dc:date>1973</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Zeitschrift für Semitistik und verwandte
+Gebiete </dc:title>
+            <prism:volume>7</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Sebastian Euringer</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Zum Stammbaum der arabischen
+Bibelhandschriften Vat. ar. 468 and 467,</dc:title>
+      <bib:pages>259-273</bib:pages>
+      <dc:date>1929</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Christianskij Vostok</dc:title>
+            <prism:volume>6</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Ignatii Krachkovskii</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>On a translation of the Bible into Arabic to the time
+of Caliph al-Maʾmūn,</dc:title>
+      <bib:pages>189-196</bib:pages>
+      <dc:date>1918</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Collectanea Christiana
+Orientalia</dc:title>
+            <prism:volume>10</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Ibrahim Bassal</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Syriac-Aramaic words in an early
+Christian Arabic copy of the Pentateuch (Ms Sin Ar. 2),</dc:title>
+      <bib:pages>17-36</bib:pages>
+      <dc:date>2013</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Mashriq </dc:title>
+            <prism:volume>21</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Louis Cheikho</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Deux anciens manuscrits arabes du Pentateuche,</dc:title>
+      <bib:pages>141-147</bib:pages>
+      <dc:date>1923</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Melilah </dc:title>
+            <prism:volume>5</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Raffael Edelmann</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>משהו על התרגומים הערבים של חמשה
+חומשי תורה</dc:title>
+      <bib:pages>45-50</bib:pages>
+      <dc:date>1955</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Biblische Zeitschrift </dc:title>
+            <prism:volume>15</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Georg Graf</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Die arabische Pentateuchübersetzung in
+cod. Monac. arab. 234,</dc:title>
+      <bib:pages>97-115,
+193-212, 291-330</bib:pages>
+      <dc:date>1919-21</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>OS</dc:title>
+            <prism:volume>64</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Joseph Nasrallah</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Deux versions Melchites
+partielles de la Bible du IXe et du Xe siècles,</dc:title>
+      <bib:pages>203-206</bib:pages>
+      <dc:date>1980</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>ZDMG</dc:title>
+            <prism:volume>32</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Eberhard Nestle</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Jacob von Edessa über den Schem
+hammephorasch und andere Gottesnamen. Ein Beitrag zur Geschichte des Tetragrammaton,</dc:title>
+      <bib:pages>465-508</bib:pages>
+      <dc:date>1878</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>al-Manārah</dc:title>
+            <prism:volume>27</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Michael Breydy</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Les commentaires bibliques de Marcos Ibn Qanbar
+n'appartiennent ni à St. Ephrem ni au patrimoine liturgique des Maronites,</dc:title>
+      <bib:pages>367-380</bib:pages>
+      <dc:date>1986</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Biblica</dc:title>
+            <prism:volume>23</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Georg Graf</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Ein Arabischer Pentateuchkommentar des 12. Jahrhunderts,</dc:title>
+      <bib:pages>113-138</bib:pages>
+      <dc:date>1924</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Biblica</dc:title>
+            <prism:volume>2</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Alberto Vaccari</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Le versioni arabe dei Profeti,</dc:title>
+      <bib:pages>401-424</bib:pages>
+      <dc:date>1921</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Biblica</dc:title>
+            <prism:volume>3</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Alberto Vaccari</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Le versioni arabe dei Profeti,</dc:title>
+      <bib:pages>401-423</bib:pages>
+      <dc:date>1922</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>JBL</dc:title>
+            <prism:volume>48</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Henry Snyder Gehman</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>The Hesychian Influence in the
+Versions of Daniel,</dc:title>
+      <bib:pages>329-332</bib:pages>
+      <dc:date>1929</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>JBL </dc:title>
+            <prism:volume>44</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Henry Snyder Gehman</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>The ‘Polyglot’
+Arabic Text of Daniel and its Affinities,</dc:title>
+      <bib:pages>327-352</bib:pages>
+      <dc:date>1925</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>ZAW</dc:title>
+            <prism:volume>22</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Ernst Liebmann</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Der Text Jes. 24-27,</dc:title>
+      <bib:pages>14-24</bib:pages>
+      <dc:date>1902</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Muslim World</dc:title>
+            <prism:volume>33</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Stephen M. Reynolds</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Al-Alam's version of
+Zechariah,</dc:title>
+      <bib:pages>273-275</bib:pages>
+      <dc:date>1943</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title> </dc:title>
+            <prism:volume>5</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Viktor Ryssel</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Die arabische Übersetzung des Micha
+in der Pariser und Londoner Polyglotte,</dc:title>
+      <bib:pages>102-138</bib:pages>
+      <dc:date>1885</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Anaquel de Estudios Árabes </dc:title>
+            <prism:volume>9</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Juan Pedro Monferrer-Sala</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>‘Cantar de los cantares’ en árabe. Edición,
+traducción y estudio de la versión oriental conservada en la Biblioteca del Monasterio de El
+Escorial,</dc:title>
+      <bib:pages>65-83</bib:pages>
+      <dc:date>1998</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Alfinge</dc:title>
+            <prism:volume>12</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Juan Pedro Monferrer-Sala</foaf:Person>
+            </rdf:li>
+            <rdf:li>
+               <foaf:Person>Ana Giner-Nicolás</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Una versión mutilada del ‘Cantar de los
+cantares’ contenida en el Vat. ar. 448. Edición y precisiones codicológicas,</dc:title>
+      <bib:pages>211-218</bib:pages>
+      <dc:date>2000</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Palestinskii Sbornik
+</dc:title>
+            <prism:volume>63</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>N. Pigulevskaya</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Greko-siro-arabskaya rukopis’ IX veka</dc:title>
+      <bib:pages>59-90</bib:pages>
+      <dc:date>1954</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Orientalistische Literaturzeitung </dc:title>
+            <prism:volume>4</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Bruno Violet</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Ein zweisprachiges Psalmenfragment aus Damascus,</dc:title>
+      <bib:pages>384-403, 425-441, 475-488</bib:pages>
+      <dc:date>1901</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>al-Andalus</dc:title>
+            <prism:volume>20</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Douglas Morton Dunlop</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Sobre Ḥafṣ ibn Albar al-Qūṭī al-Qurṭubī,</dc:title>
+      <bib:pages>211-213</bib:pages>
+      <dc:date>1955</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Bibliotheca Orientalis</dc:title>
+            <prism:volume>30</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Pieter Sj. van Koningsveld</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>New Quotations from Ḥafṣ al-Qūṭī’s translation of
+the Psalms,</dc:title>
+      <bib:pages>315</bib:pages>
+      <dc:date>1973</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>REJ</dc:title>
+            <prism:volume>30</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Adolf Neubauer</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Hafs al-Qouti,</dc:title>
+      <bib:pages>65-69</bib:pages>
+      <dc:date>1895</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Near East Theological Review </dc:title>
+            <prism:volume>12</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Kenneth Ewing Bailey</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Early Arabic New Testaments
+of Mt. Sinai and the Task of Exegesis (with special focus on Sinai Ar. 72 and Luke 15),</dc:title>
+      <bib:pages>45-62</bib:pages>
+      <dc:date>1991</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Byzantinische Zeitschrift</dc:title>
+            <prism:volume>30</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Anton Baumstark</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Die sonntägliche Evangelienlesung im vorbyzantinischen Jerusalem,</dc:title>
+      <bib:pages>350-359</bib:pages>
+      <dc:date>1929-1930</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>ZDMG</dc:title>
+            <prism:volume>15</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Heinrich Leberecht Fleischer</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Vermischtes,</dc:title>
+      <bib:pages>381-396</bib:pages>
+      <dc:date>1861</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Collectanea Christiana Orientalia</dc:title>
+            <prism:volume>2</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Sebastià Janeras</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Les lectionnaires de l’ancienne liturgie de Jérusalem,</dc:title>
+      <bib:pages>71-92</bib:pages>
+      <dc:date>2005</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Collectanea Christiana
+Orientalia </dc:title>
+            <prism:volume>2</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Juan Pedro Monferrer-Sala</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Descripción lingüística
+de la columna árabe del BnF Suppl. grec. 911 (año 1043),</dc:title>
+      <bib:pages>93-139</bib:pages>
+      <dc:date>2005</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Anaquel de Estudios Árabes
+</dc:title>
+            <prism:volume>16</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Juan Pedro Monferrer-Sala</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Un evangelio árabe
+oriental inédito en Toledo (Ms. 387 de la BRC–LM),</dc:title>
+      <bib:pages>173-192</bib:pages>
+      <dc:date>2005</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Ḥikma</dc:title>
+            <prism:volume>2</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Juan Pedro
+Monferrer-Sala</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Por dentro de la traducción. Exégesis de un pasaje del Suppl. grec. 911 de la
+BnF (año 1043),</dc:title>
+      <bib:pages>107-117</bib:pages>
+      <dc:date>2003</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Atlantis: or Register of Literature and Science of the Catholic
+University of Ireland </dc:title>
+            <prism:volume>4</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Peter le Page Renouf</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>On the Supposed Latin Origin of the Arabic Version of
+the Gospels,</dc:title>
+      <bib:pages>241-259</bib:pages>
+      <dc:date>1863</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>OC</dc:title>
+            <prism:volume>11</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Curt Peters</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Proben eines bedeutsamen arabischen
+Evangelientextes,</dc:title>
+      <bib:pages>188-211</bib:pages>
+      <dc:date>1936</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Acta Orientalia </dc:title>
+            <prism:volume>10</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Curt
+Peters</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Von arabischen Evangelientexten in Handschriften des Universitäts-Bibliothek Leiden,</dc:title>
+      <bib:pages>131-135</bib:pages>
+      <dc:date>1940</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Collectanea Christiana Orientalia </dc:title>
+            <prism:volume>2</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Ángel Urbán</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Los intercambios vocálicos en un
+manuscrito greco-árabe inédito del Evangelio de Lucas (BnF, Suppl. gr. 911, s. XI),</dc:title>
+      <bib:pages>245-272</bib:pages>
+      <dc:date>2005</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Collectanea
+Christiana Orientalia </dc:title>
+            <prism:volume>1</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Ángel Urbán</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Nomina sacra </dc:title>
+      <bib:pages>247-275</bib:pages>
+      <dc:date>2003</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Parole de l’Orient</dc:title>
+            <prism:volume>30</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Ángel Urban</foaf:Person>
+            </rdf:li>
+            <rdf:li>
+               <foaf:Person>Juan Pedro Monferrer-Sala</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Some regards on Textual Criticism
+in a Greek-Arabic Ms BnF Suppl. grec 911 (A.D. 1043),</dc:title>
+      <bib:pages>79-102</bib:pages>
+      <dc:date>2005</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Le Muséon </dc:title>
+            <prism:volume>116</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Jean Valentin</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Les évangéliaires arabes de la bibliothèque du Monastère
+Ste-Catherine (Mont Sinaï): Essai de classification d'après l'étude d'un chapitre (Matth. 28):
+Traducteurs, réviseurs, types textuels,</dc:title>
+      <bib:pages>415-477</bib:pages>
+      <dc:date>2003</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title> Novum Testamentum</dc:title>
+            <prism:volume>17</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Tjitze Baarda</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>An Archaic Element in the
+Arabic Diatesseron,</dc:title>
+      <bib:pages>151-155</bib:pages>
+      <dc:date>1975</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Journal Asiatique</dc:title>
+            <prism:volume>10</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Louis Cheikho</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Lettre au sujet de l’auteur de la version arabe du
+Diatessaron,</dc:title>
+      <bib:pages>301-307</bib:pages>
+      <dc:date>1897</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>The
+Society of Biblical Literature</dc:title>
+            <prism:volume>103</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>A. J. B. Higgins</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Luke 1-2 in Tatian's Diatessaron,</dc:title>
+      <bib:pages>193-222</bib:pages>
+      <dc:date>1994</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title> OC</dc:title>
+            <prism:volume>83</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Peter Joosse</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>An
+Introduction to the Arabic Diatessaron,</dc:title>
+      <bib:pages>72-129</bib:pages>
+      <dc:date>1999</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>L’Orient
+Syrian</dc:title>
+            <prism:volume>1</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Louis Leloir</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Le Diatessaron de Tatien,</dc:title>
+      <bib:pages>216-227</bib:pages>
+      <dc:date>1956</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>The Journal of
+Theological Studies</dc:title>
+            <prism:volume>44</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>A. J. B. Higgins</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Ibn al-ʿAssāl</dc:title>
+      <bib:pages>73-75</bib:pages>
+      <dc:date>1943</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>PdO </dc:title>
+            <prism:volume>19</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Samir Khalil Samir</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>La version arabe des évangiles d’al As‘ad ibn al-‘Assāl,</dc:title>
+      <bib:pages>441-451</bib:pages>
+      <dc:date>1994</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Studia Orientalia Christiana Collectanea </dc:title>
+            <prism:volume>39</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Abullif Wadi</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Al-Asʿad Ibn al-ʿAssal, Introduzioni alla traduzione dei
+quattro Vangeli</dc:title>
+      <bib:pages>47-120</bib:pages>
+      <dc:date>2006</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>ZDMG</dc:title>
+            <prism:volume>57</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Siegmund Fraenkel</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Zu dem spanisch-arabischen Evangelienfragment,</dc:title>
+      <bib:pages>201</bib:pages>
+      <dc:date>1903</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>ZDMG </dc:title>
+            <prism:volume>56</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Karl Vollers</foaf:Person>
+            </rdf:li>
+            <rdf:li>
+               <foaf:Person>Ernst von Dobschütz</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Ein
+spanisch-arabisches Evangelienfragment,</dc:title>
+      <bib:pages>633-648</bib:pages>
+      <dc:date>1902</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title> OC</dc:title>
+            <prism:volume>10</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Franz Taeuschner</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Die
+monarchianistischen Prologe zu den vier Evangelien in der spanisch-arabischen Bibelübersetzung des
+Isaak Velasquez nach der Münchener Handschrift Cod. Arab. 238,</dc:title>
+      <bib:pages>80-99</bib:pages>
+      <dc:date>1935</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Transactions of the Royal Irish Academy</dc:title>
+            <prism:volume>27</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>John Gwynn</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>On a Syriac MS. belonging to the Collection of the Archbishop
+Ussher,</dc:title>
+      <bib:pages>269-315</bib:pages>
+      <dc:date>1877-1886</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Hermathena</dc:title>
+            <prism:volume>16</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>John Gwynn</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>The Older Syriac Version of the four minor Catholic Epistles,</dc:title>
+      <bib:pages>281-314</bib:pages>
+      <dc:date>1890</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Reformed Review</dc:title>
+            <prism:volume>21</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Harvey Staal</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Pauline authorship of the Epistle to
+the Hebrews according to Mt Sinai Arabic manuscript 151,</dc:title>
+      <bib:pages>51-53</bib:pages>
+      <dc:date>1967</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Qurṭuba </dc:title>
+            <prism:volume>3</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Juan Pedro Monteferrer-Sala</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Un fragment inédito y olvidado de la ‘Epístola
+de Santiago’, guardado en la Biblioteca de El Escorial,</dc:title>
+      <bib:pages>231-233 </bib:pages>
+      <dc:date>1998</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Biblica </dc:title>
+            <prism:volume>10</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Georg Graf</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Arabische Übersetzungen der Apokalypse,</dc:title>
+      <bib:pages>170-194</bib:pages>
+      <dc:date>1929</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Qurṭuba
+</dc:title>
+            <prism:volume>5</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Juan Pedro Monferrer-Sala</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Una versión árabe del ‘Apocalipsis’ contenida en
+el Cod. Ár. 1625 de la Biblioteca de El Escorial: Estudio y edición,</dc:title>
+      <bib:pages>147-180</bib:pages>
+      <dc:date>2000</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Parole de l’Orient</dc:title>
+            <prism:volume>24</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Alessandro Bausi</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>A first evaluation of the arabic version of the apocalypse
+of Paul,</dc:title>
+      <bib:pages>131-164</bib:pages>
+      <dc:date>1999</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>ZWT</dc:title>
+            <prism:volume>1</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Eduard Bratke</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Handschriftliche Überlieferung und Bruchstücke der
+Arabisch-Äthiopischen Petrusapokalypse,</dc:title>
+      <bib:pages>493</bib:pages>
+      <dc:date>1893</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Studia Orientalia Christiana Collectanea</dc:title>
+            <prism:volume>7</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>O. H. E. Burmester</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Fragments from an Arabic Version of Two Infancy Gospels,</dc:title>
+      <bib:pages>105-114</bib:pages>
+      <dc:date>1962</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Parole de
+l’Orient </dc:title>
+            <prism:volume>24</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Adriana Drint</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Some Notes on the Arabic Versions of
+IV Ezra and the Apocalypse of Baruch in Ms Mount Sinai Arabic 589,</dc:title>
+      <bib:pages>165-178</bib:pages>
+      <dc:date>1999</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Orientalia Christiana Periodica</dc:title>
+            <prism:volume>58</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Adriana Drint</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>The Mount Sinai Arabic version of IV
+Ezra: characteristics and relevance of an early Arabic translation of the Syriac text,</dc:title>
+      <bib:pages>401-422</bib:pages>
+      <dc:date>1992</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>OC</dc:title>
+            <prism:volume>79</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Michel van Esbroek</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Les Actes syriaques de Philippe
+à Carthagène en version arabe,</dc:title>
+      <bib:pages>120-145</bib:pages>
+      <dc:date>1995</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Parole de l’Orient</dc:title>
+            <prism:volume>14</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Michel van Esbroek</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Les actes apocryphes de Thomas en version arabe,</dc:title>
+      <bib:pages>11-77</bib:pages>
+      <dc:date>1987</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>PO</dc:title>
+            <prism:volume>1</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Basil Thomas Alfred Evetts</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>History of the Patriarchs of the Coptic Church of
+Alexandria,</dc:title>
+      <bib:pages>120-134</bib:pages>
+      <dc:date>1904</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Abhandlungen der königlichen
+Gesellschaft der Wissenschaften zu Göttingen</dc:title>
+            <prism:volume>11</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Heinrich Ewald</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Das vierte Ezrabuch nach seinem Zeitalter, seinen arabischen
+Übersetzungen und einer neuen Wiederherstellung,</dc:title>
+      <bib:pages>133-230</bib:pages>
+      <dc:date>1864</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Nachrichten von der G.A. Universität und der königlichen Gesellschaft der
+Wissenschaften zu Göttingen</dc:title>
+            <prism:volume>11</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Heinrich Ewald</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Über eine arabische Bearbeitung des vierten Ezrabuches,</dc:title>
+      <bib:pages>163-180</bib:pages>
+      <dc:date>1863</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Parole de l’Orient </dc:title>
+            <prism:volume>30</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Paul Féghali</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Versions arabes de Ben Sira,</dc:title>
+      <bib:pages>65-78</bib:pages>
+      <dc:date>2005</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Le Muséon</dc:title>
+            <prism:volume>86</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Gérard Garitte</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>'Protoevangelii Iacobi' Versio arabica antiquior,</dc:title>
+      <bib:pages>377-396</bib:pages>
+      <dc:date>1973</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Giornale della Società Asiatica Italiana</dc:title>
+            <prism:volume>2</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Ignazio Guidi</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Gli atti apocrifi degli Apostoli nei testi copti, arabi ed
+etiopici,</dc:title>
+      <bib:pages>1-66</bib:pages>
+      <dc:date>1888</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>OC</dc:title>
+            <prism:volume>43</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Josef Hofmann</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Der arabische Einfluß in der äthiopischen Übersetzung der
+Johannes-Apokalypse,</dc:title>
+      <bib:pages>24-53 und 44 </bib:pages>
+      <bib:pages>25-39</bib:pages>
+      <dc:date>1959</dc:date>
+      <dc:date>1960</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Journal for the Study of Judaism</dc:title>
+            <prism:volume>6</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Pieter Sj. van Koningsveld</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>An Arabic Manuscript of
+the Apocalypse of Baruch,</dc:title>
+      <bib:pages>205-207</bib:pages>
+      <dc:date>1975</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Le Muséon</dc:title>
+            <prism:volume>68</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>van Lantschoot</foaf:Person>
+            </rdf:li>
+            <rdf:li>
+               <foaf:Person>A</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>,</dc:title>
+      <bib:pages>219-233</bib:pages>
+      <dc:date>1955</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Journal for the Study of Pseudoepigrapha</dc:title>
+            <prism:volume>4</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Fred Leemhuis</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>The Arabic Version of the Apocalypse of Baruch: a Christian
+Text?,</dc:title>
+      <bib:pages>19-26</bib:pages>
+      <dc:date>1989</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Orientalia Suecena</dc:title>
+            <prism:volume>10</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Oscar Löfgren</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Ergänzendes zum apokryphen Johannesevangelium,</dc:title>
+      <bib:pages>137-144</bib:pages>
+      <dc:date>1961</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Revue de l’Histoire des Religions</dc:title>
+            <prism:volume>49</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Frédéric Macler</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>L’apocalypse arabe de Daniel publiée, traduit et annotée</dc:title>
+      <bib:pages>265-305</bib:pages>
+      <dc:date>1904</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Woodnbrook
+Studies</dc:title>
+            <prism:volume>3</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Alphonse Mingana</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>The Apocalypse of Peter,</dc:title>
+      <bib:pages>93-152, 209-282, 349-407</bib:pages>
+      <dc:date>1931</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Qurṭuba </dc:title>
+            <prism:volume>3</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Juan Pedro Monferrer-Sala</foaf:Person>
+            </rdf:li>
+            <rdf:li>
+               <foaf:Person>Philippe Roisse</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Una versión árabe andalusí de
+la ‘Epístola apócrifa a los Laodicenses,</dc:title>
+      <bib:pages>113-151</bib:pages>
+      <dc:date>1998</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Analecta Bollandiana</dc:title>
+            <prism:volume>41</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Paul Peeters</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>A propos de la vie de Jésus en arabe. Le manuscrit de J.
+Gollius,</dc:title>
+      <bib:pages>132-134</bib:pages>
+      <dc:date>1923</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Zeitschrift für wissenschaftliche
+Theologie</dc:title>
+            <prism:volume>11</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Heinrich Steiner</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Der arabische Auszug des ‘Propheten Ezra’, nebst
+Berichtigungen zu der arabischen Uebersetzung,</dc:title>
+      <bib:pages>396-433</bib:pages>
+      <dc:date>1868</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Journal for the Study of Judaism</dc:title>
+            <prism:volume>8</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Michael E. Stone</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>A New Manuscript of the Syro-Arabic Version of the Fourth
+Book of Ezra,</dc:title>
+      <bib:pages>183-184</bib:pages>
+      <dc:date>1977</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Islamochristiana</dc:title>
+            <prism:volume>2</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Michel Hayek</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>ʿAmmār al-Baṣrī. La première Somme de théologie chrétienne en
+langue arabe, ou deux apologies du christianisme</dc:title>
+      <bib:pages>69-133</bib:pages>
+      <dc:date>1976</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>American Journal of Theology</dc:title>
+            <prism:volume>5</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>James Rendel Harris</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>A tract on the triune nature of God</dc:title>
+      <bib:pages>75-86</bib:pages>
+      <dc:date>1901</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Orientalia Christiana Periodica</dc:title>
+            <prism:volume>49</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Samir Khalil Samir</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Notes sur les citations bibliques chez Abū Qurrah,</dc:title>
+      <bib:pages>184-91</bib:pages>
+      <dc:date>1983</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Journal of Theological Studies</dc:title>
+            <prism:volume>34</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Arthur S. Tritton</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>The Bible Text of Theodore Abu Qurrah,</dc:title>
+      <bib:pages>52-54</bib:pages>
+      <dc:date>1933</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Islamochristiana</dc:title>
+            <prism:volume>3</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Robert Caspar</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Les versiones arabes du dialogue entre le patriarche Timothée
+I et le calife al-Mahdî (II/VIII siècle): ‘Mohammed a suivi la voie des prophètes’,</dc:title>
+      <bib:pages>107-175</bib:pages>
+      <dc:date>1977</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Al-Machriq</dc:title>
+            <prism:volume>19</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Louis Cheikho </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>The religious dialogue which occured between the
+Caliph al-Mahdi and Timothy the Patriarch,</dc:title>
+      <bib:pages>359-374</bib:pages>
+      <bib:pages>408-418</bib:pages>
+      <dc:date>1921</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title> (in Hebrew) Peʿamim</dc:title>
+            <prism:volume>83</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Joshua Blau</foaf:Person>
+            </rdf:li>
+            <rdf:li>
+               <foaf:Person>Simon Hopkins</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Ancient Bible
+Translations to Judeo-Arabic,</dc:title>
+      <bib:pages>4-14</bib:pages>
+      <dc:date>2000</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Oriens </dc:title>
+            <prism:volume>36</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Joshua Blau</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>The Linguistic Character of Saadia Gaon’s Translation of the
+Pentateuch,</dc:title>
+      <bib:pages>1-9</bib:pages>
+      <dc:date>2001</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Leshonenu </dc:title>
+            <prism:volume>51</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Joshua Blau</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Iyyunim bi-Ketav Yad Mizrahi mi-Tehilat ha-Meʾah ha-11 shel
+Targum Rasag la-Torah,</dc:title>
+      <bib:pages>111</bib:pages>
+      <dc:date>1998</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Orientalistische Literaturzeitung</dc:title>
+            <prism:volume>46</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Anton Baumstark</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Minbar = Thron, und älteste
+arabische Psaltertexte,</dc:title>
+      <bib:pages>337-341</bib:pages>
+      <dc:date>1943</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Abhandlungen der Philosophisch-philologischen Klasse der Königlich-Bayerischen Akademie der
+Wissenschaften</dc:title>
+            <prism:volume>3</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Daniel Hanneberg</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Ueber die in einer Münchener Handschrift aufbehaltene
+arabische Psalmenübersetzung des R. Saadia Gaon: mit einer Probe,</dc:title>
+      <bib:pages>354-410</bib:pages>
+      <dc:date>1841</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Revue des études juives </dc:title>
+            <prism:volume>161</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Michael Wechsler</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>The Arabic Translation and Commentary of Yefet ben ‘Eli on
+Proverbs 31:1–9,</dc:title>
+      <bib:pages>393-409</bib:pages>
+      <dc:date>2002</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Orientalia
+</dc:title>
+            <prism:volume>2</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Theodor Willem Jan Juynboll</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Commentatio de versione Arabico-Samaritana, et
+de scholiis, quae codicibus Parisiensibus n. 2 et 4 adscripta sunt,</dc:title>
+      <bib:pages>113-157</bib:pages>
+      <dc:date>1846</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Estudios Bíblicos</dc:title>
+            <prism:volume>18</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>José Ramon Díaz</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Las versions árabes del Pentateuco entre los Samaritanos,</dc:title>
+      <bib:pages>299-301</bib:pages>
+      <dc:date>1959</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Islam and Christian-Muslim
+Relations</dc:title>
+            <prism:volume>14</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Martin Accad</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>The Gospels in the Muslim Discourse of the Ninth to the
+Fourteenth Centuries: An Exegetical Inventorial Table,</dc:title>
+      <bib:pages>67-91, 205-220, 337-352, 459-479</bib:pages>
+      <dc:date>2003</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>ZAW </dc:title>
+            <prism:volume>15</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Wilhelm Bacher</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Muhammedanische Weissagungen im Alten Testament,</dc:title>
+      <bib:pages>309-311</bib:pages>
+      <dc:date>1895</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>ZAW </dc:title>
+            <prism:volume>15</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Carl Brockelmann</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Muhammedanische Weissagungen im Alten Testament,</dc:title>
+      <bib:pages>135-42</bib:pages>
+      <dc:date>1895</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>MIDEO</dc:title>
+            <prism:volume>28</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Jean-Louis Déclais</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>L'Évangile selon Wahb ibn Munabbih et sa famille,</dc:title>
+      <bib:pages>127-203</bib:pages>
+      <dc:date>2010</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Studi Religiosi </dc:title>
+            <prism:volume>1</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>G. Gabrieli</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Ebbero gli Arabi prima di Maometto una versione araba dell
+Vangelo?,</dc:title>
+      <bib:pages>355-357</bib:pages>
+      <dc:date>1901</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>ZDMG</dc:title>
+            <prism:volume>31</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Ignaz Goldziher</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Matth. VII, 5 in der muhammedanischen Literatur,</dc:title>
+      <bib:pages>765-767</bib:pages>
+      <dc:date>1877</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>ZDMG</dc:title>
+            <prism:volume>32</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Ignaz Goldziher</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Ueber muhammedanische Polemik gegen Ahl al-Kitāb,</dc:title>
+      <bib:pages>341-378</bib:pages>
+      <dc:date>1878</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>ZAW</dc:title>
+            <prism:volume>13</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Ignaz Goldziher</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Ueber muhammedanische Polemik gegen Ahl al-Kitāb,</dc:title>
+      <bib:pages>315-321</bib:pages>
+      <dc:date>1893</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>MIDEO</dc:title>
+            <prism:volume>5</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Mohammad al-Sadeq Hussein</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Les Psaumes 1 a 25
+traduits en arabe,</dc:title>
+      <bib:pages>1-46</bib:pages>
+      <dc:date>1958</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Bulletin d'études orientales </dc:title>
+            <prism:volume>29</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Raif Georges Khoury</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Quelques Réflexions sur les
+citations de la Bible dans les premières générations islamique du et du deuxième siècle de
+l'Hégire,</dc:title>
+      <bib:pages>269-278</bib:pages>
+      <dc:date>1989</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Al-Qanṭara</dc:title>
+            <prism:volume>21</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Juan Pedro Monferrer-Sala</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Yā-btā l-lāḏī fī l-samāwāt... Notas sobre antiguas
+versions árabes del Padre Nuestro,</dc:title>
+      <bib:pages>277-305</bib:pages>
+      <dc:date>2000</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>ZDMG</dc:title>
+            <prism:volume>42</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Martin Schreiner</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Zur Geschiche der Polemik zwischen Juden und
+Muhammedanern,</dc:title>
+      <bib:pages>591-675</bib:pages>
+      <dc:date>1888</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Journal of the Royal Asiatic Society of Great Britain
+and Ireland</dc:title>
+            <prism:volume>4</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Baron Hammer Purgstall</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>On the First Translation of
+the Gospels into Arabic,</dc:title>
+      <bib:pages>172-173</bib:pages>
+      <dc:date>1837</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>JQR</dc:title>
+            <prism:volume>13</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Wilhelm Bacher</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Zu der von al-Gahiz citierten Übersetzung aus Jesaja,</dc:title>
+      <bib:pages>542-544</bib:pages>
+      <dc:date>1901</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Alif</dc:title>
+            <prism:volume>7</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Ceza Qasim-Draz</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Text Generation and the Saturation of Meaning</dc:title>
+      <bib:pages>30-81</bib:pages>
+      <dc:date>1988</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Journal of Middle Eastern and North African
+Intellectual and Cultural Studies</dc:title>
+            <prism:volume>1.1</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Juan Pedro Monferrer-Sala</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Fiṣal</dc:title>
+      <bib:pages>127-146</bib:pages>
+      <dc:date>2002</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Die Araber in der Alten Welt</dc:title>
+            <prism:volume>2</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Raimund Köbert</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Die älteste arabische Genesisübersetzung,</dc:title>
+      <bib:pages>333-343</bib:pages>
+      <dc:date>1965</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Moslem World</dc:title>
+            <prism:volume>29</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Constance E. Padwick</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Al-Ghazali and the Arabic Versions of the Gospels: An
+Unsolved Problem,</dc:title>
+      <bib:pages>130-40</bib:pages>
+      <dc:date>1939</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Speculum</dc:title>
+            <prism:volume>83</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Walid Saleh</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>A Fifteenth Century Muslim: Al-Biqāʿī and his Defense of Using
+the Bible to Interpret the Qurʾān,</dc:title>
+      <bib:pages>629-654</bib:pages>
+      <dc:date>2008</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Muslim World
+</dc:title>
+            <prism:volume>15</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Arthur Jeffery</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>A Muslim Torah from India,</dc:title>
+      <bib:pages>232-239</bib:pages>
+      <dc:date>1925</dc:date>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Journal>
+            <dc:title>Mélanges de la Faculté Orientale</dc:title>
+            <prism:volume>4</prism:volume>
+         </bib:Journal>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Louis Cheikho</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <dc:title>Quelques Legendes Islamiques Apocryphes,</dc:title>
+      <bib:pages>33-56</bib:pages>
+      <dc:date>1910</dc:date>
+   </bib:Article>
+</rdf:RDF>
