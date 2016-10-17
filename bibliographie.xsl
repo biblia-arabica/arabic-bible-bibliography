@@ -60,16 +60,26 @@
     <xsl:template match="/tei:TEI/tei:text/tei:body">
         <xsl:result-document href="{$filename}" format="xml">
             <rdf:RDF>
-                <xsl:for-each select="tei:p[starts-with(.,'[#]')]">
+                <xsl:variable name="entry-with-titles">
+                    <xsl:for-each select="tei:p">
+                        <entry>
+                            <xsl:apply-templates/>
+                        </entry>
+                    </xsl:for-each>
+                </xsl:variable>
+                
+                
 <!--                    Tried to use the following to process abstracts, but haven't figured out how to properly capture them yet. -->
 <!--                <xsl:for-each select="tei:p[starts-with(.,'[#]') or preceding-sibling::*[starts-with(.,'[#]')]]">-->
-                    <xsl:variable name="entry-with-titles">
+                    
+                    <!--<xsl:variable name="entry-with-titles">
                         <entry>
                                 <xsl:apply-templates/>
                         </entry>
-                    </xsl:variable>
+                    </xsl:variable>-->
                     <xsl:variable name="entry">
-                        <xsl:for-each select="$entry-with-titles/entry">
+                        <xsl:for-each select="$entry-with-titles/entry[starts-with(.,'[#]')]">
+                            <xsl:variable name="mss" select="following-sibling::*[matches(.,'^\s*[Mm][Ss][Ss]')][1]"/>
                             <entry>
                             <xsl:for-each select="node()">
                                     <xsl:choose>
@@ -216,29 +226,55 @@
                                         </xsl:otherwise>
                                     </xsl:choose>   
                             </xsl:for-each>
+                                <xsl:if test="$mss">
+                                    <xsl:variable name="mss-preface-regex" select="'^\s*[Mm][Ss][Ss]\.?:?'"/>
+                                    <xsl:variable name="mss-city-regex" select="'(\s*(.*?),)?'"/>
+                                    <xsl:variable name="mss-collection-regex" select="'(\s*(.*?),)?'"/>
+                                    <xsl:variable name="mss-item-regex" select="'(\s*(.*?))(;|(\.?$))+?'"/>
+                                    <xsl:variable name="mss-multi-preface-regex" select="';(\sand)?'"/>
+                                    <xsl:analyze-string select="$mss" regex="{concat($mss-multi-preface-regex,$mss-city-regex, $mss-collection-regex,$mss-item-regex)}">
+                                        <xsl:matching-substring>
+                                            <xsl:for-each select="tokenize(regex-group(7),'(,(\sand\s)?)|\sand\s')">
+                                                <dc:subject><xsl:value-of select="concat('MS: ',regex-group(3),' ',regex-group(5),' ',.)"/></dc:subject>
+                                            </xsl:for-each>
+                                        </xsl:matching-substring>
+                                        <!-- second part of this is not processing correctly -->
+                                        <xsl:non-matching-substring>
+                                            <xsl:analyze-string select="." regex="{concat($mss-preface-regex,$mss-city-regex, $mss-collection-regex,$mss-item-regex)}">
+                                                <xsl:matching-substring>
+                                                    <xsl:for-each select="tokenize(regex-group(6),'(,(\sand\s)?)|\sand\s')">
+                                                        <dc:subject><xsl:value-of select="concat('MS: ',regex-group(2),' ',regex-group(4),' ',.)"/></dc:subject>
+                                                    </xsl:for-each>
+                                                </xsl:matching-substring>
+                                            </xsl:analyze-string>
+                                        </xsl:non-matching-substring>
+                                    </xsl:analyze-string>
+                                    
+                                </xsl:if>
                             </entry>
                         </xsl:for-each>
                     </xsl:variable>
                     
                     <!-- Journal format.  -->
-                    <xsl:if test="$entry/entry[count(dc:title)=2 and prism:volume and dc:date and bib:pages and not(bib:editors|dc:publisher)]">
+                    <xsl:for-each select="$entry/entry[count(dc:title)=2 and prism:volume and dc:date and bib:pages and not(bib:editors|dc:publisher)]">
                         <bib:Article>
                             <z:itemType>journalArticle</z:itemType>
                             <dcterms:isPartOf>
                                 <bib:Journal>
-                                    <xsl:copy-of select="$entry/entry/dc:title[2]"/>
-                                    <xsl:copy-of select="$entry/entry/prism:volume"/>
+                                    <xsl:copy-of select="dc:title[2]"/>
+                                    <xsl:copy-of select="prism:volume"/>
                                 </bib:Journal>
                             </dcterms:isPartOf>
-                            <xsl:copy-of select="$entry/entry/bib:authors"/>
-                            <xsl:copy-of select="$entry/entry/dc:title[1]"/>
-                            <xsl:copy-of select="$entry/entry/bib:pages"/>
-                            <xsl:copy-of select="$entry/entry/dc:date"/>
-                            <xsl:copy-of select="$entry/entry/dcterms:abstract"/>
+                            <xsl:copy-of select="bib:authors"/>
+                            <xsl:copy-of select="dc:title[1]"/>
+                            <xsl:copy-of select="bib:pages"/>
+                            <xsl:copy-of select="dc:date"/>
+                            <xsl:copy-of select="dcterms:abstract"/>
+                            <xsl:copy-of select="dc:subject"/>
                         </bib:Article>
-                    </xsl:if>
+                    </xsl:for-each>
                     
-                </xsl:for-each>
+                
             </rdf:RDF>
         </xsl:result-document>
     </xsl:template>
