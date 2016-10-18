@@ -78,8 +78,9 @@
                         </entry>
                     </xsl:variable>-->
                     <xsl:variable name="entry">
-                        <xsl:for-each select="$entry-with-titles/entry[starts-with(.,'[#]')]">
+                        <xsl:for-each select="$entry-with-titles/entry[matches(.,'^\s*\[#\]')]">
                             <xsl:variable name="mss" select="following-sibling::*[matches(.,'^\s*[Mm][Ss][Ss]')][1]"/>
+                            <xsl:variable name="abstract" select="following-sibling::*[not(matches(.,'^\s*[Mm][Ss][Ss]') or matches(.,'^\s*\[#\]'))][1]"/>
                             <entry>
                             <xsl:for-each select="node()">
                                     <xsl:choose>
@@ -245,6 +246,9 @@
                                         </xsl:analyze-string>
                                     </xsl:for-each>
                                     
+                                </xsl:if>
+                                <xsl:if test="$abstract">
+                                    <dcterms:abstract><xsl:value-of select="$abstract"/></dcterms:abstract>
                                 </xsl:if>
                             </entry>
                         </xsl:for-each>
