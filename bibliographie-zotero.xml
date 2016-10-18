@@ -47,7 +47,9 @@ Internazionale/ Oasis: A Biannual Journal of the Oasis International Foundation<
 L’onore della traduzione | La tâche de la traduction,</dc:title>
       <bib:pages>90-97</bib:pages>
       <dc:date>2013</dc:date>
-      <dc:subject>MS: Istanbul Süleymaniye Carullah 3</dc:subject>
+      <dc:subject>MS: Berlin, Staatsbibliothek, Violet fragment</dc:subject>
+      <dc:subject>MS: Istanbul, Süleymaniye, Carullah 3</dc:subject>
+      <dc:subject>MS: Cambridge, CUL, T-S Ar. 1a.55.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -70,7 +72,11 @@ L’onore della traduzione | La tâche de la traduction,</dc:title>
       <dc:title>The Arabic Versions of the Bible</dc:title>
       <bib:pages>155-243</bib:pages>
       <dc:date>1982</dc:date>
-      <dc:subject>MS: Sinai  Ar. 151. Ar. 151</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 13</dc:subject>
+      <dc:subject>MS: Vatican, BAV,  Ar. 71</dc:subject>
+      <dc:subject>MS: Vatican, BAV,  Ar. 95</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Copt. 9</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 151., Ar. 151.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -94,8 +100,17 @@ of the Bible</dc:title>
       <dc:title>Arabic Versions,</dc:title>
       <bib:pages>136-138</bib:pages>
       <dc:date>1898-1904</dc:date>
-      <dc:subject>MS: Leipzig Universitätsbibliothek Tisch. 12</dc:subject>
-      <dc:subject>MS: Paris BNF Ar. 1</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 13</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Copt. 9</dc:subject>
+      <dc:subject>MS: Leipzig, Universitätsbibliothek, Tisch. 12</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 75 and Ar. 154, Ar. 75</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 75 and Ar. 154, Ar. 154</dc:subject>
+      <dc:subject>MS: London, BL, Harl. 5474</dc:subject>
+      <dc:subject>MS: London, BL, 5505</dc:subject>
+      <dc:subject>MS: London, BL,  and</dc:subject>
+      <dc:subject>Arund. Or. 15</dc:subject>
+      <dc:subject>MS: Paris, BNF, Ar. 1</dc:subject>
+      <dc:subject>MS: St Petersburg, RNL, Ar. NS. 327.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -119,8 +134,8 @@ of the Bible</dc:title>
       <dc:title>The Arabic Bible in Spain,</dc:title>
       <bib:pages>219-221</bib:pages>
       <dc:date>1926</dc:date>
-      <dc:subject>MS: Munich Staatsbibliothek Ar. 238</dc:subject>
-      <dc:subject>MS: Munich Staatsbibliothek Ar. 234</dc:subject>
+      <dc:subject>MS: Munich, Staatsbibliothek, Ar. 238</dc:subject>
+      <dc:subject>MS: Munich, Staatsbibliothek, Ar. 234.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -144,6 +159,7 @@ of the Bible</dc:title>
 19. Jahrhundert,</dc:title>
       <bib:pages>201-233</bib:pages>
       <dc:date>1961</dc:date>
+      <dc:subject>MS: ,  Violet fragment, Violet fragment</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -168,7 +184,7 @@ Instituto Egipcio de Estudios Islámicos </dc:title>
 versión árabe de las ‘Sagradas Escrituras’ izada en al-Andalus.</dc:title>
       <bib:pages>77-105</bib:pages>
       <dc:date>1999</dc:date>
-      <dc:subject>MS: Violet fragment and Moscow State Library Ms. 432</dc:subject>
+      <dc:subject>MS: Violet fragment and Moscow, State Library, Ms. 432.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -191,9 +207,11 @@ versión árabe de las ‘Sagradas Escrituras’ izada en al-Andalus.</dc:title>
       <dc:title>Il-Bibbja bil-Malti,</dc:title>
       <bib:pages>27-31</bib:pages>
       <dc:date>1973</dc:date>
-      <dc:subject>MS: Venice  St. Mark 11 (Venet. 11) and 27 (Venet. 539); Greek monastery St. Mark 11 (Venet. 11)</dc:subject>
-      <dc:subject>MS: Venice  St. Mark 11 (Venet. 11) and 27 (Venet. 539); Greek monastery 27 (Venet. 539)</dc:subject>
-      <dc:subject>MS: Leiden University Library Or. 243</dc:subject>
+      <dc:subject>MS: Venice,  St. Mark 11 (Venet. 11) and 27 (Venet. 539), St. Mark 11 (Venet. 11)</dc:subject>
+      <dc:subject>MS: Venice,  St. Mark 11 (Venet. 11) and 27 (Venet. 539), 27 (Venet. 539)</dc:subject>
+      <dc:subject>MS: , Greek monastery, Greek monastery</dc:subject>
+      <dc:subject>Jerusalem Cod. 1</dc:subject>
+      <dc:subject>MS: Leiden, University Library, Or. 243.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -217,9 +235,11 @@ versión árabe de las ‘Sagradas Escrituras’ izada en al-Andalus.</dc:title>
 translation,</dc:title>
       <bib:pages>37-45</bib:pages>
       <dc:date>2011</dc:date>
-      <dc:subject>MS: Venice  St. Mark 11 (Venet. 11) and 27 (Venet. 539); Greek monastery St. Mark 11 (Venet. 11)</dc:subject>
-      <dc:subject>MS: Venice  St. Mark 11 (Venet. 11) and 27 (Venet. 539); Greek monastery 27 (Venet. 539)</dc:subject>
-      <dc:subject>MS: Leiden University Library Or. 243</dc:subject>
+      <dc:subject>MS: Venice,  St. Mark 11 (Venet. 11) and 27 (Venet. 539), St. Mark 11 (Venet. 11)</dc:subject>
+      <dc:subject>MS: Venice,  St. Mark 11 (Venet. 11) and 27 (Venet. 539), 27 (Venet. 539)</dc:subject>
+      <dc:subject>MS: , Greek monastery, Greek monastery</dc:subject>
+      <dc:subject>Jerusalem Cod. 1</dc:subject>
+      <dc:subject>MS: Leiden, University Library, Or. 243.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -243,9 +263,11 @@ translation,</dc:title>
 of the Old Testament,</dc:title>
       <bib:pages>249-257</bib:pages>
       <dc:date>1961</dc:date>
-      <dc:subject>MS: Venice  St. Mark 11 (Venet. 11) and 27 (Venet. 539); Greek monastery St. Mark 11 (Venet. 11)</dc:subject>
-      <dc:subject>MS: Venice  St. Mark 11 (Venet. 11) and 27 (Venet. 539); Greek monastery 27 (Venet. 539)</dc:subject>
-      <dc:subject>MS: Leiden University Library Or. 243</dc:subject>
+      <dc:subject>MS: Venice,  St. Mark 11 (Venet. 11) and 27 (Venet. 539), St. Mark 11 (Venet. 11)</dc:subject>
+      <dc:subject>MS: Venice,  St. Mark 11 (Venet. 11) and 27 (Venet. 539), 27 (Venet. 539)</dc:subject>
+      <dc:subject>MS: , Greek monastery, Greek monastery</dc:subject>
+      <dc:subject>Jerusalem Cod. 1</dc:subject>
+      <dc:subject>MS: Leiden, University Library, Or. 243.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -269,9 +291,11 @@ il-Malti</dc:title>
       <dc:title>il-Kotba Mqaddsa bil-Malti,</dc:title>
       <bib:pages>37-44</bib:pages>
       <dc:date>1945</dc:date>
-      <dc:subject>MS: Venice  St. Mark 11 (Venet. 11) and 27 (Venet. 539); Greek monastery St. Mark 11 (Venet. 11)</dc:subject>
-      <dc:subject>MS: Venice  St. Mark 11 (Venet. 11) and 27 (Venet. 539); Greek monastery 27 (Venet. 539)</dc:subject>
-      <dc:subject>MS: Leiden University Library Or. 243</dc:subject>
+      <dc:subject>MS: Venice,  St. Mark 11 (Venet. 11) and 27 (Venet. 539), St. Mark 11 (Venet. 11)</dc:subject>
+      <dc:subject>MS: Venice,  St. Mark 11 (Venet. 11) and 27 (Venet. 539), 27 (Venet. 539)</dc:subject>
+      <dc:subject>MS: , Greek monastery, Greek monastery</dc:subject>
+      <dc:subject>Jerusalem Cod. 1</dc:subject>
+      <dc:subject>MS: Leiden, University Library, Or. 243.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -295,9 +319,11 @@ Bible Translator </dc:title>
       <dc:title>The Major Arabic Bibles,</dc:title>
       <bib:pages>1-12, 51-55, 98-106, 146-150</bib:pages>
       <dc:date>1955</dc:date>
-      <dc:subject>MS: Vatican BAV Ar. 468</dc:subject>
-      <dc:subject>MS: Vatican BAV  Copt. 9</dc:subject>
-      <dc:subject>MS: Vatican BAV Borg. Syr. 49</dc:subject>
+      <dc:subject>MS: Paris, BNF, Ar. 1</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 468</dc:subject>
+      <dc:subject>MS: Vatican, BAV,  Copt. 9</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Borg. Syr. 49</dc:subject>
+      <dc:subject>MS: Rome, Casanatense, Ar.-Carsh. 2 </dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -321,7 +347,7 @@ Bible Translator </dc:title>
       <bib:pages>1-20</bib:pages>
       <bib:pages>12</bib:pages>
       <dc:date>1971</dc:date>
-      <dc:subject>MS: Vatican BAV Ar. 13</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 13.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -345,9 +371,13 @@ Bible Translator </dc:title>
 several Arabic Bible Translations,</dc:title>
       <bib:pages>241-253</bib:pages>
       <dc:date>1999</dc:date>
-      <dc:subject>MS: Paris BNF Ar. 9 10</dc:subject>
-      <dc:subject>MS: Paris BNF Ar. 9  11</dc:subject>
-      <dc:subject>MS: Paris BNF Ar. 9 16</dc:subject>
+      <dc:subject>MS: Leiden,  University Library Or. 377 and 230, University Library Or. 377</dc:subject>
+      <dc:subject>MS: Leiden,  University Library Or. 377 and 230, 230</dc:subject>
+      <dc:subject>MS: Paris, BNF Ar. 9, 10</dc:subject>
+      <dc:subject>MS: Paris, BNF Ar. 9,  11</dc:subject>
+      <dc:subject>MS: Paris, BNF Ar. 9, 16</dc:subject>
+      <dc:subject>MS: Oxford,  Bodl. Poc. 219 and March. 440. , Bodl. Poc. 219</dc:subject>
+      <dc:subject>MS: Oxford,  Bodl. Poc. 219 and March. 440. , March. 440. </dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -374,9 +404,13 @@ several Arabic Bible Translations,</dc:title>
       <bib:pages>35 of original</bib:pages>
       <dc:date>1657</dc:date>
       <dc:date>1777</dc:date>
-      <dc:subject>MS: Paris BNF Ar. 9 10</dc:subject>
-      <dc:subject>MS: Paris BNF Ar. 9  11</dc:subject>
-      <dc:subject>MS: Paris BNF Ar. 9 16</dc:subject>
+      <dc:subject>MS: Leiden,  University Library Or. 377 and 230, University Library Or. 377</dc:subject>
+      <dc:subject>MS: Leiden,  University Library Or. 377 and 230, 230</dc:subject>
+      <dc:subject>MS: Paris, BNF Ar. 9, 10</dc:subject>
+      <dc:subject>MS: Paris, BNF Ar. 9,  11</dc:subject>
+      <dc:subject>MS: Paris, BNF Ar. 9, 16</dc:subject>
+      <dc:subject>MS: Oxford,  Bodl. Poc. 219 and March. 440. , Bodl. Poc. 219</dc:subject>
+      <dc:subject>MS: Oxford,  Bodl. Poc. 219 and March. 440. , March. 440. </dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -400,11 +434,15 @@ several Arabic Bible Translations,</dc:title>
 Dyck,</dc:title>
       <bib:pages>276-286</bib:pages>
       <dc:date>1882-85</dc:date>
-      <dc:subject>MS:   Violet fragment; Sinai, Ar. Violet fragment</dc:subject>
-      <dc:subject>MS: Cambridge CUL T-S Ar. 21.183</dc:subject>
-      <dc:subject>MS: Cambridge CUL Ar. 53.8</dc:subject>
-      <dc:subject>MS: Cambridge CUL Mosseri vi</dc:subject>
-      <dc:subject>MS: Cambridge CUL  45</dc:subject>
+      <dc:subject>MS: ,  Violet fragment, Violet fragment</dc:subject>
+      <dc:subject>MS: Sinai,  Ar., Ar.</dc:subject>
+      <dc:subject>2</dc:subject>
+      <dc:subject>MS: Cambridge, CUL, T-S Ar. 21.183</dc:subject>
+      <dc:subject>MS: Cambridge, CUL, Ar. 53.8</dc:subject>
+      <dc:subject>MS: Cambridge, CUL, Mosseri vi</dc:subject>
+      <dc:subject>MS: Cambridge, CUL,  45</dc:subject>
+      <dc:subject>MS: St Petersburg, RNL, Ebr. II</dc:subject>
+      <dc:subject>C 1-2.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -428,11 +466,15 @@ Dyck,</dc:title>
 Translation,</dc:title>
       <bib:pages>254-263</bib:pages>
       <dc:date>1975</dc:date>
-      <dc:subject>MS:   Violet fragment; Sinai, Ar. Violet fragment</dc:subject>
-      <dc:subject>MS: Cambridge CUL T-S Ar. 21.183</dc:subject>
-      <dc:subject>MS: Cambridge CUL Ar. 53.8</dc:subject>
-      <dc:subject>MS: Cambridge CUL Mosseri vi</dc:subject>
-      <dc:subject>MS: Cambridge CUL  45</dc:subject>
+      <dc:subject>MS: ,  Violet fragment, Violet fragment</dc:subject>
+      <dc:subject>MS: Sinai,  Ar., Ar.</dc:subject>
+      <dc:subject>2</dc:subject>
+      <dc:subject>MS: Cambridge, CUL, T-S Ar. 21.183</dc:subject>
+      <dc:subject>MS: Cambridge, CUL, Ar. 53.8</dc:subject>
+      <dc:subject>MS: Cambridge, CUL, Mosseri vi</dc:subject>
+      <dc:subject>MS: Cambridge, CUL,  45</dc:subject>
+      <dc:subject>MS: St Petersburg, RNL, Ebr. II</dc:subject>
+      <dc:subject>C 1-2.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -455,11 +497,15 @@ Translation,</dc:title>
       <dc:title>Aus einem Briefe von Dr. E. Smith,</dc:title>
       <bib:pages>813-814</bib:pages>
       <dc:date>1856</dc:date>
-      <dc:subject>MS:   Violet fragment; Sinai, Ar. Violet fragment</dc:subject>
-      <dc:subject>MS: Cambridge CUL T-S Ar. 21.183</dc:subject>
-      <dc:subject>MS: Cambridge CUL Ar. 53.8</dc:subject>
-      <dc:subject>MS: Cambridge CUL Mosseri vi</dc:subject>
-      <dc:subject>MS: Cambridge CUL  45</dc:subject>
+      <dc:subject>MS: ,  Violet fragment, Violet fragment</dc:subject>
+      <dc:subject>MS: Sinai,  Ar., Ar.</dc:subject>
+      <dc:subject>2</dc:subject>
+      <dc:subject>MS: Cambridge, CUL, T-S Ar. 21.183</dc:subject>
+      <dc:subject>MS: Cambridge, CUL, Ar. 53.8</dc:subject>
+      <dc:subject>MS: Cambridge, CUL, Mosseri vi</dc:subject>
+      <dc:subject>MS: Cambridge, CUL,  45</dc:subject>
+      <dc:subject>MS: St Petersburg, RNL, Ebr. II</dc:subject>
+      <dc:subject>C 1-2.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -482,11 +528,15 @@ Translation,</dc:title>
       <dc:title>A New Edition of the Arabic Bible,</dc:title>
       <bib:pages>105-107</bib:pages>
       <dc:date>1919</dc:date>
-      <dc:subject>MS:   Violet fragment; Sinai, Ar. Violet fragment</dc:subject>
-      <dc:subject>MS: Cambridge CUL T-S Ar. 21.183</dc:subject>
-      <dc:subject>MS: Cambridge CUL Ar. 53.8</dc:subject>
-      <dc:subject>MS: Cambridge CUL Mosseri vi</dc:subject>
-      <dc:subject>MS: Cambridge CUL  45</dc:subject>
+      <dc:subject>MS: ,  Violet fragment, Violet fragment</dc:subject>
+      <dc:subject>MS: Sinai,  Ar., Ar.</dc:subject>
+      <dc:subject>2</dc:subject>
+      <dc:subject>MS: Cambridge, CUL, T-S Ar. 21.183</dc:subject>
+      <dc:subject>MS: Cambridge, CUL, Ar. 53.8</dc:subject>
+      <dc:subject>MS: Cambridge, CUL, Mosseri vi</dc:subject>
+      <dc:subject>MS: Cambridge, CUL,  45</dc:subject>
+      <dc:subject>MS: St Petersburg, RNL, Ebr. II</dc:subject>
+      <dc:subject>C 1-2.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -509,11 +559,15 @@ Translation,</dc:title>
       <dc:title>The American Mission Bible Translation to Arabic,</dc:title>
       <bib:pages>57-69 </bib:pages>
       <dc:date>2000</dc:date>
-      <dc:subject>MS:   Violet fragment; Sinai, Ar. Violet fragment</dc:subject>
-      <dc:subject>MS: Cambridge CUL T-S Ar. 21.183</dc:subject>
-      <dc:subject>MS: Cambridge CUL Ar. 53.8</dc:subject>
-      <dc:subject>MS: Cambridge CUL Mosseri vi</dc:subject>
-      <dc:subject>MS: Cambridge CUL  45</dc:subject>
+      <dc:subject>MS: ,  Violet fragment, Violet fragment</dc:subject>
+      <dc:subject>MS: Sinai,  Ar., Ar.</dc:subject>
+      <dc:subject>2</dc:subject>
+      <dc:subject>MS: Cambridge, CUL, T-S Ar. 21.183</dc:subject>
+      <dc:subject>MS: Cambridge, CUL, Ar. 53.8</dc:subject>
+      <dc:subject>MS: Cambridge, CUL, Mosseri vi</dc:subject>
+      <dc:subject>MS: Cambridge, CUL,  45</dc:subject>
+      <dc:subject>MS: St Petersburg, RNL, Ebr. II</dc:subject>
+      <dc:subject>C 1-2.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -538,11 +592,15 @@ Translation,</dc:title>
 1872 wa-</dc:title>
       <bib:pages>127-128</bib:pages>
       <dc:date>1991</dc:date>
-      <dc:subject>MS:   Violet fragment; Sinai, Ar. Violet fragment</dc:subject>
-      <dc:subject>MS: Cambridge CUL T-S Ar. 21.183</dc:subject>
-      <dc:subject>MS: Cambridge CUL Ar. 53.8</dc:subject>
-      <dc:subject>MS: Cambridge CUL Mosseri vi</dc:subject>
-      <dc:subject>MS: Cambridge CUL  45</dc:subject>
+      <dc:subject>MS: ,  Violet fragment, Violet fragment</dc:subject>
+      <dc:subject>MS: Sinai,  Ar., Ar.</dc:subject>
+      <dc:subject>2</dc:subject>
+      <dc:subject>MS: Cambridge, CUL, T-S Ar. 21.183</dc:subject>
+      <dc:subject>MS: Cambridge, CUL, Ar. 53.8</dc:subject>
+      <dc:subject>MS: Cambridge, CUL, Mosseri vi</dc:subject>
+      <dc:subject>MS: Cambridge, CUL,  45</dc:subject>
+      <dc:subject>MS: St Petersburg, RNL, Ebr. II</dc:subject>
+      <dc:subject>C 1-2.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -566,7 +624,7 @@ Translation,</dc:title>
 Jacobite and Nestorian Churches,</dc:title>
       <bib:pages>595-597</bib:pages>
       <dc:date>1929</dc:date>
-      <dc:subject>MS: Florence BML Or. 387</dc:subject>
+      <dc:subject>MS: Florence, BML, Or. 387.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -590,7 +648,7 @@ Jacobite and Nestorian Churches,</dc:title>
 Bildschmuck eines arabischen Evangelienbuches des 14. Jahrhunderts,</dc:title>
       <bib:pages>1-38</bib:pages>
       <dc:date>1938</dc:date>
-      <dc:subject>MS: Leiden University Library Or. 1571</dc:subject>
+      <dc:subject>MS: Leiden, University Library, Or. 1571.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -614,7 +672,7 @@ Bildschmuck eines arabischen Evangelienbuches des 14. Jahrhunderts,</dc:title>
 Prophetenillustrationen durch stehende Autorenbilder” ,</dc:title>
       <bib:pages>99-104</bib:pages>
       <dc:date>1934</dc:date>
-      <dc:subject>MS: Berlin Staatsbibliothek Diez A. Fol. 41</dc:subject>
+      <dc:subject>MS: Berlin, Staatsbibliothek, Diez A. Fol. 41.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -638,7 +696,7 @@ Prophetenillustrationen durch stehende Autorenbilder” ,</dc:title>
 mesopotamischer Federzeichnung vom Jahre 1299,</dc:title>
       <bib:pages>249-271</bib:pages>
       <dc:date>1911</dc:date>
-      <dc:subject>MS: Florence BML Or. 387</dc:subject>
+      <dc:subject>MS: Florence, BML, Or. 387.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -661,6 +719,10 @@ mesopotamischer Federzeichnung vom Jahre 1299,</dc:title>
       <dc:title>Palaestinensia,</dc:title>
       <bib:pages>123-149</bib:pages>
       <dc:date>1906</dc:date>
+      <dc:subject>MS: London, BL, Add. 11850</dc:subject>
+      <dc:subject>MS: London, BL, Jerusalem</dc:subject>
+      <dc:subject>MS: London, BL,  Greek</dc:subject>
+      <dc:subject>Patriarchate, Ar. 9.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -685,6 +747,8 @@ Collection of the St. Petersburg Branch of the Institute of Oriental Studies: Th
 Restoration,</dc:title>
       <bib:pages>35-38</bib:pages>
       <dc:date>1998</dc:date>
+      <dc:subject>MS: St Petersburg,  Institute of, Institute of</dc:subject>
+      <dc:subject>Oriental Manuscripts, D 226.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -708,6 +772,7 @@ Restoration,</dc:title>
 Ḥarīrī der Wiener Nationalbibliothek,</dc:title>
       <bib:pages>1-48</bib:pages>
       <dc:date>1937</dc:date>
+      <dc:subject>MS: Florence, BML, Or. 387.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -732,6 +797,8 @@ Bücherfreunde</dc:title>
 Kuriositäten der Kaiserlichen Öffentlichen Bibliothek zu St. Petersburg,</dc:title>
       <bib:pages>26-34</bib:pages>
       <dc:date>1908-09</dc:date>
+      <dc:subject>MS: St Petersburg, RNL, Ar. N.S.</dc:subject>
+      <dc:subject>327 (pl. 8).</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -755,6 +822,8 @@ Kuriositäten der Kaiserlichen Öffentlichen Bibliothek zu St. Petersburg,</dc:t
 bibliothèque de Topqapi Sarayi à décor byzantin et islamique,</dc:title>
       <bib:pages>119-130</bib:pages>
       <dc:date>1967</dc:date>
+      <dc:subject>MS: Istanbul,  Topkapı Sarayı, Topkapı Sarayı</dc:subject>
+      <dc:subject>Library, Ahmet III 3519 (various plates).</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -778,8 +847,16 @@ bibliothèque de Topqapi Sarayi à décor byzantin et islamique,</dc:title>
 Christian Painting in Muslim Egypt During the Thirteenth and Fourteenth Centuries,</dc:title>
       <bib:pages>201-218</bib:pages>
       <dc:date>1983</dc:date>
-      <dc:subject>MS: Paris BNF Ar. 12 (p. 216</dc:subject>
-      <dc:subject>MS: Paris BNF  pl. 28)</dc:subject>
+      <dc:subject>MS: Paris, Institut Catholique, Copt.-Ar. 1 (p. 204</dc:subject>
+      <dc:subject>MS: Paris, Institut Catholique,  pls. 4-7</dc:subject>
+      <dc:subject>MS: Paris, Institut Catholique, p. 209</dc:subject>
+      <dc:subject>MS: Paris, Institut Catholique,  pl. 15)</dc:subject>
+      <dc:subject>MS: Paris, BNF, Ar. 12 (p. 216</dc:subject>
+      <dc:subject>MS: Paris, BNF,  pl. 28)</dc:subject>
+      <dc:subject>MS: Cairo, Coptic Museum, Bibl. 90 (p. 215</dc:subject>
+      <dc:subject>MS: Cairo, Coptic Museum,  pl. 8)</dc:subject>
+      <dc:subject>MS: Cairo, Coptic Museum, Bibl. 94 (p. 205</dc:subject>
+      <dc:subject>MS: Cairo, Coptic Museum,  pl. 8).</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -805,7 +882,7 @@ arabskago evangeliia detstva Khrista Lavrencianskoi bibloteki vo Florencii [The 
 apocryphal Infancy Gospel at the Laurentian Library Florence],</dc:title>
       <bib:pages>57-71</bib:pages>
       <dc:date>1895</dc:date>
-      <dc:subject>MS: Florence BMF Or. 387</dc:subject>
+      <dc:subject>MS: Florence, BMF, Or. 387.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -829,12 +906,24 @@ apocryphal Infancy Gospel at the Laurentian Library Florence],</dc:title>
 Painting in Egypt of the Twelfth to mid-Thirteenth Centuries,</dc:title>
       <bib:pages>111-155</bib:pages>
       <dc:date>1985</dc:date>
-      <dc:subject>MS: Paris Institut Catholique Copt.-Ar. 1 (p. 120</dc:subject>
-      <dc:subject>MS: Paris Institut Catholique  pl. 7</dc:subject>
-      <dc:subject>MS: p. 124 pl. 9 p. 125</dc:subject>
-      <dc:subject>MS: p. 124 pl. 9  pls. 10-11</dc:subject>
-      <dc:subject>MS: p. 124 pl. 9  p. 126</dc:subject>
-      <dc:subject>MS: p. 124 pl. 9  pls. 12-13</dc:subject>
+      <dc:subject>MS: Oxford, Bodleian Library, Hunt. 17 (p. 131</dc:subject>
+      <dc:subject>MS: Oxford, Bodleian Library,  pls. 17-18)</dc:subject>
+      <dc:subject>MS: Paris, Institut Catholique, Copt.-Ar. 1 (p. 120</dc:subject>
+      <dc:subject>MS: Paris, Institut Catholique,  pl. 7</dc:subject>
+      <dc:subject>MS: p. 123,  pl., pl.</dc:subject>
+      <dc:subject>8</dc:subject>
+      <dc:subject>MS: p. 124, pl. 9, p. 125</dc:subject>
+      <dc:subject>MS: p. 124, pl. 9,  pls. 10-11</dc:subject>
+      <dc:subject>MS: p. 124, pl. 9,  p. 126</dc:subject>
+      <dc:subject>MS: p. 124, pl. 9,  pls. 12-13</dc:subject>
+      <dc:subject>MS: p. 127,  pl. 14), pl. 14)</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Copt. 8 and</dc:subject>
+      <dc:subject>Copt. 9 (p. 132, pl. 19)</dc:subject>
+      <dc:subject>MS: Cairo, Coptic Museum, Bibl. 93</dc:subject>
+      <dc:subject>MS: Cairo, Coptic Museum,  Bibl. 94 (p. 128</dc:subject>
+      <dc:subject>MS: Cairo, Coptic Museum,  pls. 15-16)</dc:subject>
+      <dc:subject>MS: Cairo, Coptic Museum, Bibl.</dc:subject>
+      <dc:subject>147.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -859,8 +948,9 @@ Oriental Studies</dc:title>
 Manuscripts from Christian Spain: A comparative Intercultural Approach,</dc:title>
       <bib:pages>75-110</bib:pages>
       <dc:date>1992</dc:date>
-      <dc:subject>MS: Vatican BAV Borg. Ar. 129 (no. 68)</dc:subject>
-      <dc:subject>MS: Vatican BAV Ar. 5 (no. ?)</dc:subject>
+      <dc:subject>MS: Munich, Bayrische Staatsbibliothek, Ar. 238 (no. 56)</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Borg. Ar. 129 (no. 68)</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 5 (no. ?).</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -884,6 +974,8 @@ Manuscripts from Christian Spain: A comparative Intercultural Approach,</dc:titl
 in the Bryn Mawr Library,</dc:title>
       <bib:pages>330-331</bib:pages>
       <dc:date>1990</dc:date>
+      <dc:subject>MS: Bryn Mawr College Library,  BV, BV</dc:subject>
+      <dc:subject>47</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -907,6 +999,8 @@ in the Bryn Mawr Library,</dc:title>
 Turning Again to an Old Controversy,</dc:title>
       <bib:pages>3-18</bib:pages>
       <dc:date>2000</dc:date>
+      <dc:subject>MS: St Petersburg,  Institute of, Institute of</dc:subject>
+      <dc:subject>Oriental Manuscripts, D 226 and Vatican, BAV, Ar. 467-468.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -937,6 +1031,8 @@ Turning Again to an Old Controversy,</dc:title>
 the CD-ROM Edition of the St. Petersburg Arabic Bible,</dc:title>
       <bib:pages>40-47</bib:pages>
       <dc:date>1997</dc:date>
+      <dc:subject>MS: St Petersburg,  Institute of, Institute of</dc:subject>
+      <dc:subject>Oriental Manuscripts, D 226 and Vatican, BAV, Ar. 467-468.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -960,7 +1056,7 @@ the CD-ROM Edition of the St. Petersburg Arabic Bible,</dc:title>
 387, die literarische Ueberlieferung und der ‘Orientalische Typus,</dc:title>
       <bib:pages>329-343</bib:pages>
       <dc:date>1921</dc:date>
-      <dc:subject>MS: Florence BML Or. 387</dc:subject>
+      <dc:subject>MS: Florence, BML, Or. 387.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -983,7 +1079,8 @@ the CD-ROM Edition of the St. Petersburg Arabic Bible,</dc:title>
       <dc:title>An Early Copto-Arabic Miniature in Leningrad,</dc:title>
       <bib:pages>119-134</bib:pages>
       <dc:date>1943</dc:date>
-      <dc:subject>MS: Berlin Staatsbibliothek Diez A 41</dc:subject>
+      <dc:subject>MS: St Petersburg, RNL, Ar. NS. 327</dc:subject>
+      <dc:subject>MS: Berlin, Staatsbibliothek, Diez A 41.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1007,6 +1104,10 @@ the CD-ROM Edition of the St. Petersburg Arabic Bible,</dc:title>
 Zeit erhalten geblieben?,</dc:title>
       <bib:pages>67-72</bib:pages>
       <dc:date>1973</dc:date>
+      <dc:subject>MS: Vatican, BAV, Ar. 467</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 468</dc:subject>
+      <dc:subject>MS: Vatican, BAV, St</dc:subject>
+      <dc:subject>Petersburg, Institute of Oriental Manuscripts, D 226.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1031,6 +1132,10 @@ Gebiete </dc:title>
 Bibelhandschriften Vat. ar. 468 and 467,</dc:title>
       <bib:pages>259-273</bib:pages>
       <dc:date>1929</dc:date>
+      <dc:subject>MS: Vatican, BAV, Ar. 467</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 468</dc:subject>
+      <dc:subject>MS: Vatican, BAV, St</dc:subject>
+      <dc:subject>Petersburg, Institute of Oriental Manuscripts, D 226.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1054,8 +1159,14 @@ Bibelhandschriften Vat. ar. 468 and 467,</dc:title>
 of Caliph al-Maʾmūn,</dc:title>
       <bib:pages>189-196</bib:pages>
       <dc:date>1918</dc:date>
-      <dc:subject>MS: Paris BNF Ar. 9</dc:subject>
-      <dc:subject>MS: Paris BNF 14</dc:subject>
+      <dc:subject>MS: Sinai, Ar. 2, Ar. 3</dc:subject>
+      <dc:subject>MS: Sinai, Ar. 2, Ar.</dc:subject>
+      <dc:subject>10</dc:subject>
+      <dc:subject>MS: Paris, BNF, Ar. 9</dc:subject>
+      <dc:subject>MS: Paris, BNF, 14</dc:subject>
+      <dc:subject>MS: Copenhagen, Royal Library, Ar. 75</dc:subject>
+      <dc:subject>MS: Munich, Staatsbibliothek, Ar.</dc:subject>
+      <dc:subject>234.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1080,8 +1191,14 @@ Orientalia</dc:title>
 Christian Arabic copy of the Pentateuch (Ms Sin Ar. 2),</dc:title>
       <bib:pages>17-36</bib:pages>
       <dc:date>2013</dc:date>
-      <dc:subject>MS: Paris BNF Ar. 9</dc:subject>
-      <dc:subject>MS: Paris BNF 14</dc:subject>
+      <dc:subject>MS: Sinai, Ar. 2, Ar. 3</dc:subject>
+      <dc:subject>MS: Sinai, Ar. 2, Ar.</dc:subject>
+      <dc:subject>10</dc:subject>
+      <dc:subject>MS: Paris, BNF, Ar. 9</dc:subject>
+      <dc:subject>MS: Paris, BNF, 14</dc:subject>
+      <dc:subject>MS: Copenhagen, Royal Library, Ar. 75</dc:subject>
+      <dc:subject>MS: Munich, Staatsbibliothek, Ar.</dc:subject>
+      <dc:subject>234.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1104,8 +1221,9 @@ Christian Arabic copy of the Pentateuch (Ms Sin Ar. 2),</dc:title>
       <dc:title>Deux anciens manuscrits arabes du Pentateuche,</dc:title>
       <bib:pages>141-147</bib:pages>
       <dc:date>1923</dc:date>
-      <dc:subject>MS: Leiden University Library Or. 377 (Warner 377)</dc:subject>
-      <dc:subject>MS: Leiden University Library Or. 230 (Scaliger Arab. 230)</dc:subject>
+      <dc:subject>MS: Copenhagen, Royal Library, Ar. 75</dc:subject>
+      <dc:subject>MS: Leiden, University Library, Or. 377 (Warner 377)</dc:subject>
+      <dc:subject>MS: Leiden, University Library, Or. 230 (Scaliger Arab. 230).</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1129,8 +1247,9 @@ Christian Arabic copy of the Pentateuch (Ms Sin Ar. 2),</dc:title>
 חומשי תורה</dc:title>
       <bib:pages>45-50</bib:pages>
       <dc:date>1955</dc:date>
-      <dc:subject>MS: Leiden University Library Or. 377 (Warner 377)</dc:subject>
-      <dc:subject>MS: Leiden University Library Or. 230 (Scaliger Arab. 230)</dc:subject>
+      <dc:subject>MS: Copenhagen, Royal Library, Ar. 75</dc:subject>
+      <dc:subject>MS: Leiden, University Library, Or. 377 (Warner 377)</dc:subject>
+      <dc:subject>MS: Leiden, University Library, Or. 230 (Scaliger Arab. 230).</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1155,7 +1274,11 @@ cod. Monac. arab. 234,</dc:title>
       <bib:pages>97-115,
 193-212, 291-330</bib:pages>
       <dc:date>1919-21</dc:date>
-      <dc:subject>MS: Cambridge CUL Add. 3289</dc:subject>
+      <dc:subject>MS: Munich,  Bayrische, Bayrische</dc:subject>
+      <dc:subject>Staatsbibliothek, Ar. 234 and Ar. 238</dc:subject>
+      <dc:subject>MS: Cambridge, CUL, Add. 3289</dc:subject>
+      <dc:subject>MS: Berlin, Staatsbibliothek, Dq.</dc:subject>
+      <dc:subject>106.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1179,12 +1302,18 @@ cod. Monac. arab. 234,</dc:title>
 partielles de la Bible du IXe et du Xe siècles,</dc:title>
       <bib:pages>203-206</bib:pages>
       <dc:date>1980</dc:date>
-      <dc:subject>MS: Sinai  Ar. 10; Paris, BNF, Ar. 13 and Ar. 10</dc:subject>
-      <dc:subject>MS: Oxford Bodl. Laud. Or. 258 (formerly A 147)</dc:subject>
-      <dc:subject>MS: Oxford Bodl. Laud. Or. 243 (formerly A 146)</dc:subject>
-      <dc:subject>MS: Coptic Orthodox Patriarchate Bibl. 14 Bibl. 19</dc:subject>
-      <dc:subject>MS: Coptic Orthodox Patriarchate Bibl. 14 Bibl. 27</dc:subject>
-      <dc:subject>MS: Birmingham Mingana Arab. Chr. 121</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 10, Ar. 10</dc:subject>
+      <dc:subject>MS: Paris, BNF, Ar. 13 and</dc:subject>
+      <dc:subject>Ar. 14</dc:subject>
+      <dc:subject>MS: Oxford, Bodl., Laud. Or. 258 (formerly A 147)</dc:subject>
+      <dc:subject>MS: Oxford, Bodl., Laud. Or. 243 (formerly A 146)</dc:subject>
+      <dc:subject>MS: Escurial, , Arabic 1857</dc:subject>
+      <dc:subject>MS: Coptic Orthodox Patriarchate, Bibl. 14, Bibl. 19</dc:subject>
+      <dc:subject>MS: Coptic Orthodox Patriarchate, Bibl. 14, Bibl. 27</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 1</dc:subject>
+      <dc:subject>MS: , an unspecified, an unspecified</dc:subject>
+      <dc:subject>manuscript from the collection Khūkāz, Aleppo: St Sauveur, Ms. 224</dc:subject>
+      <dc:subject>MS: Birmingham, Mingana, Arab. Chr. 121.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1208,8 +1337,8 @@ partielles de la Bible du IXe et du Xe siècles,</dc:title>
 hammephorasch und andere Gottesnamen. Ein Beitrag zur Geschichte des Tetragrammaton,</dc:title>
       <bib:pages>465-508</bib:pages>
       <dc:date>1878</dc:date>
-      <dc:subject>MS: Oxford Bodl. Laud. A 146</dc:subject>
-      <dc:subject>MS: Oxford Bodl. A 147</dc:subject>
+      <dc:subject>MS: Oxford, Bodl., Laud. A 146</dc:subject>
+      <dc:subject>MS: Oxford, Bodl., A 147.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1233,7 +1362,11 @@ hammephorasch und andere Gottesnamen. Ein Beitrag zur Geschichte des Tetragramma
 n'appartiennent ni à St. Ephrem ni au patrimoine liturgique des Maronites,</dc:title>
       <bib:pages>367-380</bib:pages>
       <dc:date>1986</dc:date>
-      <dc:subject>MS: London BL Or. 1330</dc:subject>
+      <dc:subject>MS: Oxford, Bodl., Hunt. 112</dc:subject>
+      <dc:subject>MS: Oxford, Bodl.,  Vatican</dc:subject>
+      <dc:subject>MS: Oxford, Bodl.,  BAV</dc:subject>
+      <dc:subject>MS: Oxford, Bodl.,  Ar. 33</dc:subject>
+      <dc:subject>MS: London, BL, Or. 1330.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1256,7 +1389,11 @@ n'appartiennent ni à St. Ephrem ni au patrimoine liturgique des Maronites,</dc:
       <dc:title>Ein Arabischer Pentateuchkommentar des 12. Jahrhunderts,</dc:title>
       <bib:pages>113-138</bib:pages>
       <dc:date>1924</dc:date>
-      <dc:subject>MS: London BL Or. 1330</dc:subject>
+      <dc:subject>MS: Oxford, Bodl., Hunt. 112</dc:subject>
+      <dc:subject>MS: Oxford, Bodl.,  Vatican</dc:subject>
+      <dc:subject>MS: Oxford, Bodl.,  BAV</dc:subject>
+      <dc:subject>MS: Oxford, Bodl.,  Ar. 33</dc:subject>
+      <dc:subject>MS: London, BL, Or. 1330.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1279,7 +1416,14 @@ n'appartiennent ni à St. Ephrem ni au patrimoine liturgique des Maronites,</dc:
       <dc:title>Le versioni arabe dei Profeti,</dc:title>
       <bib:pages>401-424</bib:pages>
       <dc:date>1921</dc:date>
-      <dc:subject>MS: Oxford Bodleian Libraries Arch. Seld. A. 67</dc:subject>
+      <dc:subject>MS: London, BL, Or. 1326</dc:subject>
+      <dc:subject>MS: London, BL,  Or. 1314</dc:subject>
+      <dc:subject>MS: London, BL,  Or. 1319</dc:subject>
+      <dc:subject>MS: Oxford, Bodleian Libraries, Arch. Seld. A. 67</dc:subject>
+      <dc:subject>MS: Paris, BNF, Ar. 1</dc:subject>
+      <dc:subject>MS: Paris, BNF,  Ar. 25</dc:subject>
+      <dc:subject>MS: Paris, BNF,  Copt. 2</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 445</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1302,14 +1446,21 @@ n'appartiennent ni à St. Ephrem ni au patrimoine liturgique des Maronites,</dc:
       <dc:title>Le versioni arabe dei Profeti,</dc:title>
       <bib:pages>401-423</bib:pages>
       <dc:date>1922</dc:date>
-      <dc:subject>MS: Florence BML Or. 59</dc:subject>
-      <dc:subject>MS: Oxford Bodleian Libraries Arch. Seld. A. 67</dc:subject>
-      <dc:subject>MS: Paris BNF Ar. 1</dc:subject>
-      <dc:subject>MS: Paris BNF  Ar. 25</dc:subject>
-      <dc:subject>MS: Paris BNF Copt. 2</dc:subject>
-      <dc:subject>MS: Vatican BAV Ar. 445</dc:subject>
-      <dc:subject>MS: Vatican BAV  Ar. 495</dc:subject>
-      <dc:subject>MS: Vatican BAV Ar. 503</dc:subject>
+      <dc:subject>MS: Berlin, Staatsbibliothek, Diez A fol. 41</dc:subject>
+      <dc:subject>MS: Florence, BML, Or. 59</dc:subject>
+      <dc:subject>MS: London, BL, Or. 1314</dc:subject>
+      <dc:subject>MS: London, BL,  Or. 1319</dc:subject>
+      <dc:subject>MS: London, BL,  Or. 1326</dc:subject>
+      <dc:subject>MS: London, BL, Or. 5918</dc:subject>
+      <dc:subject>MS: Oxford, Bodleian Libraries, Arch. Seld. A. 67</dc:subject>
+      <dc:subject>MS: Milan, Ambrosiana, C 58</dc:subject>
+      <dc:subject>MS: Paris, BNF, Ar. 1</dc:subject>
+      <dc:subject>MS: Paris, BNF,  Ar. 25</dc:subject>
+      <dc:subject>MS: Paris, BNF, Copt. 2</dc:subject>
+      <dc:subject>MS: Rome, Casanatense, Ms 169</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 445</dc:subject>
+      <dc:subject>MS: Vatican, BAV,  Ar. 495</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 503.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1333,7 +1484,9 @@ n'appartiennent ni à St. Ephrem ni au patrimoine liturgique des Maronites,</dc:
 Versions of Daniel,</dc:title>
       <bib:pages>329-332</bib:pages>
       <dc:date>1929</dc:date>
-      <dc:subject>MS: London BL Or. 5503(5?)</dc:subject>
+      <dc:subject>MS: Paris, BNF, Ar. 1</dc:subject>
+      <dc:subject>MS: London, BL, Or. 5503(5?)</dc:subject>
+      <dc:subject>MS: Oxford, Bodleian Libraries, Arch. Seld. A 67.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1357,7 +1510,9 @@ Versions of Daniel,</dc:title>
 Arabic Text of Daniel and its Affinities,</dc:title>
       <bib:pages>327-352</bib:pages>
       <dc:date>1925</dc:date>
-      <dc:subject>MS: London BL Or. 5503(5?)</dc:subject>
+      <dc:subject>MS: Paris, BNF, Ar. 1</dc:subject>
+      <dc:subject>MS: London, BL, Or. 5503(5?)</dc:subject>
+      <dc:subject>MS: Oxford, Bodleian Libraries, Arch. Seld. A 67.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1380,6 +1535,7 @@ Arabic Text of Daniel and its Affinities,</dc:title>
       <dc:title>Der Text Jes. 24-27,</dc:title>
       <bib:pages>14-24</bib:pages>
       <dc:date>1902</dc:date>
+      <dc:subject>MS: Paris, BNF, Ar. 1</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1403,6 +1559,7 @@ Arabic Text of Daniel and its Affinities,</dc:title>
 Zechariah,</dc:title>
       <bib:pages>273-275</bib:pages>
       <dc:date>1943</dc:date>
+      <dc:subject>MS: Paris, BNF, Ar. 1</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1426,6 +1583,7 @@ Zechariah,</dc:title>
 in der Pariser und Londoner Polyglotte,</dc:title>
       <bib:pages>102-138</bib:pages>
       <dc:date>1885</dc:date>
+      <dc:subject>MS: Paris, BNF, Ar. 1</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1450,6 +1608,7 @@ traducción y estudio de la versión oriental conservada en la Biblioteca del Mo
 Escorial,</dc:title>
       <bib:pages>65-83</bib:pages>
       <dc:date>1998</dc:date>
+      <dc:subject>MS: St Petersburg, Institute of Oriental Manuscripts, A 187 </dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1479,6 +1638,7 @@ Escorial,</dc:title>
 cantares’ contenida en el Vat. ar. 448. Edición y precisiones codicológicas,</dc:title>
       <bib:pages>211-218</bib:pages>
       <dc:date>2000</dc:date>
+      <dc:subject>MS: St Petersburg, Institute of Oriental Manuscripts, A 187 </dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1502,7 +1662,7 @@ cantares’ contenida en el Vat. ar. 448. Edición y precisiones codicológicas,
       <dc:title>Greko-siro-arabskaya rukopis’ IX veka</dc:title>
       <bib:pages>59-90</bib:pages>
       <dc:date>1954</dc:date>
-      <dc:subject>MS: Moscow State Library Ms. 432</dc:subject>
+      <dc:subject>MS: Moscow, State Library, Ms. 432.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1525,6 +1685,7 @@ cantares’ contenida en el Vat. ar. 448. Edición y precisiones codicológicas,
       <dc:title>Ein zweisprachiges Psalmenfragment aus Damascus,</dc:title>
       <bib:pages>384-403, 425-441, 475-488</bib:pages>
       <dc:date>1901</dc:date>
+      <dc:subject>MS: ,  Violet fragment, Violet fragment</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1547,7 +1708,11 @@ cantares’ contenida en el Vat. ar. 448. Edición y precisiones codicológicas,
       <dc:title>Sobre Ḥafṣ ibn Albar al-Qūṭī al-Qurṭubī,</dc:title>
       <bib:pages>211-213</bib:pages>
       <dc:date>1955</dc:date>
-      <dc:subject>MS: Vienna VNL? K II 346</dc:subject>
+      <dc:subject>MS: Ms, Leiden, Or. 243 (l.6)</dc:subject>
+      <dc:subject>MS: Vienna, VNL?, K II 346</dc:subject>
+      <dc:subject>MS: London, BL, Or. 1242</dc:subject>
+      <dc:subject>MS: London, BL, 6</dc:subject>
+      <dc:subject>MS: Oxford, Bodl, Copt. c. 3</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1571,7 +1736,11 @@ cantares’ contenida en el Vat. ar. 448. Edición y precisiones codicológicas,
 the Psalms,</dc:title>
       <bib:pages>315</bib:pages>
       <dc:date>1973</dc:date>
-      <dc:subject>MS: Vienna VNL? K II 346</dc:subject>
+      <dc:subject>MS: Ms, Leiden, Or. 243 (l.6)</dc:subject>
+      <dc:subject>MS: Vienna, VNL?, K II 346</dc:subject>
+      <dc:subject>MS: London, BL, Or. 1242</dc:subject>
+      <dc:subject>MS: London, BL, 6</dc:subject>
+      <dc:subject>MS: Oxford, Bodl, Copt. c. 3</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1594,7 +1763,11 @@ the Psalms,</dc:title>
       <dc:title>Hafs al-Qouti,</dc:title>
       <bib:pages>65-69</bib:pages>
       <dc:date>1895</dc:date>
-      <dc:subject>MS: Vienna VNL? K II 346</dc:subject>
+      <dc:subject>MS: Ms, Leiden, Or. 243 (l.6)</dc:subject>
+      <dc:subject>MS: Vienna, VNL?, K II 346</dc:subject>
+      <dc:subject>MS: London, BL, Or. 1242</dc:subject>
+      <dc:subject>MS: London, BL, 6</dc:subject>
+      <dc:subject>MS: Oxford, Bodl, Copt. c. 3</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1618,10 +1791,12 @@ the Psalms,</dc:title>
 of Mt. Sinai and the Task of Exegesis (with special focus on Sinai Ar. 72 and Luke 15),</dc:title>
       <bib:pages>45-62</bib:pages>
       <dc:date>1991</dc:date>
-      <dc:subject>MS: Sinai Ar. 54 Ar. 72</dc:subject>
-      <dc:subject>MS: Sinai Ar. 54  Ar. 74</dc:subject>
-      <dc:subject>MS: Sinai Ar. 54 Ar. 97</dc:subject>
-      <dc:subject>MS: Berlin Staatsbibliothek Or. Oct. 1108</dc:subject>
+      <dc:subject>MS: Sinai, Ar. 54, Ar. 72</dc:subject>
+      <dc:subject>MS: Sinai, Ar. 54,  Ar. 74</dc:subject>
+      <dc:subject>MS: Sinai, Ar. 54, Ar. 97</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Borg.</dc:subject>
+      <dc:subject>Ar. 95</dc:subject>
+      <dc:subject>MS: Berlin, Staatsbibliothek, Or. Oct. 1108.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1644,7 +1819,9 @@ of Mt. Sinai and the Task of Exegesis (with special focus on Sinai Ar. 72 and Lu
       <dc:title>Die sonntägliche Evangelienlesung im vorbyzantinischen Jerusalem,</dc:title>
       <bib:pages>350-359</bib:pages>
       <dc:date>1929-1930</dc:date>
-      <dc:subject>MS: Berlin BSS Or. oct. 1108</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Borg. ar. 95</dc:subject>
+      <dc:subject>MS: Berlin, BSS, Or. oct. 1108</dc:subject>
+      <dc:subject>MS: Leipzig, , (Tischendorf 31??).</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1667,8 +1844,8 @@ of Mt. Sinai and the Task of Exegesis (with special focus on Sinai Ar. 72 and Lu
       <dc:title>Vermischtes,</dc:title>
       <bib:pages>381-396</bib:pages>
       <dc:date>1861</dc:date>
-      <dc:subject>MS: Leipzig Universitätsbibliothek Cod. Tisch. 31</dc:subject>
-      <dc:subject>MS: Leipzig Universitätsbibliothek 37</dc:subject>
+      <dc:subject>MS: Leipzig, Universitätsbibliothek, Cod. Tisch. 31</dc:subject>
+      <dc:subject>MS: Leipzig, Universitätsbibliothek, 37.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1691,8 +1868,11 @@ of Mt. Sinai and the Task of Exegesis (with special focus on Sinai Ar. 72 and Lu
       <dc:title>Les lectionnaires de l’ancienne liturgie de Jérusalem,</dc:title>
       <bib:pages>71-92</bib:pages>
       <dc:date>2005</dc:date>
-      <dc:subject>MS: Vatican BAV Borg. ar. 95</dc:subject>
-      <dc:subject>MS: Leipzig  (Tischendorf 31??). (Tischendorf 31??)</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 116, Ar. 116</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Borg. ar. 95</dc:subject>
+      <dc:subject>MS: Berlin, BSS, Or. oct.</dc:subject>
+      <dc:subject>1108</dc:subject>
+      <dc:subject>MS: Leipzig,  (Tischendorf 31??)., (Tischendorf 31??).</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1717,6 +1897,8 @@ Orientalia </dc:title>
 de la columna árabe del BnF Suppl. grec. 911 (año 1043),</dc:title>
       <bib:pages>93-139</bib:pages>
       <dc:date>2005</dc:date>
+      <dc:subject>MS: Paris, BNF, Supp. Grec. 911</dc:subject>
+      <dc:subject>and St Petersburg, RNL, Gre. 290.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1741,6 +1923,8 @@ de la columna árabe del BnF Suppl. grec. 911 (año 1043),</dc:title>
 oriental inédito en Toledo (Ms. 387 de la BRC–LM),</dc:title>
       <bib:pages>173-192</bib:pages>
       <dc:date>2005</dc:date>
+      <dc:subject>MS: Toledo,  Biblioteca Regional, Biblioteca Regional</dc:subject>
+      <dc:subject>de Castilla-La Mancha, Ms. 387</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1764,7 +1948,7 @@ oriental inédito en Toledo (Ms. 387 de la BRC–LM),</dc:title>
 BnF (año 1043),</dc:title>
       <bib:pages>107-117</bib:pages>
       <dc:date>2003</dc:date>
-      <dc:subject>MS: Sinai  Ar. 151. Ar. 151</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 151., Ar. 151.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1789,8 +1973,12 @@ University of Ireland </dc:title>
 the Gospels,</dc:title>
       <bib:pages>241-259</bib:pages>
       <dc:date>1863</dc:date>
-      <dc:subject>MS: Leiden University Library Or. 225</dc:subject>
-      <dc:subject>MS: Leiden University Library Or. 1571</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Borg. Ar. 71</dc:subject>
+      <dc:subject>and Ar. 467</dc:subject>
+      <dc:subject>MS: Leiden, University Library, Or. 225</dc:subject>
+      <dc:subject>MS: Leiden, University Library, Or. 1571</dc:subject>
+      <dc:subject>MS: St Petersburg,  Institut of, Institut of</dc:subject>
+      <dc:subject>Oriental Manuscripts, D 226.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1814,8 +2002,12 @@ the Gospels,</dc:title>
 Evangelientextes,</dc:title>
       <bib:pages>188-211</bib:pages>
       <dc:date>1936</dc:date>
-      <dc:subject>MS: Leiden University Library Or. 225</dc:subject>
-      <dc:subject>MS: Leiden University Library Or. 1571</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Borg. Ar. 71</dc:subject>
+      <dc:subject>and Ar. 467</dc:subject>
+      <dc:subject>MS: Leiden, University Library, Or. 225</dc:subject>
+      <dc:subject>MS: Leiden, University Library, Or. 1571</dc:subject>
+      <dc:subject>MS: St Petersburg,  Institut of, Institut of</dc:subject>
+      <dc:subject>Oriental Manuscripts, D 226.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1838,6 +2030,8 @@ Evangelientextes,</dc:title>
       <dc:title>Von arabischen Evangelientexten in Handschriften des Universitäts-Bibliothek Leiden,</dc:title>
       <bib:pages>131-135</bib:pages>
       <dc:date>1940</dc:date>
+      <dc:subject>MS: Paris, BNF, Suppl. Grec. 911</dc:subject>
+      <dc:subject>and St Petersburg, RNL, Gre. 290.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1861,6 +2055,8 @@ Evangelientextes,</dc:title>
 manuscrito greco-árabe inédito del Evangelio de Lucas (BnF, Suppl. gr. 911, s. XI),</dc:title>
       <bib:pages>245-272</bib:pages>
       <dc:date>2005</dc:date>
+      <dc:subject>MS: Paris, BNF, Suppl. Grec. 911</dc:subject>
+      <dc:subject>and St Petersburg, RNL, Gre. 290.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1884,6 +2080,8 @@ Christiana Orientalia </dc:title>
       <dc:title>Nomina sacra </dc:title>
       <bib:pages>247-275</bib:pages>
       <dc:date>2003</dc:date>
+      <dc:subject>MS: Paris, BNF, Suppl. Grec.</dc:subject>
+      <dc:subject>911.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1913,6 +2111,7 @@ Christiana Orientalia </dc:title>
 in a Greek-Arabic Ms BnF Suppl. grec 911 (A.D. 1043),</dc:title>
       <bib:pages>79-102</bib:pages>
       <dc:date>2005</dc:date>
+      <dc:subject>MS: Paris, BNF, Suppl. Grec. 911</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1937,10 +2136,17 @@ Ste-Catherine (Mont Sinaï): Essai de classification d'après l'étude d'un chap
 Traducteurs, réviseurs, types textuels,</dc:title>
       <bib:pages>415-477</bib:pages>
       <dc:date>2003</dc:date>
-      <dc:subject>MS: Sinai Ar. 82 Ar. 154</dc:subject>
-      <dc:subject>MS: Sinai Ar. 82 Ar. 155</dc:subject>
-      <dc:subject>MS: Munich  Staatsbibliothek Ar. 238; London, BL, Ar. Staatsbibliothek Ar. 238</dc:subject>
-      <dc:subject>MS: Leiden University Library Or. 2378</dc:subject>
+      <dc:subject>MS: : Vatican, BAV, Ar. 13 (pl. 21)</dc:subject>
+      <dc:subject>MS: : Vatican, BAV,  Ar. 17</dc:subject>
+      <dc:subject>MS: : Vatican, BAV, </dc:subject>
+      <dc:subject>Ar. 18, Borg. Ar. 71, Borg. Ar. 95 (pl. 23), and Copt. 9</dc:subject>
+      <dc:subject>MS: Sinai, Ar. 82, Ar. 154</dc:subject>
+      <dc:subject>MS: Sinai, Ar. 82, Ar. 155</dc:subject>
+      <dc:subject>MS: Berlin, Staatsbibliothek, Or. Quart. 2101</dc:subject>
+      <dc:subject>MS: Munich,  Staatsbibliothek Ar. 238, Staatsbibliothek Ar. 238</dc:subject>
+      <dc:subject>MS: London, BL, Ar.</dc:subject>
+      <dc:subject>Suppl. 5</dc:subject>
+      <dc:subject>MS: Leiden, University Library, Or. 2378.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1964,6 +2170,8 @@ Traducteurs, réviseurs, types textuels,</dc:title>
 Arabic Diatesseron,</dc:title>
       <bib:pages>151-155</bib:pages>
       <dc:date>1975</dc:date>
+      <dc:subject>MS: Oxford, Bodleian Library, Ar.</dc:subject>
+      <dc:subject>e. 63</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1987,7 +2195,7 @@ Arabic Diatesseron,</dc:title>
 Diatessaron,</dc:title>
       <bib:pages>301-307</bib:pages>
       <dc:date>1897</dc:date>
-      <dc:subject>MS: Beirut Bibliotheque Orientale 429</dc:subject>
+      <dc:subject>MS: Beirut, Bibliotheque Orientale, 429.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2011,7 +2219,10 @@ Society of Biblical Literature</dc:title>
       <dc:title>Luke 1-2 in Tatian's Diatessaron,</dc:title>
       <bib:pages>193-222</bib:pages>
       <dc:date>1994</dc:date>
-      <dc:subject>MS: Cairo 202; Oxford Bodl. Ar. e. 163</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 14</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Borg. Ar 250</dc:subject>
+      <dc:subject>MS: , Cairo 202, Cairo 202</dc:subject>
+      <dc:subject>MS: Oxford, Bodl., Ar. e. 163.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2035,7 +2246,10 @@ Society of Biblical Literature</dc:title>
 Introduction to the Arabic Diatessaron,</dc:title>
       <bib:pages>72-129</bib:pages>
       <dc:date>1999</dc:date>
-      <dc:subject>MS:   Cairo 202; Cairo 202</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 14</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Borg. Ar 250</dc:subject>
+      <dc:subject>MS: , Cairo 202, Cairo 202</dc:subject>
+      <dc:subject>MS: Oxford, Bodl., Ar. e. 163.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2059,8 +2273,14 @@ Syrian</dc:title>
       <dc:title>Le Diatessaron de Tatien,</dc:title>
       <bib:pages>216-227</bib:pages>
       <dc:date>1956</dc:date>
-      <dc:subject>MS:   Cairo 202 (COP); Sbath Cairo 202 (COP)</dc:subject>
-      <dc:subject>MS: Oxford Bodl. Ar. e. 163</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 14</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Borg. Ar. 250</dc:subject>
+      <dc:subject>MS: , Cairo 202 (COP), Cairo 202 (COP)</dc:subject>
+      <dc:subject>MS: , Sbath, Sbath</dc:subject>
+      <dc:subject>1020 and 1280</dc:subject>
+      <dc:subject>MS: Oxford, Bodl., Ar. e. 163</dc:subject>
+      <dc:subject>MS: London, BL, Or 3382</dc:subject>
+      <dc:subject>MS: London, BL,  Beirut Fragments?</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2084,7 +2304,8 @@ Theological Studies</dc:title>
       <dc:title>Ibn al-ʿAssāl</dc:title>
       <bib:pages>73-75</bib:pages>
       <dc:date>1943</dc:date>
-      <dc:subject>MS: Munich Bayrische Staatsbibliothek Cod. 238</dc:subject>
+      <dc:subject>MS: Fes, Al-Qarawiyyin University Library, Cod. 730</dc:subject>
+      <dc:subject>MS: Munich, Bayrische Staatsbibliothek, Cod. 238.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2107,7 +2328,8 @@ Theological Studies</dc:title>
       <dc:title>La version arabe des évangiles d’al As‘ad ibn al-‘Assāl,</dc:title>
       <bib:pages>441-451</bib:pages>
       <dc:date>1994</dc:date>
-      <dc:subject>MS: Munich Bayrische Staatsbibliothek Cod. 238</dc:subject>
+      <dc:subject>MS: Fes, Al-Qarawiyyin University Library, Cod. 730</dc:subject>
+      <dc:subject>MS: Munich, Bayrische Staatsbibliothek, Cod. 238.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2131,7 +2353,8 @@ Theological Studies</dc:title>
 quattro Vangeli</dc:title>
       <bib:pages>47-120</bib:pages>
       <dc:date>2006</dc:date>
-      <dc:subject>MS: Munich Bayrische Staatsbibliothek Cod. 238</dc:subject>
+      <dc:subject>MS: Fes, Al-Qarawiyyin University Library, Cod. 730</dc:subject>
+      <dc:subject>MS: Munich, Bayrische Staatsbibliothek, Cod. 238.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2154,7 +2377,8 @@ quattro Vangeli</dc:title>
       <dc:title>Zu dem spanisch-arabischen Evangelienfragment,</dc:title>
       <bib:pages>201</bib:pages>
       <dc:date>1903</dc:date>
-      <dc:subject>MS: Munich Bayrische Staatsbibliothek Cod. 238</dc:subject>
+      <dc:subject>MS: Fes, Al-Qarawiyyin University Library, Cod. 730</dc:subject>
+      <dc:subject>MS: Munich, Bayrische Staatsbibliothek, Cod. 238.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2184,6 +2408,8 @@ quattro Vangeli</dc:title>
 spanisch-arabisches Evangelienfragment,</dc:title>
       <bib:pages>633-648</bib:pages>
       <dc:date>1902</dc:date>
+      <dc:subject>MS: Munich, Bayrische Staatsbibliothek, Ar.</dc:subject>
+      <dc:subject>238.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2208,6 +2434,8 @@ monarchianistischen Prologe zu den vier Evangelien in der spanisch-arabischen Bi
 Isaak Velasquez nach der Münchener Handschrift Cod. Arab. 238,</dc:title>
       <bib:pages>80-99</bib:pages>
       <dc:date>1935</dc:date>
+      <dc:subject>MS: Munich, Bayrische Staatsbibliothek, Ar.</dc:subject>
+      <dc:subject>238.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2231,6 +2459,7 @@ Isaak Velasquez nach der Münchener Handschrift Cod. Arab. 238,</dc:title>
 Ussher,</dc:title>
       <bib:pages>269-315</bib:pages>
       <dc:date>1877-1886</dc:date>
+      <dc:subject>MS: Sinai,  Ar. 154, Ar. 154</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2253,6 +2482,7 @@ Ussher,</dc:title>
       <dc:title>The Older Syriac Version of the four minor Catholic Epistles,</dc:title>
       <bib:pages>281-314</bib:pages>
       <dc:date>1890</dc:date>
+      <dc:subject>MS: Sinai,  Ar. 154, Ar. 154</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2276,7 +2506,7 @@ Ussher,</dc:title>
 the Hebrews according to Mt Sinai Arabic manuscript 151,</dc:title>
       <bib:pages>51-53</bib:pages>
       <dc:date>1967</dc:date>
-      <dc:subject>MS: Sinai  Ar. 151. Ar. 151</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 151., Ar. 151.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2300,8 +2530,10 @@ the Hebrews according to Mt Sinai Arabic manuscript 151,</dc:title>
 de Santiago’, guardado en la Biblioteca de El Escorial,</dc:title>
       <bib:pages>231-233 </bib:pages>
       <dc:date>1998</dc:date>
-      <dc:subject>MS: Sinai Ar. 72; 151;Vatican BAV</dc:subject>
-      <dc:subject>MS: Sinai Ar. 72; 151;Vatican  Ar. 13</dc:subject>
+      <dc:subject>MS: Madrid, Esc, Ar. 1625</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 72, Ar. 72</dc:subject>
+      <dc:subject>MS: , 151, 151</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 13.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2324,7 +2556,7 @@ de Santiago’, guardado en la Biblioteca de El Escorial,</dc:title>
       <dc:title>Arabische Übersetzungen der Apokalypse,</dc:title>
       <bib:pages>170-194</bib:pages>
       <dc:date>1929</dc:date>
-      <dc:subject>MS: Paris BNF Ar. 132</dc:subject>
+      <dc:subject>MS: Paris, BNF, Ar. 132.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2349,7 +2581,7 @@ de Santiago’, guardado en la Biblioteca de El Escorial,</dc:title>
 el Cod. Ár. 1625 de la Biblioteca de El Escorial: Estudio y edición,</dc:title>
       <bib:pages>147-180</bib:pages>
       <dc:date>2000</dc:date>
-      <dc:subject>MS: Paris BNF Ar. 132</dc:subject>
+      <dc:subject>MS: Paris, BNF, Ar. 132.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2373,7 +2605,9 @@ el Cod. Ár. 1625 de la Biblioteca de El Escorial: Estudio y edición,</dc:title
 of Paul,</dc:title>
       <bib:pages>131-164</bib:pages>
       <dc:date>1999</dc:date>
-      <dc:subject>MS: Oxford Bodl. Or. 251</dc:subject>
+      <dc:subject>MS: Paris, BNF, Ar. 132</dc:subject>
+      <dc:subject>MS: Oxford, Bodl., Or. 251</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 462</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2397,7 +2631,9 @@ of Paul,</dc:title>
 Arabisch-Äthiopischen Petrusapokalypse,</dc:title>
       <bib:pages>493</bib:pages>
       <dc:date>1893</dc:date>
-      <dc:subject>MS: Oxford Bodl. Or. 251</dc:subject>
+      <dc:subject>MS: Paris, BNF, Ar. 132</dc:subject>
+      <dc:subject>MS: Oxford, Bodl., Or. 251</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 462</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2420,7 +2656,9 @@ Arabisch-Äthiopischen Petrusapokalypse,</dc:title>
       <dc:title>Fragments from an Arabic Version of Two Infancy Gospels,</dc:title>
       <bib:pages>105-114</bib:pages>
       <dc:date>1962</dc:date>
-      <dc:subject>MS: Oxford Bodl. Or. 251</dc:subject>
+      <dc:subject>MS: Paris, BNF, Ar. 132</dc:subject>
+      <dc:subject>MS: Oxford, Bodl., Or. 251</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 462</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2445,7 +2683,7 @@ l’Orient </dc:title>
 IV Ezra and the Apocalypse of Baruch in Ms Mount Sinai Arabic 589,</dc:title>
       <bib:pages>165-178</bib:pages>
       <dc:date>1999</dc:date>
-      <dc:subject>MS: Sinai  Ar. 589. Ar. 589</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 589., Ar. 589.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2469,8 +2707,8 @@ IV Ezra and the Apocalypse of Baruch in Ms Mount Sinai Arabic 589,</dc:title>
 Ezra: characteristics and relevance of an early Arabic translation of the Syriac text,</dc:title>
       <bib:pages>401-422</bib:pages>
       <dc:date>1992</dc:date>
-      <dc:subject>MS: Sinai Ar. 589 and Berlin Staatsbibliothek</dc:subject>
-      <dc:subject>MS: Sinai Ar. 589 and Berlin  Spreng. 30</dc:subject>
+      <dc:subject>MS: Sinai, Ar. 589 and Berlin, Staatsbibliothek</dc:subject>
+      <dc:subject>MS: Sinai, Ar. 589 and Berlin,  Spreng. 30.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2494,10 +2732,13 @@ Ezra: characteristics and relevance of an early Arabic translation of the Syriac
 à Carthagène en version arabe,</dc:title>
       <bib:pages>120-145</bib:pages>
       <dc:date>1995</dc:date>
-      <dc:subject>MS: Oxford Bodl. Nicoll 49; Vatican BAV</dc:subject>
-      <dc:subject>MS: Oxford Bodl. Nicoll 49; Vatican  Ar. 694</dc:subject>
-      <dc:subject>MS: Oxford Bodl. Nicoll 49; Vatican  Sbath</dc:subject>
-      <dc:subject>MS: Oxford Bodl. Nicoll 49; Vatican  68</dc:subject>
+      <dc:subject>MS: Cambridge, CUL, Or. 1287</dc:subject>
+      <dc:subject>MS: Oxford,  Bodl. Nicoll 49, Bodl. Nicoll 49</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 694</dc:subject>
+      <dc:subject>MS: Vatican, BAV,  Sbath</dc:subject>
+      <dc:subject>MS: Vatican, BAV,  68</dc:subject>
+      <dc:subject>MS: Sinai, Ar. 397, Ar. 469</dc:subject>
+      <dc:subject>MS: Sinai, Ar. 397, Ar. 553.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2520,8 +2761,11 @@ Ezra: characteristics and relevance of an early Arabic translation of the Syriac
       <dc:title>Les actes apocryphes de Thomas en version arabe,</dc:title>
       <bib:pages>11-77</bib:pages>
       <dc:date>1987</dc:date>
-      <dc:subject>MS: London BL Add. 30851</dc:subject>
-      <dc:subject>MS: Munich Staatsbibliothek Ar. 238</dc:subject>
+      <dc:subject>MS: Paris, BNF, Ar. 1</dc:subject>
+      <dc:subject>MS: London, BL, Add. 30851</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 5</dc:subject>
+      <dc:subject>MS: Munich, Staatsbibliothek, Ar. 238</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 155., Ar. 155.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2545,8 +2789,11 @@ Ezra: characteristics and relevance of an early Arabic translation of the Syriac
 Alexandria,</dc:title>
       <bib:pages>120-134</bib:pages>
       <dc:date>1904</dc:date>
-      <dc:subject>MS: London BL Add. 30851</dc:subject>
-      <dc:subject>MS: Munich Staatsbibliothek Ar. 238</dc:subject>
+      <dc:subject>MS: Paris, BNF, Ar. 1</dc:subject>
+      <dc:subject>MS: London, BL, Add. 30851</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 5</dc:subject>
+      <dc:subject>MS: Munich, Staatsbibliothek, Ar. 238</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 155., Ar. 155.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2571,8 +2818,11 @@ Gesellschaft der Wissenschaften zu Göttingen</dc:title>
 Übersetzungen und einer neuen Wiederherstellung,</dc:title>
       <bib:pages>133-230</bib:pages>
       <dc:date>1864</dc:date>
-      <dc:subject>MS: London BL Add. 30851</dc:subject>
-      <dc:subject>MS: Munich Staatsbibliothek Ar. 238</dc:subject>
+      <dc:subject>MS: Paris, BNF, Ar. 1</dc:subject>
+      <dc:subject>MS: London, BL, Add. 30851</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 5</dc:subject>
+      <dc:subject>MS: Munich, Staatsbibliothek, Ar. 238</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 155., Ar. 155.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2596,8 +2846,11 @@ Wissenschaften zu Göttingen</dc:title>
       <dc:title>Über eine arabische Bearbeitung des vierten Ezrabuches,</dc:title>
       <bib:pages>163-180</bib:pages>
       <dc:date>1863</dc:date>
-      <dc:subject>MS: London BL Add. 30851</dc:subject>
-      <dc:subject>MS: Munich Staatsbibliothek Ar. 238</dc:subject>
+      <dc:subject>MS: Paris, BNF, Ar. 1</dc:subject>
+      <dc:subject>MS: London, BL, Add. 30851</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 5</dc:subject>
+      <dc:subject>MS: Munich, Staatsbibliothek, Ar. 238</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 155., Ar. 155.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2620,8 +2873,11 @@ Wissenschaften zu Göttingen</dc:title>
       <dc:title>Versions arabes de Ben Sira,</dc:title>
       <bib:pages>65-78</bib:pages>
       <dc:date>2005</dc:date>
-      <dc:subject>MS: London BL Add. 30851</dc:subject>
-      <dc:subject>MS: Munich Staatsbibliothek Ar. 238</dc:subject>
+      <dc:subject>MS: Paris, BNF, Ar. 1</dc:subject>
+      <dc:subject>MS: London, BL, Add. 30851</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 5</dc:subject>
+      <dc:subject>MS: Munich, Staatsbibliothek, Ar. 238</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 155., Ar. 155.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2644,8 +2900,8 @@ Wissenschaften zu Göttingen</dc:title>
       <dc:title>'Protoevangelii Iacobi' Versio arabica antiquior,</dc:title>
       <bib:pages>377-396</bib:pages>
       <dc:date>1973</dc:date>
-      <dc:subject>MS: Sinai Ar. 436 Ar. 535</dc:subject>
-      <dc:subject>MS: Sinai Ar. 436 Ar. 556</dc:subject>
+      <dc:subject>MS: Sinai, Ar. 436, Ar. 535</dc:subject>
+      <dc:subject>MS: Sinai, Ar. 436, Ar. 556.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2669,6 +2925,7 @@ Wissenschaften zu Göttingen</dc:title>
 etiopici,</dc:title>
       <bib:pages>1-66</bib:pages>
       <dc:date>1888</dc:date>
+      <dc:subject>MS: Oxford, Bodleian Library, Or. 251</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2694,6 +2951,8 @@ Johannes-Apokalypse,</dc:title>
       <bib:pages>25-39</bib:pages>
       <dc:date>1959</dc:date>
       <dc:date>1960</dc:date>
+      <dc:subject>MS: Birmingham, Mingana, Chr.</dc:subject>
+      <dc:subject>Arab. 94.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2717,6 +2976,7 @@ Johannes-Apokalypse,</dc:title>
 the Apocalypse of Baruch,</dc:title>
       <bib:pages>205-207</bib:pages>
       <dc:date>1975</dc:date>
+      <dc:subject>MS: Sinai,  Ar. 589, Ar. 589</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2742,7 +3002,7 @@ the Apocalypse of Baruch,</dc:title>
       <dc:title>,</dc:title>
       <bib:pages>219-233</bib:pages>
       <dc:date>1955</dc:date>
-      <dc:subject>MS: Paris BNF Ar. 132</dc:subject>
+      <dc:subject>MS: Paris, BNF, Ar. 132.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2766,7 +3026,7 @@ the Apocalypse of Baruch,</dc:title>
 Text?,</dc:title>
       <bib:pages>19-26</bib:pages>
       <dc:date>1989</dc:date>
-      <dc:subject>MS: Paris BNF Ar. 132</dc:subject>
+      <dc:subject>MS: Paris, BNF, Ar. 132.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2789,8 +3049,12 @@ Text?,</dc:title>
       <dc:title>Ergänzendes zum apokryphen Johannesevangelium,</dc:title>
       <bib:pages>137-144</bib:pages>
       <dc:date>1961</dc:date>
-      <dc:subject>MS: London BL Or. 1326</dc:subject>
-      <dc:subject>MS: Sinai  Ar. 151; Escorial Cod. Ar. 1625. Ar. 151</dc:subject>
+      <dc:subject>MS: London, BL, Or. 1326</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 13</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar.</dc:subject>
+      <dc:subject>468</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 151, Ar. 151</dc:subject>
+      <dc:subject>MS: , Escorial Cod. Ar. 1625., Escorial Cod. Ar. 1625.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2813,8 +3077,12 @@ Text?,</dc:title>
       <dc:title>L’apocalypse arabe de Daniel publiée, traduit et annotée</dc:title>
       <bib:pages>265-305</bib:pages>
       <dc:date>1904</dc:date>
-      <dc:subject>MS: London BL Or. 1326</dc:subject>
-      <dc:subject>MS: Sinai  Ar. 151; Escorial Cod. Ar. 1625. Ar. 151</dc:subject>
+      <dc:subject>MS: London, BL, Or. 1326</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 13</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar.</dc:subject>
+      <dc:subject>468</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 151, Ar. 151</dc:subject>
+      <dc:subject>MS: , Escorial Cod. Ar. 1625., Escorial Cod. Ar. 1625.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2838,8 +3106,12 @@ Studies</dc:title>
       <dc:title>The Apocalypse of Peter,</dc:title>
       <bib:pages>93-152, 209-282, 349-407</bib:pages>
       <dc:date>1931</dc:date>
-      <dc:subject>MS: London BL Or. 1326</dc:subject>
-      <dc:subject>MS: Sinai  Ar. 151; Escorial Cod. Ar. 1625. Ar. 151</dc:subject>
+      <dc:subject>MS: London, BL, Or. 1326</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 13</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar.</dc:subject>
+      <dc:subject>468</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 151, Ar. 151</dc:subject>
+      <dc:subject>MS: , Escorial Cod. Ar. 1625., Escorial Cod. Ar. 1625.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2869,7 +3141,10 @@ Studies</dc:title>
 la ‘Epístola apócrifa a los Laodicenses,</dc:title>
       <bib:pages>113-151</bib:pages>
       <dc:date>1998</dc:date>
-      <dc:subject>MS: Sinai  Ar. 539. Ar. 539</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 171</dc:subject>
+      <dc:subject>MS: Vatican, BAV,  Ar.</dc:subject>
+      <dc:subject>694, Syr. 199</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 539., Ar. 539.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2893,7 +3168,10 @@ la ‘Epístola apócrifa a los Laodicenses,</dc:title>
 Gollius,</dc:title>
       <bib:pages>132-134</bib:pages>
       <dc:date>1923</dc:date>
-      <dc:subject>MS: Sinai  Ar. 539. Ar. 539</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 171</dc:subject>
+      <dc:subject>MS: Vatican, BAV,  Ar.</dc:subject>
+      <dc:subject>694, Syr. 199</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 539., Ar. 539.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2918,6 +3196,7 @@ Theologie</dc:title>
 Berichtigungen zu der arabischen Uebersetzung,</dc:title>
       <bib:pages>396-433</bib:pages>
       <dc:date>1868</dc:date>
+      <dc:subject>MS: Sinai,  Arabic 589, Arabic 589</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2941,6 +3220,7 @@ Berichtigungen zu der arabischen Uebersetzung,</dc:title>
 Book of Ezra,</dc:title>
       <bib:pages>183-184</bib:pages>
       <dc:date>1977</dc:date>
+      <dc:subject>MS: Sinai,  Arabic 589, Arabic 589</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2964,9 +3244,14 @@ Book of Ezra,</dc:title>
 langue arabe, ou deux apologies du christianisme</dc:title>
       <bib:pages>69-133</bib:pages>
       <dc:date>1976</dc:date>
-      <dc:subject>MS:   Ar. 441 (fols 121-227); Ar. 441 (fols 121-227)</dc:subject>
-      <dc:subject>MS: Vatican Biblioteca Vaticana Ar. 491</dc:subject>
-      <dc:subject>MS: Jerusalem St. Anne 33</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 75 (fols 102-223), Ar. 75 (fols 102-223)</dc:subject>
+      <dc:subject>MS: , Ar. 441 (fols 121-227), Ar. 441 (fols 121-227)</dc:subject>
+      <dc:subject>MS: , Ar. 436 (?), Ar. 436 (?)</dc:subject>
+      <dc:subject>MS: Vatican, Biblioteca Vaticana, Ar. 491</dc:subject>
+      <dc:subject>MS: , Ar. 645 (fols 184-192), Ar. 645 (fols 184-192)</dc:subject>
+      <dc:subject>MS: Jerusalem, St. Anne, 33</dc:subject>
+      <dc:subject>MS: Cairo, Coptic Orthodox Patriarchate, Theol. 209</dc:subject>
+      <dc:subject>(Simaika 238)</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2989,6 +3274,8 @@ langue arabe, ou deux apologies du christianisme</dc:title>
       <dc:title>A tract on the triune nature of God</dc:title>
       <bib:pages>75-86</bib:pages>
       <dc:date>1901</dc:date>
+      <dc:subject>MS: St. Petersburg, RNL, Yevr. II</dc:subject>
+      <dc:subject>C 1/2</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3011,6 +3298,8 @@ langue arabe, ou deux apologies du christianisme</dc:title>
       <dc:title>Notes sur les citations bibliques chez Abū Qurrah,</dc:title>
       <bib:pages>184-91</bib:pages>
       <dc:date>1983</dc:date>
+      <dc:subject>MS: St. Petersburg, RNL, Yevr. II</dc:subject>
+      <dc:subject>C 1/2</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3033,6 +3322,8 @@ langue arabe, ou deux apologies du christianisme</dc:title>
       <dc:title>The Bible Text of Theodore Abu Qurrah,</dc:title>
       <bib:pages>52-54</bib:pages>
       <dc:date>1933</dc:date>
+      <dc:subject>MS: St. Petersburg, RNL, Yevr. II</dc:subject>
+      <dc:subject>C 1/2</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3056,6 +3347,8 @@ langue arabe, ou deux apologies du christianisme</dc:title>
 I et le calife al-Mahdî (II/VIII siècle): ‘Mohammed a suivi la voie des prophètes’,</dc:title>
       <bib:pages>107-175</bib:pages>
       <dc:date>1977</dc:date>
+      <dc:subject>MS: St. Petersburg, RNL, Yevr. II</dc:subject>
+      <dc:subject>C 1/2</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3080,6 +3373,8 @@ Caliph al-Mahdi and Timothy the Patriarch,</dc:title>
       <bib:pages>359-374</bib:pages>
       <bib:pages>408-418</bib:pages>
       <dc:date>1921</dc:date>
+      <dc:subject>MS: St. Petersburg, RNL, Yevr. II</dc:subject>
+      <dc:subject>C 1/2</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3109,6 +3404,8 @@ Caliph al-Mahdi and Timothy the Patriarch,</dc:title>
 Translations to Judeo-Arabic,</dc:title>
       <bib:pages>4-14</bib:pages>
       <dc:date>2000</dc:date>
+      <dc:subject>MS: St. Petersburg, RNL, Yevr. II</dc:subject>
+      <dc:subject>C 1/2</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3132,6 +3429,9 @@ Translations to Judeo-Arabic,</dc:title>
 Pentateuch,</dc:title>
       <bib:pages>1-9</bib:pages>
       <dc:date>2001</dc:date>
+      <dc:subject>MS: ,  Violet fragment and Bryn Mawr, Violet fragment</dc:subject>
+      <dc:subject>MS: ,  Violet fragment and Bryn Mawr, Bryn Mawr</dc:subject>
+      <dc:subject>College Library, BV 47 (formerly Zurich Or. 94).</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3155,6 +3455,9 @@ Pentateuch,</dc:title>
 Targum Rasag la-Torah,</dc:title>
       <bib:pages>111</bib:pages>
       <dc:date>1998</dc:date>
+      <dc:subject>MS: ,  Violet fragment and Bryn Mawr, Violet fragment</dc:subject>
+      <dc:subject>MS: ,  Violet fragment and Bryn Mawr, Bryn Mawr</dc:subject>
+      <dc:subject>College Library, BV 47 (formerly Zurich Or. 94).</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3178,6 +3481,9 @@ Targum Rasag la-Torah,</dc:title>
 arabische Psaltertexte,</dc:title>
       <bib:pages>337-341</bib:pages>
       <dc:date>1943</dc:date>
+      <dc:subject>MS: ,  Violet fragment and Bryn Mawr, Violet fragment</dc:subject>
+      <dc:subject>MS: ,  Violet fragment and Bryn Mawr, Bryn Mawr</dc:subject>
+      <dc:subject>College Library, BV 47 (formerly Zurich Or. 94).</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3202,7 +3508,7 @@ Wissenschaften</dc:title>
 arabische Psalmenübersetzung des R. Saadia Gaon: mit einer Probe,</dc:title>
       <bib:pages>354-410</bib:pages>
       <dc:date>1841</dc:date>
-      <dc:subject>MS: Vatican BAV Barberini Or. 1</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Barberini Or. 1.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3226,7 +3532,7 @@ arabische Psalmenübersetzung des R. Saadia Gaon: mit einer Probe,</dc:title>
 Proverbs 31:1–9,</dc:title>
       <bib:pages>393-409</bib:pages>
       <dc:date>2002</dc:date>
-      <dc:subject>MS: Vatican BAV Barberini Or. 1</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Barberini Or. 1.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3251,8 +3557,13 @@ Proverbs 31:1–9,</dc:title>
 de scholiis, quae codicibus Parisiensibus n. 2 et 4 adscripta sunt,</dc:title>
       <bib:pages>113-157</bib:pages>
       <dc:date>1846</dc:date>
-      <dc:subject>MS: Berlin Staatsbibliothek Petermann 3</dc:subject>
-      <dc:subject>MS: St Petersburg NRL Sam 179</dc:subject>
+      <dc:subject>MS: Berlin, Staatsbibliothek, Petermann 3</dc:subject>
+      <dc:subject>MS: London, BL, Or.</dc:subject>
+      <dc:subject>7562</dc:subject>
+      <dc:subject>MS: St Petersburg, NRL, Sam 179</dc:subject>
+      <dc:subject>MS: Oxford, Bodl., Or. 139</dc:subject>
+      <dc:subject>MS: , Uss., Uss.</dc:subject>
+      <dc:subject>II, John Ryland.</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3275,6 +3586,7 @@ de scholiis, quae codicibus Parisiensibus n. 2 et 4 adscripta sunt,</dc:title>
       <dc:title>Las versions árabes del Pentateuco entre los Samaritanos,</dc:title>
       <bib:pages>299-301</bib:pages>
       <dc:date>1959</dc:date>
+      <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3299,6 +3611,7 @@ Relations</dc:title>
 Fourteenth Centuries: An Exegetical Inventorial Table,</dc:title>
       <bib:pages>67-91, 205-220, 337-352, 459-479</bib:pages>
       <dc:date>2003</dc:date>
+      <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3321,6 +3634,7 @@ Fourteenth Centuries: An Exegetical Inventorial Table,</dc:title>
       <dc:title>Muhammedanische Weissagungen im Alten Testament,</dc:title>
       <bib:pages>309-311</bib:pages>
       <dc:date>1895</dc:date>
+      <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3343,6 +3657,7 @@ Fourteenth Centuries: An Exegetical Inventorial Table,</dc:title>
       <dc:title>Muhammedanische Weissagungen im Alten Testament,</dc:title>
       <bib:pages>135-42</bib:pages>
       <dc:date>1895</dc:date>
+      <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3365,6 +3680,7 @@ Fourteenth Centuries: An Exegetical Inventorial Table,</dc:title>
       <dc:title>L'Évangile selon Wahb ibn Munabbih et sa famille,</dc:title>
       <bib:pages>127-203</bib:pages>
       <dc:date>2010</dc:date>
+      <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3388,6 +3704,7 @@ Fourteenth Centuries: An Exegetical Inventorial Table,</dc:title>
 Vangelo?,</dc:title>
       <bib:pages>355-357</bib:pages>
       <dc:date>1901</dc:date>
+      <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3410,6 +3727,7 @@ Vangelo?,</dc:title>
       <dc:title>Matth. VII, 5 in der muhammedanischen Literatur,</dc:title>
       <bib:pages>765-767</bib:pages>
       <dc:date>1877</dc:date>
+      <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3432,6 +3750,7 @@ Vangelo?,</dc:title>
       <dc:title>Ueber muhammedanische Polemik gegen Ahl al-Kitāb,</dc:title>
       <bib:pages>341-378</bib:pages>
       <dc:date>1878</dc:date>
+      <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3454,6 +3773,7 @@ Vangelo?,</dc:title>
       <dc:title>Ueber muhammedanische Polemik gegen Ahl al-Kitāb,</dc:title>
       <bib:pages>315-321</bib:pages>
       <dc:date>1893</dc:date>
+      <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3477,6 +3797,7 @@ Vangelo?,</dc:title>
 traduits en arabe,</dc:title>
       <bib:pages>1-46</bib:pages>
       <dc:date>1958</dc:date>
+      <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3501,6 +3822,7 @@ citations de la Bible dans les premières générations islamique du et du deuxi
 l'Hégire,</dc:title>
       <bib:pages>269-278</bib:pages>
       <dc:date>1989</dc:date>
+      <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3524,6 +3846,7 @@ l'Hégire,</dc:title>
 versions árabes del Padre Nuestro,</dc:title>
       <bib:pages>277-305</bib:pages>
       <dc:date>2000</dc:date>
+      <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3547,6 +3870,7 @@ versions árabes del Padre Nuestro,</dc:title>
 Muhammedanern,</dc:title>
       <bib:pages>591-675</bib:pages>
       <dc:date>1888</dc:date>
+      <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3571,6 +3895,7 @@ and Ireland</dc:title>
 the Gospels into Arabic,</dc:title>
       <bib:pages>172-173</bib:pages>
       <dc:date>1837</dc:date>
+      <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3593,6 +3918,7 @@ the Gospels into Arabic,</dc:title>
       <dc:title>Zu der von al-Gahiz citierten Übersetzung aus Jesaja,</dc:title>
       <bib:pages>542-544</bib:pages>
       <dc:date>1901</dc:date>
+      <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3615,6 +3941,7 @@ the Gospels into Arabic,</dc:title>
       <dc:title>Text Generation and the Saturation of Meaning</dc:title>
       <bib:pages>30-81</bib:pages>
       <dc:date>1988</dc:date>
+      <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3638,6 +3965,7 @@ Intellectual and Cultural Studies</dc:title>
       <dc:title>Fiṣal</dc:title>
       <bib:pages>127-146</bib:pages>
       <dc:date>2002</dc:date>
+      <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3660,6 +3988,7 @@ Intellectual and Cultural Studies</dc:title>
       <dc:title>Die älteste arabische Genesisübersetzung,</dc:title>
       <bib:pages>333-343</bib:pages>
       <dc:date>1965</dc:date>
+      <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3683,6 +4012,7 @@ Intellectual and Cultural Studies</dc:title>
 Unsolved Problem,</dc:title>
       <bib:pages>130-40</bib:pages>
       <dc:date>1939</dc:date>
+      <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3706,6 +4036,7 @@ Unsolved Problem,</dc:title>
 the Bible to Interpret the Qurʾān,</dc:title>
       <bib:pages>629-654</bib:pages>
       <dc:date>2008</dc:date>
+      <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3729,6 +4060,7 @@ the Bible to Interpret the Qurʾān,</dc:title>
       <dc:title>A Muslim Torah from India,</dc:title>
       <bib:pages>232-239</bib:pages>
       <dc:date>1925</dc:date>
+      <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3751,5 +4083,6 @@ the Bible to Interpret the Qurʾān,</dc:title>
       <dc:title>Quelques Legendes Islamiques Apocryphes,</dc:title>
       <bib:pages>33-56</bib:pages>
       <dc:date>1910</dc:date>
+      <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
    </bib:Article>
 </rdf:RDF>

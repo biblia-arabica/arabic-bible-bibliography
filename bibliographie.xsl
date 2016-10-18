@@ -227,28 +227,23 @@
                                     </xsl:choose>   
                             </xsl:for-each>
                                 <xsl:if test="$mss">
-                                    <xsl:variable name="mss-preface-regex" select="'^\s*[Mm][Ss][Ss]\.?:?'"/>
+                                    <xsl:variable name="mss-preface-regex" select="'^\s*(([Mm][Ss][Ss]\.?:?)|(and)?)'"/>
                                     <xsl:variable name="mss-city-regex" select="'(\s*(.*?),)?'"/>
                                     <xsl:variable name="mss-collection-regex" select="'(\s*(.*?),)?'"/>
-                                    <xsl:variable name="mss-item-regex" select="'(\s*(.*?))(;|(\.?$))+?'"/>
-                                    <xsl:variable name="mss-multi-preface-regex" select="';(\sand)?'"/>
-                                    <xsl:analyze-string select="$mss" regex="{concat($mss-multi-preface-regex,$mss-city-regex, $mss-collection-regex,$mss-item-regex)}">
-                                        <xsl:matching-substring>
-                                            <xsl:for-each select="tokenize(regex-group(7),'(,(\sand\s)?)|\sand\s')">
-                                                <dc:subject><xsl:value-of select="concat('MS: ',regex-group(3),' ',regex-group(5),' ',.)"/></dc:subject>
-                                            </xsl:for-each>
-                                        </xsl:matching-substring>
-                                        <!-- second part of this is not processing correctly -->
-                                        <xsl:non-matching-substring>
-                                            <xsl:analyze-string select="." regex="{concat($mss-preface-regex,$mss-city-regex, $mss-collection-regex,$mss-item-regex)}">
-                                                <xsl:matching-substring>
-                                                    <xsl:for-each select="tokenize(regex-group(6),'(,(\sand\s)?)|\sand\s')">
-                                                        <dc:subject><xsl:value-of select="concat('MS: ',regex-group(2),' ',regex-group(4),' ',.)"/></dc:subject>
-                                                    </xsl:for-each>
-                                                </xsl:matching-substring>
-                                            </xsl:analyze-string>
-                                        </xsl:non-matching-substring>
-                                    </xsl:analyze-string>
+                                    <xsl:variable name="mss-item-regex" select="'(\s*(.+))\s*$?'"/>
+                                    <xsl:variable name="mss-tokenized" select="tokenize($mss,'\s*;\s*')"/>
+                                    <xsl:for-each select="$mss-tokenized">
+                                        <xsl:analyze-string select="." regex="{concat($mss-preface-regex,$mss-city-regex, $mss-collection-regex,$mss-item-regex)}">
+                                            <xsl:matching-substring>
+                                                <xsl:for-each select="tokenize(regex-group(9),'(,(\sand\s)?)|\sand\s')">
+                                                    <dc:subject><xsl:value-of select="concat('MS: ',regex-group(5),', ',regex-group(7),', ',.)"/></dc:subject>
+                                                </xsl:for-each>
+                                            </xsl:matching-substring>
+                                            <xsl:non-matching-substring>
+                                                <dc:subject><xsl:value-of select="."/></dc:subject>
+                                            </xsl:non-matching-substring>
+                                        </xsl:analyze-string>
+                                    </xsl:for-each>
                                     
                                 </xsl:if>
                             </entry>
