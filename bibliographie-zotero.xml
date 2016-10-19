@@ -4487,4 +4487,4244 @@ sura).</dcterms:abstract>
       <dcterms:abstract>Describes an unspecified Ms. from Mosul, containing Muslim Pseudo-Psalms (zabūr), and unspecified Mss. from Beirut, containing the ṣuḥuf of Abraham and Moses.</dcterms:abstract>
       <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
    </bib:Article>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Freiburg im
+Breisgau</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Herdersche Verlagshandlung</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Graf</foaf:surname>
+                  <foaf:givenname>Georg</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Die christlich-arabische Literatur bis zur
+fränkischen Zeit (Ende des 11. Jahrhunderts): Eine Literaturhistorische Skizze</dc:title>
+      <dcterms:abstract>Predecessor of the following item, with fewer references to sources. </dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1905</dc:date>
+      <dc:subject>MS: Vatican,  Ar. 13, Ar. 13</dc:subject>
+      <dc:subject>MS: , 14, 14</dc:subject>
+      <dc:subject>MS: Borg,  K II 31, K II 31</dc:subject>
+      <dc:subject>MS: Leipzig, UBL, Tischend.</dc:subject>
+      <dc:subject>31</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 75, Ar. 75</dc:subject>
+      <dc:subject>MS: , 154, 154</dc:subject>
+      <dc:subject>MS: , 155, 155</dc:subject>
+      <dc:subject>MS: , St. Petersburg. A.N.S. 327, St. Petersburg. A.N.S. 327</dc:subject>
+      <dc:subject>MS: Munich,  Staatsbibliothek Ar. 238 and Ar., Staatsbibliothek Ar. 238</dc:subject>
+      <dc:subject>MS: Munich,  Staatsbibliothek Ar. 238 and Ar., Ar.</dc:subject>
+      <dc:subject>234</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Graf</foaf:surname>
+                  <foaf:givenname>Georg</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Der Sprachgebrauch der ältesten
+Christlichen-arabischen Literatur</dc:title>
+      <dcterms:abstract>An examination of the linguistic features of the Arabic Christian literature
+through certain pericopes of several manuscripts.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1905</dc:date>
+      <dc:subject>MS: Vatican,  Ar. 13, Ar. 13</dc:subject>
+      <dc:subject>MS: , 14, 14</dc:subject>
+      <dc:subject>MS: Borg,  K II 31, K II 31</dc:subject>
+      <dc:subject>MS: Leipzig, UBL, Tischend.</dc:subject>
+      <dc:subject>31</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 75, Ar. 75</dc:subject>
+      <dc:subject>MS: , 154, 154</dc:subject>
+      <dc:subject>MS: , 155, 155</dc:subject>
+      <dc:subject>MS: , St. Petersburg. A.N.S. 327, St. Petersburg. A.N.S. 327</dc:subject>
+      <dc:subject>MS: Munich,  Staatsbibliothek Ar. 238 and Ar., Staatsbibliothek Ar. 238</dc:subject>
+      <dc:subject>MS: Munich,  Staatsbibliothek Ar. 238 and Ar., Ar.</dc:subject>
+      <dc:subject>234</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Princeton and Oxford</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>forthcoming</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Griffith</foaf:surname>
+                  <foaf:givenname>Sidney Harrison</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>The Bible in Arabic: The
+Scriptures of the “People of the Book” in the Language of Islam </dc:title>
+      <dcterms:abstract> See below for the following edition [#].</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>2013</dc:date>
+      <dc:subject>MS: ,  Violet fragment, Violet fragment</dc:subject>
+      <dc:subject>MS: Sinai, Ar. 1, Ar. 74</dc:subject>
+      <dc:subject>MS: Sinai, Ar. 1,  Ar. 151</dc:subject>
+      <dc:subject>MS: Sinai, Ar. 1, Ar.</dc:subject>
+      <dc:subject>589</dc:subject>
+      <dc:subject>MS: London, BL, Or. 1316.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Hoskins</foaf:surname>
+                  <foaf:givenname>Franklin E.</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>A Completed Chapter in Bible History,
+First Font Reference Arabic Bible</dc:title>
+      <dcterms:abstract>Available in Cambridge, Bible Society</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1917</dc:date>
+      <dc:subject>MS: Vienna, Nationalbibliothek, Or. 43</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar.</dc:subject>
+      <dc:subject>13 and Copt. 9</dc:subject>
+      <dc:subject>MS: French Library, cod. 17, olim. 332 (Pauline epistles).</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Leipzig</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>J.C. Hinrichs</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Kahle</foaf:surname>
+                  <foaf:givenname>Paul</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Die Arabischen Bibelübersetzungen: Texte mit
+Glossar und Literaturübersicht</dc:title>
+      <dcterms:abstract>Contains excerpts of historic printings (# eli smith, propaganda), as well as a
+selection of Christian, Judaeo-Arabic and Samaritan traditions. </dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1904</dc:date>
+      <dc:subject>MS: Paris, BNF Ar. 1, Ar. 5</dc:subject>
+      <dc:subject>MS: Paris, BNF Ar. 1, Ar. 6</dc:subject>
+      <dc:subject>MS: Wolfenb,  Oxford, Oxford</dc:subject>
+      <dc:subject>MS: , Bodl. Cod. II Usserii, Bodl. Cod. II Usserii</dc:subject>
+      <dc:subject>MS: St Petersburg,  179, 179</dc:subject>
+      <dc:subject>MS: Cambridge,  UL Ms. 714, UL Ms. 714</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Barberini Or. 1</dc:subject>
+      <dc:subject>MS: Berlin, Staatsbibliothek, Or. Fol. 534</dc:subject>
+      <dc:subject>MS: Berlin, Staatsbibliothek, Or. Qu. 828</dc:subject>
+      <dc:subject>MS: Leiden,  University Library Or. 377, University Library Or. 377</dc:subject>
+      <dc:subject>MS: Florence,  BML Or. 112 (formerly 21)., BML Or. 112 (formerly 21).</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Louvain</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Peeters </foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Nasrallah</foaf:surname>
+                  <foaf:givenname>Joseph</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Histoire du mouvement littéraire dans
+l’église melchite du Ve au XXe siècle. Contribution à l'étude de la littérature arabe
+chrétienne</dc:title>
+      <dcterms:abstract>Vol. 2.1 (634-750), p. 101 </dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1979-1996</dc:date>
+      <dc:subject>MS: Violet fragment and Moscow, State Library, Ms. 432.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Rödiger</foaf:surname>
+                  <foaf:givenname>Emil</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Gesenius</foaf:surname>
+                  <foaf:givenname>Wilhelm</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Commentatio qua vulgata
+opinio de interpretatione Arabica librorum V. T. historicorum ex Graeca, Alexandrina ducta
+refutatur</dc:title>
+      <dcterms:abstract>With many references to manuscript sources.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1828</dc:date>
+      <dc:subject>MS: Venice,  St. Mark 11 (Venet. 11) and 27 (Venet. 539), St. Mark 11 (Venet. 11)</dc:subject>
+      <dc:subject>MS: Venice,  St. Mark 11 (Venet. 11) and 27 (Venet. 539), 27 (Venet. 539)</dc:subject>
+      <dc:subject>MS: , Greek monastery, Greek monastery</dc:subject>
+      <dc:subject>Jerusalem Cod. 1</dc:subject>
+      <dc:subject>MS: Leiden, University Library, Or. 243.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Cairo</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Nile Mission Press</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Ṭranjān</foaf:surname>
+                  <foaf:givenname>Jamīl Ḥannā</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>al-Kitāb al-muqaddas fī al-lugha
+al-ʿarabiyya</dc:title>
+      <dcterms:abstract>A Turkish translation of [#].</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1936</dc:date>
+      <dc:subject>MS: Vatican, BAV, Ar. 13.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>New
+Haven</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Yale Divinity School</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Leavy</foaf:surname>
+                  <foaf:givenname>Margaret R.</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Eli Smith and the Arabic Bible</dc:title>
+      <dcterms:abstract>http://www.library.yale.edu/div/pub/OccPub4.pdf</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1993</dc:date>
+      <dc:subject>MS: ,  Violet fragment, Violet fragment</dc:subject>
+      <dc:subject>MS: Sinai,  Ar., Ar.</dc:subject>
+      <dc:subject>2</dc:subject>
+      <dc:subject>MS: Cambridge, CUL, T-S Ar. 21.183</dc:subject>
+      <dc:subject>MS: Cambridge, CUL, Ar. 53.8</dc:subject>
+      <dc:subject>MS: Cambridge, CUL, Mosseri vi</dc:subject>
+      <dc:subject>MS: Cambridge, CUL,  45</dc:subject>
+      <dc:subject>MS: St Petersburg, RNL, Ebr. II</dc:subject>
+      <dc:subject>C 1-2.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Berlin</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>M. Poppelauer</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Bloch</foaf:surname>
+                  <foaf:givenname>Josef</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Die
+samaritanisch-arabische Pentateuchübersetzung. Deuteronomium I-X, nach Handschriften in Berlin,
+Gotha, Kiel, Leiden und Paris mit Einleitung und Noten </dc:title>
+      <dcterms:abstract>
+Review: Kahle, Paul, ZfHB 6 (1902), pp. 6-9.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1901</dc:date>
+      <dc:subject>MS: Berlin, Staatsbibliothek, Petersmann A3</dc:subject>
+      <dc:subject>MS: Berlin, Staatsbibliothek, Or. Fol. 534</dc:subject>
+      <dc:subject>MS: Kiel, Universitätsbibliothek, Ms. 14</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Barberini Or. 1</dc:subject>
+      <dc:subject>MS: Paris, BNF, Ar. 5</dc:subject>
+      <dc:subject>MS: Leiden, University Library, Or. 1222</dc:subject>
+      <dc:subject>MS: Gotha, Forschungsbibliothek, Ar. 1088.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Louvain</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Secrétariat
+du Corpus SCO</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Drint</foaf:surname>
+                  <foaf:givenname>Adriana</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>The Mount Sinai
+Arabic Version of IV Ezra</dc:title>
+      <dcterms:abstract>A revised version of her PhD-Thesis, see below.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1997</dc:date>
+      <dc:subject>MS: Sinai,  Ar. 7 and Ar. 589, Ar. 7</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 7 and Ar. 589, Ar. 589</dc:subject>
+      <dc:subject>MS: Berlin, Staatsbibliothek, Spreng. 30</dc:subject>
+      <dc:subject>MS: Oxford, Bodleian Library, Or. 251</dc:subject>
+      <dc:subject>MS: Oxford, Bodleian Library, Hunt. 260</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 462</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Borg. Ar. 95</dc:subject>
+      <dc:subject>MS: Coptic Orthodox Patriarchate, Bibl. 75, 77</dc:subject>
+      <dc:subject>MS: Coptic Orthodox Patriarchate, Bibl. 75,  86</dc:subject>
+      <dc:subject>MS: Coptic Orthodox Patriarchate, Bibl. 75,  89</dc:subject>
+      <dc:subject>MS: Coptic Orthodox Patriarchate, Bibl. 75, Theol. 286</dc:subject>
+      <dc:subject>MS: Beirut, Bibliothèque Orientale, Ms. 419</dc:subject>
+      <dc:subject>MS: Paris, BNF, Ar. 51.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Jacob</foaf:surname>
+                  <foaf:givenname>George</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>An Arabic Bible Chrestomathy with a Glossary
+</dc:title>
+      <dcterms:abstract>Reprinted: Piscataway: Gorgias Press, 2004.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1888</dc:date>
+      <dc:subject>MS: Sinai,  Ar. 154., Ar. 154.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>London</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>C.J. Clay and Sons</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Otho</foaf:surname>
+                  <foaf:givenname>Georg</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>An Arabic Version of
+the Acts of the Apostles and the Seven Catholic Epistles from an Eighth or Ninth Century MS. in the
+Convent of St. Katherine on Mount Sinai, with a Treatise on the Triune Nature of God, and
+Translation from the Same Codex, </dc:title>
+      <dcterms:abstract>Reprinted: Piscataway: Gorgias Press, 2004.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1899</dc:date>
+      <dc:subject>MS: Sinai,  Ar. 154., Ar. 154.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>St Petersburg</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Kvarta</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:editors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Serge Frantsouzoff</foaf:Person>
+            </rdf:li>
+            <rdf:li>
+               <foaf:Person>Valery Vyacheslavoich Polosin</foaf:Person>
+            </rdf:li>
+            <rdf:li>
+               <foaf:Person>Nikolaj Serikoff
+</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:editors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>The Petersburg Arabic Illuminated Psalter</dc:title>
+      <dcterms:abstract>Boulos Aya Ayad (ed.), Sifr Ayyūb. Qām
+bi-tarjamatihi min al-suryānīya ila al-‘arabīya Tūmā Fusṭāṭī fi al-qarn al-tāsi‘ al-mīlādī
+(Cairo: 1975). [Edition of a ninth century translation of the Book of Job from Syriac into
+Arabic by Thomas of Fusṭāṭ, from St. Catherine’s Monastery, Mt. Sinai, ms. 514.]</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>2005</dc:date>
+      <dc:subject>MS: St. Petersburg, Institut of Oriental Manuscripts, A</dc:subject>
+      <dc:subject>187.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>St Petersburg</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Kvarta</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:editors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Serge Frantsouzoff</foaf:Person>
+            </rdf:li>
+            <rdf:li>
+               <foaf:Person>Valery Vyacheslavoich Polosin</foaf:Person>
+            </rdf:li>
+            <rdf:li>
+               <foaf:Person>Nikolaj Serikoff
+</foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:editors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>The Arabic Psalter: A Supplement to the Facsimile Edition of Manuscript
+A187 “The Petersburg Arabic Illuminated Psalter."</dc:title>
+      <dcterms:abstract>Boulos Aya Ayad (ed.), Sifr Ayyūb. Qām
+bi-tarjamatihi min al-suryānīya ila al-‘arabīya Tūmā Fusṭāṭī fi al-qarn al-tāsi‘ al-mīlādī
+(Cairo: 1975). [Edition of a ninth century translation of the Book of Job from Syriac into
+Arabic by Thomas of Fusṭāṭ, from St. Catherine’s Monastery, Mt. Sinai, ms. 514.]</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>2005</dc:date>
+      <dc:subject>MS: St. Petersburg, Institut of Oriental Manuscripts, A</dc:subject>
+      <dc:subject>187.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Göttingen</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Typis Expressit Officina Academica Gottingensis</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Lagarde</foaf:surname>
+                  <foaf:givenname>Paul de</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Psalterium, Iob,
+Proverbia arabice</dc:title>
+      <dcterms:abstract>Contains (1) four editions of the Psalms ([#] Savary de
+Breves; [#] Paris Polyglot; [#] Aleppo 1706; [#] that of Abdallāh b. al-Faḍl; (2) two editions of
+the Job (from a codex from Berlin and the Paris Polyglot); (3) Proverbs from the Paris Polyglot.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1876</dc:date>
+      <dc:subject>MS: Sinai,  Ar. 589., Ar. 589.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>London</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>British Acad. by Oxford Univ. Press</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Arnold</foaf:surname>
+                  <foaf:givenname>Thomas Walker</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>The Old and
+New Testaments in Muslim religious art</dc:title>
+      <dcterms:abstract>Includes many biblical bilinguals.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1932</dc:date>
+      <dc:subject>MS: Florence, BML, Or. 387 (p.</dc:subject>
+      <dc:subject>13, pl. 1).</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Oxford</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Clarendon Press</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Arnold</foaf:surname>
+                  <foaf:givenname>Thomas Walker</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Painting in
+Islam: a study of the place of pictorial art in Muslim culture</dc:title>
+      <dcterms:abstract>Includes many biblical bilinguals.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1928</dc:date>
+      <dc:subject>MS: London, BL, Add. 11856 (p.</dc:subject>
+      <dc:subject>58, pl. 8b) and Florence, BML, Or. 387.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Wiesbaden</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Harrossowitz</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>English title</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>The Wonders of Creation.
+Manuscripts of the Bavarian State Library from the Islamic world</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Staatsbibliothek</foaf:surname>
+                  <foaf:givenname>Bayrische</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Die
+Wunder der Schöpfung. Handschrifen der Bayrischen Staatsbibliothek aus dem islamischen
+Kulturkreis</dc:title>
+      <dcterms:abstract>Includes many biblical bilinguals.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>2010</dc:date>
+      <dc:subject>MS: Munich,  Bayrische, Bayrische</dc:subject>
+      <dc:subject>Staatsbibliothek, Cod. Ar. 233 (56-57) and Cod. Ar. 236 (pp. 58-59).</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Vatican</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Biblioteca Apostolica Vaticana</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Vaticana</foaf:surname>
+                  <foaf:givenname>Biblioteca Apostolica</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Il
+Libro della Bibbia. Esposizione di Manuscritti e di Edizioni a Stampa della Biblioteca Apostolica
+Vaticana dal Secolo III al Secolo XVI</dc:title>
+      <dcterms:abstract>Includes many biblical bilinguals.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1972</dc:date>
+      <dc:subject>MS: Vatican, BAV, Barberini</dc:subject>
+      <dc:subject>MS: Vatican, BAV,  Or. 1 (p. 39</dc:subject>
+      <dc:subject>MS: Vatican, BAV,  pl. 37)</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Barberini</dc:subject>
+      <dc:subject>MS: Vatican, BAV, </dc:subject>
+      <dc:subject>Or. 2 (p. 49, pl. 45), Ar. 13 (p. 13, pl. 14), Ar. 18 (p. 19, pl. 17), Copt. 9 (p. 38, pl.
+35).</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Recklinghausen</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Verlag Aurel Bongers</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Cramer</foaf:surname>
+                  <foaf:givenname>Maria</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Koptische
+Buchmalerei. Illuminationen in Manuskripten des christlich-koptischen Ägypten vom 4. bis 19.
+Jahrhundert</dc:title>
+      <dcterms:abstract>Includes many biblical bilinguals.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1964</dc:date>
+      <dc:subject>MS: Oxford, Bodl., Hunt 17 (pls. II</dc:subject>
+      <dc:subject>MS: Oxford, Bodl.,  IV</dc:subject>
+      <dc:subject>MS: Oxford, Bodl.,  XI</dc:subject>
+      <dc:subject>MS: Oxford, Bodl.,  97</dc:subject>
+      <dc:subject>MS: Oxford, Bodl., 101)</dc:subject>
+      <dc:subject>MS: Oxford, Bodl., Marsh.</dc:subject>
+      <dc:subject>Or. 6 (pls. 17 and 40)</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Copt. 8 (pls. 95</dc:subject>
+      <dc:subject>MS: Vatican, BAV, 100)</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Copt. 9 (pls. V</dc:subject>
+      <dc:subject>MS: Vatican, BAV,  X</dc:subject>
+      <dc:subject>MS: Vatican, BAV,  XII</dc:subject>
+      <dc:subject>MS: Vatican, BAV,  XIII</dc:subject>
+      <dc:subject>MS: Vatican, BAV, </dc:subject>
+      <dc:subject>18, 19, 87, and 98) and Copt. 12 (pl. 14)</dc:subject>
+      <dc:subject>MS: London, BL, Or. 1316 (pls. VI</dc:subject>
+      <dc:subject>MS: London, BL,  XV</dc:subject>
+      <dc:subject>MS: London, BL,  30</dc:subject>
+      <dc:subject>MS: London, BL,  89</dc:subject>
+      <dc:subject>MS: London, BL,  94</dc:subject>
+      <dc:subject>MS: London, BL,  99</dc:subject>
+      <dc:subject>MS: London, BL,  104</dc:subject>
+      <dc:subject>MS: London, BL, </dc:subject>
+      <dc:subject>109, 110, 111, 119, 124, 132, 141, 142, and 155) and Or. 1317 (pl. 93)</dc:subject>
+      <dc:subject>MS: Paris,  BNF Copt. 2 (pl. 37), BNF Copt. 2 (pl. 37)</dc:subject>
+      <dc:subject>and Copt. 13
+(pls. XIV, XVI, XVII, XVIII, 120, 125, 129, 133, 135, 136, and 143)</dc:subject>
+      <dc:subject>MS: Paris, Institute Catholique, Copt. Ar. 1 (pls. 92</dc:subject>
+      <dc:subject>MS: Paris, Institute Catholique,  96</dc:subject>
+      <dc:subject>MS: Paris, Institute Catholique,  103</dc:subject>
+      <dc:subject>MS: Paris, Institute Catholique,  105</dc:subject>
+      <dc:subject>MS: Paris, Institute Catholique, </dc:subject>
+      <dc:subject>106, 107, 108, 118, 121, 122, 123, 130, 131, 134, 138, 139, and 140), Cairo, Coptic Museum, Bibl. 92
+(pls. 21, 22, and 23), Bibl. 91 (pls. 26 and 27), Bibl. 92 (pls. 33 and 34), Bibl. 94 (pls. 84 and
+137), and Bibl. 95 (pl. 102).</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>London</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Alexandria Press in association with Thames and Hudson</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>James</foaf:surname>
+                  <foaf:givenname>David</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Qurʾāns of the
+Mamlūks</dc:title>
+      <dcterms:abstract>Includes comparisons to Arabic Gospel manuscripts. </dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1988</dc:date>
+      <dc:subject>MS: Coptic Orthodox Patriarche, , Bibl. 196</dc:subject>
+      <dc:subject>MS: Cairo, Coptic Museum, Bibl. 91</dc:subject>
+      <dc:subject>MS: Istanbul, Topkapı Sarayı Library, Ahmet III 3519.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Paris</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Institut du Mond
+Arabe</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>d</foaf:surname>
+                  <foaf:givenname>Ministère</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>, L’Art Copte en Égypte. 2000 ans de christianisme</dc:title>
+      <dcterms:abstract>On two manuscripts which were originally part
+of Arnold Mettler-Specker collection, on loan at Zurich library. They were auctioned in 1948 and
+eventually donated to Bryn Mawr College Library. One of them, formerly Ms. Zurich, Or. 94, contains
+a 9th century
+copy of the Psalms in Arabic [mentioned in GCAL:1, p. 114, #].</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>2000</dc:date>
+      <dc:subject>MS: Paris, BNF, Ar. 12 (p. 57)</dc:subject>
+      <dc:subject>MS: Paris, BNF, Copt. 1 (pp.</dc:subject>
+      <dc:subject>77-78).</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Cambridge</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Cambridge
+University Press</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Lewis</foaf:surname>
+                  <foaf:givenname>Agnes Smith</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Gibson</foaf:surname>
+                  <foaf:givenname>Margaret Dunlop</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Forty-one facsimiles of dated Christian Arabic manuscripts</dc:title>
+      <dcterms:abstract>On two manuscripts which were originally part
+of Arnold Mettler-Specker collection, on loan at Zurich library. They were auctioned in 1948 and
+eventually donated to Bryn Mawr College Library. One of them, formerly Ms. Zurich, Or. 94, contains
+a 9th century
+copy of the Psalms in Arabic [mentioned in GCAL:1, p. 114, #].</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1907</dc:date>
+      <dc:subject>MS: Sinai, Ar. 69 (p. 13, pl. 8)</dc:subject>
+      <dc:subject>MS: Sinai, Ar. 69 (p. 13,  Ar. 82 (pp. 23-24</dc:subject>
+      <dc:subject>MS: Sinai, Ar. 69 (p. 13, </dc:subject>
+      <dc:subject>pl. 12), Ar. 91 (p. 49, pl. 25), Ar. 95 (p. 37, pl. 19), Ar. 97 (p. 19, pl. 10), Ar. 99 (pp. 45-48,
+pls. 23 and 24), Ar. 104 (p. 41, pl. 21), Ar. 106 (pp. 11-12, pl. 7), Ar. 122 (pp. 33-34, pl. 17)</dc:subject>
+      <dc:subject>MS: London, BL, Or. 1327 (p. 55</dc:subject>
+      <dc:subject>MS: London, BL,  pl. 28).</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Hunt</foaf:surname>
+                  <foaf:givenname>Lucy-Anne</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>The Illustration
+of a Thirteenth – Century New Testament Manuscript from Cairo (Paris, Institut Catholique
+Copte-Arabe 1),</dc:title>
+      <dcterms:abstract>On two manuscripts which were originally part
+of Arnold Mettler-Specker collection, on loan at Zurich library. They were auctioned in 1948 and
+eventually donated to Bryn Mawr College Library. One of them, formerly Ms. Zurich, Or. 94, contains
+a 9th century
+copy of the Psalms in Arabic [mentioned in GCAL:1, p. 114, #].</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1981</dc:date>
+      <dc:subject>MS: Paris, Institut Catholique, Copt.-Ar. 1</dc:subject>
+      <dc:subject>MS: Cairo, Coptic Museum, Bibl. 94</dc:subject>
+      <dc:subject>MS: St Petersburg, RNL, Ar. N.S. 327</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Copt.</dc:subject>
+      <dc:subject>9.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Berlin</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Staatsbibliothek zu
+Berlin</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Berlin</foaf:surname>
+                  <foaf:givenname>Staatsbibliothek zu</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Jüdische Handschriften. Restaurieren. Bewahren. Präsentieren</dc:title>
+      <dcterms:abstract> Portrait of St. Luke (p. 49) from Sinai NF Arab.
+14.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>2002</dc:date>
+      <dc:subject>MS: Berlin, Staatsbibliothek, Ms or.fol. 1320 (pp. 48-49)</dc:subject>
+      <dc:subject>MS: Berlin, Staatsbibliothek,  Ms. or.</dc:subject>
+      <dc:subject>fol. 534 (p. 59),
+ </dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>St. Catherine's Monastery at Mount
+Sinai: It's Manuscripts and their Conservation: Papers Given in Memory of Professor Ihor
+Ševčenko</dc:title>
+      <dcterms:abstract> Portrait of St. Luke (p. 49) from Sinai NF Arab.
+14.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>2011</dc:date>
+      <dc:subject>MS: Florence, BML, Or. 387.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Leipzig</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Sumptibus
+Hermanni Fries</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Tischendorf</foaf:surname>
+                  <foaf:givenname>Konstantin von</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Anecdota sacra et profana ex Oriente et Occidente allata sive Notitia codicum Graecorum,
+Arabicorum, Syriacorum, Copticorum, Hebraicorum, Athiopicorum, Latinorum</dc:title>
+      <dcterms:abstract>Contains a description of Tischendorf’s codices, some of
+them containing early biblical books in Arabic. </dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1861</dc:date>
+      <dc:subject>MS: St Petersburg, RNL, A. N.S.</dc:subject>
+      <dc:subject>327 and Leipzig, Universitätsbibliothek, Cod. Tisch. 31 and 37.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Bonn</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>A. Marcus et E. Weber</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Tisserant</foaf:surname>
+                  <foaf:givenname>Eugene</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Specimina
+Codicum Orientalium</dc:title>
+      <dcterms:abstract>Deals with Arabic manuscripts of Iberian provenance in
+the BAV, among them some biblical codices are mentioned. </dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1914</dc:date>
+      <dc:subject>MS: Vatican, BAV, Barberini Or. 1</dc:subject>
+      <dc:subject>(p. xiii, pl. 1) and Or. 2 (p. xlvii, pl. 80), Ar. 4 (p.xlii, pl. 61b), Ar. 18 (p. xxxiii, pl. 45a),
+Ar. 581 (p.xli, pl. 59a), Ar. 788 (p. xli, pl. 59c), Borg. Ar. 48 (p. xlii, pl. 61d), Borg. Ar. 71
+(pp. xxxix-xl, pl. 56b), Borg. Ar. 95 (p. xxxix, pl. 55), and Borg. Ar. 129 (p. xxxviii, pl. 53.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Paris</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Librairie d</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Vajda</foaf:surname>
+                  <foaf:givenname>Georges</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Album de
+Paléographie Arabe</dc:title>
+      <dcterms:abstract>Part Two</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1958</dc:date>
+      <dc:subject>MS: Paris, BNF, Ar. 6725 (pl. 4).</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>London</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Smith</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Westwood</foaf:surname>
+                  <foaf:givenname>John Obadiah</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Palaeographia sacra pictorial, being a series of illustrations of the ancient versions of the
+Bible, copied from Illuminated Manuscripts, executed between the fourth and sixteenth Centuries</dc:title>
+      <dcterms:abstract>Part Two</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1845</dc:date>
+      <dc:subject>MS: London, BL, Add. 11856 (p.</dc:subject>
+      <dc:subject>29)</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Glasgow</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Ex Prelo Academico</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:editors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Robert Holmes</foaf:Person>
+            </rdf:li>
+            <rdf:li>
+               <foaf:Person>et al. </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:editors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Vetus Testamentum ex
+versione Septuaginta interpretum</dc:title>
+      <dcterms:abstract>On Ar. 1 and 2.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1822</dc:date>
+      <dc:subject>MS: Paris, BNF Ar. 1, Florence</dc:subject>
+      <dc:subject>MS: Paris, BNF Ar. 1,  BML Or. 112 (formerly</dc:subject>
+      <dc:subject>21).</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Kaslik</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Université Saint</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:editors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>Yūḥannā Tābit </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:editors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>tafsīr li-sifr al-takwīn mansūb ilā
+al-qiddīs Afrām al-Suryānī</dc:title>
+      <dcterms:abstract>Despite the title, the book contains the translation and commentary of Ibn
+al-Qunbar [see]. Edition based on Ms. Oxford, Bodl. Hunt. 112.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1982</dc:date>
+      <dc:subject>MS: Leiden, University Library, Or. 230</dc:subject>
+      <dc:subject>MS: Leiden, University Library, Or. 2364</dc:subject>
+      <dc:subject>MS: Munich, Bayrische Staatsbibliothek, Ar. 235</dc:subject>
+      <dc:subject>MS: Oxford, Bodl. Or. 324, Hunt. 84</dc:subject>
+      <dc:subject>MS: Oxford, Bodl. Or. 324, </dc:subject>
+      <dc:subject>Hunt. 363, Marsch 88, Marsh. 175</dc:subject>
+      <dc:subject>MS: London, BL, Rich 7204</dc:subject>
+      <dc:subject>MS: Paris, BNF, Ar. 17.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Kaslik</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Université Saint</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Tābit</foaf:surname>
+                  <foaf:givenname>Yūḥannā</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>tafsīr li-sifr al-khurūj mansūb ilā al-qiddīs
+Afrām al-Suryānī</dc:title>
+      <dcterms:abstract>Based on Ms. Vatican, BAV, Syr. 216.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1983</dc:date>
+      <dc:subject>MS: Leiden, University Library, Or. 230</dc:subject>
+      <dc:subject>MS: Leiden, University Library, Or. 2364</dc:subject>
+      <dc:subject>MS: Munich, Bayrische Staatsbibliothek, Ar. 235</dc:subject>
+      <dc:subject>MS: Oxford, Bodl. Or. 324, Hunt. 84</dc:subject>
+      <dc:subject>MS: Oxford, Bodl. Or. 324, </dc:subject>
+      <dc:subject>Hunt. 363, Marsch 88, Marsh. 175</dc:subject>
+      <dc:subject>MS: London, BL, Rich 7204</dc:subject>
+      <dc:subject>MS: Paris, BNF, Ar. 17.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Kaslik</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Université Saint</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Tābit</foaf:surname>
+                  <foaf:givenname>Yūḥannā</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>tafsīr li-sifr al-aḥbār mansūb ilā al-qiddīs
+Afrām al-Suryānī</dc:title>
+      <dcterms:abstract>Based on Ms. Oxford, Bodl., Hunt. 112 and Sharfeh, Syr. 1/7.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1984</dc:date>
+      <dc:subject>MS: Leiden, University Library, Or. 230</dc:subject>
+      <dc:subject>MS: Leiden, University Library, Or. 2364</dc:subject>
+      <dc:subject>MS: Munich, Bayrische Staatsbibliothek, Ar. 235</dc:subject>
+      <dc:subject>MS: Oxford, Bodl. Or. 324, Hunt. 84</dc:subject>
+      <dc:subject>MS: Oxford, Bodl. Or. 324, </dc:subject>
+      <dc:subject>Hunt. 363, Marsch 88, Marsh. 175</dc:subject>
+      <dc:subject>MS: London, BL, Rich 7204</dc:subject>
+      <dc:subject>MS: Paris, BNF, Ar. 17.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Vratislaviae</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Typis Universitiatis</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Theiner</foaf:surname>
+                  <foaf:givenname>Johann Anton</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Descriptio codicis manuscripti, qui
+versionem Pentateuchi arabicam continet, asservati in Bibliotheca Universitatis Vratislaviensis ac
+nondum editi, cum speciminibus versionis arabicae, commentatio bibliographica</dc:title>
+      <dcterms:abstract>Specimens of Gen 49, Ex 15, Num 23-24, and Deut 27. </dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1822</dc:date>
+      <dc:subject>MS: Leiden, University Library, Or. 230</dc:subject>
+      <dc:subject>MS: Leiden, University Library, Or. 2364</dc:subject>
+      <dc:subject>MS: Munich, Bayrische Staatsbibliothek, Ar. 235</dc:subject>
+      <dc:subject>MS: Oxford, Bodl. Or. 324, Hunt. 84</dc:subject>
+      <dc:subject>MS: Oxford, Bodl. Or. 324, </dc:subject>
+      <dc:subject>Hunt. 363, Marsch 88, Marsh. 175</dc:subject>
+      <dc:subject>MS: London, BL, Rich 7204</dc:subject>
+      <dc:subject>MS: Paris, BNF, Ar. 17.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Davidson</foaf:surname>
+                  <foaf:givenname>Harold Sidney</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>De
+Lagardes Ausgabe der arabischen Übersetzung der Genesis (Cod. Leid. arab. 230) nachgeprüft</dc:title>
+      <dcterms:abstract>Compare [#, De Lagarde]</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1908</dc:date>
+      <dc:subject>MS: Leiden, University Library, Or. 230</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Halle</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Kümmel</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Rödiger</foaf:surname>
+                  <foaf:givenname>Emil</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>De origine et indole arabicae librorum V.T.
+historicorum interpretationis libri duo </dc:title>
+      <dcterms:abstract>Review : W.G., in Allgemeine Literaturzeitung 8 (1832), col.
+57</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1829</dc:date>
+      <dc:subject>MS: Berlin, Staatsbibliothek, Diez A fol. 41</dc:subject>
+      <dc:subject>MS: , Bibliothek Paul Sbath: Ms. 920, Bibliothek Paul Sbath: Ms. 920</dc:subject>
+      <dc:subject>MS: Birmingham,  University, University</dc:subject>
+      <dc:subject>Library, Mingana Syr. 256, Syr. 624, Syr. 484 A</dc:subject>
+      <dc:subject>MS: COP Bibl. 13, Bibl. 55, Bibl. 77</dc:subject>
+      <dc:subject>MS: COP Bibl. 13, Bibl. 55,  Bibl. 79</dc:subject>
+      <dc:subject>MS: COP Bibl. 13, Bibl. 55,  Bibl.</dc:subject>
+      <dc:subject>80, Bibl. 81, Bibl. 82, Bibl. 86, Bibl. 87, Bibl. 88, Bibl. 89</dc:subject>
+      <dc:subject>MS: Florence, BML, Or. 59</dc:subject>
+      <dc:subject>MS: Istanbul,  Aya, Aya</dc:subject>
+      <dc:subject>Sofia, 3367</dc:subject>
+      <dc:subject>MS: London, BL, Harl. 5505</dc:subject>
+      <dc:subject>MS: London, BL,  Or. 1314</dc:subject>
+      <dc:subject>MS: London, BL,  Or. 1326</dc:subject>
+      <dc:subject>MS: London, BL,  Or. 5918</dc:subject>
+      <dc:subject>MS: London, BL,  Or. 8745</dc:subject>
+      <dc:subject>MS: Manchester,  John, John</dc:subject>
+      <dc:subject>Rylands Library, Copt. 419, Copt. 420</dc:subject>
+      <dc:subject>MS: Milan, Biblioteca Ambrosiana, C 58 inf.</dc:subject>
+      <dc:subject>MS: Oxford,  Bodleian, Bodleian</dc:subject>
+      <dc:subject>Libraries, Fraser (Or.) 257, Arch. Seld. A. 67</dc:subject>
+      <dc:subject>MS: Paris, BNF, Ar. 1</dc:subject>
+      <dc:subject>MS: Paris, BNF,  Ar. 2</dc:subject>
+      <dc:subject>MS: Paris, BNF,  Ar. 25</dc:subject>
+      <dc:subject>MS: Paris, BNF,  Copt. 2</dc:subject>
+      <dc:subject>MS: Paris, BNF,  Copt. 96</dc:subject>
+      <dc:subject>MS: Rome, Biblioteca Casanatense, 169</dc:subject>
+      <dc:subject>MS: Rome, Biblioteca Casanatense,  2108</dc:subject>
+      <dc:subject>MS: Sinai, Ar. 1, Ar. 539</dc:subject>
+      <dc:subject>MS: Sinai, Ar. 1,  Ar. 597</dc:subject>
+      <dc:subject>MS: St Petersburg, Institute of Oriental MSS, D226</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 445</dc:subject>
+      <dc:subject>MS: Vatican, BAV,  Ar. 468</dc:subject>
+      <dc:subject>MS: Vatican, BAV,  Ar. 503.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Stapleton</foaf:surname>
+                  <foaf:givenname>Russel</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>An Edition of the Book of Daniel and
+Associated Apocrypha in Ms. Sinai Arabic I </dc:title>
+      <dcterms:abstract>Contains an edition and translation of Daniel, as preserved in Ms. Sinai, Ar. 1,
+with a discussion of linguistic features and the relation between Sinai Ar. 1 and a few related
+manuscripts.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1989</dc:date>
+      <dc:subject>MS: London, BL, Add. 26116</dc:subject>
+      <dc:subject>MS: Oxford, Bodleian Library, Fraser 257</dc:subject>
+      <dc:subject>MS: Oxford, Bodleian Library,  Arch. Seld. A67</dc:subject>
+      <dc:subject>MS: Sinai, Ar. 1, Ar. 9</dc:subject>
+      <dc:subject>MS: Sinai, Ar. 1,  Ar. 448 (?)</dc:subject>
+      <dc:subject>MS: Sinai, Ar. 1,  Ar. 513</dc:subject>
+      <dc:subject>MS: Sinai, Ar. 1,  Ar. 539</dc:subject>
+      <dc:subject>MS: , Ar. 597, Ar. 597</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 503.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Leipzig</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Doerfling &amp; Franke</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Baudissin</foaf:surname>
+                  <foaf:givenname>Wolf Wilhelm Friedrich de</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Translationis antiquae arabicae libri Jobi quae supersunt nunc primum edita
+</dc:title>
+      <dcterms:abstract>Edition and Latin translation of an early Arabic version
+of Job, as preserved in a manuscript that was acquired by Tischendorf and is today found at London,
+British Library. It belongs with Sinai, Ar. 1. (cf. also [#, see above] Fleischer and [#, see below]
+Monferrer Sala.)</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1870</dc:date>
+      <dc:subject>MS: London, BL, Add. 26116</dc:subject>
+      <dc:subject>MS: London, BL,  mentions several unspecified</dc:subject>
+      <dc:subject>manuscripts.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Berlin</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Weidmann</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Schulthess</foaf:surname>
+                  <foaf:givenname>Friedrich</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Christlich-palästinische Fragmente aus
+der Omajjaden-Moschee zu Damaskus</dc:title>
+      <dcterms:abstract>Review: Brockelmann, Literaturzeitung 57 (1905), p. 469.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1905</dc:date>
+      <dc:subject>MS: ,  Violet fragment, Violet fragment</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>London</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Harrison</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Gilson</foaf:surname>
+                  <foaf:givenname>Julius Parnell</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>The Mozarabic Psalter</dc:title>
+      <dcterms:abstract>Juan Pedro Monferrer-Sala, "Salmo 11 en versión árabe versificada: Unas notas en
+torno a las fuentes del Psalterio de Ḥafṣ b. Albar al-Qūṭī," Miscelánea de
+Estudios Árabes y Hebraicos [=Homenaje a Prof. Antonio Torres Fernández] 49 (2000), pp.
+303-319.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1905</dc:date>
+      <dc:subject>MS: Ms, Leiden, Or. 243 (l.6)</dc:subject>
+      <dc:subject>MS: Vienna, VNL?, K II 346</dc:subject>
+      <dc:subject>MS: London, BL, Or. 1242</dc:subject>
+      <dc:subject>MS: London, BL, 6</dc:subject>
+      <dc:subject>MS: Oxford, Bodl, Copt. c. 3</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Louvain</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Université Catholique de Louvain</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Arbache</foaf:surname>
+                  <foaf:givenname>Samir</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Le tétraévangile Sinaï Arabe 72: Ses
+rubriques liturgiques et son substrat grec, Mémoire de Licence en Théologie</dc:title>
+      <dcterms:abstract>Samir Arbache, Une ancienne version arabe des Évangiles: langue,
+texte et lexique, Ph.D. dissertation, Université Michel de Montaigne, Bordeaux, 1994.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1975</dc:date>
+      <dc:subject>MS: Vatican, BAV, Borg. ar. 95</dc:subject>
+      <dc:subject>MS: Berlin, BSS, Or. oct. 1108</dc:subject>
+      <dc:subject>MS: Leipzig, , (Tischendorf 31??).</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Gildemeister</foaf:surname>
+                  <foaf:givenname>Johannes</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>De Evangeliis in Arabicum e Simplici
+Syriaca translatis </dc:title>
+      <dcterms:abstract>Leipzig, Tisch. 12 (Evangelien, Syr.-Ar.)</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1865</dc:date>
+      <dc:subject>MS: Paris, BNF, Supp. Grec. 911</dc:subject>
+      <dc:subject>MS: Paris, BNF, </dc:subject>
+      <dc:subject>St. Petersburg, RNL Gre. 290.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Leipzig</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>J.C. Hinrichs</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Gregory</foaf:surname>
+                  <foaf:givenname>Caspar Rene</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Textkritik des Neuen Testamentes. Die
+Übersetzungen-die Schriftsteller-Geschichte der Kritik, </dc:title>
+      <dcterms:abstract>Vol. 2 is dedicated to Arabic versions </dcterms:abstract>
+      <prism:volume>2</prism:volume>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1902</dc:date>
+      <dc:subject>MS: Gregory 0136 and 0137,  St Petersburg , St Petersburg </dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Lagarde</foaf:surname>
+                  <foaf:givenname>Paul de</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Die vier Evangelien arabisch aus der Wiener
+Handschrift herausgegeben </dc:title>
+      <dcterms:abstract>No. 9 contains the description and edition of
+a folio (previously edited by Rendel Harris), exhibiting
+Matt 13:46-52 in Greek and Arabic.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1864</dc:date>
+      <dc:subject>MS: Based on Vienna, ÖNB, Or. 1544</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Levin</foaf:surname>
+                  <foaf:givenname>Bernhard</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Die griechisch-arabische
+Evangelien-Übersetzung Vat. Borg. ar. 95 und Ber. orient. oct. 1108, </dc:title>
+      <dcterms:abstract>No. 9 contains the description and edition of
+a folio (previously edited by Rendel Harris), exhibiting
+Matt 13:46-52 in Greek and Arabic.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1938</dc:date>
+      <dc:subject>MS: ,  What is the current shelfmark?, What is the current shelfmark?</dc:subject>
+      <dc:subject>[belongs with Ms. St Petersburg, RNL, Gre 281].</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Ciasca</foaf:surname>
+                  <foaf:givenname>Augustinus</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Tatiani Evangeliorum Harmoniae Arabice
+</dc:title>
+      <dcterms:abstract>The translation is based on Ciasca edition and draws heavily from his Latin
+translation.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1888</dc:date>
+      <dc:subject>MS: Vatican, BAV, Ar. 14</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Edinburgh</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>T&amp;T
+Clark</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>James Hamlyn Hill</foaf:surname>
+                  <foaf:givenname/>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>The Earliest Life of Christ Ever Compiled
+from the Four Gospels, Being the Diatessaron of Tatian (circ. A.D. 160) Literally Translated from
+the Arabic Version and containing the Four Gospels woven into One Story</dc:title>
+      <dcterms:abstract>The translation is based on Ciasca edition and draws heavily from his Latin
+translation.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1903</dc:date>
+      <dc:subject>MS: Vatican, BAV, Ar. 14</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Borg. Ar 250</dc:subject>
+      <dc:subject>MS: , Cairo 202, Cairo 202</dc:subject>
+      <dc:subject>MS: Oxford, Bodl., Ar. e. 163.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Marmardji</foaf:surname>
+                  <foaf:givenname>Augustin-Sebastien</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>, Diatessaron de Tatien: Texte
+arabe établi, traduit en français, collationné avec les anciennes versions syriaques, suivi d’un
+évangile diatessarique syriaque et accompagné de quatre planches hors-texte </dc:title>
+      <dcterms:abstract>Reviews: Baumstark, Anton in OC 33
+(1936), pp. 235-245; D.S. Margoliouth in Journal of Theological Studies 38
+(1937): 76-79; P. Benoit in Revue Biblique 46 (1937): 124-128.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1935</dc:date>
+      <dc:subject>MS: Vatican, BAV, Ar. 14</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Borg. Ar. 250</dc:subject>
+      <dc:subject>MS: , Cairo 202 (COP), Cairo 202 (COP)</dc:subject>
+      <dc:subject>MS: , Sbath, Sbath</dc:subject>
+      <dc:subject>1020 and 1280</dc:subject>
+      <dc:subject>MS: Oxford, Bodl., Ar. e. 163</dc:subject>
+      <dc:subject>MS: London, BL, Or 3382</dc:subject>
+      <dc:subject>MS: London, BL,  Beirut Fragments?</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Peters</foaf:surname>
+                  <foaf:givenname>Kurt</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Das Diatessaron Tatians </dc:title>
+      <dcterms:abstract>An response to [#, Ciasa]</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1939</dc:date>
+      <dc:subject>MS: Fes, Al-Qarawiyyin University Library, Cod. 730</dc:subject>
+      <dc:subject>MS: Munich, Bayrische Staatsbibliothek, Cod. 238.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Zahn</foaf:surname>
+                  <foaf:givenname>Theodor</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Tatians Diatesseron </dc:title>
+      <dcterms:abstract>Chapter 4</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1881</dc:date>
+      <dc:subject>MS: Fes, Al-Qarawiyyin University Library, Cod. 730</dc:subject>
+      <dc:subject>MS: Munich, Bayrische Staatsbibliothek, Cod. 238.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Gwynn</foaf:surname>
+                  <foaf:givenname>John</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>xxxx,</dc:title>
+      <dcterms:abstract>On Sinai, Ar. 154</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1890</dc:date>
+      <dc:subject>MS: Sinai,  Ar. 154, Ar. 154</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Granada</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Athos Pérgamos</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Monferrer-Sala</foaf:surname>
+                  <foaf:givenname>Juan Pedro</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Scripta
+arabica orientalia: dos studios de la literatura árabe cristiana</dc:title>
+      <dcterms:abstract>Includes an edition of the Acts of the Apostles, based
+on Vatican, BAV, Ar. 468.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1999</dc:date>
+      <dc:subject>MS: London, BL, . Or. 1326</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 13</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 468</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 151, Ar. 151</dc:subject>
+      <dc:subject>MS: , Escorial Cod. Ar. 1625., Escorial Cod. Ar. 1625.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Illinois</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>IVP Academic</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Bailey</foaf:surname>
+                  <foaf:givenname>Kenneth Ewing</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Paul through the Mediterranean Eye:
+Cultural Studies in I Corinthians</dc:title>
+      <dcterms:abstract>A Commentary on 1 Corinthians that builds upon its rhetorical pattern borrowed
+from the Hebrew Bible. The Middle Eastern Culture is used to explain some vague points in the text
+through old manuscripts of Arabic, Syriac, and Hebrew translations of 1 Corinthians.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>2011</dc:date>
+      <dc:subject>MS: Oxford, Bodl, Or. 712</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 73, Ar. 73</dc:subject>
+      <dc:subject>MS: , 151, 151</dc:subject>
+      <dc:subject>MS: , 155, 155</dc:subject>
+      <dc:subject>MS: , 310, 310</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 13.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Helsingfors</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Frenckellska Tryckeri</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Stenij</foaf:surname>
+                  <foaf:givenname>Edv</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Die altarabische Übersetzung der Briefe an die
+Hebräer, an die Römer und an die Corinther. Aus einem in St. Petersburg befindlichen Codex
+Tischendorfs vom Jahre 892 n. Chr</dc:title>
+      <dcterms:abstract>James</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1901</dc:date>
+      <dc:subject>MS: St. Petersburg, RNL, Ar. N.S. 327</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>New York</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Doubleday&amp;Company</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:editors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>James Hamilton Charlesworth </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:editors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>The Old Testament
+Pseudepigrapha</dc:title>
+      <dcterms:abstract>Refers to several Arabic translations of Pseudepigrapha: Fourth Book of Ezra (pp.
+519), Testament of Abraham (p. 871), Testament of Isaac (pp. 903-911), Testament of Jacob (pp.
+913-918), Testament of Adam (pp. 989-990).</dcterms:abstract>
+      <prism:volume>1</prism:volume>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1983</dc:date>
+      <dc:subject>MS: Paris, BNF, Ar. 132</dc:subject>
+      <dc:subject>MS: Oxford, Bodl., Or. 251</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 462</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Cowper</foaf:surname>
+                  <foaf:givenname>Benjamin Harris</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>The Apocryphal Gospels</dc:title>
+      <dcterms:abstract>Contains an English translation of the Arabic Infancy Gospels, bases on Sike’s
+edition [#].</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1881</dc:date>
+      <dc:subject>MS: Paris, BNF, Ar. 132. </dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Fabricius</foaf:surname>
+                  <foaf:givenname>Johann Alber</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Codex Apocryphus Novi
+Testamenti</dc:title>
+      <dcterms:abstract>Vol. ?, pp. 309-36.Contains a Latin translation of an Arabic version of the
+“History of Joseph the Carpenter.”</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1719</dc:date>
+      <dc:subject>MS: Paris, BNF, Ar. 1</dc:subject>
+      <dc:subject>MS: London, BL, Add. 30851</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 5</dc:subject>
+      <dc:subject>MS: Munich, Staatsbibliothek, Ar. 238</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 155., Ar. 155.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Giles</foaf:surname>
+                  <foaf:givenname>John Alen</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Codex Apocryphus Novi Testamenti. The
+uncanonical Gospels and other Writings </dc:title>
+      <dcterms:abstract>The History of Joseph the Carpenter </dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1852</dc:date>
+      <dc:subject>MS: Paris, BNF, Ar. 107 (check)</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>New Haven</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Yale University Press</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Leslau</foaf:surname>
+                  <foaf:givenname>Wolf</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Falasha
+Anthology</dc:title>
+      <dcterms:abstract>Touches on the Arabic source text of the Ethiopic
+Testaments of Abraham, Isaac and Jacob. </dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1951</dc:date>
+      <dc:subject>MS: Paris, BNF, Ar. 132.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Stockholm</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Natur och Kultur</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Löfgren</foaf:surname>
+                  <foaf:givenname>Oscar</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Det apokryfiska Johannesevangeliet. I
+översättning från den enda kända arabiska handskriften i Ambrosiana,</dc:title>
+      <dcterms:abstract>Byzantinische Zeitschrift 14 (1905), p. 690.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:subject>MS: London, BL, Or. 1326</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar. 13</dc:subject>
+      <dc:subject>MS: Vatican, BAV, Ar.</dc:subject>
+      <dc:subject>468</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 151, Ar. 151</dc:subject>
+      <dc:subject>MS: , Escorial Cod. Ar. 1625., Escorial Cod. Ar. 1625.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Paris</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>xxx</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Peeters</foaf:surname>
+                  <foaf:givenname>Paul</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Évangiles apocryphes, 2. L’Évangile de
+l’Enfance. Rédactions syriaques, arabes et arméniennes traduites et annotées</dc:title>
+      <dcterms:abstract>French translation of the Arabic Infancy Gospels, based on the edition of Sike
+[#].</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1914</dc:date>
+      <dc:subject>MS: Vatican, BAV, Ar. 171</dc:subject>
+      <dc:subject>MS: Vatican, BAV,  Ar.</dc:subject>
+      <dc:subject>694, Syr. 199</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 539., Ar. 539.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Jerusalem</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>xxxx</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Provera</foaf:surname>
+                  <foaf:givenname>Mario</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Il Vangelo arabo dell’Infanzia second ail MS.
+Laurenziano orientale n. 387</dc:title>
+      <dcterms:abstract>Fleischer in Constantin von Tischendorf, Evangelia
+Apocrypha (Leipzig:Avenarius et Mendelssohn, 1853) pp. 171-202.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1973</dc:date>
+      <dc:subject>MS: Vatican, BAV, Ar. 171</dc:subject>
+      <dc:subject>MS: Vatican, BAV,  Ar.</dc:subject>
+      <dc:subject>694, Syr. 199</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 539., Ar. 539.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Augsburg</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>xxx</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Rießler</foaf:surname>
+                  <foaf:givenname>Paul</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Altjüdisches Schrifttum außerhalb der
+Bibel</dc:title>
+      <dcterms:abstract>Contains a German translation of the Testament of Isaac. </dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1928</dc:date>
+      <dc:subject>MS: Vatican, BAV, Ar. 171</dc:subject>
+      <dc:subject>MS: Vatican, BAV,  Ar.</dc:subject>
+      <dc:subject>694, Syr. 199</dc:subject>
+      <dc:subject>MS: Sinai,  Ar. 539., Ar. 539.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Utrecht</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Trajectum ad Rhenum</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Sike</foaf:surname>
+                  <foaf:givenname>Henricus</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Evangelium
+Infantiae vel liber apocryphus de infatia Salvatoris, ex manuscripto editit ac latina versione et
+notis illistravit</dc:title>
+      <dcterms:abstract>The edition is based on a manuscript,
+acquired by Golius in Turkey in 1625. It was sold to the Bodleian Library, where it is preserved
+today under the shelf mark Ms. Oxford, Bodl., Or. 350.
+With Latin translation.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1697</dc:date>
+      <dc:subject>MS: , : Oxford, Bodl.</dc:subject>
+      <dc:subject>MS: , : Oxford,  Or. 350.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Feodorov</foaf:surname>
+                  <foaf:givenname>Ioana</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Dimitrie Cantemir, Salvation of the Sage and
+Ruin of the Sinful World</dc:title>
+      <dcterms:abstract>
+Contains a section on biblical quotations.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>2016</dc:date>
+      <dc:subject>MS: Sinai,  Ar. 75 (fols 102-223), Ar. 75 (fols 102-223)</dc:subject>
+      <dc:subject>MS: , Ar. 441 (fols 121-227), Ar. 441 (fols 121-227)</dc:subject>
+      <dc:subject>MS: , Ar. 436 (?), Ar. 436 (?)</dc:subject>
+      <dc:subject>MS: Vatican, Biblioteca Vaticana, Ar. 491</dc:subject>
+      <dc:subject>MS: , Ar. 645 (fols 184-192), Ar. 645 (fols 184-192)</dc:subject>
+      <dc:subject>MS: Jerusalem, St. Anne, 33</dc:subject>
+      <dc:subject>MS: Cairo, Coptic Orthodox Patriarchate, Theol. 209</dc:subject>
+      <dc:subject>(Simaika 238)</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Griffith</foaf:surname>
+                  <foaf:givenname>Sidney Harrison</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>The Church in the Shadow of the
+Mosque. Christians and Muslims in the World of Islam</dc:title>
+      <dcterms:abstract>On Summa Theologiae Arabica [#]: pp. 52-53; 57-60; 82-83;
+90.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>2008</dc:date>
+      <dc:subject>MS: St. Petersburg, RNL, Yevr. II</dc:subject>
+      <dc:subject>C 1/2</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Rome</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Città Nuova Editrice</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Gallo</foaf:surname>
+                  <foaf:givenname>Maria</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Palestinense anonimo. Omelia arabo-cristiana
+del'VIII secolo </dc:title>
+      <dcterms:abstract> Italian translation of Gibson's edition [#]. </dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1994</dc:date>
+      <dc:subject>MS: St. Petersburg, RNL, Yevr. II</dc:subject>
+      <dc:subject>C 1/2</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Griffith</foaf:surname>
+                  <foaf:givenname>Sidney Harrison</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>The Bible in Arabic. The Scripture
+of the “People of the Book” in the Language of Islam</dc:title>
+      <dcterms:abstract> PP. ###### on [#].</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>2013</dc:date>
+      <dc:subject>MS: St. Petersburg, RNL, Yevr. II</dc:subject>
+      <dc:subject>C 1/2</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Griffith</foaf:surname>
+                  <foaf:givenname>Sidney Harrison</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>The Church in the Shadow of the
+Mosque. Christians and Muslims in the World of Islam</dc:title>
+      <dcterms:abstract> On Fī Tathlīth Allāh al-Wāḥid [#]: pp. 53-57; 89-90;
+167-68.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>2008</dc:date>
+      <dc:subject>MS: St. Petersburg, RNL, Yevr. II</dc:subject>
+      <dc:subject>C 1/2</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Griffith</foaf:surname>
+                  <foaf:givenname>Sidney Harrison</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>The Bible in Arabic. The Scripture
+of the “People of the Book” in the Language of Islam</dc:title>
+      <dcterms:abstract> PP. ####### on testimonia. </dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>2013</dc:date>
+      <dc:subject>MS: St. Petersburg, RNL, Yevr. II</dc:subject>
+      <dc:subject>C 1/2</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Beirut</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Dār al</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Putman</foaf:surname>
+                  <foaf:givenname>Hans</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>L’église et l’Islam sous Timothée I (780-823):
+étude sur l’église nestorienne au temps des premiers ʿAbbāsides: avec nouvelle édition et traduction
+du Dialogue entre Timothée et al-Mahdi</dc:title>
+      <dcterms:abstract>Judaeo-Arabic</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1975</dc:date>
+      <dc:subject>MS: St. Petersburg, RNL, Yevr. II</dc:subject>
+      <dc:subject>C 1/2</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Karlsruhe</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Verlag von A. J. Hofmann</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Schwarzstein</foaf:surname>
+                  <foaf:givenname>Jisrael</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Targum Arvi: Die arabische
+Interpretation des Pentateuchs von Rabbi Saadiah hagaon </dc:title>
+      <dcterms:abstract>YbE</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1886</dc:date>
+      <dc:subject>MS: ,  Violet fragment and Bryn Mawr, Violet fragment</dc:subject>
+      <dc:subject>MS: ,  Violet fragment and Bryn Mawr, Bryn Mawr</dc:subject>
+      <dc:subject>College Library, BV 47 (formerly Zurich Or. 94).</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Wien</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>xxx</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Zwick</foaf:surname>
+                  <foaf:givenname>Süssie</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Die Pentateuchübersetzung des Saadia und das
+Targum Onkelos</dc:title>
+      <dcterms:abstract>YbE</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1901</dc:date>
+      <dc:subject>MS: ,  Violet fragment and Bryn Mawr, Violet fragment</dc:subject>
+      <dc:subject>MS: ,  Violet fragment and Bryn Mawr, Bryn Mawr</dc:subject>
+      <dc:subject>College Library, BV 47 (formerly Zurich Or. 94).</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Berlin </vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Druck von H.
+Itzkowski</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Spiegel</foaf:surname>
+                  <foaf:givenname>Hermann</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Saadia al-Fajjumi's arabische
+Danielversion: nach einem Manuscript der kgl. Bibliothek in Berlin</dc:title>
+      <dcterms:abstract>Jan B. van Zijl, “The British Library MS Or. 2211 of Saadia Gaon’s Arabic
+Translation of Isaiah,” JSS 37 (2001), pp. 1992-57-63.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1906</dc:date>
+      <dc:subject>MS: ,  Violet fragment and Bryn Mawr, Violet fragment</dc:subject>
+      <dc:subject>MS: ,  Violet fragment and Bryn Mawr, Bryn Mawr</dc:subject>
+      <dc:subject>College Library, BV 47 (formerly Zurich Or. 94).</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Berlin</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>M. Poppelauer</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Baron</foaf:surname>
+                  <foaf:givenname>Sally</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Saadia Al-fajjûmi's arabische
+Psalmenübersetzung und Commentar (Psalm 50-72)</dc:title>
+      <dcterms:abstract>Review: Friedländer, J., ZfHB 6
+(1901), pp. 40-41.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1900</dc:date>
+      <dc:subject>MS: ,  Violet fragment and Bryn Mawr, Violet fragment</dc:subject>
+      <dc:subject>MS: ,  Violet fragment and Bryn Mawr, Bryn Mawr</dc:subject>
+      <dc:subject>College Library, BV 47 (formerly Zurich Or. 94).</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Stuttgart</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Druck der J.B. Metzlerschen
+Buchdruckerei</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Hoffmann</foaf:surname>
+                  <foaf:givenname>Theodor</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Die korachitischen Psalmen aus Saadias
+arabischer Übersetzung und Erklärung der Psalmen</dc:title>
+      <dcterms:abstract>Review: Eppenstein, ZfHB 8 (1904), pp. 98-99.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1891</dc:date>
+      <dc:subject>MS: Vatican, BAV, Barberini Or. 1.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Berlin</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Druck von H.
+Itzkowski</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Siegfried Galliner</foaf:surname>
+                  <foaf:givenname/>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Saadia Alfajjûmi's arabische
+Psalmenübersetzung und Commentar (Psalm 73-89). Nach einer Münchener, einer Berliner und einer
+Oxforder Handschrift herausgegeben und mit Anmerkungen versehen</dc:title>
+      <dcterms:abstract>Review: Eppenstein, ZfHB 8 (1904), pp. 98-99.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1903</dc:date>
+      <dc:subject>MS: Vatican, BAV, Barberini Or. 1.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Berlin</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>xxx</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Lauterbauch</foaf:surname>
+                  <foaf:givenname>Jacob Zallel</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Saadja's Al-fajjûmi's arabische
+Psalmenübersetzung und Commentar. Psalm 107-124 . Herausgegeben, übersetzt und mit Anmerkungen
+versehen</dc:title>
+      <dcterms:abstract>Michael Wechsler, “An Early Karaite Commentary on the Book of Esther,” Hebrew Union College Annual 72 (2002), pp. 101–37.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1903</dc:date>
+      <dc:subject>MS: Vatican, BAV, Barberini Or. 1.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Lehman</foaf:surname>
+                  <foaf:givenname>S.</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Saadia al-Fajûmî’s arabische Psalmenübersetzung:
+Psalm 21-24</dc:title>
+      <dcterms:abstract>Michael Wechsler, “An Early Karaite Commentary on the Book of Esther,” Hebrew Union College Annual 72 (2002), pp. 101–37.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1901</dc:date>
+      <dc:subject>MS: Vatican, BAV, Barberini Or. 1.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Marwich</foaf:surname>
+                  <foaf:givenname>Lawrence</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Arabic commentary of Salmon ben Yeruham
+the Karaite on the book of Psalms, chapters 42-72. Edited from the unique ms. in the State Public
+Library in Leningrad </dc:title>
+      <dcterms:abstract>Michael Wechsler, “An Early Karaite Commentary on the Book of Esther,” Hebrew Union College Annual 72 (2002), pp. 101–37.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1956</dc:date>
+      <dc:subject>MS: Vatican, BAV, Barberini Or. 1.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Heidelberg</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Winter</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Merx</foaf:surname>
+                  <foaf:givenname>Adalbert</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Die Saadjanische Uebersetzung des hohen
+Liedes ins arabische nebst andern auf das hohe Lied bezüglichen arabischen Texten herausgegeben</dc:title>
+      <dcterms:abstract>Michael Wechsler, “An Early Karaite Commentary on the Book of Esther,” Hebrew Union College Annual 72 (2002), pp. 101–37.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1882</dc:date>
+      <dc:subject>MS: Vatican, BAV, Barberini Or. 1.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Breslau</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>xxx</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Margulies</foaf:surname>
+                  <foaf:givenname>Samuel Hirsch</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Saadia al-Fajûmî’s arabische
+Psalmenübersetzung</dc:title>
+      <dcterms:abstract>Michael Wechsler, “An Early Karaite Commentary on the Book of Esther,” Hebrew Union College Annual 72 (2002), pp. 101–37.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1884</dc:date>
+      <dc:subject>MS: Vatican, BAV, Barberini Or. 1.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Riese</foaf:surname>
+                  <foaf:givenname>Moshe I.</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>The Arabic Commentary of Solomon ben Yeruham
+the Karaite on Ecclesiastes </dc:title>
+      <dcterms:abstract>Michael Wechsler, “An Early Karaite Commentary on the Book of Esther,” Hebrew Union College Annual 72 (2002), pp. 101–37.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1973</dc:date>
+      <dc:subject>MS: Vatican, BAV, Barberini Or. 1.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Berlin</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Druck von Itzkowski</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Schreier</foaf:surname>
+                  <foaf:givenname>Bernard</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Saadja Al-fajjûmi's arabische
+Psalmenübersetzung und Commentar (Psalm 125-150)</dc:title>
+      <dcterms:abstract>Michael Wechsler, “An Early Karaite Commentary on the Book of Esther,” Hebrew Union College Annual 72 (2002), pp. 101–37.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1904</dc:date>
+      <dc:subject>MS: Vatican, BAV, Barberini Or. 1.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Zafrani</foaf:surname>
+                  <foaf:givenname>Haim</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Caquot</foaf:surname>
+                  <foaf:givenname>André</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>L'Ecclésiaste et son
+commentaire: “le livre de l'ascèse”: la version arabe de la Bible de Sa'adya Gaon </dc:title>
+      <dcterms:abstract>Other old testament</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1989</dc:date>
+      <dc:subject>MS: Vatican, BAV, Barberini Or. 1.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Wechsler</foaf:surname>
+                  <foaf:givenname>Michael</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>The Arabic Translation and Commentary of
+Yefet ben ‘Eli the Karaite on the Book of Esther: Edition, Translation, and Introduction </dc:title>
+      <dcterms:abstract>Michael Wechsler, „The Arabic Translation and Commentary of Yefet ben ‘Eli the
+Karaite on the Book of Esther,“ in Karaite Texts and Studies 1 / Études sur le judaïsme médiéval 36 (Leiden: Brill, 2008).</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>2006</dc:date>
+      <dc:subject>MS: Vatican, BAV, Barberini Or. 1.</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Kuenen</foaf:surname>
+                  <foaf:givenname>Abraham</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Libri Exodi et Levitici secundum arabicam
+Pentateuchi Samaritani versionem ab Abu-Saido conscriptam</dc:title>
+      <dcterms:abstract>Rudolf Macuch, “On the Problems of the Arabic Translation of the Samaritan
+Pentateuch,” Israel Oriental Studies 9 (1979), pp. 147-173.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1854</dc:date>
+      <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Kuenen</foaf:surname>
+                  <foaf:givenname>Abraham</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Specimen e literis orientalibus exhibens
+librum Geneseos, secundum arabicam Pentateuchi samaritani versionem ab Abu-Saido conscriptam</dc:title>
+      <dcterms:abstract>Rudolf Macuch, “On the Problems of the Arabic Translation of the Samaritan
+Pentateuch,” Israel Oriental Studies 9 (1979), pp. 147-173.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1851</dc:date>
+      <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Kuenen</foaf:surname>
+                  <foaf:givenname>Abraham</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Specimen theologicum continens Geneseos
+libri capita triginta quatuor priora ex Arabica Pentateuchi Samaritani Versione nunc primum edita
+cum prolegomenis </dc:title>
+      <dcterms:abstract>Rudolf Macuch, “On the Problems of the Arabic Translation of the Samaritan
+Pentateuch,” Israel Oriental Studies 9 (1979), pp. 147-173.</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1851</dc:date>
+      <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Algermissen</foaf:surname>
+                  <foaf:givenname>Ernst</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>Die Pentateuchzitate Ibn Ḥazms. Ein
+Beitrag zur Geschichte der arabischen Bibelübersetzungen </dc:title>
+      <dcterms:abstract>Samuel-Martin Behloul, „Ibn Hazms Evangelienkritik: eine methodische
+Untersuchung,“ Islamic philosophy, theology, and science 50 (Leiden / Boston:
+2002).</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>1933</dc:date>
+      <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
+   </bib:Book>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Series>
+            <dc:title>Series</dc:title>
+            <dc:identifier>Series Number</dc:identifier>
+         </bib:Series>
+      </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Saleh</foaf:surname>
+                  <foaf:givenname>Walid</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
+      <z:translators>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>TranslatorL</foaf:surname>
+                  <foaf:givenname>TranslatorF I</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </z:translators>
+      <dc:title>In defense of the Bible: a critical edition and
+an introduction to al-Biqā‘ī’s Bible treatise</dc:title>
+      <dcterms:abstract>ibn Khaldun</dcterms:abstract>
+      <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+      <dc:date>2008</dc:date>
+      <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
+   </bib:Book>
 </rdf:RDF>

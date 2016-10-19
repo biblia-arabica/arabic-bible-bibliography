@@ -87,6 +87,8 @@
                                         <xsl:when test="name()='dc:title'"><xsl:copy-of select="."/></xsl:when>
                                         <xsl:otherwise>
                                             <xsl:variable name="regex-volume" select="'\s*[Vv]ol\.\s*([0-9A-Za-z]+(\-[0-9A-Za-z]+)?),*'"/>
+                                            <!-- !!! This doesn't catch the place if there is no publisher name. 
+                                            Also fails if there is a slash, e.g., (Leiden/Boston: Brill, 2008) -->
                                             <xsl:variable name="regex-publisher" select="'[,\(]\s*([\w\s\.&amp;;]+):\s*([\w\s\.&amp;;]+)'"/>
                                             <xsl:variable name="regex-date" select="'\s*((14|15|16|17|18|19|20)\d{2}(\-\d+)?)(,|\))'"/>
                                             <xsl:variable name="regex-pages" select="'\s*p?p\.[\s\n\t]*((([0-9A-Za-z]+(\-[0-9A-Za-z]+)?),?\s*)+)\.*'"/>
@@ -272,6 +274,54 @@
                             <xsl:copy-of select="dc:subject"/>
                         </bib:Article>
                     </xsl:for-each>
+                
+                    <!-- Book format.  -->
+                    <xsl:for-each select="$entry/entry[count(dc:title)=1 and not(bib:pages) and (dc:date|dc:publisher)]">
+                        <bib:Book>
+                            <z:itemType>book</z:itemType>
+                            <dcterms:isPartOf>
+                                <bib:Series>
+                                    <dc:title>Series</dc:title>
+                                    <dc:identifier>Series Number</dc:identifier>
+                                </bib:Series>
+                            </dcterms:isPartOf>
+                            <xsl:copy-of select="dc:publisher"/>
+                            <xsl:copy-of select="bib:authors"/>
+                            <xsl:copy-of select="bib:editors"/>
+                            <!--<z:seriesEditors>
+                                <rdf:Seq>
+                                    <rdf:li>
+                                        <foaf:Person>
+                                            <foaf:surname>Series EditorL</foaf:surname>
+                                            <foaf:givenname>SeriesF I</foaf:givenname>
+                                        </foaf:Person>
+                                    </rdf:li>
+                                </rdf:Seq>
+                            </z:seriesEditors>-->
+                            <z:translators>
+                                <rdf:Seq>
+                                    <rdf:li>
+                                        <foaf:Person>
+                                            <foaf:surname>TranslatorL</foaf:surname>
+                                            <foaf:givenname>TranslatorF I</foaf:givenname>
+                                        </foaf:Person>
+                                    </rdf:li>
+                                </rdf:Seq>
+                            </z:translators>
+                            <xsl:copy-of select="dc:title"/>
+                            <xsl:copy-of select="dcterms:abstract"/>
+                            <xsl:copy-of select="prism:volume"/>
+                            <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+                            <xsl:copy-of select="prism:edition"/>
+                            <xsl:copy-of select="dc:date"/>
+                            <!--<z:numPages># of Pages</z:numPages>-->
+                            <!--<z:language>Language</z:language>-->
+                            <!--<dc:identifier>
+                                <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+                            </dc:identifier>-->
+                            <xsl:copy-of select="dc:subject"/>
+                        </bib:Book>
+                    </xsl:for-each>
                     
                 
             </rdf:RDF>
@@ -279,6 +329,7 @@
     </xsl:template>
     
     <xsl:template match="//tei:hi[@rend='italic']">
+        <!-- Would be good if this chops off punctuation (e.g., commas) at beginning of title -->
         <dc:title><xsl:copy-of select="node()"></xsl:copy-of></dc:title>
     </xsl:template>
         
