@@ -329,8 +329,8 @@
     </xsl:template>
     
     <xsl:template match="//tei:hi[@rend='italic']">
-        <!-- Would be good if this chops off punctuation (e.g., commas) at beginning of title -->
-        <dc:title><xsl:copy-of select="node()"></xsl:copy-of></dc:title>
+        <xsl:variable name="sanitized-titles" select="replace(replace(node(),'^[”“,\s\.]+',''),'[\s]+$','')"/>
+        <dc:title><xsl:copy-of select="$sanitized-titles"></xsl:copy-of></dc:title>
     </xsl:template>
         
 </xsl:stylesheet>
