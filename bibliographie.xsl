@@ -55,6 +55,20 @@
             </xsl:matching-substring>
         </xsl:analyze-string>
     </xsl:function>
+    <xsl:function name="syriaca:sanitize-titles">
+        <!-- Will not preserve attributes -->
+        <xsl:param name="title" as="node()*"/>
+        <xsl:for-each select="$title">
+            <xsl:choose>
+                <xsl:when test="count(node())>1"><xsl:copy-of select="syriaca:sanitize-titles(node())"/></xsl:when>
+                <xsl:otherwise>
+                    <xsl:element name="{name()}">
+                        <xsl:value-of select="replace(replace(node(),'^[”“,\s\.]+',''),'[,\s]+$','')"/>
+                    </xsl:element>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:for-each>
+    </xsl:function>
     
     
     <xsl:template match="/tei:TEI/tei:text/tei:body">
@@ -161,7 +175,7 @@
                                                                                                             <rdf:Seq>
                                                                                                                 <xsl:for-each select="tokenize(regex-group(2),',*\s+([au]nd|&amp;)\s+')">
                                                                                                                     <rdf:li>
-                                                                                                                        <foaf:Person><xsl:value-of select="."/></foaf:Person>
+                                                                                                                        <foaf:Person><xsl:copy-of select="syriaca:split-names(.)"/></foaf:Person>
                                                                                                                     </rdf:li>
                                                                                                                 </xsl:for-each>
                                                                                                             </rdf:Seq>
@@ -262,12 +276,12 @@
                             <z:itemType>journalArticle</z:itemType>
                             <dcterms:isPartOf>
                                 <bib:Journal>
-                                    <xsl:copy-of select="dc:title[2]"/>
+                                    <xsl:copy-of select="syriaca:sanitize-titles(dc:title[2])"/>
                                     <xsl:copy-of select="prism:volume"/>
                                 </bib:Journal>
                             </dcterms:isPartOf>
                             <xsl:copy-of select="bib:authors"/>
-                            <xsl:copy-of select="dc:title[1]"/>
+                            <xsl:copy-of select="syriaca:sanitize-titles(dc:title[1])"/>
                             <xsl:copy-of select="bib:pages"/>
                             <xsl:copy-of select="dc:date"/>
                             <xsl:copy-of select="dcterms:abstract"/>
@@ -308,7 +322,7 @@
                                     </rdf:li>
                                 </rdf:Seq>
                             </z:translators>
-                            <xsl:copy-of select="dc:title"/>
+                            <xsl:copy-of select="syriaca:sanitize-titles(dc:title)"/>
                             <xsl:copy-of select="dcterms:abstract"/>
                             <xsl:copy-of select="prism:volume"/>
                             <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
@@ -335,7 +349,7 @@
                                         <dc:identifier>Series Number</dc:identifier>
                                     </bib:Series>
                                 </dcterms:isPartOf>
-                                <xsl:copy-of select="dc:title[2]"/>
+                                <xsl:copy-of select="syriaca:sanitize-titles(dc:title[2])"/>
                                 <xsl:copy-of select="prism:volume"/>
                             </bib:Book>
                         </dcterms:isPartOf>
@@ -373,7 +387,7 @@
                                 </rdf:li>
                             </rdf:Seq>
                         </z:bookAuthors>-->
-                        <xsl:copy-of select="dc:title[1]"/>
+                        <xsl:copy-of select="syriaca:sanitize-titles(dc:title[1])"/>
                         <xsl:copy-of select="dcterms:abstract"/>
                         <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
                         <xsl:copy-of select="prism:edition"/>
@@ -394,8 +408,9 @@
     </xsl:template>
     
     <xsl:template match="//tei:hi[@rend='italic']">
-        <xsl:variable name="sanitized-titles" select="replace(replace(node(),'^[”“,\s\.]+',''),'[\s]+$','')"/>
-        <dc:title><xsl:copy-of select="$sanitized-titles"></xsl:copy-of></dc:title>
+        <!-- !!! This doesn't handle italics inside article titles. E.g., Mark Swanson, “Ibn Taymiyya and the <hi rend="italic">Kitāb al-burhān</hi>. A
+            Muslim controversialist responds to a ninth-century Arabic Christian apology,” -->
+        <dc:title><xsl:copy-of select="node()"></xsl:copy-of></dc:title>
     </xsl:template>
         
 </xsl:stylesheet>
