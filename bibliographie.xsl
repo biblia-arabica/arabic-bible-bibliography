@@ -73,6 +73,7 @@
         <xsl:param name="item-node"/>
         <xsl:param name="itemType"/>
         <xsl:if test="not($item-node/dc:date)"><dc:subject>!no date</dc:subject></xsl:if>
+        <xsl:if test="not($item-node/bib:authors)"><dc:subject>!no author</dc:subject></xsl:if>
     </xsl:function>
     
     <!-- The number the ID tags should start with. -->
