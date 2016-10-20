@@ -108,13 +108,17 @@ L’onore della traduzione | La tâche de la traduction</dc:title>
       <dc:subject>MS: Cambridge, CUL, T-S Ar. 1a.55.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Article>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -153,15 +157,21 @@ and 134-139</bib:pages>
       <dc:subject>MS: Vatican, BAV,  Barberini</dc:subject>
       <dc:subject>MS: Vatican, BAV,  Or. 1</dc:subject>
       <dc:subject>MS: Vatican, BAV,  Borg. Ar. 129.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -201,8 +211,10 @@ journey to Rome. </dcterms:abstract>
       <dc:subject>MS: Vatican, BAV,  Barberini</dc:subject>
       <dc:subject>MS: Vatican, BAV,  Or. 1</dc:subject>
       <dc:subject>MS: Vatican, BAV,  Borg. Ar. 129.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -357,13 +369,17 @@ Petit dictionnaire de l'orient chrétien (Turnhout: Brepols, 1991), p.
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:BookSection>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -397,15 +413,22 @@ Syriac Literature and Sciences</dc:title>
       <dc:subject>MS: Paris,  BNF. Ar. 42, BNF. Ar. 42</dc:subject>
       <dc:subject>MS: Birmingham, Mingana, Chr. Ar. 431</dc:subject>
       <dc:subject>MS: ,  an unspecified Ms. from the monastery of St. Matthew., an unspecified Ms. from the monastery of St. Matthew.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+            <prism:volume>2</prism:volume>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -432,15 +455,16 @@ Orients</dc:title>
       <dcterms:abstract>Presents the most famous manuscripts and historic printings. </dcterms:abstract>
       <dc:date>1911</dc:date>
       <bib:pages>12-15</bib:pages>
-      <prism:volume>2</prism:volume>
       <dc:subject>ID: 9</dc:subject>
       <dc:subject>MS: Vatican, BAV, Ar. 13</dc:subject>
       <dc:subject>MS: Vatican, BAV,  Ar. 71</dc:subject>
       <dc:subject>MS: Vatican, BAV,  Ar. 95</dc:subject>
       <dc:subject>MS: Vatican, BAV, Copt. 9</dc:subject>
       <dc:subject>MS: Sinai,  Ar. 151., Ar. 151.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -666,13 +690,17 @@ historical, text-critical and literary aspects</dc:title>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no pages</dc:subject>
    </bib:Article>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -714,8 +742,10 @@ historical, text-critical and literary aspects</dc:title>
       <dc:subject>MS: Vatican, BAV, Ar. 468</dc:subject>
       <dc:subject>MS: , Bryn Mawr, Bryn Mawr</dc:subject>
       <dc:subject>?MS: College Library, BV 47 (formerly Zurich Or. 94).</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -792,13 +822,17 @@ historical, text-critical and literary aspects</dc:title>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no volume</dc:subject>
    </bib:Article>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -837,8 +871,10 @@ des Orients</dc:title>
       <dc:subject>?MS: Arund. Or. 15</dc:subject>
       <dc:subject>MS: Paris, BNF, Ar. 1</dc:subject>
       <dc:subject>MS: St Petersburg, RNL, Ar. NS. 327.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -993,13 +1029,17 @@ des littératures</dc:title>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:BookSection>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -1030,15 +1070,21 @@ exhibiting a systematic view of that science</dc:title>
       <dc:subject>MS: Oxford, Bodleian Library, Poc. 289</dc:subject>
       <dc:subject>MS: London, BL, Harl.</dc:subject>
       <dc:subject>?MS: 5505 (cited as 5503!).</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -1070,8 +1116,10 @@ exhibiting a systematic view of that science</dc:title>
       <dc:subject>MS: London, BL, Or.</dc:subject>
       <dc:subject>?MS: 5505 (cited as 5503!)</dc:subject>
       <dc:subject>MS: Vatican, BAV, Ar. 13.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -1292,13 +1340,18 @@ into Arabic.</dcterms:abstract>
       <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Article>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+            <prism:volume>2</prism:volume>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -1315,7 +1368,6 @@ Testament</dc:title>
       <dcterms:abstract>pdf</dcterms:abstract>
       <dc:date>1823</dc:date>
       <bib:pages>230-319 </bib:pages>
-      <prism:volume>2</prism:volume>
       <dc:subject>ID: 32</dc:subject>
       <dc:subject>MS: Munich,  Staatsbibliothek Ar. 238 (pl. on p. 31 and, Staatsbibliothek Ar. 238 (pl. on p. 31 and</dc:subject>
       <dc:subject>?MS: Ar. 234</dc:subject>
@@ -1327,9 +1379,11 @@ Testament</dc:title>
       <dc:subject>?MS: Leon, Cod. 35 (olim Escurial, Ms. H, IV, 10) and Cod. 1026</dc:subject>
       <dc:subject>MS: Leipzig, Universitätsbibliothek, Cod. 1059</dc:subject>
       <dc:subject>MS: Vatican, BAV, Ar. 5 (pls. on pp. 28-29). </dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-   </bib:Book>
+   </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -1368,13 +1422,17 @@ pp. 17-29.</dcterms:abstract>
       <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Article>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -1414,8 +1472,10 @@ pp. 17-29.</dcterms:abstract>
       <dc:subject>?MS: Leon, Cod. 35 (olim Escurial, Ms. H, IV, 10) and Cod. 1026</dc:subject>
       <dc:subject>MS: Leipzig, Universitätsbibliothek, Cod. 1059</dc:subject>
       <dc:subject>MS: Vatican, BAV, Ar. 5 (pls. on pp. 28-29). </dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <dcterms:isPartOf>
@@ -1464,13 +1524,18 @@ Breisgau</vcard:locality>
       <dc:subject>?MS: 234</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+            <prism:volume>1</prism:volume>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -1498,7 +1563,6 @@ Literatur</dc:title>
 manuscript sources and secondary literature.</dcterms:abstract>
       <dc:date>1944-1949</dc:date>
       <bib:pages>85-195</bib:pages>
-      <prism:volume>1</prism:volume>
       <dc:subject>ID: 36</dc:subject>
       <dc:subject>MS: Vatican,  Ar. 13, Ar. 13</dc:subject>
       <dc:subject>MS: , 14, 14</dc:subject>
@@ -1512,8 +1576,10 @@ manuscript sources and secondary literature.</dcterms:abstract>
       <dc:subject>MS: Munich,  Staatsbibliothek Ar. 238 and Ar., Staatsbibliothek Ar. 238</dc:subject>
       <dc:subject>MS: Munich,  Staatsbibliothek Ar. 238 and Ar., Ar.</dc:subject>
       <dc:subject>?MS: 234</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <dcterms:isPartOf>
@@ -2241,13 +2307,17 @@ Bible</dc:title>
       <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -2297,8 +2367,10 @@ arabica) in the Biblia Hebraica.</dcterms:abstract>
       <dc:subject>MS: Berlin, Staatsbibliothek, Or. Qu. 828</dc:subject>
       <dc:subject>MS: Leiden,  University Library Or. 377, University Library Or. 377</dc:subject>
       <dc:subject>MS: Florence,  BML Or. 112 (formerly 21)., BML Or. 112 (formerly 21).</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <dcterms:isPartOf>
@@ -2447,13 +2519,17 @@ b. al-Qūṭī [#] and ibn Balashk [#] </dcterms:abstract>
       <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -2495,8 +2571,10 @@ b. al-Qūṭī [#] and ibn Balashk [#] </dcterms:abstract>
       <dc:subject>MS: Leiden, University Library, Or. 214</dc:subject>
       <dc:subject>MS: Vatican, BAV, Lat. 12900</dc:subject>
       <dc:subject>?MS: (formerly Chapter of the Cathedral of Siguenze, Ms. 150).</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -2635,13 +2713,17 @@ encyclopédique de la Bible</dc:title>
       <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:BookSection>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -2680,15 +2762,21 @@ Bible Translations</dc:title>
       <dc:subject>MS: St. Petersburg, Imperial Library, </dc:subject>
       <dc:subject>?MS: BNF, Anc. F. 27 (current shelfmark) and Suppl. Ar. 27 (Coisl. 239), Vatican, BAV, Lat. 12900
 (formerly Chapter of the Cathedral of Siguenze, Ms. 150).</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -2726,8 +2814,10 @@ Bible Translations</dc:title>
       <dc:subject>MS: St. Petersburg, Imperial Library, </dc:subject>
       <dc:subject>?MS: BNF, Anc. F. 27 (current shelfmark) and Suppl. Ar. 27 (Coisl. 239), Vatican, BAV, Lat. 12900
 (formerly Chapter of the Cathedral of Siguenze, Ms. 150).</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -2964,13 +3054,17 @@ versión árabe de las ‘Sagradas Escrituras’ izada en al-Andalus.</dc:title>
       <dc:subject>MS: Violet fragment and Moscow, State Library, Ms. 432.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Article>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -2992,16 +3086,23 @@ Vostok</dc:title>
       <bib:pages>677</bib:pages>
       <dc:subject>ID: 69</dc:subject>
       <dc:subject>MS: Violet fragment and Moscow, State Library, Ms. 432.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-   </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   </bib:BookSection>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+            <prism:volume>58</prism:volume>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -3019,12 +3120,13 @@ Vostok</dc:title>
       <dc:date>2010</dc:date>
       <dc:date>2010</dc:date>
       <bib:pages>179-197</bib:pages>
-      <prism:volume>58</prism:volume>
       <dc:subject>ID: 70</dc:subject>
       <dc:subject>MS: Violet fragment and Moscow, State Library, Ms. 432.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-   </bib:Book>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -3336,13 +3438,17 @@ the possession of the Septuaginta-Unternehmen and has been used for collation.</
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -3373,15 +3479,21 @@ the possession of the Septuaginta-Unternehmen and has been used for collation.</
       <bib:pages>24</bib:pages>
       <dc:subject>ID: 78</dc:subject>
       <dc:subject>MS: Paris, BNF, Ar. 9</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -3413,8 +3525,10 @@ the possession of the Septuaginta-Unternehmen and has been used for collation.</
       <dc:subject>MS: , Greek monastery, Greek monastery</dc:subject>
       <dc:subject>?MS: Jerusalem Cod. 1</dc:subject>
       <dc:subject>MS: Leiden, University Library, Or. 243.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -3847,13 +3961,18 @@ Maltese</dc:title>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+            <prism:volume>8</prism:volume>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -3870,16 +3989,17 @@ Maltese</dc:title>
       <dc:date>1847-1947</dc:date>
       <dc:date>1947</dc:date>
       <bib:pages>10-13</bib:pages>
-      <prism:volume>8</prism:volume>
       <dc:subject>ID: 92</dc:subject>
       <dc:subject>MS: Venice,  St. Mark 11 (Venet. 11) and 27 (Venet. 539), St. Mark 11 (Venet. 11)</dc:subject>
       <dc:subject>MS: Venice,  St. Mark 11 (Venet. 11) and 27 (Venet. 539), 27 (Venet. 539)</dc:subject>
       <dc:subject>MS: , Greek monastery, Greek monastery</dc:subject>
       <dc:subject>?MS: Jerusalem Cod. 1</dc:subject>
       <dc:subject>MS: Leiden, University Library, Or. 243.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-   </bib:Book>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -3998,13 +4118,17 @@ Woordenboek</dc:title>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -4026,16 +4150,22 @@ Woordenboek</dc:title>
       <dc:subject>MS: , Greek monastery, Greek monastery</dc:subject>
       <dc:subject>?MS: Jerusalem Cod. 1</dc:subject>
       <dc:subject>MS: Leiden, University Library, Or. 243.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-   </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   </bib:BookSection>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -4070,8 +4200,10 @@ Criticism of the New Testament</dc:title>
       <dc:subject>MS: , Greek monastery, Greek monastery</dc:subject>
       <dc:subject>?MS: Jerusalem Cod. 1</dc:subject>
       <dc:subject>MS: Leiden, University Library, Or. 243.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -4143,13 +4275,17 @@ and the Question of Medieval Byzantine-Orthodox Identity</dc:title>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no volume</dc:subject>
    </bib:Article>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -4182,8 +4318,10 @@ Testament</dc:title>
       <dc:subject>MS: Vatican, BAV,  Copt. 9</dc:subject>
       <dc:subject>MS: Vatican, BAV, Borg. Syr. 49</dc:subject>
       <dc:subject>MS: Rome, Casanatense, Ar.-Carsh. 2 </dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -4537,13 +4675,18 @@ unspecified modern one.</dcterms:abstract>
       <dc:subject>MS: Oxford,  Bodl. Poc. 219 and March. 440. , March. 440. </dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Article>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+            <prism:volume>6</prism:volume>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:editors>
          <rdf:Seq>
@@ -4559,7 +4702,6 @@ unspecified modern one.</dcterms:abstract>
       <dcterms:abstract>Brief summary of primary and secondary sources</dcterms:abstract>
       <dc:date>1657</dc:date>
       <bib:pages>1-80 </bib:pages>
-      <prism:volume>6</prism:volume>
       <dc:subject>ID: 110</dc:subject>
       <dc:subject>MS: Leiden,  University Library Or. 377 and 230, University Library Or. 377</dc:subject>
       <dc:subject>MS: Leiden,  University Library Or. 377 and 230, 230</dc:subject>
@@ -4568,10 +4710,12 @@ unspecified modern one.</dcterms:abstract>
       <dc:subject>MS: Paris, BNF Ar. 9, 16</dc:subject>
       <dc:subject>MS: Oxford,  Bodl. Poc. 219 and March. 440. , Bodl. Poc. 219</dc:subject>
       <dc:subject>MS: Oxford,  Bodl. Poc. 219 and March. 440. , March. 440. </dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-   </bib:Book>
+   </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -4608,13 +4752,17 @@ unspecified modern one.</dcterms:abstract>
       <dc:subject>MS: Oxford,  Bodl. Poc. 219 and March. 440. , March. 440. </dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Article>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -4649,15 +4797,21 @@ Graecum, auctoritate Academiae Scientiarum Gottingensis editum, Vol. 1, Genesis<
       <dc:subject>MS: Paris, BNF Ar. 9, 16</dc:subject>
       <dc:subject>MS: Oxford,  Bodl. Poc. 219 and March. 440. , Bodl. Poc. 219</dc:subject>
       <dc:subject>MS: Oxford,  Bodl. Poc. 219 and March. 440. , March. 440. </dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -4688,15 +4842,21 @@ Bibelgesellschaft 2009, does not add further material. </dcterms:abstract>
 226-227 </bib:pages>
       <dc:subject>ID: 113</dc:subject>
       <dc:subject>MS: Vatican, BAV, Ar. 23</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -4742,8 +4902,10 @@ Deutscher Orientalistentag vom 26. bis 30. September 1988 in Köln. Ausgewählte
       <bib:pages>131-139</bib:pages>
       <dc:subject>ID: 114</dc:subject>
       <dc:subject>MS: Vatican, BAV, Ar. 23</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -4838,13 +5000,17 @@ Buch im Vorderen Orient</dc:title>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no title</dc:subject>
    </bib:BookSection>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:editors>
          <rdf:Seq>
@@ -4874,16 +5040,23 @@ Plantin</foaf:name>
       <bib:pages>70-72</bib:pages>
       <dc:subject>ID: 117</dc:subject>
       <dc:subject>MS: Vatican, BAV, Ar. 23</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+            <prism:volume>1</prism:volume>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -4901,19 +5074,24 @@ his remains</dc:title>
 the famous gloss on Ps 18:5 that contains the first mention of Christopher Columbus in print </dcterms:abstract>
       <dc:date>1903</dc:date>
       <bib:pages>202-212</bib:pages>
-      <prism:volume>1</prism:volume>
       <dc:subject>ID: 118</dc:subject>
       <dc:subject>MS: Vatican, BAV, Ar. 23</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-   </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   </bib:BookSection>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -4942,8 +5120,10 @@ caratteri arabi</dc:title>
       <bib:pages>58-69</bib:pages>
       <dc:subject>ID: 119</dc:subject>
       <dc:subject>MS: Vatican, BAV, Ar. 23</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -5462,13 +5642,18 @@ enterprise.</dcterms:abstract>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no volume</dc:subject>
    </bib:Article>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+            <prism:volume>2</prism:volume>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -5485,7 +5670,6 @@ Jésus en Syrie (1831-1895)</dc:title>
       <dcterms:abstract>1897</dcterms:abstract>
       <dc:date>1899</dc:date>
       <bib:pages>110-113</bib:pages>
-      <prism:volume>2</prism:volume>
       <dc:subject>ID: 132</dc:subject>
       <dc:subject>MS: ,  Violet fragment, Violet fragment</dc:subject>
       <dc:subject>MS: Sinai,  Ar., Ar.</dc:subject>
@@ -5496,9 +5680,11 @@ Jésus en Syrie (1831-1895)</dc:title>
       <dc:subject>MS: Cambridge, CUL,  45</dc:subject>
       <dc:subject>MS: St Petersburg, RNL, Ebr. II</dc:subject>
       <dc:subject>?MS: C 1-2.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-   </bib:Book>
+   </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -5535,13 +5721,17 @@ Jésus en Syrie (1831-1895)</dc:title>
       <dc:subject>?MS: C 1-2.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Article>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -5581,15 +5771,21 @@ notes. </dcterms:abstract>
       <dc:subject>MS: Cambridge, CUL,  45</dc:subject>
       <dc:subject>MS: St Petersburg, RNL, Ebr. II</dc:subject>
       <dc:subject>?MS: C 1-2.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -5615,9 +5811,11 @@ today.</dcterms:abstract>
       <dc:subject>MS: Paris, BNF, Ar. 5</dc:subject>
       <dc:subject>MS: Leiden, University Library, Or. 1222</dc:subject>
       <dc:subject>MS: Gotha, Forschungsbibliothek, Ar. 1088.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-   </bib:Book>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -5945,13 +6143,17 @@ du Corpus SCO</foaf:name>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -5971,9 +6173,11 @@ primorum capita Geneseos</dc:title>
 Arabic-Latin glossary on pp</bib:pages>
       <dc:subject>ID: 143</dc:subject>
       <dc:subject>MS: Sinai,  Ar. 154., Ar. 154.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-   </bib:Book>
+   </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <dcterms:isPartOf>
@@ -6012,13 +6216,17 @@ Translation from the Same Codex</dc:title>
       <dc:subject>MS: Sinai,  Ar. 154., Ar. 154.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -6054,8 +6262,10 @@ arábigo-española</dc:title>
       <dc:subject>ID: 145</dc:subject>
       <dc:subject>MS: St. Petersburg, Institut of Oriental Manuscripts, A</dc:subject>
       <dc:subject>?MS: 187.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -6418,13 +6628,17 @@ Sira, as based on Ms. Sinai, Ar. 155.</dcterms:abstract>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no pages</dc:subject>
    </bib:BookSection>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:editors>
          <rdf:Seq>
@@ -6445,10 +6659,12 @@ Which one?</dcterms:abstract>
       <dc:subject>ID: 154</dc:subject>
       <dc:subject>MS: Florence, BML, Or. 387 (p.</dc:subject>
       <dc:subject>?MS: 13, pl. 1).</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-   </bib:Book>
+   </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <dcterms:isPartOf>
@@ -7942,13 +8158,18 @@ copy of the Psalms in Arabic [mentioned in GCAL:1, p. 114, #].</dcterms:abstract
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:BookSection>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+            <prism:volume>2</prism:volume>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -7979,11 +8200,12 @@ a 9th century
 copy of the Psalms in Arabic [mentioned in GCAL:1, p. 114, #].</dcterms:abstract>
       <dc:date>1975</dc:date>
       <bib:pages>287-294</bib:pages>
-      <prism:volume>2</prism:volume>
       <dc:subject>ID: 189</dc:subject>
       <dc:subject>MS: Florence, BML, Or. 387.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -9197,13 +9419,17 @@ translations into Mehri, Gen 37 and 39-45; see also below under Historical Books
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -9235,8 +9461,10 @@ editarum, cum observationibus</dc:title>
       <dc:subject>MS: Paris, BNF Ar. 1, Florence</dc:subject>
       <dc:subject>MS: Paris, BNF Ar. 1,  BML Or. 112 (formerly</dc:subject>
       <dc:subject>?MS: 21).</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -9414,13 +9642,17 @@ Arabic translations of the Pentateuch. </dcterms:abstract>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no pages</dc:subject>
    </bib:BookSection>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -9453,15 +9685,22 @@ Arabic translations of the Pentateuch. </dcterms:abstract>
       <dc:subject>MS: Berlin, Staatsbibliothek, Diez A quart. 106</dc:subject>
       <dc:subject>MS: Leiden, University Library, Or. 377</dc:subject>
       <dc:subject>MS: Munich, Staatsbibliothek, Ar. 234.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+            <prism:volume>1</prism:volume>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:editors>
          <rdf:Seq>
@@ -9488,7 +9727,6 @@ Arabic translations of the Pentateuch. </dcterms:abstract>
 (1970), pp. 8-11.</dcterms:abstract>
       <dc:date>1974</dc:date>
       <bib:pages>44-46</bib:pages>
-      <prism:volume>1</prism:volume>
       <dc:subject>ID: 228</dc:subject>
       <dc:subject>MS: Paris, BNF, Ar. 9</dc:subject>
       <dc:subject>MS: Paris, BNF,  Ar. 10</dc:subject>
@@ -9498,9 +9736,11 @@ Arabic translations of the Pentateuch. </dcterms:abstract>
       <dc:subject>MS: Oxford, Bodleian Library, March 440</dc:subject>
       <dc:subject>MS: Leiden, University Library, Or. 377 (Warner 377)</dc:subject>
       <dc:subject>MS: Leiden, University Library, Or. 230 (Scaliger Arab. 230).</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -9626,13 +9866,18 @@ introduction.</dcterms:abstract>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:BookSection>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+            <prism:volume>2</prism:volume>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -9658,7 +9903,6 @@ introduction.</dcterms:abstract>
       <dcterms:abstract>Reproduces White’s [#] Latin translation of the introduction.</dcterms:abstract>
       <dc:date>1861</dc:date>
       <bib:pages>107-108</bib:pages>
-      <prism:volume>2</prism:volume>
       <dc:subject>ID: 231</dc:subject>
       <dc:subject>MS: Sinai,  Ar. 10, Ar. 10</dc:subject>
       <dc:subject>MS: Paris, BNF, Ar. 13 and</dc:subject>
@@ -9672,15 +9916,21 @@ introduction.</dcterms:abstract>
       <dc:subject>MS: , an unspecified, an unspecified</dc:subject>
       <dc:subject>?MS: manuscript from the collection Khūkāz, Aleppo: St Sauveur, Ms. 224</dc:subject>
       <dc:subject>MS: Birmingham, Mingana, Arab. Chr. 121.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -9721,8 +9971,10 @@ introduction.</dcterms:abstract>
       <dc:subject>MS: , an unspecified, an unspecified</dc:subject>
       <dc:subject>?MS: manuscript from the collection Khūkāz, Aleppo: St Sauveur, Ms. 224</dc:subject>
       <dc:subject>MS: Birmingham, Mingana, Arab. Chr. 121.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -9791,13 +10043,17 @@ introduction to his translations. Contains an excerpt of the Arabic text.</dcter
       <dc:subject>MS: Oxford, Bodl., A 147.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Article>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -9833,8 +10089,10 @@ al-Ḥārith’s introduction, as preserved in the two copies of the Bodleian Li
       <dc:subject>ID: 235</dc:subject>
       <dc:subject>MS: Oxford, Bodl., Laud. A 146</dc:subject>
       <dc:subject>MS: Oxford, Bodl., A 147.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -10499,13 +10757,17 @@ Fragmente zum Pentateuch</dc:title>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:BookSection>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -10535,8 +10797,10 @@ Breisgau</vcard:locality>
       <bib:pages>32-34</bib:pages>
       <dc:subject>ID: 250</dc:subject>
       <dc:subject>MS: Leiden, University Library, Or. 230</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <dcterms:isPartOf>
@@ -10564,13 +10828,18 @@ Lagardes Ausgabe der arabischen Übersetzung der Genesis (Cod. Leid. arab. 230) 
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+            <prism:volume>2</prism:volume>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -10604,18 +10873,24 @@ translation, in two columns, communicated to Fabricius by Jean Gagnier, Professo
 Studies, University of Oxford.</dcterms:abstract>
       <dc:date>1718</dc:date>
       <bib:pages>37-44</bib:pages>
-      <prism:volume>2</prism:volume>
       <dc:subject>ID: 252</dc:subject>
       <dc:subject>MS: Oxford, Bodl, Hunt. 84</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+            <prism:volume>13.2</prism:volume>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -10642,11 +10917,12 @@ Studies</dc:title>
       <dcterms:abstract>Reproduces the Latin translation of Fabricius [#].</dcterms:abstract>
       <dc:date>2010</dc:date>
       <bib:pages>125-148</bib:pages>
-      <prism:volume>13.2</prism:volume>
       <dc:subject>ID: 253</dc:subject>
       <dc:subject>MS: Munich, Bayrischen Staatsbibliothek, Ar. 235.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -10828,13 +11104,17 @@ of the Book of Ruth: Text Edition and Language Studies</dc:title>
       <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -10897,8 +11177,10 @@ in the Polyglots.</dcterms:abstract>
       <dc:subject>MS: Vatican, BAV, Ar. 445</dc:subject>
       <dc:subject>MS: Vatican, BAV,  Ar. 468</dc:subject>
       <dc:subject>MS: Vatican, BAV,  Ar. 503.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -11048,13 +11330,17 @@ historicorum interpretationis libri duo</dc:title>
       <dc:subject>MS: Vatican, BAV,  Ar. 503.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -11117,8 +11403,10 @@ Ezra and Nehemia in the Polyglots.</dcterms:abstract>
       <dc:subject>MS: Vatican, BAV, Ar. 445</dc:subject>
       <dc:subject>MS: Vatican, BAV,  Ar. 468</dc:subject>
       <dc:subject>MS: Vatican, BAV,  Ar. 503.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -11437,13 +11725,17 @@ Al Sahhar</dc:title>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no pages</dc:subject>
    </bib:Article>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -11462,16 +11754,22 @@ Uebersetzung des Propheten Jeremias</dc:title>
       <bib:pages>13-14</bib:pages>
       <dc:subject>ID: 269</dc:subject>
       <dc:subject>MS: Berlin, Staatsbibliothek, Diez A fol. 41</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-   </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   </bib:BookSection>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -11502,8 +11800,10 @@ London Polyglot to fill in gaps in the Paris Polyglot.</dcterms:abstract>
       <dc:subject>ID: 270</dc:subject>
       <dc:subject>MS: Oxford, Bodleian Libraries, Seld. Arch. A. 67</dc:subject>
       <dc:subject>MS: Paris, BNF, Ar. 1.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -11563,13 +11863,18 @@ Arabic Text of Daniel and its Affinities</dc:title>
       <dc:subject>MS: Oxford, Bodleian Libraries, Arch. Seld. A 67.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Article>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+            <prism:volume>1</prism:volume>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -11598,11 +11903,12 @@ Polyglots with a focus on the translation’s relation with its Greek Vorlage
 </dcterms:abstract>
       <dc:date>1820-1821</dc:date>
       <bib:pages>98-106</bib:pages>
-      <prism:volume>1</prism:volume>
       <dc:subject>ID: 273</dc:subject>
       <dc:subject>MS: Paris, BNF, Ar. 1</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -11630,13 +11936,17 @@ of Daniel.</dcterms:abstract>
       <dc:subject>MS: Paris, BNF, Ar. 1</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Article>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -11667,15 +11977,21 @@ of Daniel.</dcterms:abstract>
       <bib:pages>34-37</bib:pages>
       <dc:subject>ID: 275</dc:subject>
       <dc:subject>MS: Paris, BNF, Ar. 1</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -11705,15 +12021,21 @@ of Daniel.</dcterms:abstract>
       <bib:pages>65-70</bib:pages>
       <dc:subject>ID: 276</dc:subject>
       <dc:subject>MS: Paris, BNF, Ar. 1</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -11744,8 +12066,10 @@ of Daniel.</dcterms:abstract>
       <bib:pages>97-104</bib:pages>
       <dc:subject>ID: 277</dc:subject>
       <dc:subject>MS: Paris, BNF, Ar. 1</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -12549,13 +12873,17 @@ Institut du monde arabe, 11-15 septembre 1990</dc:title>
       <dc:subject>MS: ,  Violet fragment, Violet fragment</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:BookSection>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -12584,8 +12912,10 @@ upon papyri datable to before 300 A.H./912 A.D</dc:title>
       <bib:pages>1-2</bib:pages>
       <dc:subject>ID: 298</dc:subject>
       <dc:subject>MS: ,  Violet fragment, Violet fragment</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -13086,13 +13416,17 @@ Saadaiah’s version</dcterms:abstract>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:BookSection>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -13119,9 +13453,11 @@ these manuscripts</dcterms:abstract>
       <dc:subject>MS: Sinai, NF, Parch. Ar. 7</dc:subject>
       <dc:subject>MS: St. Petersburg,  A.N.S. 327, A.N.S. 327</dc:subject>
       <dc:subject>MS: Paris, BNF, Or. 6725</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-   </bib:Book>
+   </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -13579,13 +13915,17 @@ Luke, dated 1043 CE, which is today divided between Paris, BNF and St Petersburg
       <dc:subject>MS: Gregory 0136 and 0137,  St Petersburg , St Petersburg </dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -13616,8 +13956,10 @@ Monastery (Compare Lewis [#]).</dcterms:abstract>
       <dc:subject>ID: 325</dc:subject>
       <dc:subject>MS: Today?, belongs with St Petersburg, Russian National Library</dc:subject>
       <dc:subject>MS: Today?, belongs with St Petersburg,  Gre. 290. </dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -15001,13 +15343,17 @@ Introduction to the Arabic Diatessaron</dc:title>
       <dc:subject>MS: Oxford, Bodl., Ar. e. 163.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Article>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -15043,15 +15389,21 @@ thereof, with notes on the Coptic reception. </dcterms:abstract>
       <dc:subject>?MS: 1020</dc:subject>
       <dc:subject>MS: Oxford, Bodl., Ar. e. 163</dc:subject>
       <dc:subject>MS: London, BL, Or 3382.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -15086,8 +15438,10 @@ thereof, with notes on the Coptic reception. </dcterms:abstract>
       <dc:subject>?MS: 1020</dc:subject>
       <dc:subject>MS: Oxford, Bodl., Ar. e. 163</dc:subject>
       <dc:subject>MS: London, BL, Or 3382.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -15375,13 +15729,18 @@ Diatessaron</dc:title>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+            <prism:volume>1</prism:volume>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -15407,12 +15766,13 @@ Diatessaron</dc:title>
       <dcterms:abstract>Vevian</dcterms:abstract>
       <dc:date>1978</dc:date>
       <bib:pages>11-26</bib:pages>
-      <prism:volume>1</prism:volume>
       <dc:subject>ID: 373</dc:subject>
       <dc:subject>MS: Fes, Al-Qarawiyyin University Library, Cod. 730</dc:subject>
       <dc:subject>MS: Munich, Bayrische Staatsbibliothek, Cod. 238.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -15540,13 +15900,18 @@ quattro Vangeli</dc:title>
       <dc:subject>MS: Munich, Bayrische Staatsbibliothek, Cod. 238.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Article>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+            <prism:volume>9</prism:volume>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -15564,13 +15929,14 @@ quattro Vangeli</dc:title>
       <bib:pages>2 in der arabischen Uebersetzung des Isaak
 Velasquez,</bib:pages>
       <bib:pages>226-239</bib:pages>
-      <prism:volume>9</prism:volume>
       <dc:subject>ID: 378</dc:subject>
       <dc:subject>MS: Fes, Al-Qarawiyyin University Library, Cod. 730</dc:subject>
       <dc:subject>MS: Munich, Bayrische Staatsbibliothek, Cod. 238.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-   </bib:Book>
+   </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -16820,13 +17186,17 @@ Adam.</dcterms:abstract>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no pages</dc:subject>
    </bib:BookSection>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -16864,8 +17234,10 @@ Adam.</dcterms:abstract>
       <dc:subject>MS: Paris, BNF, Ar. 132</dc:subject>
       <dc:subject>MS: Oxford, Bodl., Or. 251</dc:subject>
       <dc:subject>MS: Vatican, BAV, Ar. 462</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -17282,13 +17654,18 @@ Alexandria</dc:title>
       <dc:subject>MS: Sinai,  Ar. 155., Ar. 155.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Article>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+            <prism:volume>1</prism:volume>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -17304,16 +17681,17 @@ Alexandria</dc:title>
       <dcterms:abstract>Acta Marci</dcterms:abstract>
       <dc:date>1904</dc:date>
       <bib:pages>134-140</bib:pages>
-      <prism:volume>1</prism:volume>
       <dc:subject>ID: 425</dc:subject>
       <dc:subject>MS: Paris, BNF, Ar. 1</dc:subject>
       <dc:subject>MS: London, BL, Add. 30851</dc:subject>
       <dc:subject>MS: Vatican, BAV, Ar. 5</dc:subject>
       <dc:subject>MS: Munich, Staatsbibliothek, Ar. 238</dc:subject>
       <dc:subject>MS: Sinai,  Ar. 155., Ar. 155.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-   </bib:Book>
+   </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -17695,13 +18073,17 @@ etiopici</dc:title>
       <dc:subject>MS: Oxford, Bodleian Library, Or. 251</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Article>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -17729,8 +18111,10 @@ etiopici</dc:title>
       <bib:pages>xl-xli</bib:pages>
       <dc:subject>ID: 437</dc:subject>
       <dc:subject>MS: Oxford, Bodleian Library, Or. 251</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -18109,13 +18493,18 @@ Edition und Übersetzung der arabischen und äthiopischen Versionen</dc:title>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no pages</dc:subject>
    </bib:BookSection>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+            <prism:volume>97</prism:volume>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -18136,20 +18525,26 @@ Arabische Handschriften gebeugt. Erinnerung an Bücher und Menschen (Leipzig: Ko
 Amelang, 1949), pp. 11-12.</dcterms:abstract>
       <dc:date>2002</dc:date>
       <bib:pages>586-590</bib:pages>
-      <prism:volume>97</prism:volume>
       <dc:subject>ID: 446</dc:subject>
       <dc:subject>MS: Birmingham, Mingana, Chr.</dc:subject>
       <dc:subject>?MS: Arab. 94.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-   </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   </bib:BookSection>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+            <prism:volume>5</prism:volume>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -18170,20 +18565,26 @@ Arabische Handschriften gebeugt. Erinnerung an Bücher und Menschen (Leipzig: Ko
 Amelang, 1949), pp. 11-12.</dcterms:abstract>
       <dc:date>2002</dc:date>
       <bib:pages>271-275</bib:pages>
-      <prism:volume>5</prism:volume>
       <dc:subject>ID: 447</dc:subject>
       <dc:subject>MS: Birmingham, Mingana, Chr.</dc:subject>
       <dc:subject>?MS: Arab. 94.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-   </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   </bib:BookSection>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+            <prism:volume>92</prism:volume>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -18205,13 +18606,14 @@ Arabische Handschriften gebeugt. Erinnerung an Bücher und Menschen (Leipzig: Ko
 Amelang, 1949), pp. 11-12.</dcterms:abstract>
       <dc:date>2002</dc:date>
       <bib:pages>278-281</bib:pages>
-      <prism:volume>92</prism:volume>
       <dc:subject>ID: 448</dc:subject>
       <dc:subject>MS: Birmingham, Mingana, Chr.</dc:subject>
       <dc:subject>?MS: Arab. 94.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-   </bib:Book>
+   </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -18244,13 +18646,17 @@ Amelang, 1949), pp. 11-12.</dcterms:abstract>
       <dc:subject>?MS: Arab. 94.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Article>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -18281,8 +18687,10 @@ Amelang, 1949), pp. 11-12.</dcterms:abstract>
       <dc:subject>ID: 450</dc:subject>
       <dc:subject>MS: Birmingham, Mingana, Chr.</dc:subject>
       <dc:subject>?MS: Arab. 94.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -18766,13 +19174,17 @@ Infancy Gospels</dcterms:abstract>
       <dc:subject>MS: Sinai,  Ar. 539., Ar. 539.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Article>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:editors>
          <rdf:Seq>
@@ -18805,9 +19217,11 @@ Infancy Gospels</dcterms:abstract>
       <dc:subject>MS: Vatican, BAV,  Ar.</dc:subject>
       <dc:subject>?MS: 694, Syr. 199</dc:subject>
       <dc:subject>MS: Sinai,  Ar. 539., Ar. 539.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -18971,13 +19385,17 @@ Apocrypha (Leipzig:Avenarius et Mendelssohn, 1853) pp. 171-202.</dcterms:abstrac
       <dc:subject>MS: Sinai,  Ar. 539., Ar. 539.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -19009,8 +19427,10 @@ Apocrypha (Leipzig:Avenarius et Mendelssohn, 1853) pp. 171-202.</dcterms:abstrac
       <dc:subject>MS: Vatican, BAV,  Ar.</dc:subject>
       <dc:subject>?MS: 694, Syr. 199</dc:subject>
       <dc:subject>MS: Sinai,  Ar. 539., Ar. 539.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <dcterms:isPartOf>
@@ -19394,13 +19814,17 @@ briefly, with reference to [] Thilo.</dcterms:abstract>
       <dc:subject>MS: Sinai,  Arabic 589, Arabic 589</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Article>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -19432,8 +19856,10 @@ briefly, with reference to [] Thilo.</dcterms:abstract>
       <dc:subject>ID: 479</dc:subject>
       <dc:subject>MS: Oxford, Bodleian Library, Or.</dc:subject>
       <dc:subject>?MS: 251.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -19472,13 +19898,18 @@ alongside Rödiger’s revisions of Wallin’s Arabic text []. The translation i
       <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+            <prism:volume>1</prism:volume>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -19506,12 +19937,13 @@ alongside Rödiger’s revisions of Wallin’s Arabic text []. The translation i
 [#].</dcterms:abstract>
       <dc:date>1832</dc:date>
       <bib:pages>xv-xxvi, 1-61</bib:pages>
-      <prism:volume>1</prism:volume>
       <dc:subject>ID: 481</dc:subject>
       <dc:subject>MS: Oxford, Bodleian Library, Or.</dc:subject>
       <dc:subject>?MS: 251.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -22538,13 +22970,17 @@ was given to Barberini</dcterms:abstract>
       <dc:subject>MS: Vatican, BAV, Barberini Or. 1.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:BookSection>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -22568,9 +23004,11 @@ was given to Barberini</dcterms:abstract>
       <dc:subject>MS: Oxford, Bodl., Or. 139</dc:subject>
       <dc:subject>MS: , Uss., Uss.</dc:subject>
       <dc:subject>?MS: II, John Ryland.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-   </bib:Book>
+   </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -22729,13 +23167,17 @@ Blackwell, 1959), pp. 54-57.</dcterms:abstract>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no volume</dc:subject>
    </bib:Article>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -22762,9 +23204,11 @@ Polyglot version for comparison, along with some annotations</bib:pages>
       <dc:subject>MS: Oxford, Bodl., Or. 139</dc:subject>
       <dc:subject>MS: , Uss., Uss.</dc:subject>
       <dc:subject>?MS: II, John Ryland.</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-   </bib:Book>
+   </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <dcterms:isPartOf>
@@ -23979,13 +24423,17 @@ an introduction to al-Biqā‘ī’s Bible treatise</dc:title>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
+         <bib:Book>
+            <dcterms:isPartOf>
+               <bib:Series>
+                  <dc:title>Series</dc:title>
+                  <dc:identifier>Series Number</dc:identifier>
+               </bib:Series>
+            </dcterms:isPartOf>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -24040,8 +24488,10 @@ Bible Quotations in al</foaf:name>
       <bib:pages>331-347</bib:pages>
       <dc:subject>ID: 599</dc:subject>
       <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+      <dc:subject>!no pages</dc:subject>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>

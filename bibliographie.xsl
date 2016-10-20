@@ -381,7 +381,7 @@
                                     <xsl:copy-of select="syriaca:create-flags(.,$itemType)"/>
                                 </bib:Article>
                             </xsl:when>
-                            <xsl:when test="count(dc:title)=1 and (dc:date|dc:publisher)">
+                            <xsl:when test="count(dc:title)=1 and not(bib:pages) and (dc:date|dc:publisher)">
                                 <bib:Book>
                                     <xsl:variable name="itemType" select="'book'"/>
                                     <z:itemType><xsl:value-of select="$itemType"/></z:itemType>
