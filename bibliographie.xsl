@@ -260,7 +260,7 @@
                                                 </xsl:for-each>
                                             </xsl:matching-substring>
                                             <xsl:non-matching-substring>
-                                                <dc:subject>!MS: <xsl:value-of select="."/></dc:subject>
+                                                <dc:subject>?MS: <xsl:value-of select="."/></dc:subject>
                                             </xsl:non-matching-substring>
                                         </xsl:analyze-string>
                                     </xsl:for-each>
@@ -374,107 +374,35 @@
                                             <dc:identifier>Series Number</dc:identifier>
                                         </bib:Series>
                                     </dcterms:isPartOf>
-                                    <xsl:copy-of select="dc:publisher"/>
-                                    <xsl:copy-of select="bib:authors"/>
-                                    <xsl:copy-of select="bib:editors"/>
-                                    <!--<z:seriesEditors>
-                                <rdf:Seq>
-                                    <rdf:li>
-                                        <foaf:Person>
-                                            <foaf:surname>Series EditorL</foaf:surname>
-                                            <foaf:givenname>SeriesF I</foaf:givenname>
-                                        </foaf:Person>
-                                    </rdf:li>
-                                </rdf:Seq>
-                            </z:seriesEditors>-->
-                                    <z:translators>
-                                        <rdf:Seq>
-                                            <rdf:li>
-                                                <foaf:Person>
-                                                    <foaf:surname>TranslatorL</foaf:surname>
-                                                    <foaf:givenname>TranslatorF I</foaf:givenname>
-                                                </foaf:Person>
-                                            </rdf:li>
-                                        </rdf:Seq>
-                                    </z:translators>
+                                    <xsl:copy-of select="$contributors-all"/>
                                     <xsl:copy-of select="syriaca:sanitize-titles(dc:title)"/>
-                                    <xsl:copy-of select="dcterms:abstract"/>
+                                    <xsl:copy-of select="$publication-info"/>
                                     <xsl:copy-of select="prism:volume"/>
-                                    <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
-                                    <xsl:copy-of select="prism:edition"/>
-                                    <xsl:copy-of select="dc:date"/>
-                                    <!--<z:numPages># of Pages</z:numPages>-->
-                                    <!--<z:language>Language</z:language>-->
-                                    <!--<dc:identifier>
-                                <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
-                            </dc:identifier>-->
-                                    <xsl:copy-of select="$id"/>
-                                    <xsl:copy-of select="dc:subject"/>
+                                    <xsl:copy-of select="$tags"/>
                                 </bib:Book>
                             </xsl:when>
                             <!-- Unknown item type -->
                             <!-- !!! This seems to be catching things that should be regular book section instead. E.g., Walid Saleh, An Islamic Diatessaron -->
                             <xsl:otherwise>
                                 <bib:BookSection>
-                                    <z:itemType>bookSection</z:itemType>
+                                    <xsl:variable name="itemType" select="bookSection"/>
+                                    <z:itemType><xsl:value-of select="$itemType"/></z:itemType>
                                     <dcterms:isPartOf>
                                         <bib:Book>
-                                            <!--<dcterms:isPartOf>
+                                            <dcterms:isPartOf>
                                                 <bib:Series>
                                                     <dc:title>Series</dc:title>
                                                     <dc:identifier>Series Number</dc:identifier>
                                                 </bib:Series>
-                                            </dcterms:isPartOf>-->
+                                            </dcterms:isPartOf>
                                             <xsl:copy-of select="syriaca:sanitize-titles(dc:title[2])"/>
                                             <xsl:copy-of select="prism:volume"/>
                                         </bib:Book>
                                     </dcterms:isPartOf>
-                                    <xsl:copy-of select="dc:publisher"/>
-                                    <xsl:copy-of select="bib:authors"/>
-                                    <xsl:copy-of select="bib:editors"/>
-                                    <!--<z:seriesEditors>
-                                            <rdf:Seq>
-                                                <rdf:li>
-                                                    <foaf:Person>
-                                                        <foaf:surname>Series EditorL</foaf:surname>
-                                                        <foaf:givenname>SeriesF I</foaf:givenname>
-                                                    </foaf:Person>
-                                                </rdf:li>
-                                            </rdf:Seq>
-                                        </z:seriesEditors>-->
-                                    <!--<z:translators>
-                                        <rdf:Seq>
-                                            <rdf:li>
-                                                <foaf:Person>
-                                                    <foaf:surname>TranslatorL</foaf:surname>
-                                                    <foaf:givenname>TranslatorF I</foaf:givenname>
-                                                </foaf:Person>
-                                            </rdf:li>
-                                        </rdf:Seq>
-                                    </z:translators>-->
-                                    <!-- Do we need the following? -->
-                                    <!--<z:bookAuthors>
-                                            <rdf:Seq>
-                                                <rdf:li>
-                                                    <foaf:Person>
-                                                        <foaf:surname>Book AuthorL</foaf:surname>
-                                                        <foaf:givenname>BookF I</foaf:givenname>
-                                                    </foaf:Person>
-                                                </rdf:li>
-                                            </rdf:Seq>
-                                        </z:bookAuthors>-->
+                                    <xsl:copy-of select="$contributors-all"/>
                                     <xsl:copy-of select="syriaca:sanitize-titles(dc:title[1])"/>
-                                    <xsl:copy-of select="dcterms:abstract"/>
-                                    <!--<z:numberOfVolumes># of Volumes</z:numberOfVolumes>-->
-                                    <xsl:copy-of select="prism:edition"/>
-                                    <xsl:copy-of select="dc:date"/>
-                                    <xsl:copy-of select="bib:pages"/>
-                                    <!--<z:language>Language</z:language>-->
-                                    <!--<dc:identifier>
-                                        <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
-                                    </dc:identifier>-->
-                                    <xsl:copy-of select="$id"/>
-                                    <xsl:copy-of select="dc:subject"/>
+                                    <xsl:copy-of select="$publication-info"/>
+                                    <xsl:copy-of select="$tags"/>
                                     <dc:subject>!unknown type</dc:subject>
                                 </bib:BookSection>
                             </xsl:otherwise>
