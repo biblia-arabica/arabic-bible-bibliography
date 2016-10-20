@@ -74,7 +74,10 @@
         <xsl:param name="itemType"/>
         <xsl:if test="not($item-node/dc:date)"><dc:subject>!no date</dc:subject></xsl:if>
         <xsl:if test="not($item-node/bib:authors)"><dc:subject>!no author</dc:subject></xsl:if>
+        <xsl:if test="not($item-node/dc:abstract)"><dc:subject>!no abstract</dc:subject></xsl:if>
+        <xsl:if test="not($item-node/dc:title)"><dc:subject>!no title</dc:subject></xsl:if>
         <xsl:if test="$itemType=('journalArticle','bookSection') and not($item-node/bib:pages)"><dc:subject>!no pages</dc:subject></xsl:if>
+        <xsl:if test="$itemType=('journalArticle','bookSection') and count($item-node/dc:title)=1"><dc:subject>!no pages</dc:subject></xsl:if>
         <xsl:if test="$itemType=('journalArticle') and not($item-node/prism:volume)"><dc:subject>!no volume</dc:subject></xsl:if>
         <xsl:if test="$itemType=('book','bookSection') and not($item-node/dc:publisher)"><dc:subject>!no publisher</dc:subject></xsl:if>
     </xsl:function>
