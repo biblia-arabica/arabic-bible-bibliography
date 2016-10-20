@@ -70,6 +70,9 @@
         </xsl:for-each>
     </xsl:function>
     
+    <!-- The number the ID tags should start with. -->
+    <xsl:variable name="id-start" select="1"/>
+    
     
     <xsl:template match="/tei:TEI/tei:text/tei:body">
         <xsl:result-document href="{$filename}" format="xml">
@@ -271,6 +274,58 @@
                     </xsl:variable>
                     
                     <xsl:for-each select="$entry/entry">
+                        <xsl:variable name="id"><dc:subject><xsl:value-of select="concat('ID: ',$id-start+position()-1)"/></dc:subject></xsl:variable>
+                        <xsl:variable name="contributors-all">
+                            <xsl:copy-of select="bib:authors"/>
+                            <xsl:copy-of select="bib:editors"/>
+                            <!--<z:seriesEditors>
+                                    <rdf:Seq>
+                                        <rdf:li>
+                                            <foaf:Person>
+                                                <foaf:surname>Series EditorL</foaf:surname>
+                                                <foaf:givenname>SeriesF I</foaf:givenname>
+                                            </foaf:Person>
+                                        </rdf:li>
+                                    </rdf:Seq>
+                                </z:seriesEditors>-->
+                            <z:translators>
+                                <rdf:Seq>
+                                    <rdf:li>
+                                        <foaf:Person>
+                                            <foaf:surname>TranslatorL</foaf:surname>
+                                            <foaf:givenname>TranslatorF I</foaf:givenname>
+                                        </foaf:Person>
+                                    </rdf:li>
+                                </rdf:Seq>
+                            </z:translators>
+                            <!-- Do we need the following? -->
+                            <!--<z:bookAuthors>
+                                <rdf:Seq>
+                                    <rdf:li>
+                                        <foaf:Person>
+                                            <foaf:surname>Book AuthorL</foaf:surname>
+                                            <foaf:givenname>BookF I</foaf:givenname>
+                                        </foaf:Person>
+                                    </rdf:li>
+                                </rdf:Seq>
+                            </z:bookAuthors>-->
+                        </xsl:variable>
+                        <xsl:variable name="publication-info">
+                            <xsl:copy-of select="dc:publisher"/>
+                            <xsl:copy-of select="dcterms:abstract"/>
+                            <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+                            <xsl:copy-of select="prism:edition"/>
+                            <xsl:copy-of select="dc:date"/>
+                            <xsl:copy-of select="bib:pages"/>
+                            <!--<z:language>Language</z:language>-->
+                            <!--<dc:identifier>
+                            <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+                        </dc:identifier>-->
+                        </xsl:variable>
+                        <xsl:variable name="tags">
+                            <xsl:copy-of select="$id"/>
+                            <xsl:copy-of select="dc:subject"/>
+                        </xsl:variable>
                         <xsl:choose>
                             <!-- Book section -->
                             <xsl:when test="count(dc:title)=2 and bib:pages and bib:editors and (dc:date|dc:publisher)">
@@ -288,51 +343,10 @@
                                             <xsl:copy-of select="prism:volume"/>
                                         </bib:Book>
                                     </dcterms:isPartOf>
-                                    <xsl:copy-of select="dc:publisher"/>
-                                    <xsl:copy-of select="bib:authors"/>
-                                    <xsl:copy-of select="bib:editors"/>
-                                    <!--<z:seriesEditors>
-                            <rdf:Seq>
-                                <rdf:li>
-                                    <foaf:Person>
-                                        <foaf:surname>Series EditorL</foaf:surname>
-                                        <foaf:givenname>SeriesF I</foaf:givenname>
-                                    </foaf:Person>
-                                </rdf:li>
-                            </rdf:Seq>
-                        </z:seriesEditors>-->
-                                    <z:translators>
-                                        <rdf:Seq>
-                                            <rdf:li>
-                                                <foaf:Person>
-                                                    <foaf:surname>TranslatorL</foaf:surname>
-                                                    <foaf:givenname>TranslatorF I</foaf:givenname>
-                                                </foaf:Person>
-                                            </rdf:li>
-                                        </rdf:Seq>
-                                    </z:translators>
-                                    <!-- Do we need the following? -->
-                                    <!--<z:bookAuthors>
-                            <rdf:Seq>
-                                <rdf:li>
-                                    <foaf:Person>
-                                        <foaf:surname>Book AuthorL</foaf:surname>
-                                        <foaf:givenname>BookF I</foaf:givenname>
-                                    </foaf:Person>
-                                </rdf:li>
-                            </rdf:Seq>
-                        </z:bookAuthors>-->
+                                    <xsl:copy-of select="$contributors-all"/>
                                     <xsl:copy-of select="syriaca:sanitize-titles(dc:title[1])"/>
-                                    <xsl:copy-of select="dcterms:abstract"/>
-                                    <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
-                                    <xsl:copy-of select="prism:edition"/>
-                                    <xsl:copy-of select="dc:date"/>
-                                    <xsl:copy-of select="bib:pages"/>
-                                    <!--<z:language>Language</z:language>-->
-                                    <!--<dc:identifier>
-                            <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
-                        </dc:identifier>-->
-                                    <xsl:copy-of select="dc:subject"/>
+                                    <xsl:copy-of select="$publication-info"/>
+                                    <xsl:copy-of select="$tags"/>
                                 </bib:BookSection>
                             </xsl:when>
                             <!-- Journal article -->
@@ -396,6 +410,7 @@
                                     <!--<dc:identifier>
                                 <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
                             </dc:identifier>-->
+                                    <xsl:copy-of select="$id"/>
                                     <xsl:copy-of select="dc:subject"/>
                                 </bib:Book>
                             </xsl:when>
@@ -460,8 +475,9 @@
                                     <!--<dc:identifier>
                                         <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
                                     </dc:identifier>-->
+                                    <xsl:copy-of select="$id"/>
                                     <xsl:copy-of select="dc:subject"/>
-                                    <dc:subject>unknown type</dc:subject>
+                                    <dc:subject>!unknown type</dc:subject>
                                 </bib:BookSection>
                             </xsl:otherwise>
                         </xsl:choose>
