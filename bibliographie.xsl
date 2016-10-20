@@ -124,8 +124,11 @@
                                             <xsl:variable name="regex-edition" select="',\s*([A-Za-z0-9]+\.?)\s*ed\.,?'"/>
                                             <xsl:variable name="regex-editors" select="'(\[#\]|in)\s+([\w\s,À-ʸ\-\.]+?)\(eds?\.?\),?\s*'"/>
                                             <xsl:variable name="regex-journal-volume" select="'(^[\s\S]*?|^)\s*(\d+\.?\d*)\s*\(*$'"/>
+                                            <xsl:variable name="regex-series-volume" select="'^,\s*([\s\S]*?)\s*(\d+\.?\d*)\s*\(*$'"/>
                                             <xsl:variable name="regex-authors" select="'\[#\]\s*([\w\s,À-ʸ\-\.]+)'"/>
                                             <xsl:variable name="regex-article-title" select="'[“-‟&quot;]+([\s\S]*)[“-‟&quot;]+'"/>
+                                            <xsl:variable name="regex-translators" select="'([Ee]d\.\s+and\s+)?[Tt]rans?l?\.?\s+(and\s+[Ee]d.\s*)?(\s+by\s+)?([\w\s,À-ʸ\-\.]+?)'"/>
+                                            
                                             
                                                     <xsl:analyze-string 
                                                         select="." 
@@ -228,16 +231,43 @@
                                                                                                                 <xsl:non-matching-substring>
                                                                                                                     <xsl:analyze-string 
                                                                                                                         select="." 
-                                                                                                                        regex="{$regex-journal-volume}">
+                                                                                                                        regex="{concat($regex-series-volume,$regex-journal-volume)}">
                                                                                                                         <xsl:matching-substring>
                                                                                                                             <xsl:if test="regex-group(1)">
-                                                                                                                                <dc:title><xsl:value-of select="regex-group(1)"/></dc:title>
+                                                                                                                                <dcterms:isPartOf>
+                                                                                                                                    <bib:Series>
+                                                                                                                                        <dc:title><xsl:value-of select="regex-group(1)"/></dc:title>
+                                                                                                                                        <dc:identifier><xsl:value-of select="regex-group(2)"/></dc:identifier>
+                                                                                                                                    </bib:Series>
+                                                                                                                                </dcterms:isPartOf>
                                                                                                                             </xsl:if>
-                                                                                                                            <xsl:if test="regex-group(2)">
-                                                                                                                                <prism:volume><xsl:value-of select="regex-group(2)"/></prism:volume>
+                                                                                                                            <xsl:if test="regex-group(3)">
+                                                                                                                                <dc:title><xsl:value-of select="regex-group(3)"/></dc:title>
+                                                                                                                            </xsl:if>
+                                                                                                                            <xsl:if test="regex-group(4)">
+                                                                                                                                <prism:volume><xsl:value-of select="regex-group(4)"/></prism:volume>
                                                                                                                             </xsl:if>
                                                                                                                         </xsl:matching-substring>
-                                                                                                                        <xsl:non-matching-substring><xsl:copy-of select="."/></xsl:non-matching-substring>
+                                                                                                                        <xsl:non-matching-substring>
+                                                                                                                            <xsl:analyze-string select="." regex="{$regex-translators}">
+                                                                                                                                <xsl:matching-substring>
+                                                                                                                                    <xsl:if test="regex-group(1)[matches(.,'[A-Za-zÀ-ʸ]')]">
+                                                                                                                                        <z:translators>
+                                                                                                                                            <rdf:Seq>
+                                                                                                                                                <xsl:for-each select="tokenize(regex-group(4),'(\s+[au]nd|\s+&amp;|,)\s+')[matches(.,'[A-Za-zÀ-ʸ]')]">
+                                                                                                                                                    <rdf:li>
+                                                                                                                                                        <foaf:Person>
+                                                                                                                                                            <xsl:copy-of select="syriaca:split-names(.)"/>
+                                                                                                                                                        </foaf:Person>
+                                                                                                                                                    </rdf:li>
+                                                                                                                                                </xsl:for-each>
+                                                                                                                                            </rdf:Seq>
+                                                                                                                                        </z:translators>
+                                                                                                                                    </xsl:if>
+                                                                                                                                </xsl:matching-substring>
+                                                                                                                                <xsl:non-matching-substring><xsl:copy-of select="."/></xsl:non-matching-substring>
+                                                                                                                            </xsl:analyze-string>
+                                                                                                                        </xsl:non-matching-substring>
                                                                                                                     </xsl:analyze-string>
                                                                                                                 </xsl:non-matching-substring>
                                                                                                             </xsl:analyze-string>
@@ -286,6 +316,7 @@
                     </xsl:variable>
                     
                     <xsl:for-each select="$entry/entry">
+                        <xsl:variable name="this-entry" select="."/>
                         <xsl:variable name="id"><dc:subject><xsl:value-of select="concat('ID: ',$id-start+position()-1)"/></dc:subject></xsl:variable>
                         <xsl:variable name="contributors-all">
                             <xsl:copy-of select="bib:authors"/>
@@ -346,12 +377,7 @@
                                     <z:itemType><xsl:value-of select="$itemType"/></z:itemType>
                                     <dcterms:isPartOf>
                                         <bib:Book>
-                                            <dcterms:isPartOf>
-                                                <bib:Series>
-                                                    <dc:title>Series</dc:title>
-                                                    <dc:identifier>Series Number</dc:identifier>
-                                                </bib:Series>
-                                            </dcterms:isPartOf>
+                                            <!--<xsl:copy-of select="dcterms:isPartOf[bib:Series]"/>-->
                                             <xsl:copy-of select="syriaca:sanitize-titles(dc:title[2])"/>
                                             <xsl:copy-of select="prism:volume"/>
                                         </bib:Book>
@@ -407,12 +433,7 @@
                                     <z:itemType><xsl:value-of select="$itemType"/></z:itemType>
                                     <dcterms:isPartOf>
                                         <bib:Book>
-                                            <dcterms:isPartOf>
-                                                <bib:Series>
-                                                    <dc:title>Series</dc:title>
-                                                    <dc:identifier>Series Number</dc:identifier>
-                                                </bib:Series>
-                                            </dcterms:isPartOf>
+                                            <!--<xsl:copy-of select="dcterms:isPartOf[bib:Series]"/>-->
                                             <xsl:copy-of select="syriaca:sanitize-titles(dc:title[2])"/>
                                             <xsl:copy-of select="prism:volume"/>
                                         </bib:Book>
