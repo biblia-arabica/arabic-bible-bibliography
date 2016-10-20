@@ -260,7 +260,7 @@
                                                 </xsl:for-each>
                                             </xsl:matching-substring>
                                             <xsl:non-matching-substring>
-                                                <dc:subject><xsl:value-of select="."/></dc:subject>
+                                                <dc:subject>!MS: <xsl:value-of select="."/></dc:subject>
                                             </xsl:non-matching-substring>
                                         </xsl:analyze-string>
                                     </xsl:for-each>
@@ -288,16 +288,16 @@
                                         </rdf:li>
                                     </rdf:Seq>
                                 </z:seriesEditors>-->
-                            <z:translators>
-                                <rdf:Seq>
-                                    <rdf:li>
-                                        <foaf:Person>
-                                            <foaf:surname>TranslatorL</foaf:surname>
-                                            <foaf:givenname>TranslatorF I</foaf:givenname>
-                                        </foaf:Person>
-                                    </rdf:li>
-                                </rdf:Seq>
-                            </z:translators>
+                            <!--<z:translators>
+                                    <rdf:Seq>
+                                        <rdf:li>
+                                            <foaf:Person>
+                                                <foaf:surname>TranslatorL</foaf:surname>
+                                                <foaf:givenname>TranslatorF I</foaf:givenname>
+                                            </foaf:Person>
+                                        </rdf:li>
+                                    </rdf:Seq>
+                                </z:translators>-->
                             <!-- Do we need the following? -->
                             <!--<z:bookAuthors>
                                 <rdf:Seq>
@@ -313,7 +313,7 @@
                         <xsl:variable name="publication-info">
                             <xsl:copy-of select="dc:publisher"/>
                             <xsl:copy-of select="dcterms:abstract"/>
-                            <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+                            <!--<z:numberOfVolumes># of Volumes</z:numberOfVolumes>-->
                             <xsl:copy-of select="prism:edition"/>
                             <xsl:copy-of select="dc:date"/>
                             <xsl:copy-of select="bib:pages"/>
@@ -359,12 +359,10 @@
                                             <xsl:copy-of select="prism:volume"/>
                                         </bib:Journal>
                                     </dcterms:isPartOf>
-                                    <xsl:copy-of select="bib:authors"/>
+                                    <xsl:copy-of select="$contributors-all"/>
                                     <xsl:copy-of select="syriaca:sanitize-titles(dc:title[1])"/>
-                                    <xsl:copy-of select="bib:pages"/>
-                                    <xsl:copy-of select="dc:date"/>
-                                    <xsl:copy-of select="dcterms:abstract"/>
-                                    <xsl:copy-of select="dc:subject"/>
+                                    <xsl:copy-of select="$publication-info"/>
+                                    <xsl:copy-of select="$tags"/>
                                 </bib:Article>
                             </xsl:when>
                             <xsl:when test="count(dc:title)=1 and not(bib:pages) and (dc:date|dc:publisher)">
