@@ -69,6 +69,11 @@
             </xsl:choose>
         </xsl:for-each>
     </xsl:function>
+    <xsl:function name="syriaca:create-flags">
+        <xsl:param name="item-node"/>
+        <xsl:param name="itemType"/>
+        <xsl:if test="not($item-node/dc:date)"><dc:subject>!no date</dc:subject></xsl:if>
+    </xsl:function>
     
     <!-- The number the ID tags should start with. -->
     <xsl:variable name="id-start" select="1"/>
@@ -385,7 +390,7 @@
                             <!-- !!! This seems to be catching things that should be regular book section instead. E.g., Walid Saleh, An Islamic Diatessaron -->
                             <xsl:otherwise>
                                 <bib:BookSection>
-                                    <xsl:variable name="itemType" select="bookSection"/>
+                                    <xsl:variable name="itemType" select="'bookSection'"/>
                                     <z:itemType><xsl:value-of select="$itemType"/></z:itemType>
                                     <dcterms:isPartOf>
                                         <bib:Book>
@@ -404,6 +409,7 @@
                                     <xsl:copy-of select="$publication-info"/>
                                     <xsl:copy-of select="$tags"/>
                                     <dc:subject>!unknown type</dc:subject>
+                                    <xsl:copy-of select="syriaca:create-flags(.,$itemType)"/>
                                 </bib:BookSection>
                             </xsl:otherwise>
                         </xsl:choose>
