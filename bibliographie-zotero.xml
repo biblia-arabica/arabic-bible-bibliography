@@ -1332,12 +1332,6 @@ pp. 17-29.</dcterms:abstract>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -1430,12 +1424,6 @@ manuscript sources and secondary literature.</dcterms:abstract>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -1469,12 +1457,6 @@ through certain pericopes of several manuscripts.</dcterms:abstract>
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -1970,12 +1952,6 @@ of Islam</dc:title>
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -2139,12 +2115,6 @@ arabica) in the Biblia Hebraica.</dcterms:abstract>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -2857,12 +2827,6 @@ Theology</foaf:name>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -2883,12 +2847,6 @@ Theology</foaf:name>
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -3201,12 +3159,6 @@ Theologie und Religionswissenschaft</dc:title>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -3300,12 +3252,6 @@ refutatur</dc:title>
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -3931,12 +3877,6 @@ Bible Translator</dc:title>
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -4791,12 +4731,6 @@ Company</foaf:name>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -5338,12 +5272,6 @@ Review: Kahle, Paul, ZfHB 6 (1902), pp. 6-9.</dcterms:abstract>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -5382,12 +5310,6 @@ Review: Kahle, Paul, ZfHB 6 (1902), pp. 6-9.</dcterms:abstract>
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -5489,12 +5411,6 @@ du Corpus SCO</foaf:name>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -5543,12 +5459,6 @@ Arabic-Latin glossary on pp</bib:pages>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -5665,12 +5575,6 @@ and Humanities</foaf:name>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:editors>
          <rdf:Seq>
             <rdf:li>
@@ -5717,12 +5621,6 @@ Arabic by Thomas of Fusṭāṭ, from St. Catherine’s Monastery, Mt. Sinai, ms
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:editors>
          <rdf:Seq>
             <rdf:li>
@@ -5798,12 +5696,6 @@ Arabic by Thomas of Fusṭāṭ, from St. Catherine’s Monastery, Mt. Sinai, ms
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -5914,12 +5806,6 @@ Baruch</vcard:locality>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -5981,12 +5867,6 @@ Which one?</dcterms:abstract>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -6045,12 +5925,6 @@ Jacobite and Nestorian Churches</dc:title>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -6192,12 +6066,6 @@ mesopotamischer Federzeichnung vom Jahre 1299</dc:title>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -6241,12 +6109,6 @@ Manuscripts of the Bavarian State Library from the Islamic world</foaf:name>
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -6313,12 +6175,6 @@ Restoration</dc:title>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -6557,12 +6413,6 @@ Kuriositäten der Kaiserlichen Öffentlichen Bibliothek zu St. Petersburg</dc:ti
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -6627,12 +6477,6 @@ copy of the Psalms in Arabic [mentioned in GCAL:1, p. 114, #].</dcterms:abstract
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -6742,12 +6586,6 @@ copy of the Psalms in Arabic [mentioned in GCAL:1, p. 114, #].</dcterms:abstract
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -7188,12 +7026,6 @@ copy of the Psalms in Arabic [mentioned in GCAL:1, p. 114, #].</dcterms:abstract
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -7531,12 +7363,6 @@ the CD-ROM Edition of the St. Petersburg Arabic Bible</dc:title>
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -7571,12 +7397,6 @@ Berlin</foaf:name>
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <dc:title>St. Catherine's Monastery at Mount
 Sinai: It's Manuscripts and their Conservation: Papers Given in Memory of Professor Ihor
 Ševčenko</dc:title>
@@ -7648,12 +7468,6 @@ them containing early biblical books in Arabic. </dcterms:abstract>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -7687,12 +7501,6 @@ them containing early biblical books in Arabic. </dcterms:abstract>
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -7782,12 +7590,6 @@ the BAV, among them some biblical codices are mentioned. </dcterms:abstract>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -7818,12 +7620,6 @@ Paléographie Arabe</dc:title>
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -8394,12 +8190,6 @@ East-Syriac provenance.</dcterms:abstract>
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:editors>
          <rdf:Seq>
             <rdf:li>
@@ -9532,12 +9322,6 @@ al-Qunbar [see]. Edition based on Ms. Oxford, Bodl. Hunt. 112.</dcterms:abstract
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:editors>
          <rdf:Seq>
             <rdf:li>
@@ -9577,12 +9361,6 @@ al-Qunbar [see]. Edition based on Ms. Oxford, Bodl. Hunt. 112.</dcterms:abstract
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -9620,12 +9398,6 @@ Afrām al-Suryānī</dc:title>
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -9717,12 +9489,6 @@ d'études arabes chrétiennes</dc:title>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -9842,12 +9608,6 @@ Breisgau</vcard:locality>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -10252,12 +10012,6 @@ Nehemia, as found in the Polyglots.</dcterms:abstract>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -10464,12 +10218,6 @@ comparison with the Peshitta.</dcterms:abstract>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -11165,12 +10913,6 @@ Monferrer Sala.)</dcterms:abstract>
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -11555,12 +11297,6 @@ Ramla].</dcterms:abstract>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -11917,12 +11653,6 @@ l'arabe à travers l'histoire. Actes du Premier Colloque International</dc:title
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -12045,12 +11775,6 @@ Estudios Árabes y Hebraicos [=Homenaje a Prof. Antonio Torres Fernández] 49 (2
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -12298,12 +12022,6 @@ texte et lexique, Ph.D. dissertation, Université Michel de Montaigne, Bordeaux,
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -12565,12 +12283,6 @@ acquired by Tischendorf. Comp. [#] Tischendorf, [#] Delitzsch.</dcterms:abstract
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -12650,12 +12362,6 @@ Luke, dated 1043 CE, which is today divided between Paris, BNF and St Petersburg
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -12797,12 +12503,6 @@ Gospels and their relation to Jerusalem liturgy.</dcterms:abstract>
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -12826,12 +12526,6 @@ Matt 13:46-52 in Greek and Arabic.</dcterms:abstract>
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -13692,12 +13386,6 @@ Diatessaron</dc:title>
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -13789,12 +13477,6 @@ translation.</dcterms:abstract>
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -14190,12 +13872,6 @@ and Venetian Harmonies.</dcterms:abstract>
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -14281,12 +13957,6 @@ arabe établi, traduit en français, collationné avec les anciennes versions sy
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -14348,12 +14018,6 @@ Diatessaron</dc:title>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -14806,12 +14470,6 @@ Ussher</dc:title>
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -14858,12 +14516,6 @@ Ussher</dc:title>
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -14899,12 +14551,6 @@ on Vatican, BAV, Ar. 468.</dcterms:abstract>
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -15400,12 +15046,6 @@ defence of the Pauline authorship to the Hebrews epistle in Ms, Sinai, Ar. 151. 
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -15888,12 +15528,6 @@ Arabisch-Äthiopischen Petrusapokalypse</dc:title>
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:editors>
          <rdf:Seq>
             <rdf:li>
@@ -15930,12 +15564,6 @@ Pseudepigrapha</dc:title>
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -16245,12 +15873,6 @@ Wissenschaften zu Göttingen</dc:title>
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -16461,12 +16083,6 @@ Gospels in Arabis. </dcterms:abstract>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -17241,12 +16857,6 @@ Testaments of Abraham, Isaac and Jacob. </dcterms:abstract>
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -17367,12 +16977,6 @@ Testaments of Abraham, Isaac and Jacob. </dcterms:abstract>
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -17657,12 +17261,6 @@ Gollius</dc:title>
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -17697,12 +17295,6 @@ l’Enfance. Rédactions syriaques, arabes et arméniennes traduites et annotée
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -17776,12 +17368,6 @@ Apocrypha (Leipzig:Avenarius et Mendelssohn, 1853) pp. 171-202.</dcterms:abstrac
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -17959,12 +17545,6 @@ With Latin translation.</dcterms:abstract>
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -18538,12 +18118,6 @@ Writings of Abū Rāʾiṭa al-Takrītī</dc:title>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -18730,12 +18304,6 @@ pure one, the Virgin Mary = Summa Theologiae Arabica)</dcterms:abstract>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -18803,12 +18371,6 @@ Allāh wa-taʾannus Allāh al-kalima min al-ṭāhira al-ʿadhrāʾ Maryam</dc:t
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -18879,12 +18441,6 @@ Sinai, with a Treatise on the Triune Nature of God, and Translation form the Sam
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -18907,12 +18463,6 @@ of the “People of the Book” in the Language of Islam</dc:title>
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -19254,12 +18804,6 @@ Fragmentary quotes of #######.</dcterms:abstract>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -19538,12 +19082,6 @@ Caliph al-Mahdi and Timothy the Patriarch</dc:title>
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -19987,12 +19525,6 @@ Studien 7,3 (Leipzig: 1920).</dcterms:abstract>
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -20071,12 +19603,6 @@ Advent to the Republic of Letters</dc:title>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -20346,12 +19872,6 @@ arabische Uebersetzung der kleinen Propheten herausgegeben und mit Anmerkungen v
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -20386,12 +19906,6 @@ Translation of Isaiah,” JSS 37 (2001), pp. 1992-57-63.</dcterms:abstract>
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -20585,12 +20099,6 @@ Münchener Handschrift auf- behaltene arab. Psalmenübersetzung d. R. Saadia Gao
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -20622,12 +20130,6 @@ Buchdruckerei</foaf:name>
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -20660,12 +20162,6 @@ Itzkowski</foaf:name>
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -20697,12 +20193,6 @@ versehen</dc:title>
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -20724,12 +20214,6 @@ Psalm 21-24</dc:title>
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -20752,12 +20236,6 @@ Library in Leningrad</dc:title>
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -20788,12 +20266,6 @@ Liedes ins arabische nebst andern auf das hohe Lied bezüglichen arabischen Text
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -20824,12 +20296,6 @@ Psalmenübersetzung</dc:title>
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -20851,12 +20317,6 @@ the Karaite on Ecclesiastes</dc:title>
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -20914,12 +20374,6 @@ Proverbs 31:1–9</dc:title>
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -20947,12 +20401,6 @@ commentaire: “le livre de l'ascèse”: la version arabe de la Bible de Sa'ady
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -21241,12 +20689,6 @@ Polyglot version for comparison, along with some annotations</bib:pages>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -21269,12 +20711,6 @@ Pentateuch,” Israel Oriental Studies 9 (1979), pp. 147-173.</dcterms:abstract>
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -21297,12 +20733,6 @@ Pentateuch,” Israel Oriental Studies 9 (1979), pp. 147-173.</dcterms:abstract>
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -22146,12 +21576,6 @@ Peeters</foaf:name>
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -22376,12 +21800,6 @@ the Bible to Interpret the Qurʾān</dc:title>
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Series</dc:title>
-            <dc:identifier>Series Number</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>

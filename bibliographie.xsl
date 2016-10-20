@@ -231,21 +231,21 @@
                                                                                                                 <xsl:non-matching-substring>
                                                                                                                     <xsl:analyze-string 
                                                                                                                         select="." 
-                                                                                                                        regex="{concat($regex-series-volume,$regex-journal-volume)}">
+                                                                                                                        regex="{concat('\(',$regex-series-volume,'\)|\(',$regex-journal-volume,'\)')}">
                                                                                                                         <xsl:matching-substring>
-                                                                                                                            <xsl:if test="regex-group(1)">
+                                                                                                                            <xsl:if test="regex-group(2)">
                                                                                                                                 <dcterms:isPartOf>
                                                                                                                                     <bib:Series>
-                                                                                                                                        <dc:title><xsl:value-of select="regex-group(1)"/></dc:title>
-                                                                                                                                        <dc:identifier><xsl:value-of select="regex-group(2)"/></dc:identifier>
+                                                                                                                                        <dc:title><xsl:value-of select="regex-group(2)"/></dc:title>
+                                                                                                                                        <dc:identifier><xsl:value-of select="regex-group(3)"/></dc:identifier>
                                                                                                                                     </bib:Series>
                                                                                                                                 </dcterms:isPartOf>
                                                                                                                             </xsl:if>
-                                                                                                                            <xsl:if test="regex-group(3)">
-                                                                                                                                <dc:title><xsl:value-of select="regex-group(3)"/></dc:title>
+                                                                                                                            <xsl:if test="regex-group(5)">
+                                                                                                                                <dc:title><xsl:value-of select="regex-group(5)"/></dc:title>
                                                                                                                             </xsl:if>
-                                                                                                                            <xsl:if test="regex-group(4)">
-                                                                                                                                <prism:volume><xsl:value-of select="regex-group(4)"/></prism:volume>
+                                                                                                                            <xsl:if test="regex-group(6)">
+                                                                                                                                <prism:volume><xsl:value-of select="regex-group(6)"/></prism:volume>
                                                                                                                             </xsl:if>
                                                                                                                         </xsl:matching-substring>
                                                                                                                         <xsl:non-matching-substring>
@@ -377,7 +377,7 @@
                                     <z:itemType><xsl:value-of select="$itemType"/></z:itemType>
                                     <dcterms:isPartOf>
                                         <bib:Book>
-                                            <!--<xsl:copy-of select="dcterms:isPartOf[bib:Series]"/>-->
+                                            <xsl:copy-of select="dcterms:isPartOf[bib:Series]"/>
                                             <xsl:copy-of select="syriaca:sanitize-titles(dc:title[2])"/>
                                             <xsl:copy-of select="prism:volume"/>
                                         </bib:Book>
@@ -411,12 +411,7 @@
                                 <bib:Book>
                                     <xsl:variable name="itemType" select="'book'"/>
                                     <z:itemType><xsl:value-of select="$itemType"/></z:itemType>
-                                    <dcterms:isPartOf>
-                                        <bib:Series>
-                                            <dc:title>Series</dc:title>
-                                            <dc:identifier>Series Number</dc:identifier>
-                                        </bib:Series>
-                                    </dcterms:isPartOf>
+                                    <xsl:copy-of select="dcterms:isPartOf[bib:Series]"/>
                                     <xsl:copy-of select="$contributors-all"/>
                                     <xsl:copy-of select="syriaca:sanitize-titles(dc:title)"/>
                                     <xsl:copy-of select="$publication-info"/>
@@ -433,7 +428,7 @@
                                     <z:itemType><xsl:value-of select="$itemType"/></z:itemType>
                                     <dcterms:isPartOf>
                                         <bib:Book>
-                                            <!--<xsl:copy-of select="dcterms:isPartOf[bib:Series]"/>-->
+                                            <xsl:copy-of select="dcterms:isPartOf[bib:Series]"/>
                                             <xsl:copy-of select="syriaca:sanitize-titles(dc:title[2])"/>
                                             <xsl:copy-of select="prism:volume"/>
                                         </bib:Book>
