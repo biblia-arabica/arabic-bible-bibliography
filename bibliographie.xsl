@@ -335,7 +335,8 @@
                             <!-- Book section -->
                             <xsl:when test="count(dc:title)=2 and bib:pages and bib:editors and (dc:date|dc:publisher)">
                                 <bib:BookSection>
-                                    <z:itemType>bookSection</z:itemType>
+                                    <xsl:variable name="itemType" select="'bookSection'"/>
+                                    <z:itemType><xsl:value-of select="$itemType"/></z:itemType>
                                     <dcterms:isPartOf>
                                         <bib:Book>
                                             <dcterms:isPartOf>
@@ -352,12 +353,14 @@
                                     <xsl:copy-of select="syriaca:sanitize-titles(dc:title[1])"/>
                                     <xsl:copy-of select="$publication-info"/>
                                     <xsl:copy-of select="$tags"/>
+                                    <xsl:copy-of select="syriaca:create-flags(.,$itemType)"/>
                                 </bib:BookSection>
                             </xsl:when>
                             <!-- Journal article -->
                             <xsl:when test="count(dc:title)=2 and (prism:volume|dc:date) and not(bib:editors|dc:publisher)">
                                 <bib:Article>
-                                    <z:itemType>journalArticle</z:itemType>
+                                    <xsl:variable name="itemType" select="'journalArticle'"/>
+                                    <z:itemType><xsl:value-of select="$itemType"/></z:itemType>
                                     <dcterms:isPartOf>
                                         <bib:Journal>
                                             <xsl:copy-of select="syriaca:sanitize-titles(dc:title[2])"/>
@@ -368,11 +371,13 @@
                                     <xsl:copy-of select="syriaca:sanitize-titles(dc:title[1])"/>
                                     <xsl:copy-of select="$publication-info"/>
                                     <xsl:copy-of select="$tags"/>
+                                    <xsl:copy-of select="syriaca:create-flags(.,$itemType)"/>
                                 </bib:Article>
                             </xsl:when>
                             <xsl:when test="count(dc:title)=1 and not(bib:pages) and (dc:date|dc:publisher)">
                                 <bib:Book>
-                                    <z:itemType>book</z:itemType>
+                                    <xsl:variable name="itemType" select="'book'"/>
+                                    <z:itemType><xsl:value-of select="$itemType"/></z:itemType>
                                     <dcterms:isPartOf>
                                         <bib:Series>
                                             <dc:title>Series</dc:title>
@@ -384,6 +389,7 @@
                                     <xsl:copy-of select="$publication-info"/>
                                     <xsl:copy-of select="prism:volume"/>
                                     <xsl:copy-of select="$tags"/>
+                                    <xsl:copy-of select="syriaca:create-flags(.,$itemType)"/>
                                 </bib:Book>
                             </xsl:when>
                             <!-- Unknown item type -->

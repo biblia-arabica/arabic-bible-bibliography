@@ -583,6 +583,7 @@ Verlagsbuchhandlung</foaf:name>
       <dc:subject>MS: Vatican, BAV, Ar. 468</dc:subject>
       <dc:subject>MS: , Bryn Mawr, Bryn Mawr</dc:subject>
       <dc:subject>?MS: College Library, BV 47 (formerly Zurich Or. 94).</dc:subject>
+      <dc:subject>!no date</dc:subject>
    </bib:Article>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -663,6 +664,7 @@ historical, text-critical and literary aspects</dc:title>
       <dc:subject>MS: Vatican, BAV, Ar. 468</dc:subject>
       <dc:subject>MS: , Bryn Mawr, Bryn Mawr</dc:subject>
       <dc:subject>?MS: College Library, BV 47 (formerly Zurich Or. 94).</dc:subject>
+      <dc:subject>!no date</dc:subject>
    </bib:Article>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -943,6 +945,7 @@ of the Bible</dc:title>
       <dc:subject>MS: Vatican, BAV,  Borg. Ar. 95</dc:subject>
       <dc:subject>MS: Sinai,  Ar. 74, Ar. 74</dc:subject>
       <dc:subject>MS: Berlin, Staatsbibliothek, or. oct. 1108.</dc:subject>
+      <dc:subject>!no date</dc:subject>
    </bib:Article>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -1191,6 +1194,7 @@ Arabic versions</bib:pages>
       <dc:subject>ID: 28</dc:subject>
       <dc:subject>MS: Munich, Staatsbibliothek, Ar. 238</dc:subject>
       <dc:subject>MS: Munich, Staatsbibliothek, Ar. 234.</dc:subject>
+      <dc:subject>!no date</dc:subject>
    </bib:Article>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -1283,6 +1287,7 @@ into Arabic.</dcterms:abstract>
       <dc:subject>?MS: Leon, Cod. 35 (olim Escurial, Ms. H, IV, 10) and Cod. 1026</dc:subject>
       <dc:subject>MS: Leipzig, Universitätsbibliothek, Cod. 1059</dc:subject>
       <dc:subject>MS: Vatican, BAV, Ar. 5 (pls. on pp. 28-29). </dc:subject>
+      <dc:subject>!no date</dc:subject>
    </bib:Article>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -1360,6 +1365,7 @@ pp. 17-29.</dcterms:abstract>
       <dc:subject>?MS: Leon, Cod. 35 (olim Escurial, Ms. H, IV, 10) and Cod. 1026</dc:subject>
       <dc:subject>MS: Leipzig, Universitätsbibliothek, Cod. 1059</dc:subject>
       <dc:subject>MS: Vatican, BAV, Ar. 5 (pls. on pp. 28-29). </dc:subject>
+      <dc:subject>!no date</dc:subject>
    </bib:Article>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -1998,6 +2004,7 @@ Century)</dc:title>
       <bib:pages>219-221</bib:pages>
       <dc:subject>ID: 48</dc:subject>
       <dc:subject>MS: ,  Violet fragment, Violet fragment</dc:subject>
+      <dc:subject>!no date</dc:subject>
    </bib:Article>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -2088,6 +2095,7 @@ of Islam</dc:title>
       <bib:pages>372-373</bib:pages>
       <dc:subject>ID: 50</dc:subject>
       <dc:subject>MS: ,  Violet fragment, Violet fragment</dc:subject>
+      <dc:subject>!no date</dc:subject>
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
@@ -2499,6 +2507,7 @@ b. al-Qūṭī [#] and ibn Balashk [#] </dcterms:abstract>
       <dc:subject>MS: St. Petersburg, Imperial Library, </dc:subject>
       <dc:subject>?MS: BNF, Anc. F. 27 (current shelfmark) and Suppl. Ar. 27 (Coisl. 239), Vatican, BAV, Lat. 12900
 (formerly Chapter of the Cathedral of Siguenze, Ms. 150).</dc:subject>
+      <dc:subject>!no date</dc:subject>
    </bib:Article>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -3530,6 +3539,7 @@ refutatur</dc:title>
       <dc:subject>MS: , Greek monastery, Greek monastery</dc:subject>
       <dc:subject>?MS: Jerusalem Cod. 1</dc:subject>
       <dc:subject>MS: Leiden, University Library, Or. 243.</dc:subject>
+      <dc:subject>!no date</dc:subject>
    </bib:Article>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -3636,6 +3646,7 @@ features in their translation techniques. </dcterms:abstract>
       <dc:subject>MS: , Greek monastery, Greek monastery</dc:subject>
       <dc:subject>?MS: Jerusalem Cod. 1</dc:subject>
       <dc:subject>MS: Leiden, University Library, Or. 243.</dc:subject>
+      <dc:subject>!no date</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -4442,6 +4453,7 @@ unspecified modern one.</dcterms:abstract>
       <dc:subject>MS: Leiden, University Library, Or. 2348</dc:subject>
       <dc:subject>MS: Vatican, BAV, Ar. 17</dc:subject>
       <dc:subject>MS: Vatican, BAV, Ar. 18.</dc:subject>
+      <dc:subject>!no date</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -8069,6 +8081,7 @@ them containing early biblical books in Arabic. </dcterms:abstract>
       <dc:subject>ID: 196</dc:subject>
       <dc:subject>MS: St Petersburg, RNL, A. N.S.</dc:subject>
       <dc:subject>?MS: 327 and Leipzig, Universitätsbibliothek, Cod. Tisch. 31 and 37.</dc:subject>
+      <dc:subject>!no date</dc:subject>
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
@@ -9099,6 +9112,7 @@ in the Church of Egypt</dc:title>
       <dc:subject>MS: Paris, BNF Ar. 1, Florence</dc:subject>
       <dc:subject>MS: Paris, BNF Ar. 1,  BML Or. 112 (formerly</dc:subject>
       <dc:subject>?MS: 21).</dc:subject>
+      <dc:subject>!no date</dc:subject>
    </bib:Article>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -9153,6 +9167,7 @@ ersten Buchs Moses zu Mannheim</dc:title>
       <dc:subject>MS: Paris, BNF Ar. 1, Florence</dc:subject>
       <dc:subject>MS: Paris, BNF Ar. 1,  BML Or. 112 (formerly</dc:subject>
       <dc:subject>?MS: 21).</dc:subject>
+      <dc:subject>!no date</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -11252,6 +11267,7 @@ Al Sahhar</dc:title>
       <dcterms:abstract>al-ʿAlam</dcterms:abstract>
       <dc:subject>ID: 268</dc:subject>
       <dc:subject>MS: Berlin, Staatsbibliothek, Diez A fol. 41</dc:subject>
+      <dc:subject>!no date</dc:subject>
    </bib:Article>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -11827,6 +11843,7 @@ Andrews</dc:title>
       <dcterms:abstract>Tagging? </dcterms:abstract>
       <dc:subject>ID: 284</dc:subject>
       <dc:subject>MS: St Petersburg, Institute of Oriental Manuscripts, A 187 </dc:subject>
+      <dc:subject>!no date</dc:subject>
    </bib:Article>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -13562,6 +13579,7 @@ Matt 13:46-52 in Greek and Arabic.</dcterms:abstract>
       <dc:subject>ID: 330</dc:subject>
       <dc:subject>MS: ,  What is the current shelfmark?, What is the current shelfmark?</dc:subject>
       <dc:subject>?MS: [belongs with Ms. St Petersburg, RNL, Gre 281].</dc:subject>
+      <dc:subject>!no date</dc:subject>
    </bib:Article>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -15983,6 +16001,7 @@ Princeton University</dc:title>
       <dc:subject>ID: 397</dc:subject>
       <dc:subject>MS: Vatican, BAV, Lat. 12900 (formerly Chapter of the</dc:subject>
       <dc:subject>?MS: Cathedral of Siguenze, Ms. 150).</dc:subject>
+      <dc:subject>!no date</dc:subject>
    </bib:Article>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -17572,6 +17591,7 @@ Aethiopica</dc:title>
       <dc:subject>?MS: 4785</dc:subject>
       <dc:subject>MS: Cairo, Coptic Museum, Hist. 485</dc:subject>
       <dc:subject>MS: Vatica, BAV, Syr. 199.</dc:subject>
+      <dc:subject>!no date</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -17602,6 +17622,7 @@ Da AFR äth 10-1</dcterms:abstract>
       <dc:subject>?MS: 4785</dc:subject>
       <dc:subject>MS: Cairo, Coptic Museum, Hist. 485</dc:subject>
       <dc:subject>MS: Vatica, BAV, Syr. 199.</dc:subject>
+      <dc:subject>!no date</dc:subject>
    </bib:Article>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -18267,6 +18288,7 @@ Testaments of Abraham, Isaac and Jacob. </dcterms:abstract>
       <dc:subject>?MS: 468</dc:subject>
       <dc:subject>MS: Sinai,  Ar. 151, Ar. 151</dc:subject>
       <dc:subject>MS: , Escorial Cod. Ar. 1625., Escorial Cod. Ar. 1625.</dc:subject>
+      <dc:subject>!no date</dc:subject>
    </bib:Book>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -19329,6 +19351,7 @@ Jacobi im Cod. Sin. Ar. 436</dc:title>
       <dc:subject>MS: Jerusalem, St. Anne, 33</dc:subject>
       <dc:subject>MS: Cairo, Coptic Orthodox Patriarchate, Theol. 209</dc:subject>
       <dc:subject>?MS: (Simaika 238)</dc:subject>
+      <dc:subject>!no date</dc:subject>
    </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
