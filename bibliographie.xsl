@@ -270,93 +270,28 @@
                         </xsl:for-each>
                     </xsl:variable>
                     
-                    <!-- Journal format.  -->
-                    <xsl:for-each select="$entry/entry[count(dc:title)=2 and prism:volume and dc:date and bib:pages and not(bib:editors|dc:publisher)]">
-                        <bib:Article>
-                            <z:itemType>journalArticle</z:itemType>
-                            <dcterms:isPartOf>
-                                <bib:Journal>
-                                    <xsl:copy-of select="syriaca:sanitize-titles(dc:title[2])"/>
-                                    <xsl:copy-of select="prism:volume"/>
-                                </bib:Journal>
-                            </dcterms:isPartOf>
-                            <xsl:copy-of select="bib:authors"/>
-                            <xsl:copy-of select="syriaca:sanitize-titles(dc:title[1])"/>
-                            <xsl:copy-of select="bib:pages"/>
-                            <xsl:copy-of select="dc:date"/>
-                            <xsl:copy-of select="dcterms:abstract"/>
-                            <xsl:copy-of select="dc:subject"/>
-                        </bib:Article>
-                    </xsl:for-each>
-                
-                    <!-- Book format.  -->
-                    <xsl:for-each select="$entry/entry[count(dc:title)=1 and not(bib:pages) and (dc:date|dc:publisher)]">
-                        <bib:Book>
-                            <z:itemType>book</z:itemType>
-                            <dcterms:isPartOf>
-                                <bib:Series>
-                                    <dc:title>Series</dc:title>
-                                    <dc:identifier>Series Number</dc:identifier>
-                                </bib:Series>
-                            </dcterms:isPartOf>
-                            <xsl:copy-of select="dc:publisher"/>
-                            <xsl:copy-of select="bib:authors"/>
-                            <xsl:copy-of select="bib:editors"/>
-                            <!--<z:seriesEditors>
-                                <rdf:Seq>
-                                    <rdf:li>
-                                        <foaf:Person>
-                                            <foaf:surname>Series EditorL</foaf:surname>
-                                            <foaf:givenname>SeriesF I</foaf:givenname>
-                                        </foaf:Person>
-                                    </rdf:li>
-                                </rdf:Seq>
-                            </z:seriesEditors>-->
-                            <z:translators>
-                                <rdf:Seq>
-                                    <rdf:li>
-                                        <foaf:Person>
-                                            <foaf:surname>TranslatorL</foaf:surname>
-                                            <foaf:givenname>TranslatorF I</foaf:givenname>
-                                        </foaf:Person>
-                                    </rdf:li>
-                                </rdf:Seq>
-                            </z:translators>
-                            <xsl:copy-of select="syriaca:sanitize-titles(dc:title)"/>
-                            <xsl:copy-of select="dcterms:abstract"/>
-                            <xsl:copy-of select="prism:volume"/>
-                            <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
-                            <xsl:copy-of select="prism:edition"/>
-                            <xsl:copy-of select="dc:date"/>
-                            <!--<z:numPages># of Pages</z:numPages>-->
-                            <!--<z:language>Language</z:language>-->
-                            <!--<dc:identifier>
-                                <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
-                            </dc:identifier>-->
-                            <xsl:copy-of select="dc:subject"/>
-                        </bib:Book>
-                    </xsl:for-each>
-                
-                <!-- Book section format.  -->
-                <xsl:for-each select="$entry/entry[count(dc:title)=2 and bib:pages and bib:editors and (dc:date|dc:publisher)]">
-                    <bib:BookSection>
-                        <z:itemType>bookSection</z:itemType>
-                        <dcterms:isPartOf>
-                            <bib:Book>
-                                <dcterms:isPartOf>
-                                    <bib:Series>
-                                        <dc:title>Series</dc:title>
-                                        <dc:identifier>Series Number</dc:identifier>
-                                    </bib:Series>
-                                </dcterms:isPartOf>
-                                <xsl:copy-of select="syriaca:sanitize-titles(dc:title[2])"/>
-                                <xsl:copy-of select="prism:volume"/>
-                            </bib:Book>
-                        </dcterms:isPartOf>
-                        <xsl:copy-of select="dc:publisher"/>
-                        <xsl:copy-of select="bib:authors"/>
-                        <xsl:copy-of select="bib:editors"/>
-                        <!--<z:seriesEditors>
+                    <xsl:for-each select="$entry/entry">
+                        <xsl:choose>
+                            <!-- Book section -->
+                            <xsl:when test="count(dc:title)=2 and bib:pages and bib:editors and (dc:date|dc:publisher)">
+                                <bib:BookSection>
+                                    <z:itemType>bookSection</z:itemType>
+                                    <dcterms:isPartOf>
+                                        <bib:Book>
+                                            <dcterms:isPartOf>
+                                                <bib:Series>
+                                                    <dc:title>Series</dc:title>
+                                                    <dc:identifier>Series Number</dc:identifier>
+                                                </bib:Series>
+                                            </dcterms:isPartOf>
+                                            <xsl:copy-of select="syriaca:sanitize-titles(dc:title[2])"/>
+                                            <xsl:copy-of select="prism:volume"/>
+                                        </bib:Book>
+                                    </dcterms:isPartOf>
+                                    <xsl:copy-of select="dc:publisher"/>
+                                    <xsl:copy-of select="bib:authors"/>
+                                    <xsl:copy-of select="bib:editors"/>
+                                    <!--<z:seriesEditors>
                             <rdf:Seq>
                                 <rdf:li>
                                     <foaf:Person>
@@ -366,18 +301,18 @@
                                 </rdf:li>
                             </rdf:Seq>
                         </z:seriesEditors>-->
-                        <z:translators>
-                            <rdf:Seq>
-                                <rdf:li>
-                                    <foaf:Person>
-                                        <foaf:surname>TranslatorL</foaf:surname>
-                                        <foaf:givenname>TranslatorF I</foaf:givenname>
-                                    </foaf:Person>
-                                </rdf:li>
-                            </rdf:Seq>
-                        </z:translators>
-                        <!-- Do we need the following? -->
-                        <!--<z:bookAuthors>
+                                    <z:translators>
+                                        <rdf:Seq>
+                                            <rdf:li>
+                                                <foaf:Person>
+                                                    <foaf:surname>TranslatorL</foaf:surname>
+                                                    <foaf:givenname>TranslatorF I</foaf:givenname>
+                                                </foaf:Person>
+                                            </rdf:li>
+                                        </rdf:Seq>
+                                    </z:translators>
+                                    <!-- Do we need the following? -->
+                                    <!--<z:bookAuthors>
                             <rdf:Seq>
                                 <rdf:li>
                                     <foaf:Person>
@@ -387,19 +322,85 @@
                                 </rdf:li>
                             </rdf:Seq>
                         </z:bookAuthors>-->
-                        <xsl:copy-of select="syriaca:sanitize-titles(dc:title[1])"/>
-                        <xsl:copy-of select="dcterms:abstract"/>
-                        <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
-                        <xsl:copy-of select="prism:edition"/>
-                        <xsl:copy-of select="dc:date"/>
-                        <xsl:copy-of select="bib:pages"/>
-                        <!--<z:language>Language</z:language>-->
-                        <!--<dc:identifier>
+                                    <xsl:copy-of select="syriaca:sanitize-titles(dc:title[1])"/>
+                                    <xsl:copy-of select="dcterms:abstract"/>
+                                    <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+                                    <xsl:copy-of select="prism:edition"/>
+                                    <xsl:copy-of select="dc:date"/>
+                                    <xsl:copy-of select="bib:pages"/>
+                                    <!--<z:language>Language</z:language>-->
+                                    <!--<dc:identifier>
                             <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
                         </dc:identifier>-->
-                        <xsl:copy-of select="dc:subject"/>
-                    </bib:BookSection>
-                </xsl:for-each>
+                                    <xsl:copy-of select="dc:subject"/>
+                                </bib:BookSection>
+                            </xsl:when>
+                            <!-- Journal article -->
+                            <xsl:when test="count(dc:title)=2 and (prism:volume|dc:date) and not(bib:editors|dc:publisher)">
+                                <bib:Article>
+                                    <z:itemType>journalArticle</z:itemType>
+                                    <dcterms:isPartOf>
+                                        <bib:Journal>
+                                            <xsl:copy-of select="syriaca:sanitize-titles(dc:title[2])"/>
+                                            <xsl:copy-of select="prism:volume"/>
+                                        </bib:Journal>
+                                    </dcterms:isPartOf>
+                                    <xsl:copy-of select="bib:authors"/>
+                                    <xsl:copy-of select="syriaca:sanitize-titles(dc:title[1])"/>
+                                    <xsl:copy-of select="bib:pages"/>
+                                    <xsl:copy-of select="dc:date"/>
+                                    <xsl:copy-of select="dcterms:abstract"/>
+                                    <xsl:copy-of select="dc:subject"/>
+                                </bib:Article>
+                            </xsl:when>
+                            <xsl:when test="count(dc:title)=1 and not(bib:pages) and (dc:date|dc:publisher)">
+                                <bib:Book>
+                                    <z:itemType>book</z:itemType>
+                                    <dcterms:isPartOf>
+                                        <bib:Series>
+                                            <dc:title>Series</dc:title>
+                                            <dc:identifier>Series Number</dc:identifier>
+                                        </bib:Series>
+                                    </dcterms:isPartOf>
+                                    <xsl:copy-of select="dc:publisher"/>
+                                    <xsl:copy-of select="bib:authors"/>
+                                    <xsl:copy-of select="bib:editors"/>
+                                    <!--<z:seriesEditors>
+                                <rdf:Seq>
+                                    <rdf:li>
+                                        <foaf:Person>
+                                            <foaf:surname>Series EditorL</foaf:surname>
+                                            <foaf:givenname>SeriesF I</foaf:givenname>
+                                        </foaf:Person>
+                                    </rdf:li>
+                                </rdf:Seq>
+                            </z:seriesEditors>-->
+                                    <z:translators>
+                                        <rdf:Seq>
+                                            <rdf:li>
+                                                <foaf:Person>
+                                                    <foaf:surname>TranslatorL</foaf:surname>
+                                                    <foaf:givenname>TranslatorF I</foaf:givenname>
+                                                </foaf:Person>
+                                            </rdf:li>
+                                        </rdf:Seq>
+                                    </z:translators>
+                                    <xsl:copy-of select="syriaca:sanitize-titles(dc:title)"/>
+                                    <xsl:copy-of select="dcterms:abstract"/>
+                                    <xsl:copy-of select="prism:volume"/>
+                                    <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+                                    <xsl:copy-of select="prism:edition"/>
+                                    <xsl:copy-of select="dc:date"/>
+                                    <!--<z:numPages># of Pages</z:numPages>-->
+                                    <!--<z:language>Language</z:language>-->
+                                    <!--<dc:identifier>
+                                <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+                            </dc:identifier>-->
+                                    <xsl:copy-of select="dc:subject"/>
+                                </bib:Book>
+                            </xsl:when>
+                        </xsl:choose>
+                    </xsl:for-each>
                     
                 <!-- Could add something that catches all other entries and puts a tag "unknown type" on them -->
                 
