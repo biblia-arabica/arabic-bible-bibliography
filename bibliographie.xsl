@@ -85,43 +85,46 @@
     <xsl:function name="syriaca:add-thesis">
         <xsl:param name="input-node"/>
         <xsl:param name="regex-thesis"/>
-        <xsl:for-each select="$input-node/node()">
-            <xsl:choose>
-                <xsl:when test=". instance of text()">
-                    <xsl:analyze-string 
-                        select="." 
-                        regex="{$regex-thesis}">
-                        <xsl:matching-substring>
-                            <xsl:if test="regex-group(3)">
-                                <z:itemType>thesis</z:itemType>
-                                <dc:publisher>
-                                    <foaf:Organization>
-                                        <foaf:name><xsl:value-of select="regex-group(4)"/></foaf:name>
-                                        <vcard:adr>
-                                            <vcard:Address>
-                                                <vcard:locality><xsl:value-of select="normalize-space(regex-group(6))"/></vcard:locality>
-                                            </vcard:Address>
-                                        </vcard:adr>
-                                    </foaf:Organization>
-                                </dc:publisher>
-                                <dc:date><xsl:value-of select="regex-group(7)"/></dc:date>
-                                <z:type><xsl:value-of select="regex-group(3)"/></z:type>
-                            </xsl:if>
-                        </xsl:matching-substring>
-                        <xsl:non-matching-substring>
-                            <xsl:copy-of select="."/>
-                        </xsl:non-matching-substring>
-                    </xsl:analyze-string>
-                </xsl:when>
-                <xsl:otherwise>
-                    <xsl:copy-of select="."/>
-                </xsl:otherwise>
-            </xsl:choose>
-        </xsl:for-each>        
+        <entry>
+            <xsl:for-each select="$input-node/node()">
+                <xsl:choose>
+                    <xsl:when test=". instance of text()">
+                        <xsl:analyze-string 
+                            select="." 
+                            regex="{$regex-thesis}">
+                            <xsl:matching-substring>
+                                <xsl:if test="regex-group(3)">
+                                    <z:itemType>thesis</z:itemType>
+                                    <dc:publisher>
+                                        <foaf:Organization>
+                                            <foaf:name><xsl:value-of select="regex-group(4)"/></foaf:name>
+                                            <vcard:adr>
+                                                <vcard:Address>
+                                                    <vcard:locality><xsl:value-of select="normalize-space(regex-group(6))"/></vcard:locality>
+                                                </vcard:Address>
+                                            </vcard:adr>
+                                        </foaf:Organization>
+                                    </dc:publisher>
+                                    <dc:date><xsl:value-of select="regex-group(7)"/></dc:date>
+                                    <z:type><xsl:value-of select="regex-group(3)"/></z:type>
+                                </xsl:if>
+                            </xsl:matching-substring>
+                            <xsl:non-matching-substring>
+                                <xsl:copy-of select="."/>
+                            </xsl:non-matching-substring>
+                        </xsl:analyze-string>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:copy-of select="."/>
+                    </xsl:otherwise>
+                </xsl:choose>
+            </xsl:for-each>  
+        </entry>
     </xsl:function>
     <xsl:function name="syriaca:add-authors">
         <xsl:param name="input-node"/>
         <xsl:param name="regex-authors"/>
+        <entry>
         <xsl:for-each select="$input-node/node()">
             <xsl:choose>
                 <xsl:when test=". instance of text()">
@@ -152,7 +155,8 @@
                     <xsl:copy-of select="."/>
                 </xsl:otherwise>
             </xsl:choose>
-        </xsl:for-each>        
+        </xsl:for-each> 
+        </entry>
     </xsl:function>
     
     <!-- The number the ID tags should start with. -->
@@ -199,11 +203,9 @@
                             <xsl:variable name="regex-thesis" select="'([Uu]npubl(\.|ished)\s*)?([\w\.]+)[\s\-]*[Tt]hesis,\s*(.+?),(([\w\s\.,]+),)?\s*((14|15|16|17|18|19|20)\d{2}(\-\d+)?)'"/>
                             <xsl:choose>
                                 <xsl:when test="matches(.,'[Tt]hesis')">
-                                    <entry>
                                         <xsl:variable name="thesis" select="syriaca:add-thesis(.,$regex-thesis)"/>
-                                        <xsl:variable name="authors" select="syriaca:add-authors(.,$regex-authors)"/>
-                                        <xsl:copy-of select="$thesis"/>
-                                    </entry>
+                                        <xsl:variable name="authors" select="syriaca:add-authors($thesis,'\[#\]\s*([\w\sÀ-ʸ\-\.]+),')"/>
+                                        <xsl:copy-of select="$authors"/>
                                 </xsl:when>
                                 <xsl:otherwise>
                                     <entry>

@@ -5385,6 +5385,16 @@ du Corpus SCO</foaf:name>
    </bib:Book>
    <bib:Thesis>
       <z:itemType>thesis</z:itemType>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Drint</foaf:surname>
+                  <foaf:givenname>Adriana</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
       <dc:publisher>
          <foaf:Organization>
             <foaf:name>Rijksuniversiteit Groningen</foaf:name>
@@ -5398,7 +5408,6 @@ du Corpus SCO</foaf:name>
       <dc:date>1959</dc:date>
       <z:type>PhD</z:type>
       <dc:subject>ID: 141</dc:subject>
-      <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no title</dc:subject>
    </bib:Thesis>
@@ -7364,6 +7373,16 @@ Sinai: It's Manuscripts and their Conservation: Papers Given in Memory of Profes
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Theodoraki</foaf:surname>
+                  <foaf:givenname>G.</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
       <dc:title>Les Enluminures du ms. Copte 13 de la
 B.N.</dc:title>
       <dc:publisher>
@@ -7378,7 +7397,6 @@ B.N.</dc:title>
       </dc:publisher>
       <dc:date>1966</dc:date>
       <dc:subject>ID: 196</dc:subject>
-      <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Book>
    <bib:Book>
@@ -7984,13 +8002,22 @@ Christian Arabic</dc:title>
       <dcterms:isPartOf>
          <bib:Book/>
       </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Bassal</foaf:surname>
+                  <foaf:givenname>Ibrahim</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
       <dc:title>Hebrew and Aramaic elements in the
 Vernacular Christian Arabic in Israel and in the Written Christian Arabic in the Holy Land, Syria
 and Lebanon</dc:title>
       <dc:subject>ID: 213</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no date</dc:subject>
-      <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no pages</dc:subject>
       <dc:subject>!no pages</dc:subject>
@@ -8322,6 +8349,16 @@ editarum, cum observationibus</dc:title>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Rhode</foaf:surname>
+                  <foaf:givenname>Joseph Francis</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
       <dc:title>The Arabic Versions of the Pentateuch
 in the Church of Egypt</dc:title>
       <dc:publisher>
@@ -8336,7 +8373,6 @@ in the Church of Egypt</dc:title>
       </dc:publisher>
       <dc:date>1921</dc:date>
       <dc:subject>ID: 223</dc:subject>
-      <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Book>
    <bib:BookSection>
@@ -8392,6 +8428,16 @@ ersten Buchs Moses zu Mannheim</dc:title>
    </bib:BookSection>
    <bib:Thesis>
       <z:itemType>thesis</z:itemType>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Vollandt</foaf:surname>
+                  <foaf:givenname>Ronny</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
       <dc:title>Christian-Arabic Translations of the
 Pentateuch from the 9th to the 13th</dc:title>
       <dc:title>centuries: A Comparative Study of
@@ -8409,7 +8455,6 @@ Manuscripts and Translation Techniques</dc:title>
       <dc:date>2011</dc:date>
       <z:type>PhD</z:type>
       <dc:subject>ID: 225</dc:subject>
-      <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Thesis>
    <bib:BookSection>
@@ -10124,6 +10169,16 @@ comparison with the Peshitta.</dcterms:abstract>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Stapleton</foaf:surname>
+                  <foaf:givenname>Russel</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
       <dc:title>An Edition of the Book of Daniel and
 Associated Apocrypha in Ms. Sinai Arabic I</dc:title>
       <dc:publisher>
@@ -10138,7 +10193,6 @@ Associated Apocrypha in Ms. Sinai Arabic I</dc:title>
       </dc:publisher>
       <dc:date>1989</dc:date>
       <dc:subject>ID: 263</dc:subject>
-      <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Book>
    <bib:Article>
@@ -10835,11 +10889,20 @@ Monferrer Sala.)</dcterms:abstract>
       <dcterms:isPartOf>
          <bib:Book/>
       </dcterms:isPartOf>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Blackburn</foaf:surname>
+                  <foaf:givenname>Steven</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
       <dc:title>The early Arabic versions of Job (first millennium C.E.)</dc:title>
       <dc:subject>ID: 284</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no date</dc:subject>
-      <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no pages</dc:subject>
       <dc:subject>!no pages</dc:subject>
@@ -15795,6 +15858,16 @@ Macchabées dans les Polyglottes de Londres et la Bible manuscrite de St. Péter
    </bib:BookSection>
    <bib:Thesis>
       <z:itemType>thesis</z:itemType>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Gauguine</foaf:surname>
+                  <foaf:givenname>Maurice</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
       <dc:publisher>
          <foaf:Organization>
             <foaf:name>Manchester</foaf:name>
@@ -15808,7 +15881,6 @@ Macchabées dans les Polyglottes de Londres et la Bible manuscrite de St. Péter
       <dc:date>1965</dc:date>
       <z:type>PhD</z:type>
       <dc:subject>ID: 431</dc:subject>
-      <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no title</dc:subject>
    </bib:Thesis>
@@ -17744,6 +17816,16 @@ Oxford, Bodleian Library, Or. 251.</dcterms:abstract>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
+      <bib:authors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>Wetzel</foaf:surname>
+                  <foaf:givenname>E.</foaf:givenname>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:authors>
       <dc:title>Ein weiteres Bruchstück des Protoevangelium
 Jacobi im Cod. Sin. Ar. 436</dc:title>
       <dc:publisher>
@@ -17758,7 +17840,6 @@ Jacobi im Cod. Sin. Ar. 436</dc:title>
       </dc:publisher>
       <dc:date>1990</dc:date>
       <dc:subject>ID: 486</dc:subject>
-      <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Book>
    <bib:Article>
