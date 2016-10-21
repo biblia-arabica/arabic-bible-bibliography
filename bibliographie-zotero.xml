@@ -573,6 +573,7 @@ Verlagsbuchhandlung</foaf:name>
          </rdf:Seq>
       </bib:authors>
       <dc:title>מקראת, תרגומים, ערבית</dc:title>
+      <bib:pages>cols. 304-305</bib:pages>
       <dc:subject>ID: 13</dc:subject>
       <dc:subject>MS: St Petersburg, RNL, D 226</dc:subject>
       <dc:subject>MS: Vatican, BAV, Ar. 467</dc:subject>
@@ -584,18 +585,12 @@ Verlagsbuchhandlung</foaf:name>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
       <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
       <dcterms:isReferencedBy rdf:resource="#note_13-1"/>
-      <dcterms:isReferencedBy rdf:resource="#note_13-2"/>
    </bib:BookSection>
    <bib:Memo rdf:about="#note_13-1">
       <rdf:value>, in האנציקלופדיה העברית,</rdf:value>
-   </bib:Memo>
-   <bib:Memo rdf:about="#note_13-2">
-      <rdf:value>
-cols. 304-305.</rdf:value>
    </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -646,8 +641,13 @@ historical, text-critical and literary aspects</dc:title>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no pages</dc:subject>
    </bib:BookSection>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Book>
+            <prism:volume>24</prism:volume>
+         </bib:Book>
+      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -669,7 +669,7 @@ historical, text-critical and literary aspects</dc:title>
             <foaf:name>ha</foaf:name>
          </foaf:Organization>
       </dc:publisher>
-      <prism:volume>24</prism:volume>
+      <bib:pages>cols. 305-306</bib:pages>
       <dc:subject>ID: 15</dc:subject>
       <dc:subject>MS: St Petersburg, RNL, D 226</dc:subject>
       <dc:subject>MS: Vatican, BAV, Ar. 467</dc:subject>
@@ -678,21 +678,19 @@ historical, text-critical and literary aspects</dc:title>
       <dc:subject>?MS: College Library, BV 47 (formerly Zurich Or. 94).</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!uncaptured data</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dcterms:isReferencedBy rdf:resource="#note_15-1"/>
       <dcterms:isReferencedBy rdf:resource="#note_15-2"/>
-      <dcterms:isReferencedBy rdf:resource="#note_15-3"/>
-   </bib:Book>
+   </bib:BookSection>
    <bib:Memo rdf:about="#note_15-1">
       <rdf:value>, in האנציקלופדיה
 העברית</rdf:value>
    </bib:Memo>
    <bib:Memo rdf:about="#note_15-2">
       <rdf:value>-Ḥevra le-hozaʾat Enṣiqlodediyot, ,</rdf:value>
-   </bib:Memo>
-   <bib:Memo rdf:about="#note_15-3">
-      <rdf:value> cols. 305-306.</rdf:value>
    </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -777,6 +775,7 @@ historical, text-critical and literary aspects</dc:title>
          </foaf:Organization>
       </dc:publisher>
       <dc:date>1960</dc:date>
+      <bib:pages>cols. 807-810</bib:pages>
       <dc:subject>ID: 17</dc:subject>
       <dc:subject>MS: London, BL, Or. 1475</dc:subject>
       <dc:subject>MS: London, BL, Add. 9060</dc:subject>
@@ -785,16 +784,9 @@ historical, text-critical and literary aspects</dc:title>
       <dc:subject>MS: Berlin, Staatsbibliothek, Or. Quart. 2101</dc:subject>
       <dc:subject>MS: Vatican, BAV, Ar. 5.</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_17-1"/>
    </bib:BookSection>
-   <bib:Memo rdf:about="#note_17-1">
-      <rdf:value>
-cols. 807-810.</rdf:value>
-   </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -1893,21 +1885,17 @@ Encyclopédique de la Bible</dc:title>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Bible, Translations, Ancient versions, Arabic</dc:title>
+      <bib:pages>cols. 863-864</bib:pages>
       <dc:subject>ID: 44</dc:subject>
       <dc:subject>MS: ,  Violet fragment, Violet fragment</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
       <dcterms:isReferencedBy rdf:resource="#note_44-1"/>
-      <dcterms:isReferencedBy rdf:resource="#note_44-2"/>
    </bib:Article>
    <bib:Memo rdf:about="#note_44-1">
       <rdf:value>, 1. Ed.,</rdf:value>
-   </bib:Memo>
-   <bib:Memo rdf:about="#note_44-2">
-      <rdf:value> cols. 863-864.</rdf:value>
    </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -2282,6 +2270,7 @@ Bible</dc:title>
       <dc:title>(Versions) arabes</dc:title>
       <dcterms:abstract>See above</dcterms:abstract>
       <dc:date>1895</dc:date>
+      <bib:pages>coll. 845-856</bib:pages>
       <dc:subject>ID: 53</dc:subject>
       <dc:subject>MS: Paris, BNF Ar. 1, Ar. 5</dc:subject>
       <dc:subject>MS: Paris, BNF Ar. 1, Ar. 6</dc:subject>
@@ -2297,19 +2286,14 @@ Bible</dc:title>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
       <dcterms:isReferencedBy rdf:resource="#note_53-1"/>
       <dcterms:isReferencedBy rdf:resource="#note_53-2"/>
-      <dcterms:isReferencedBy rdf:resource="#note_53-3"/>
    </bib:Article>
    <bib:Memo rdf:about="#note_53-1">
       <rdf:value>, ed. F. Vigouroux,</rdf:value>
    </bib:Memo>
    <bib:Memo rdf:about="#note_53-2">
       <rdf:value> (Paris:</rdf:value>
-   </bib:Memo>
-   <bib:Memo rdf:about="#note_53-3">
-      <rdf:value>, coll. 845-856.</rdf:value>
    </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -2490,6 +2474,7 @@ Literatur – Eine bibliographische Skizze</dc:title>
       </bib:authors>
       <dc:title>Bibelübersetzungen in orientalische
 Sprachen</dc:title>
+      <bib:pages>cols. 1009-1010</bib:pages>
       <dc:subject>ID: 57</dc:subject>
       <dc:subject>MS: ,  Ambrosiana?, Ambrosiana?</dc:subject>
       <dc:subject>MS: Vatican, BAV, Ar. 5</dc:subject>
@@ -2504,15 +2489,9 @@ Sprachen</dc:title>
       <dc:subject>MS: Vatican, BAV, Lat. 12900</dc:subject>
       <dc:subject>?MS: (formerly Chapter of the Cathedral of Siguenze, Ms. 150).</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_57-1"/>
    </bib:Article>
-   <bib:Memo rdf:about="#note_57-1">
-      <rdf:value> cols. 1009-1010.</rdf:value>
-   </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -2642,6 +2621,7 @@ encyclopédique de la Bible</dc:title>
       </dc:publisher>
       <dcterms:abstract>Updated version of [#].</dcterms:abstract>
       <dc:date>1987</dc:date>
+      <bib:pages>cols. 1320-1321</bib:pages>
       <dc:subject>ID: 60</dc:subject>
       <dc:subject>MS: Vatican, BAV, Ar. 13</dc:subject>
       <dc:subject>MS: Vatican, BAV,  Borg. Ar. 95</dc:subject>
@@ -2656,15 +2636,10 @@ encyclopédique de la Bible</dc:title>
       <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
       <dcterms:isReferencedBy rdf:resource="#note_60-1"/>
-      <dcterms:isReferencedBy rdf:resource="#note_60-2"/>
    </bib:BookSection>
    <bib:Memo rdf:about="#note_60-1">
       <rdf:value>3rd ed. </rdf:value>
-   </bib:Memo>
-   <bib:Memo rdf:about="#note_60-2">
-      <rdf:value>, cols. 1320-1321.</rdf:value>
    </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -3559,6 +3534,8 @@ Theologie und Religionswissenschaft</dc:title>
       </dc:publisher>
       <prism:edition>3.</prism:edition>
       <dc:date>1957</dc:date>
+      <bib:pages>cols.
+1200-1201</bib:pages>
       <dc:subject>ID: 80</dc:subject>
       <dc:subject>MS: Venice,  St. Mark 11 (Venet. 11) and 27 (Venet. 539), St. Mark 11 (Venet. 11)</dc:subject>
       <dc:subject>MS: Venice,  St. Mark 11 (Venet. 11) and 27 (Venet. 539), 27 (Venet. 539)</dc:subject>
@@ -3566,16 +3543,9 @@ Theologie und Religionswissenschaft</dc:title>
       <dc:subject>?MS: Jerusalem Cod. 1</dc:subject>
       <dc:subject>MS: Leiden, University Library, Or. 243.</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_80-1"/>
    </bib:BookSection>
-   <bib:Memo rdf:about="#note_80-1">
-      <rdf:value> cols.
-1200-1201.</rdf:value>
-   </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <bib:authors>
@@ -12262,22 +12232,17 @@ explicatus</dc:title>
       <dcterms:abstract>Has a few details of Ryssel’s work on an Arabic version
 of Daniel.</dcterms:abstract>
       <dc:date>1895</dc:date>
+      <bib:pages>cols. 557-561</bib:pages>
       <dc:subject>ID: 280</dc:subject>
       <dc:subject>MS: Paris, BNF, Ar. 1</dc:subject>
       <dc:subject>Subject: al-ʿAlam</dc:subject>
       <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
       <dcterms:isReferencedBy rdf:resource="#note_280-1"/>
-      <dcterms:isReferencedBy rdf:resource="#note_280-2"/>
    </bib:BookSection>
    <bib:Memo rdf:about="#note_280-1">
       <rdf:value> 20 </rdf:value>
-   </bib:Memo>
-   <bib:Memo rdf:about="#note_280-2">
-      <rdf:value>
-cols. 557-561</rdf:value>
    </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
