@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="bibliographie.xsl"?>
+<?xml-stylesheet type="text/xsl" href="bibliography.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
 <fileDesc>
@@ -213,7 +213,7 @@ illustrating the study and printing of Oriental languages in 16th and 17th centu
 (Leiden: Brill, 1992)</p>
 <p rend="justify">ZAW Zeitschrift <hi rend="color(#222222)">für die Alttestamentliche
 Wissenschaft</hi></p>
-<p rend="justify">ZfHB Zeitschrift für Hebraeische Bibliographie</p>
+<p rend="justify">ZfHB Zeitschrift für Hebraeische bibliography</p>
 <p rend="justify">ZDMG Zeitschrift der Deutschen Morgenländischen Gesellschaft</p>
 <p rend="justify"><anchor xml:id="id_h.30j0zll"/>Part ONE</p>
 <p rend="justify"><anchor xml:id="id_h.1fob9te"/>Generalia</p>
