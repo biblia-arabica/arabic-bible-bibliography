@@ -423,7 +423,7 @@
                                                                                                                         <xsl:non-matching-substring>
                                                                                                                             <xsl:analyze-string 
                                                                                                                                 select="." 
-                                                                                                                                regex="{concat('\(',$regex-series-volume,'\)|\(',$regex-journal-volume,'\)')}">
+                                                                                                                                regex="{concat('(',$regex-series-volume,')|(',$regex-journal-volume,')')}">
                                                                                                                                 <xsl:matching-substring>
                                                                                                                                     <xsl:if test="regex-group(2)">
                                                                                                                                         <dcterms:isPartOf>
@@ -433,12 +433,15 @@
                                                                                                                                             </bib:Series>
                                                                                                                                         </dcterms:isPartOf>
                                                                                                                                     </xsl:if>
-                                                                                                                                    <xsl:if test="regex-group(5)">
-                                                                                                                                        <dc:title><xsl:value-of select="regex-group(5)"/></dc:title>
-                                                                                                                                    </xsl:if>
-                                                                                                                                    <xsl:if test="regex-group(6)">
-                                                                                                                                        <prism:volume><xsl:value-of select="regex-group(6)"/></prism:volume>
-                                                                                                                                    </xsl:if>
+                                                                                                                                    <xsl:choose>
+                                                                                                                                        <xsl:when test="regex-group(5) and regex-group(6)">
+                                                                                                                                            <dc:title><xsl:value-of select="regex-group(5)"/></dc:title>
+                                                                                                                                            <prism:volume><xsl:value-of select="regex-group(6)"/></prism:volume>
+                                                                                                                                        </xsl:when>
+                                                                                                                                        <xsl:when test="regex-group(5)">
+                                                                                                                                            <prism:volume><xsl:value-of select="regex-group(5)"/></prism:volume>
+                                                                                                                                        </xsl:when>
+                                                                                                                                    </xsl:choose>
                                                                                                                                 </xsl:matching-substring>
                                                                                                                                 <xsl:non-matching-substring>
                                                                                                                                     <xsl:analyze-string select="." regex="{$regex-translators}">
