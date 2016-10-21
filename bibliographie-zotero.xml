@@ -601,13 +601,8 @@ historical, text-critical and literary aspects</dc:title>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no pages</dc:subject>
    </bib:BookSection>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Book>
-            <prism:volume>24</prism:volume>
-         </bib:Book>
-      </dcterms:isPartOf>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -619,6 +614,17 @@ historical, text-critical and literary aspects</dc:title>
          </rdf:Seq>
       </bib:authors>
       <dc:title>מקרא, תרגומים, תתרגומיים נוצריים לערבית</dc:title>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Jerusalem/Tel Aviv</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>ha</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <prism:volume>24</prism:volume>
       <dc:subject>ID: 15</dc:subject>
       <dc:subject>MS: St Petersburg, RNL, D 226</dc:subject>
       <dc:subject>MS: Vatican, BAV, Ar. 467</dc:subject>
@@ -626,13 +632,9 @@ historical, text-critical and literary aspects</dc:title>
       <dc:subject>MS: , Bryn Mawr, Bryn Mawr</dc:subject>
       <dc:subject>?MS: College Library, BV 47 (formerly Zurich Or. 94).</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
-      <dc:subject>!no pages</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
-   </bib:BookSection>
+   </bib:Book>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -723,12 +725,12 @@ historical, text-critical and literary aspects</dc:title>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no pages</dc:subject>
    </bib:BookSection>
-   <bib:Article>
-      <z:itemType>journalArticle</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Journal>
+         <bib:Book>
             <dc:title>Theologische Realenzyklopädie</dc:title>
-         </bib:Journal>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -741,6 +743,16 @@ historical, text-critical and literary aspects</dc:title>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Übersetzungen ins Arabische</dc:title>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Berlin/New York</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>de Gruyter</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
       <dc:date>1980</dc:date>
       <bib:pages>209-211</bib:pages>
       <dc:subject>ID: 18</dc:subject>
@@ -748,9 +760,9 @@ historical, text-critical and literary aspects</dc:title>
       <dc:subject>MS: Bryn Mawr College Library, BV 47 (formerly Zurich Or. 94), </dc:subject>
       <dc:subject>?MS: Mingana, Chris. Ar. Add. 137</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no volume</dc:subject>
-   </bib:Article>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -1629,13 +1641,13 @@ liens avec le syriaque</dc:title>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:BookSection>
-   <bib:Article>
-      <z:itemType>journalArticle</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Journal>
+         <bib:Book>
             <dc:title>Dictionnaire
 Encyclopédique de la Bible</dc:title>
-         </bib:Journal>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -1648,15 +1660,25 @@ Encyclopédique de la Bible</dc:title>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Versions de la Bible</dc:title>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Turnhout/Paris</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Brepols</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
       <dcterms:abstract> See below for the following edition [#].</dcterms:abstract>
       <dc:date>1960</dc:date>
       <bib:pages>col. 1908</bib:pages>
       <dc:subject>ID: 42</dc:subject>
       <dc:subject>MS: ,  Violet fragment, Violet fragment</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no volume</dc:subject>
-   </bib:Article>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -2010,6 +2032,16 @@ Testament</dc:title>
       </bib:authors>
       <dc:title>Einleitung in die Schriften des
 Neuen Testaments</dc:title>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Stuttgart/Tübingen</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>J.G. Cotta</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
       <dc:publisher>
          <foaf:Organization>
             <vcard:adr>
@@ -2553,6 +2585,16 @@ Honor of Eugene A. Nida</dc:title>
          </rdf:Seq>
       </bib:editors>
       <dc:title>Early Arabic Versions of the New Testament</dc:title>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>The Hage/Paris</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Mouton</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
       <dc:date>1974</dc:date>
       <bib:pages>157-168</bib:pages>
       <dc:subject>ID: 64</dc:subject>
@@ -2567,7 +2609,6 @@ Honor of Eugene A. Nida</dc:title>
 (formerly Chapter of the Cathedral of Siguenze, Ms. 150).</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2958,6 +2999,16 @@ Hinrichs</foaf:name>
       <dc:title>The Book of Thousand Tongues. Being
 Some Account of the Translation and Publication of All or Part of the Holy Scriptures into more than
 Thousand</dc:title>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>New York/London</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Harper &amp; Brothers Publishers</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
       <dc:publisher>
          <foaf:Organization>
             <vcard:adr>
@@ -3556,13 +3607,13 @@ Maltese</dc:title>
       <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
-   <bib:Article>
-      <z:itemType>journalArticle</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Journal>
+         <bib:Book>
             <dc:title>Bijbels
 Woordenboek</dc:title>
-         </bib:Journal>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -3575,6 +3626,16 @@ Woordenboek</dc:title>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Bijbelvertalingen, arabische</dc:title>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Roermond/ Maaseik</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>J.J. Romen &amp; Zonen</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
       <prism:edition>2nd</prism:edition>
       <dc:date>1954-1957</dc:date>
       <bib:pages>col. 248</bib:pages>
@@ -3585,16 +3646,16 @@ Woordenboek</dc:title>
       <dc:subject>?MS: Jerusalem Cod. 1</dc:subject>
       <dc:subject>MS: Leiden, University Library, Or. 243.</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no volume</dc:subject>
-   </bib:Article>
-   <bib:Article>
-      <z:itemType>journalArticle</z:itemType>
+   </bib:BookSection>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Journal>
+         <bib:Book>
             <dc:title>Bijbels
 Woordenboek</dc:title>
-         </bib:Journal>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -3607,6 +3668,16 @@ Woordenboek</dc:title>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Bijbelvertalingen, arabische</dc:title>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Roermond/ Maaseik</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>J.J. Romen &amp; Zonen</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
       <prism:edition>3rd</prism:edition>
       <dc:date>1966-1969</dc:date>
       <bib:pages>col. 189</bib:pages>
@@ -3617,9 +3688,9 @@ Woordenboek</dc:title>
       <dc:subject>?MS: Jerusalem Cod. 1</dc:subject>
       <dc:subject>MS: Leiden, University Library, Or. 243.</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no volume</dc:subject>
-   </bib:Article>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -3757,12 +3828,12 @@ and the Question of Medieval Byzantine-Orthodox Identity</dc:title>
       <dc:subject>!no pages</dc:subject>
       <dc:subject>!no volume</dc:subject>
    </bib:Article>
-   <bib:Article>
-      <z:itemType>journalArticle</z:itemType>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Journal>
+         <bib:Book>
             <dc:title>Theologische Realenzyklopädie 3</dc:title>
-         </bib:Journal>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -3775,6 +3846,16 @@ and the Question of Medieval Byzantine-Orthodox Identity</dc:title>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Arabisch-Christliche Literatur</dc:title>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Berlin/New York</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>de Gruyter</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
       <dc:date>1978</dc:date>
       <bib:pages>578</bib:pages>
       <dc:subject>ID: 99</dc:subject>
@@ -3784,9 +3865,9 @@ and the Question of Medieval Byzantine-Orthodox Identity</dc:title>
       <dc:subject>MS: Vatican, BAV, Borg. Syr. 49</dc:subject>
       <dc:subject>MS: Rome, Casanatense, Ar.-Carsh. 2 </dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no volume</dc:subject>
-   </bib:Article>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -4496,6 +4577,16 @@ Plantin</foaf:name>
       </bib:authors>
       <dc:title>Christopher Columbus: his life, his work,
 his remains</dc:title>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>New York/London</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>G.P. Putnam</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
       <dcterms:abstract>Gives a full account on the printing and an edition, with English translation, of
 the famous gloss on Ps 18:5 that contains the first mention of Christopher Columbus in print </dcterms:abstract>
       <dc:date>1903</dc:date>
@@ -4506,7 +4597,6 @@ the famous gloss on Ps 18:5 that contains the first mention of Christopher Colum
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no pages</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -5044,6 +5134,16 @@ enterprise.</dcterms:abstract>
       </bib:authors>
       <dc:title>La nouvelle mission de la Compagnie de
 Jésus en Syrie (1831-1895)</dc:title>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Paris/Lyon</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Mame</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
       <dc:date>1899</dc:date>
       <bib:pages>110-113</bib:pages>
       <dc:subject>ID: 132</dc:subject>
@@ -5060,7 +5160,6 @@ Jésus en Syrie (1831-1895)</dc:title>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no pages</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -5869,6 +5968,16 @@ Sira, as based on Ms. Sinai, Ar. 155.</dcterms:abstract>
       </bib:editors>
       <dc:title>The Book of
 Jonah in Four Oriental Versions, namely Chaldee, Syriac, Aethiopic and Arabic, with Glossaries</dc:title>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>London/Leipzig</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Williams and Norgate</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
       <dcterms:abstract>Based on a Ms. In the Bodleian.
 Which one?</dcterms:abstract>
       <dc:date>1857</dc:date>
@@ -5881,7 +5990,6 @@ Which one?</dcterms:abstract>
       <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no pages</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
@@ -9126,6 +9234,16 @@ René-Georges Coquin</dc:title>
          </rdf:Seq>
       </bib:editors>
       <dc:title>Vie et Oevre de Marc ibn-Qunbar</dc:title>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Paris/Louvain</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Peeters</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
       <dc:date>1995</dc:date>
       <bib:pages>123-158</bib:pages>
       <dc:subject>ID: 240</dc:subject>
@@ -9136,7 +9254,6 @@ René-Georges Coquin</dc:title>
       <dc:subject>MS: London, BL, Or. 1330.</dc:subject>
       <dc:subject>Subject: Marqus ibn al-Qunbar</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -17967,6 +18084,16 @@ Christianity</dc:title>
       </bib:editors>
       <dc:title>The Use and Translation of Scripture in the Apologetic
 Writings of Abū Rāʾiṭa al-Takrītī</dc:title>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Leiden/Boston</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Brill</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
       <dc:date>2007</dc:date>
       <bib:pages>257-274</bib:pages>
       <dc:subject>ID: 488</dc:subject>
@@ -17980,7 +18107,6 @@ Writings of Abū Rāʾiṭa al-Takrītī</dc:title>
       <dc:subject>?MS: (Simaika 238)</dc:subject>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -18010,6 +18136,16 @@ Writings of Abū Rāʾiṭa al-Takrītī</dc:title>
          </rdf:Seq>
       </bib:editors>
       <dc:title>taḥrīf</dc:title>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Leiden/Boston</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Brill</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
       <dcterms:abstract> Dimitrie Cantemir</dcterms:abstract>
       <dc:date>2005</dc:date>
       <bib:pages>41-56</bib:pages>
@@ -18025,7 +18161,6 @@ Writings of Abū Rāʾiṭa al-Takrītī</dc:title>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
@@ -18041,6 +18176,16 @@ Writings of Abū Rāʾiṭa al-Takrītī</dc:title>
       </bib:authors>
       <dc:title>Dimitrie Cantemir, Salvation of the Sage and
 Ruin of the Sinful World</dc:title>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Boston/Leiden</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Brill</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
       <dcterms:abstract>
 Contains a section on biblical quotations.</dcterms:abstract>
       <dc:date>2016</dc:date>
@@ -18055,7 +18200,6 @@ Contains a section on biblical quotations.</dcterms:abstract>
       <dc:subject>?MS: (Simaika 238)</dc:subject>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
    </bib:Book>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -18222,6 +18366,17 @@ pure one, the Virgin Mary = Summa Theologiae Arabica)</dcterms:abstract>
       </bib:authors>
       <dc:title>The Church in the Shadow of the
 Mosque. Christians and Muslims in the World of Islam</dc:title>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Princeton/Oxford</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Princeton University
+Press</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
       <dcterms:abstract>On Summa Theologiae Arabica [#]: pp. 52-53; 57-60; 82-83;
 90.</dcterms:abstract>
       <dc:date>2008</dc:date>
@@ -18230,7 +18385,6 @@ Mosque. Christians and Muslims in the World of Islam</dc:title>
       <dc:subject>?MS: C 1/2</dc:subject>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
    </bib:Book>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -18267,6 +18421,16 @@ Mosque. Christians and Muslims in the World of Islam</dc:title>
       </bib:editors>
       <dc:title>Al-Kitāb al-jāmiʿ wujūh al-īman bi-tathlīth waḥdaniyyat
 Allāh wa-taʾannus Allāh al-kalima min al-ṭāhira al-ʿadhrāʾ Maryam</dc:title>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Leiden/Boston</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Brill</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
       <dcterms:abstract> On [#], with comprehensive bibliography.</dcterms:abstract>
       <dc:date>2009</dc:date>
       <bib:pages>793-798</bib:pages>
@@ -18275,7 +18439,6 @@ Allāh wa-taʾannus Allāh al-kalima min al-ṭāhira al-ʿadhrāʾ Maryam</dc:t
       <dc:subject>?MS: C 1/2</dc:subject>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
@@ -18364,6 +18527,17 @@ Sinai, with a Treatise on the Triune Nature of God, and Translation form the Sam
       </bib:authors>
       <dc:title>The Bible in Arabic. The Scripture
 of the “People of the Book” in the Language of Islam</dc:title>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Princeton/Oxford</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Princeton University
+Press</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
       <dcterms:abstract> PP. ###### on [#].</dcterms:abstract>
       <dc:date>2013</dc:date>
       <dc:subject>ID: 498</dc:subject>
@@ -18371,7 +18545,6 @@ of the “People of the Book” in the Language of Islam</dc:title>
       <dc:subject>?MS: C 1/2</dc:subject>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
@@ -18387,6 +18560,17 @@ of the “People of the Book” in the Language of Islam</dc:title>
       </bib:authors>
       <dc:title>The Church in the Shadow of the
 Mosque. Christians and Muslims in the World of Islam</dc:title>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Princeton/Oxford</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Princeton University
+Press</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
       <dcterms:abstract> On Fī Tathlīth Allāh al-Wāḥid [#]: pp. 53-57; 89-90;
 167-68.</dcterms:abstract>
       <dc:date>2008</dc:date>
@@ -18395,7 +18579,6 @@ Mosque. Christians and Muslims in the World of Islam</dc:title>
       <dc:subject>?MS: C 1/2</dc:subject>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
    </bib:Book>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -18540,6 +18723,16 @@ Abbasid Period (750-1258)</dc:title>
          </rdf:Seq>
       </bib:editors>
       <dc:title>Fī tathlīth Allāh al-wāḥid</dc:title>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Leiden/Boston</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Brill</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
       <dc:date>2009</dc:date>
       <bib:pages>330-333</bib:pages>
       <dc:subject>ID: 503</dc:subject>
@@ -18548,7 +18741,6 @@ Abbasid Period (750-1258)</dc:title>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -18579,6 +18771,16 @@ Abbasid Period (750-1258)</dc:title>
       </bib:editors>
       <dc:title>Apologetics, catechesis, and the question of audience in 'On
 the triune nature of God' and three treatises of Theodore Abū Qurrah</dc:title>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Beirut/Würzburg</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Ergon</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
       <dcterms:abstract>Testimonia
 </dcterms:abstract>
       <dc:date>2007</dc:date>
@@ -18588,7 +18790,6 @@ the triune nature of God' and three treatises of Theodore Abū Qurrah</dc:title>
       <dc:subject>?MS: C 1/2</dc:subject>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -18620,6 +18821,16 @@ Christianity</dc:title>
       </bib:editors>
       <dc:title>The Development of Testimony Collections in Early Christian
 Apologetics with Islam</dc:title>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Leiden/Boston</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Brill</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
       <dc:date>2007</dc:date>
       <bib:pages>151-174</bib:pages>
       <dc:subject>ID: 505</dc:subject>
@@ -18627,7 +18838,6 @@ Apologetics with Islam</dc:title>
       <dc:subject>?MS: C 1/2</dc:subject>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -18728,6 +18938,17 @@ Fragmentary quotes of #######.</dcterms:abstract>
       </bib:authors>
       <dc:title>The Bible in Arabic. The Scripture
 of the “People of the Book” in the Language of Islam</dc:title>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Princeton/Oxford</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Princeton University
+Press</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
       <dcterms:abstract> PP. ####### on testimonia. </dcterms:abstract>
       <dc:date>2013</dc:date>
       <dc:subject>ID: 508</dc:subject>
@@ -18735,7 +18956,6 @@ of the “People of the Book” in the Language of Islam</dc:title>
       <dc:subject>?MS: C 1/2</dc:subject>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
    </bib:Book>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -18767,6 +18987,16 @@ Christianity</dc:title>
       </bib:editors>
       <dc:title>The Use of Biblical Quotations in Christian Apocalyptic
 Writings of the Umayyad Period</dc:title>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Leiden/Boston</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Brill</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
       <dcterms:abstract>Theodore Abū Qurrah
 </dcterms:abstract>
       <dc:date>2007</dc:date>
@@ -18776,7 +19006,6 @@ Writings of the Umayyad Period</dc:title>
       <dc:subject>?MS: C 1/2</dc:subject>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -21746,12 +21975,21 @@ the Bible to Interpret the Qurʾān</dc:title>
       </bib:authors>
       <dc:title>In defense of the Bible: a critical edition and
 an introduction to al-Biqā‘ī’s Bible treatise</dc:title>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Leiden/Boston</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Brill</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
       <dc:date>2008</dc:date>
       <dc:subject>ID: 598</dc:subject>
       <dc:subject>MS: Bryn Mawr College Library,  BV 47, BV 47</dc:subject>
       <dc:subject>Subject: al-Biqāʿī</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
    </bib:Book>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>

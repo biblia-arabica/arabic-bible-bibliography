@@ -227,15 +227,6 @@
                     </xsl:for-each>
                 </xsl:variable>
                 
-                
-<!--                    Tried to use the following to process abstracts, but haven't figured out how to properly capture them yet. -->
-<!--                <xsl:for-each select="tei:p[starts-with(.,'[#]') or preceding-sibling::*[starts-with(.,'[#]')]]">-->
-                    
-                    <!--<xsl:variable name="entry-with-titles">
-                        <entry>
-                                <xsl:apply-templates/>
-                        </entry>
-                    </xsl:variable>-->
                     <xsl:variable name="entry">
                         <xsl:for-each select="$entry-with-titles/entry[matches(.,'^\s*\[#\]')]">
                             <xsl:variable name="mss" select="following-sibling::*[matches(.,'^\s*[Mm][Ss][Ss]')][1]"/>
@@ -243,7 +234,7 @@
                             <xsl:variable name="subject" select="preceding-sibling::*[tei:anchor][1]"/><xsl:variable name="regex-volume" select="'\s*[Vv]ol\.\s*([0-9A-Za-z]+(\-[0-9A-Za-z]+)?),*'"/>
                             <!-- !!! This doesn't catch the place if there is no publisher name. 
                                             Also fails if there is a slash, e.g., (Leiden/Boston: Brill, 2008) -->
-                            <xsl:variable name="regex-publisher" select="'[,\(]\s*([\w\s\.&amp;;]+):\s*([\w\s\.&amp;;]+)'"/>
+                            <xsl:variable name="regex-publisher" select="'[,\(]\s*([\w\s\.&amp;;/]+):\s*([\w\s\.&amp;;]+)'"/>
                             <xsl:variable name="regex-date" select="'\s*((14|15|16|17|18|19|20)\d{2}(\-\d+)?)(,|\)|\.\s*$)'"/>
                             <xsl:variable name="regex-pages" select="'\s*p?p\.[\s\n\t]*((([0-9A-Za-z]+(\-[0-9A-Za-z]+)?),?\s*)+)\.*|\s*(col\.[\s\n\t]*(([0-9A-Za-z]+(\-[0-9A-Za-z]+)?),?\s*)+)\.*'"/>
                             <xsl:variable name="regex-edition" select="',\s*([A-Za-z0-9]+\.?)\s*ed\.,?'"/>
