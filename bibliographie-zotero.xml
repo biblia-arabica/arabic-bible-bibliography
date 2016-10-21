@@ -852,6 +852,7 @@ of the Bible</dc:title>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Arabic, Other Versions</dc:title>
+      <bib:pages>col. 5012</bib:pages>
       <dc:subject>ID: 21</dc:subject>
       <dc:subject>MS: Vatican, BAV, Ar. 13</dc:subject>
       <dc:subject>MS: Vatican, BAV,  Borg. Ar. 95</dc:subject>
@@ -861,7 +862,6 @@ of the Bible</dc:title>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:Article>
@@ -1037,13 +1037,13 @@ exhibiting a systematic view of that science</dc:title>
       <dc:title>Bible, Translations, Modern Versions,
 Arabic</dc:title>
       <prism:edition>1st</prism:edition>
+      <bib:pages>col. 887</bib:pages>
       <dc:subject>ID: 26</dc:subject>
       <dc:subject>MS: Munich, Staatsbibliothek, Ar. 238</dc:subject>
       <dc:subject>MS: Munich, Staatsbibliothek, Ar. 234.</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
    </bib:Article>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -1622,12 +1622,12 @@ liens avec le syriaque</dc:title>
       </dc:publisher>
       <prism:edition>4th</prism:edition>
       <dc:date>1998</dc:date>
+      <bib:pages>col. 1498</bib:pages>
       <dc:subject>ID: 41</dc:subject>
       <dc:subject>MS: ,  Violet fragment, Violet fragment</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
    </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1650,11 +1650,11 @@ Encyclopédique de la Bible</dc:title>
       <dc:title>Versions de la Bible</dc:title>
       <dcterms:abstract> See below for the following edition [#].</dcterms:abstract>
       <dc:date>1960</dc:date>
+      <bib:pages>col. 1908</bib:pages>
       <dc:subject>ID: 42</dc:subject>
       <dc:subject>MS: ,  Violet fragment, Violet fragment</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no volume</dc:subject>
    </bib:Article>
    <bib:BookSection>
@@ -3577,6 +3577,7 @@ Woordenboek</dc:title>
       <dc:title>Bijbelvertalingen, arabische</dc:title>
       <prism:edition>2nd</prism:edition>
       <dc:date>1954-1957</dc:date>
+      <bib:pages>col. 248</bib:pages>
       <dc:subject>ID: 93</dc:subject>
       <dc:subject>MS: Venice,  St. Mark 11 (Venet. 11) and 27 (Venet. 539), St. Mark 11 (Venet. 11)</dc:subject>
       <dc:subject>MS: Venice,  St. Mark 11 (Venet. 11) and 27 (Venet. 539), 27 (Venet. 539)</dc:subject>
@@ -3585,7 +3586,6 @@ Woordenboek</dc:title>
       <dc:subject>MS: Leiden, University Library, Or. 243.</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no volume</dc:subject>
    </bib:Article>
    <bib:Article>
@@ -3609,6 +3609,7 @@ Woordenboek</dc:title>
       <dc:title>Bijbelvertalingen, arabische</dc:title>
       <prism:edition>3rd</prism:edition>
       <dc:date>1966-1969</dc:date>
+      <bib:pages>col. 189</bib:pages>
       <dc:subject>ID: 94</dc:subject>
       <dc:subject>MS: Venice,  St. Mark 11 (Venet. 11) and 27 (Venet. 539), St. Mark 11 (Venet. 11)</dc:subject>
       <dc:subject>MS: Venice,  St. Mark 11 (Venet. 11) and 27 (Venet. 539), 27 (Venet. 539)</dc:subject>
@@ -3617,7 +3618,6 @@ Woordenboek</dc:title>
       <dc:subject>MS: Leiden, University Library, Or. 243.</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no volume</dc:subject>
    </bib:Article>
    <bib:BookSection>
@@ -8369,14 +8369,14 @@ editarum, cum observationibus</dc:title>
             <foaf:name>apud Biblio</foaf:name>
          </foaf:Organization>
       </dc:publisher>
-      <dc:date>1789</dc:date>
-      <bib:pages>Academicum,</bib:pages>
+      <bib:pages>Academicum, 1789</bib:pages>
       <dc:subject>ID: 222</dc:subject>
       <dc:subject>MS: Paris, BNF Ar. 1, Florence</dc:subject>
       <dc:subject>MS: Paris, BNF Ar. 1,  BML Or. 112 (formerly</dc:subject>
       <dc:subject>?MS: 21).</dc:subject>
       <dc:subject>Subject: Pentateuch</dc:subject>
       <dc:subject>!unknown type</dc:subject>
+      <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no pages</dc:subject>
    </bib:BookSection>
