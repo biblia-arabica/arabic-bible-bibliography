@@ -3874,7 +3874,7 @@ il-Malti</dc:title>
          <bib:Journal>
             <dc:title>The Sundial</dc:title>
             <dc:title>in</dc:title>
-            <prism:volume>10</prism:volume>
+            <prism:volume>10-12</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
@@ -3898,13 +3898,8 @@ Maltese</dc:title>
       <dc:subject>?MS: Jerusalem Cod. 1</dc:subject>
       <dc:subject>MS: Leiden, University Library, Or. 243.</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_91-1"/>
    </bib:Article>
-   <bib:Memo rdf:about="#note_91-1">
-      <rdf:value>-12 ( ,</rdf:value>
-   </bib:Memo>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -5218,7 +5213,7 @@ arabischen Version in den Polylotten geflossen ist</dc:title>
          <bib:Journal>
             <dc:title>Al-Abhath</dc:title>
             <dc:title>in</dc:title>
-            <prism:volume>48</prism:volume>
+            <prism:volume>48-49</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
@@ -5247,14 +5242,8 @@ Lettres of the 19th century: The case of al-Shidyaq</dc:title>
       <dc:subject>MS: St Petersburg, RNL, Ebr. II</dc:subject>
       <dc:subject>?MS: C 1-2.</dc:subject>
       <dc:subject>Subject: London Polyglot</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_122-1"/>
    </bib:Article>
-   <bib:Memo rdf:about="#note_122-1">
-      <rdf:value>-49
-( ,</rdf:value>
-   </bib:Memo>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -18624,14 +18613,9 @@ Nils Simonsson (eds.), S
       <dc:subject>MS: Sinai,  Ar. 151, Ar. 151</dc:subject>
       <dc:subject>MS: , Escorial Cod. Ar. 1625., Escorial Cod. Ar. 1625.</dc:subject>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no volume</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_460-1"/>
    </bib:Article>
-   <bib:Memo rdf:about="#note_460-1">
-      <rdf:value>-26 ( ,</rdf:value>
-   </bib:Memo>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -20750,7 +20734,7 @@ On the Veneration of the Holy Icons</dc:title>
             <dc:title>Journal of Eastern
 Christian Studies</dc:title>
             <dc:title>in</dc:title>
-            <prism:volume>65.1</prism:volume>
+            <prism:volume>65.1-2</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
@@ -20771,13 +20755,8 @@ Ein Beispiel der Intertextualität bei Theodor Abū Qurrah</dc:title>
       <dc:subject>MS: St. Petersburg, RNL, Yevr. II</dc:subject>
       <dc:subject>?MS: C 1/2</dc:subject>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_511-1"/>
    </bib:Article>
-   <bib:Memo rdf:about="#note_511-1">
-      <rdf:value>-2 ( ,</rdf:value>
-   </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
