@@ -232,10 +232,16 @@
         <xsl:param name="input-node"/>
         <entry>
             <xsl:copy-of select="$input-node/node()[not(. instance of text())]"/>
-            <xsl:for-each select="$input-node/node()[. instance of text()]">
-                <dc:description><xsl:copy-of select="."/></dc:description>
-            </xsl:for-each>
-            <xsl:if test="$input-node/node()[. instance of text()]">
+            <xsl:variable name="uncaptured-data">
+                <xsl:for-each select="$input-node/node()[. instance of text()]">
+                    <xsl:variable name="sanitized-text" select="replace(replace(.,'^[\s\.,;“-‟&quot;]+',''),'[\s\.,;“-‟&quot;]+$','')"/>
+                    <xsl:if test="string-length($sanitized-text)">
+                        <dc:description><xsl:copy-of select="."/></dc:description>
+                    </xsl:if>
+                </xsl:for-each>
+            </xsl:variable>
+            <xsl:if test="$uncaptured-data">
+                <xsl:copy-of select="$uncaptured-data"/>
                 <dc:subject>!uncaptured data</dc:subject>
             </xsl:if>
         </entry>

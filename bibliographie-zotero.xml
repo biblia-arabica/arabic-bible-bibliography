@@ -5523,6 +5523,7 @@ and Introduction,  .</dc:title>
       <dc:subject>MS: Beirut, Bibliothèque Orientale, Ms. 419</dc:subject>
       <dc:subject>MS: Paris, BNF, Ar. 51.</dc:subject>
       <dc:subject>Subject: Editions, Chrestomathies</dc:subject>
+      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Thesis>
    <bib:Book>
@@ -7525,7 +7526,6 @@ B.N.</dc:title>
       <dc:subject>?MS: 327 and Leipzig, Universitätsbibliothek, Cod. Tisch. 31 and 37.</dc:subject>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
       <dc:subject>!uncaptured data</dc:subject>
-      <dc:description>  ,  .</dc:description>
       <dc:subject>!no abstract</dc:subject>
    </bib:Thesis>
    <bib:Book>
@@ -8512,7 +8512,6 @@ in the Church of Egypt</dc:title>
       <dc:subject>?MS: 21).</dc:subject>
       <dc:subject>Subject: Pentateuch</dc:subject>
       <dc:subject>!uncaptured data</dc:subject>
-      <dc:description>  .</dc:description>
       <dc:subject>!no abstract</dc:subject>
    </bib:Thesis>
    <bib:BookSection>
@@ -8600,7 +8599,6 @@ study of Ms. Sinai, Ar. 2. </dcterms:abstract>
       <dc:subject>MS: ,  ,  </dc:subject>
       <dc:subject>Subject: Pentateuch</dc:subject>
       <dc:subject>!uncaptured data</dc:subject>
-      <dc:description> ,  .</dc:description>
       <dc:subject>!no abstract</dc:subject>
    </bib:Thesis>
    <bib:BookSection>
@@ -16054,6 +16052,7 @@ Jacob,  . 6.52</dc:title>
       <dc:subject>MS: Sinai, Ar. 436, Ar. 535</dc:subject>
       <dc:subject>MS: Sinai, Ar. 436, Ar. 556.</dc:subject>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
+      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Thesis>
    <bib:Article>
@@ -18024,7 +18023,6 @@ Jacobi im Cod. Sin. Ar. 436</dc:title>
       <dc:subject>?MS: (Simaika 238)</dc:subject>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!uncaptured data</dc:subject>
-      <dc:description>  ,  .</dc:description>
       <dc:subject>!no abstract</dc:subject>
    </bib:Thesis>
    <bib:Article>
