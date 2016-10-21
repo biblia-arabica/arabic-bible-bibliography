@@ -188,6 +188,207 @@
             </xsl:for-each> 
         </entry>
     </xsl:function>
+    <xsl:function name="syriaca:add-pages">
+        <xsl:param name="input-node"/>
+        <xsl:param name="regex-pages"/>
+        <entry>
+            <xsl:copy-of select="$input-node/node()[not(. instance of text())]"/>
+            <xsl:for-each select="$input-node/node()[. instance of text()]">
+                <xsl:analyze-string 
+                    select="." 
+                    regex="{$regex-pages}"> 
+                    <xsl:matching-substring>
+                        <xsl:if test="regex-group(1)">
+                            <bib:pages><xsl:value-of select="regex-group(1)"/></bib:pages>
+                        </xsl:if>
+                        <xsl:if test="regex-group(5)">
+                            <bib:pages><xsl:value-of select="regex-group(5)"/></bib:pages>
+                        </xsl:if>
+                    </xsl:matching-substring>
+                    <xsl:non-matching-substring>
+                        <xsl:copy-of select="."/>
+                    </xsl:non-matching-substring>
+                </xsl:analyze-string>
+            </xsl:for-each> 
+        </entry>
+    </xsl:function>
+    <xsl:function name="syriaca:add-date">
+        <xsl:param name="input-node"/>
+        <xsl:param name="regex-date"/>
+        <entry>
+            <xsl:copy-of select="$input-node/node()[not(. instance of text())]"/>
+            <xsl:for-each select="$input-node/node()[. instance of text()]">
+                <xsl:analyze-string 
+                    select="." 
+                    regex="{$regex-date}">
+                    <xsl:matching-substring>
+                        <xsl:if test="regex-group(1)">
+                            <dc:date><xsl:value-of select="regex-group(1)"/></dc:date>
+                        </xsl:if>
+                    </xsl:matching-substring>
+                    <xsl:non-matching-substring>
+                        <xsl:copy-of select="."/>
+                    </xsl:non-matching-substring>
+                </xsl:analyze-string>
+            </xsl:for-each> 
+        </entry>
+    </xsl:function>
+    <xsl:function name="syriaca:add-journal-volume">
+        <xsl:param name="input-node"/>
+        <xsl:param name="regex-journal-volume"/>
+        <entry>
+            <xsl:copy-of select="$input-node/node()[not(. instance of text())]"/>
+            <xsl:for-each select="$input-node/node()[. instance of text()]">
+                <xsl:analyze-string 
+                    select="." 
+                    regex="{$regex-journal-volume}">
+                    <xsl:matching-substring>
+                        <xsl:choose>
+                            <xsl:when test="regex-group(1) and regex-group(2)">
+                                <dc:title><xsl:value-of select="regex-group(1)"/></dc:title>
+                                <prism:volume><xsl:value-of select="regex-group(2)"/></prism:volume>
+                            </xsl:when>
+                            <xsl:when test="regex-group(1)">
+                                <prism:volume><xsl:value-of select="regex-group(1)"/></prism:volume>
+                            </xsl:when>
+                        </xsl:choose>
+                    </xsl:matching-substring>
+                    <xsl:non-matching-substring>
+                        <xsl:copy-of select="."/>
+                    </xsl:non-matching-substring>
+                </xsl:analyze-string>
+            </xsl:for-each> 
+        </entry>
+    </xsl:function>
+    <xsl:function name="syriaca:add-volume">
+        <xsl:param name="input-node"/>
+        <xsl:param name="regex-volume"/>
+        <entry>
+            <xsl:copy-of select="$input-node/node()[not(. instance of text())]"/>
+            <xsl:for-each select="$input-node/node()[. instance of text()]">
+                <xsl:analyze-string 
+                    select="." 
+                    regex="{$regex-volume}">
+                    <xsl:matching-substring>
+                        <xsl:if test="regex-group(1)">
+                            <prism:volume><xsl:value-of select="regex-group(1)"/></prism:volume>
+                        </xsl:if>
+                    </xsl:matching-substring>
+                    <xsl:non-matching-substring>
+                        <xsl:copy-of select="."/>
+                    </xsl:non-matching-substring>
+                </xsl:analyze-string>
+            </xsl:for-each> 
+        </entry>
+    </xsl:function>
+    <xsl:function name="syriaca:add-publisher">
+        <xsl:param name="input-node"/>
+        <xsl:param name="regex-publisher"/>
+        <entry>
+            <xsl:copy-of select="$input-node/node()[not(. instance of text())]"/>
+            <xsl:for-each select="$input-node/node()[. instance of text()]">
+                <xsl:analyze-string 
+                    select="." 
+                    regex="{$regex-publisher}">
+                    <xsl:matching-substring>
+                        <xsl:if test="regex-group(1)">
+                            <dc:publisher>
+                                <foaf:Organization>
+                                    <vcard:adr>
+                                        <vcard:Address>
+                                            <vcard:locality><xsl:value-of select="regex-group(1)"/></vcard:locality>
+                                        </vcard:Address>
+                                    </vcard:adr>
+                                    <foaf:name><xsl:value-of select="regex-group(2)"/></foaf:name>
+                                </foaf:Organization>
+                            </dc:publisher>
+                        </xsl:if>
+                    </xsl:matching-substring>
+                    <xsl:non-matching-substring>
+                        <xsl:copy-of select="."/>
+                    </xsl:non-matching-substring>
+                </xsl:analyze-string>
+            </xsl:for-each> 
+        </entry>
+    </xsl:function>
+    <xsl:function name="syriaca:add-edition">
+        <xsl:param name="input-node"/>
+        <xsl:param name="regex-edition"/>
+        <entry>
+            <xsl:copy-of select="$input-node/node()[not(. instance of text())]"/>
+            <xsl:for-each select="$input-node/node()[. instance of text()]">
+                <xsl:analyze-string 
+                    select="." 
+                    regex="{$regex-edition}">
+                    <xsl:matching-substring>
+                        <xsl:if test="regex-group(1)">
+                            <prism:edition><xsl:value-of select="regex-group(1)"/></prism:edition>
+                        </xsl:if>
+                    </xsl:matching-substring>
+                    <xsl:non-matching-substring>
+                        <xsl:copy-of select="."/>
+                    </xsl:non-matching-substring>
+                </xsl:analyze-string>
+            </xsl:for-each> 
+        </entry>
+    </xsl:function>
+    <xsl:function name="syriaca:add-editors">
+        <xsl:param name="input-node"/>
+        <xsl:param name="regex-editors"/>
+        <entry>
+            <xsl:copy-of select="$input-node/node()[not(. instance of text())]"/>
+            <xsl:for-each select="$input-node/node()[. instance of text()]">
+                <xsl:analyze-string 
+                    select="." 
+                    regex="{$regex-editors}">
+                    <xsl:matching-substring>
+                        <xsl:if test="regex-group(2)">
+                            <bib:editors>
+                                <rdf:Seq>
+                                    <xsl:for-each select="tokenize(regex-group(2),',*\s+([au]nd|&amp;)\s+')">
+                                        <rdf:li>
+                                            <foaf:Person><xsl:copy-of select="syriaca:split-names(.)"/></foaf:Person>
+                                        </rdf:li>
+                                    </xsl:for-each>
+                                </rdf:Seq>
+                            </bib:editors>
+                        </xsl:if>
+                    </xsl:matching-substring>
+                    <xsl:non-matching-substring>
+                        <xsl:copy-of select="."/>
+                    </xsl:non-matching-substring>
+                </xsl:analyze-string>
+            </xsl:for-each> 
+        </entry>
+    </xsl:function>
+    <xsl:function name="syriaca:add-series-volume">
+        <xsl:param name="input-node"/>
+        <xsl:param name="regex-series-volume"/>
+        <entry>
+            <xsl:copy-of select="$input-node/node()[not(. instance of text())]"/>
+            <xsl:for-each select="$input-node/node()[. instance of text()]">
+                <xsl:analyze-string 
+                    select="." 
+                    regex="{$regex-series-volume}">
+                    <xsl:matching-substring>
+                        <xsl:if test="regex-group(1)">
+                            <dcterms:isPartOf>
+                                <bib:Series>
+                                    <dc:title><xsl:value-of select="regex-group(1)"/></dc:title>
+                                    <dc:identifier><xsl:value-of select="regex-group(2)"/></dc:identifier>
+                                </bib:Series>
+                            </dcterms:isPartOf>
+                        </xsl:if>
+                    </xsl:matching-substring>
+                    <xsl:non-matching-substring>
+                        <xsl:copy-of select="."/>
+                    </xsl:non-matching-substring>
+                </xsl:analyze-string>
+            </xsl:for-each> 
+        </entry>
+    </xsl:function>
+    
+    
     <xsl:function name="syriaca:add-mss">
         <xsl:param name="input-node"/>
         <xsl:param name="mss"/>
@@ -277,23 +478,100 @@
                             <xsl:variable name="regex-pages" select="'\s*p?p\.[\s\n\t]*((([0-9A-Za-z]+(\-[0-9A-Za-z]+)?),?\s*)+)\.*|\s*(col(s|l)?\.[\s\n\t]*(([0-9A-Za-z]+(\-[0-9A-Za-z]+)?),?\s*)+)\.*'"/>
                             <xsl:variable name="regex-edition" select="',\s*([A-Za-z0-9]+\.?)\s*ed\.,?'"/>
                             <xsl:variable name="regex-editors" select="'(\[#\]|in)\s+([\w\s,À-ʸ\-\.]+?)\(eds?\.?\),?\s*'"/>
-                            <xsl:variable name="regex-journal-volume" select="'(^[\s\S]*?|^)\s*(\d+\.?\d*)\s*\(*$'"/>
+                            <xsl:variable name="regex-journal-volume" select="'(^[\s\S]*?|^)\s*(\d+\.?\d*)\s*\(*'"/>
                             <xsl:variable name="regex-series-volume" select="',\s*([\s\S]*?)\s*(\d+\.?\d*)\s*'"/>
                             <xsl:variable name="regex-authors" select="'\[#\]\s*([\w\s,À-ʸ\-\.]+)'"/>
                             <xsl:variable name="regex-article-title" select="'[“-‟&quot;]+([\s\S]*)[“-‟&quot;]+'"/>
                             <xsl:variable name="regex-translators" select="'([Ee]d\.\s+and\s+)?[Tt]rans?l?\.?\s+(and\s+[Ee]d.\s*)?(\s+by\s+)?([\w\s,À-ʸ\-\.]+?)'"/>
                             <xsl:variable name="regex-thesis" select="'([Uu]npubl(\.|ished)\s*)?([\w\.]+)[\s\-]*[Tt]hesis,\s*(.+?),(([\w\s\.,]+),)?\s*((14|15|16|17|18|19|20)\d{2}(\-\d+)?)'"/>
                             <xsl:choose>
+                                <!-- Thesis -->
                                 <xsl:when test="matches(.,$regex-thesis)">
-                                        <xsl:variable name="thesis" select="syriaca:add-thesis(.,$regex-thesis)"/>
-                                        <xsl:variable name="authors" select="syriaca:add-authors($thesis,'\[#\]\s*([\w\sÀ-ʸ\-\.]+),')"/>
-                                        <xsl:variable name="title" select="syriaca:add-title($authors,',*\s*([A-Za-z]+[\s\S]*.*)+\s*')"/>
-                                        <xsl:variable name="mss" select="syriaca:add-mss($title,$mss)"/>
-                                        <xsl:variable name="abstract-subjects" select="syriaca:add-abstract-and-subjects($mss,$abstract,$subject)"/>
-                                        <xsl:variable name="uncaptured-data" select="syriaca:add-uncaptured-data($abstract-subjects)"/>
-                                        <xsl:copy-of select="$uncaptured-data"/>
+                                    <xsl:variable name="thesis" select="syriaca:add-thesis(.,$regex-thesis)"/>
+                                    <xsl:variable name="authors" select="syriaca:add-authors($thesis,'\[#\]\s*([\w\sÀ-ʸ\-\.]+),')"/>
+                                    <xsl:variable name="title" select="syriaca:add-title($authors,',*\s*([A-Za-z]+[\s\S]*.*)+\s*')"/>
+                                    <xsl:variable name="mss" select="syriaca:add-mss($title,$mss)"/>
+                                    <xsl:variable name="abstract-subjects" select="syriaca:add-abstract-and-subjects($mss,$abstract,$subject)"/>
+                                    <xsl:variable name="uncaptured-data" select="syriaca:add-uncaptured-data($abstract-subjects)"/>
+                                    <xsl:copy-of select="$uncaptured-data"/>
                                 </xsl:when>
+                                <!-- Journal Article -->
+                                <xsl:when test="dc:title and matches(.,$regex-article-title) and matches(.,concat($regex-journal-volume,$regex-date))">
+                                    <xsl:variable name="journal-article">
+                                        <z:itemType>journalArticle</z:itemType>
+                                        <xsl:copy-of select="node()"/>
+                                    </xsl:variable>
+                                    <xsl:variable name="pages" select="syriaca:add-pages($journal-article,$regex-pages)"/>
+                                    <xsl:variable name="date" select="syriaca:add-date($pages,$regex-date)"/>
+                                    <xsl:variable name="title" select="syriaca:add-title($date,$regex-article-title)"/>
+                                    <xsl:variable name="authors" select="syriaca:add-authors($title,$regex-authors)"/>
+                                    <xsl:variable name="volume" select="syriaca:add-journal-volume($authors,$regex-journal-volume)"/>
+                                    <xsl:variable name="mss" select="syriaca:add-mss($volume,$mss)"/>
+                                    <xsl:variable name="abstract-subjects" select="syriaca:add-abstract-and-subjects($mss,$abstract,$subject)"/>
+                                    <xsl:variable name="uncaptured-data" select="syriaca:add-uncaptured-data($abstract-subjects)"/>
+                                    <xsl:copy-of select="$uncaptured-data"/>
+                                </xsl:when>
+                                <!-- Book Section -->
+                                <xsl:when test="dc:title and matches(.,$regex-article-title)">
+                                    <xsl:variable name="book-section">
+                                        <z:itemType>bookSection</z:itemType>
+                                        <xsl:copy-of select="node()"/>                                        
+                                    </xsl:variable>
+                                    <xsl:variable name="pages" select="syriaca:add-pages($book-section,$regex-pages)"/>
+                                    <xsl:variable name="date" select="syriaca:add-date($pages,$regex-date)"/>
+                                    <xsl:variable name="volume" select="syriaca:add-volume($date,$regex-volume)"/>
+                                    <xsl:variable name="publisher" select="syriaca:add-publisher($volume,$regex-publisher)"/>
+                                    <xsl:variable name="edition" select="syriaca:add-edition($publisher,$regex-edition)"/>
+                                    <xsl:variable name="editors" select="syriaca:add-editors($edition,$regex-editors)"/>
+                                    <xsl:variable name="title" select="syriaca:add-title($editors,$regex-article-title)"/>
+                                    <xsl:variable name="authors" select="syriaca:add-authors($title,$regex-authors)"/>
+                                    <xsl:variable name="series-volume" select="syriaca:add-series-volume($authors,$regex-series-volume)"/>
+                                    <xsl:variable name="mss" select="syriaca:add-mss($series-volume,$mss)"/>
+                                    <xsl:variable name="abstract-subjects" select="syriaca:add-abstract-and-subjects($mss,$abstract,$subject)"/>
+                                    <xsl:variable name="uncaptured-data" select="syriaca:add-uncaptured-data($abstract-subjects)"/>
+                                    <xsl:copy-of select="$uncaptured-data"/>
+                                </xsl:when>
+                                <!-- Book -->
+                                <xsl:when test="dc:title and not(matches(.,$regex-article-title))">
+                                    <xsl:variable name="book">
+                                        <z:itemType>book</z:itemType>
+                                        <xsl:copy-of select="node()"/>                                        
+                                    </xsl:variable>
+                                    <xsl:variable name="date" select="syriaca:add-date($book,$regex-date)"/>
+                                    <xsl:variable name="volume" select="syriaca:add-volume($date,$regex-volume)"/>
+                                    <xsl:variable name="publisher" select="syriaca:add-publisher($volume,$regex-publisher)"/>
+                                    <xsl:variable name="edition" select="syriaca:add-edition($publisher,$regex-edition)"/>
+                                    <xsl:variable name="editors" select="syriaca:add-editors($edition,$regex-editors)"/>
+                                    <xsl:variable name="title" select="syriaca:add-title($editors,$regex-article-title)"/>
+                                    <xsl:variable name="authors" select="syriaca:add-authors($title,$regex-authors)"/>
+                                    <xsl:variable name="series-volume" select="syriaca:add-series-volume($authors,$regex-series-volume)"/>
+                                    <xsl:variable name="mss" select="syriaca:add-mss($series-volume,$mss)"/>
+                                    <xsl:variable name="abstract-subjects" select="syriaca:add-abstract-and-subjects($mss,$abstract,$subject)"/>
+                                    <xsl:variable name="uncaptured-data" select="syriaca:add-uncaptured-data($abstract-subjects)"/>
+                                    <xsl:copy-of select="$uncaptured-data"/>
+                                </xsl:when>
+                                <!-- Unknown type -->
                                 <xsl:otherwise>
+                                    <xsl:variable name="book-section">
+                                        <z:itemType>bookSection</z:itemType>
+                                        <dc:subject>!unknown type</dc:subject>
+                                        <xsl:copy-of select="node()"/>
+                                    </xsl:variable>
+                                    <xsl:variable name="pages" select="syriaca:add-pages($book-section,$regex-pages)"/>
+                                    <xsl:variable name="date" select="syriaca:add-date($pages,$regex-date)"/>
+                                    <xsl:variable name="volume" select="syriaca:add-volume($date,$regex-volume)"/>
+                                    <xsl:variable name="publisher" select="syriaca:add-publisher($volume,$regex-publisher)"/>
+                                    <xsl:variable name="edition" select="syriaca:add-edition($publisher,$regex-edition)"/>
+                                    <xsl:variable name="editors" select="syriaca:add-editors($edition,$regex-editors)"/>
+                                    <xsl:variable name="title" select="syriaca:add-title($editors,$regex-article-title)"/>
+                                    <xsl:variable name="authors" select="syriaca:add-authors($title,$regex-authors)"/>
+                                    <xsl:variable name="series-volume" select="syriaca:add-series-volume($authors,$regex-series-volume)"/>
+                                    <xsl:variable name="mss" select="syriaca:add-mss($series-volume,$mss)"/>
+                                    <xsl:variable name="abstract-subjects" select="syriaca:add-abstract-and-subjects($mss,$abstract,$subject)"/>
+                                    <xsl:variable name="uncaptured-data" select="syriaca:add-uncaptured-data($abstract-subjects)"/>
+                                    <xsl:copy-of select="$uncaptured-data"/>
+                                </xsl:otherwise>
+                                <!--<xsl:otherwise>
                                     <entry>
                                         <xsl:for-each select="node()">
                                             <xsl:choose>
@@ -512,7 +790,7 @@
                                             <dc:subject>Subject: <xsl:value-of select="$subject"/></dc:subject>
                                         </xsl:if>
                                     </entry>
-                                </xsl:otherwise>
+                                </xsl:otherwise>-->
                             </xsl:choose>
                             
                             
@@ -609,19 +887,19 @@
                                 <xsl:copy-of select="$notes"/>
                             </xsl:when>
                             <!-- Book section -->
-                            <xsl:when test="count(dc:title)=2 and bib:pages and bib:editors and (dc:date|dc:publisher)">
+                            <xsl:when test="z:itemType='bookSection' and not(dc:subject='!unknown type')">
                                 <bib:BookSection>
                                     <xsl:variable name="itemType" select="'bookSection'"/>
                                     <z:itemType><xsl:value-of select="$itemType"/></z:itemType>
                                     <dcterms:isPartOf>
                                         <bib:Book>
                                             <xsl:copy-of select="dcterms:isPartOf[bib:Series]"/>
-                                            <xsl:copy-of select="syriaca:sanitize-titles(dc:title[2])"/>
+                                            <xsl:copy-of select="syriaca:sanitize-titles(dc:title[1])"/>
                                             <xsl:copy-of select="prism:volume"/>
                                         </bib:Book>
                                     </dcterms:isPartOf>
                                     <xsl:copy-of select="$contributors-all"/>
-                                    <xsl:copy-of select="syriaca:sanitize-titles(dc:title[1])"/>
+                                    <xsl:copy-of select="syriaca:sanitize-titles(dc:title[2])"/>
                                     <xsl:copy-of select="$publication-info"/>
                                     <xsl:copy-of select="$tags"/>
                                     <xsl:copy-of select="syriaca:create-flags(.,$itemType)"/>
@@ -630,18 +908,18 @@
                                 <xsl:copy-of select="$notes"/>
                             </xsl:when>
                             <!-- Journal article -->
-                            <xsl:when test="count(dc:title)=2 and (prism:volume|dc:date) and not(bib:editors|dc:publisher)">
+                            <xsl:when test="z:itemType='journalArticle'">
                                 <bib:Article>
                                     <xsl:variable name="itemType" select="'journalArticle'"/>
                                     <z:itemType><xsl:value-of select="$itemType"/></z:itemType>
                                     <dcterms:isPartOf>
                                         <bib:Journal>
-                                            <xsl:copy-of select="syriaca:sanitize-titles(dc:title[2])"/>
+                                            <xsl:copy-of select="syriaca:sanitize-titles(dc:title[1])"/>
                                             <xsl:copy-of select="prism:volume"/>
                                         </bib:Journal>
                                     </dcterms:isPartOf>
                                     <xsl:copy-of select="$contributors-all"/>
-                                    <xsl:copy-of select="syriaca:sanitize-titles(dc:title[1])"/>
+                                    <xsl:copy-of select="syriaca:sanitize-titles(dc:title[2])"/>
                                     <xsl:copy-of select="$publication-info"/>
                                     <xsl:copy-of select="$tags"/>
                                     <xsl:copy-of select="syriaca:create-flags(.,$itemType)"/>
@@ -649,7 +927,7 @@
                                 </bib:Article>
                                 <xsl:copy-of select="$notes"/>
                             </xsl:when>
-                            <xsl:when test="count(dc:title)=1 and not(bib:pages) and (dc:date|dc:publisher)">
+                            <xsl:when test="z:itemType='book'">
                                 <bib:Book>
                                     <xsl:variable name="itemType" select="'book'"/>
                                     <z:itemType><xsl:value-of select="$itemType"/></z:itemType>
@@ -673,15 +951,14 @@
                                     <dcterms:isPartOf>
                                         <bib:Book>
                                             <xsl:copy-of select="dcterms:isPartOf[bib:Series]"/>
-                                            <xsl:copy-of select="syriaca:sanitize-titles(dc:title[2])"/>
+                                            <xsl:copy-of select="syriaca:sanitize-titles(dc:title[1])"/>
                                             <xsl:copy-of select="prism:volume"/>
                                         </bib:Book>
                                     </dcterms:isPartOf>
                                     <xsl:copy-of select="$contributors-all"/>
-                                    <xsl:copy-of select="syriaca:sanitize-titles(dc:title[1])"/>
+                                    <xsl:copy-of select="syriaca:sanitize-titles(dc:title[2])"/>
                                     <xsl:copy-of select="$publication-info"/>
                                     <xsl:copy-of select="$tags"/>
-                                    <dc:subject>!unknown type</dc:subject>
                                     <xsl:copy-of select="syriaca:create-flags(.,$itemType)"/>
                                     <xsl:copy-of select="$note-references"/>
                                 </bib:BookSection>
