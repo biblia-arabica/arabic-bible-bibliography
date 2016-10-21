@@ -5423,6 +5423,7 @@ and Introduction,  .</dc:title>
       <dc:subject>MS: Coptic Orthodox Patriarchate, Bibl. 75, Theol. 286</dc:subject>
       <dc:subject>MS: Beirut, Bibliothèque Orientale, Ms. 419</dc:subject>
       <dc:subject>MS: Paris, BNF, Ar. 51.</dc:subject>
+      <dc:subject>Subject: Editions, Chrestomathies</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Thesis>
    <bib:Book>
@@ -7414,6 +7415,7 @@ B.N.</dc:title>
       <dc:subject>ID: 196</dc:subject>
       <dc:subject>MS: St Petersburg, RNL, A. N.S.</dc:subject>
       <dc:subject>?MS: 327 and Leipzig, Universitätsbibliothek, Cod. Tisch. 31 and 37.</dc:subject>
+      <dc:subject>Subject: Art, paleography, codicology</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Thesis>
    <bib:Book>
@@ -8398,6 +8400,7 @@ in the Church of Egypt</dc:title>
       <dc:subject>MS: Paris, BNF Ar. 1, Florence</dc:subject>
       <dc:subject>MS: Paris, BNF Ar. 1,  BML Or. 112 (formerly</dc:subject>
       <dc:subject>?MS: 21).</dc:subject>
+      <dc:subject>Subject: Pentateuch</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Thesis>
    <bib:BookSection>
@@ -8477,10 +8480,13 @@ Manuscripts and Translation Techniques</dc:title>
             </vcard:adr>
          </foaf:Organization>
       </dc:publisher>
+      <dcterms:abstract>Offers a survey on the different translations of the Pentateuch and an in-depth
+study of Ms. Sinai, Ar. 2. </dcterms:abstract>
       <dc:date>2011</dc:date>
       <z:type>PhD</z:type>
       <dc:subject>ID: 225</dc:subject>
       <dc:subject>MS: ,  ,  </dc:subject>
+      <dc:subject>Subject: Pentateuch</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Thesis>
    <bib:BookSection>
@@ -10217,6 +10223,9 @@ Associated Apocrypha in Ms. Sinai Arabic I</dc:title>
             </vcard:adr>
          </foaf:Organization>
       </dc:publisher>
+      <dcterms:abstract>Contains an edition and translation of Daniel, as preserved in Ms. Sinai, Ar. 1,
+with a discussion of linguistic features and the relation between Sinai Ar. 1 and a few related
+manuscripts.</dcterms:abstract>
       <dc:date>1989</dc:date>
       <z:type>PhD</z:type>
       <dc:subject>ID: 263</dc:subject>
@@ -10229,6 +10238,7 @@ Associated Apocrypha in Ms. Sinai Arabic I</dc:title>
       <dc:subject>MS: Sinai, Ar. 1,  Ar. 539</dc:subject>
       <dc:subject>MS: , Ar. 597, Ar. 597</dc:subject>
       <dc:subject>MS: Vatican, BAV, Ar. 503.</dc:subject>
+      <dc:subject>Subject: Prophets</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Thesis>
    <bib:Article>
@@ -15912,11 +15922,13 @@ Jacob,  . 6.52</dc:title>
             </vcard:adr>
          </foaf:Organization>
       </dc:publisher>
+      <dcterms:abstract>Treats a literal and freer translation of Arabic version into Ge’ez. </dcterms:abstract>
       <dc:date>1965</dc:date>
       <z:type>PhD</z:type>
       <dc:subject>ID: 431</dc:subject>
       <dc:subject>MS: Sinai, Ar. 436, Ar. 535</dc:subject>
       <dc:subject>MS: Sinai, Ar. 436, Ar. 556.</dc:subject>
+      <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Thesis>
    <bib:Article>
@@ -17873,6 +17885,7 @@ Jacobi im Cod. Sin. Ar. 436</dc:title>
             </vcard:adr>
          </foaf:Organization>
       </dc:publisher>
+      <dcterms:abstract>Biblical quotations in Christian Arabic writings</dcterms:abstract>
       <dc:date>1990</dc:date>
       <z:type>PhD</z:type>
       <dc:subject>ID: 486</dc:subject>
@@ -17884,6 +17897,7 @@ Jacobi im Cod. Sin. Ar. 436</dc:title>
       <dc:subject>MS: Jerusalem, St. Anne, 33</dc:subject>
       <dc:subject>MS: Cairo, Coptic Orthodox Patriarchate, Theol. 209</dc:subject>
       <dc:subject>?MS: (Simaika 238)</dc:subject>
+      <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Thesis>
    <bib:Article>

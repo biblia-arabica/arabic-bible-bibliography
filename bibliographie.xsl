@@ -194,6 +194,22 @@
             </xsl:if> 
         </entry>
     </xsl:function>
+    <xsl:function name="syriaca:add-abstract-and-subjects">
+        <xsl:param name="input-node"/>
+        <xsl:param name="abstract"/>
+        <xsl:param name="subject"/>
+        <entry>
+            <xsl:copy-of select="$input-node/node()"/>
+            <xsl:if test="$abstract">
+                <dcterms:abstract><xsl:value-of select="$abstract"/></dcterms:abstract>
+            </xsl:if>
+            <xsl:if test="$subject">
+                <dc:subject>Subject: <xsl:value-of select="$subject"/></dc:subject>
+            </xsl:if>
+        </entry>
+    </xsl:function>
+    
+    
     
     
     <!-- The number the ID tags should start with. -->
@@ -244,7 +260,8 @@
                                         <xsl:variable name="authors" select="syriaca:add-authors($thesis,'\[#\]\s*([\w\sÀ-ʸ\-\.]+),')"/>
                                         <xsl:variable name="title" select="syriaca:add-title($authors,',*\s*([A-Za-z]+[\s\S]*.*)+\s*')"/>
                                         <xsl:variable name="mss" select="syriaca:add-mss($title,$mss)"/>
-                                        <xsl:copy-of select="$mss"/>
+                                        <xsl:variable name="abstract-subjects" select="syriaca:add-abstract-and-subjects($mss,$abstract,$subject)"/>
+                                        <xsl:copy-of select="$abstract-subjects"/>
                                 </xsl:when>
                                 <xsl:otherwise>
                                     <entry>
