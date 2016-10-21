@@ -240,7 +240,7 @@
                     </xsl:if>
                 </xsl:for-each>
             </xsl:variable>
-            <xsl:if test="$uncaptured-data">
+            <xsl:if test="$uncaptured-data/dc:description">
                 <xsl:copy-of select="$uncaptured-data"/>
                 <dc:subject>!uncaptured data</dc:subject>
             </xsl:if>
