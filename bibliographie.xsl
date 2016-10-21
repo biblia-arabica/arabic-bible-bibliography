@@ -234,13 +234,15 @@
             <xsl:copy-of select="$input-node/node()[not(. instance of text())]"/>
             <xsl:variable name="uncaptured-data">
                 <xsl:for-each select="$input-node/node()[. instance of text()]">
-                    <xsl:variable name="sanitized-text" select="replace(replace(.,'^[\s\.,;“-‟&quot;]+',''),'[\s\.,;“-‟&quot;]+$','')"/>
+                    <xsl:variable name="sanitized-text" select="replace(replace(.,'^([\s\.,;“-‟&quot;\(\)\[\]]|in)+',''),'([\s\.,;“-‟&quot;\(\)\[\]]|in)+$','')"/>
                     <xsl:if test="string-length($sanitized-text)">
-                        <dc:description><xsl:copy-of select="."/></dc:description>
+                        <bib:Memo>
+                            <rdf:value><xsl:copy-of select="."/></rdf:value>
+                        </bib:Memo>
                     </xsl:if>
                 </xsl:for-each>
             </xsl:variable>
-            <xsl:if test="$uncaptured-data/dc:description">
+            <xsl:if test="$uncaptured-data/bib:Memo">
                 <xsl:copy-of select="$uncaptured-data"/>
                 <dc:subject>!uncaptured data</dc:subject>
             </xsl:if>
@@ -514,9 +516,17 @@
                         </xsl:for-each>
                     </xsl:variable>
                     
-                    <xsl:for-each select="$entry/entry">
+                    <xsl:variable name="entries-including-uncaptured-data">
+                        <xsl:for-each select="$entry/entry">
+                            <xsl:copy-of select="syriaca:add-uncaptured-data(.)"/>
+                        </xsl:for-each>
+                    </xsl:variable>
+                
+                    
+                    <xsl:for-each select="$entries-including-uncaptured-data/entry">
                         <xsl:variable name="this-entry" select="."/>
-                        <xsl:variable name="id"><dc:subject><xsl:value-of select="concat('ID: ',$id-start+position()-1)"/></dc:subject></xsl:variable>
+                        <xsl:variable name="id-num" select="$id-start+position()-1"/>
+                        <xsl:variable name="id"><dc:subject><xsl:value-of select="concat('ID: ',$id-num)"/></dc:subject></xsl:variable>
                         <xsl:variable name="contributors-all">
                             <xsl:copy-of select="bib:authors"/>
                             <xsl:copy-of select="bib:editors"/>
@@ -567,7 +577,18 @@
                         <xsl:variable name="tags">
                             <xsl:copy-of select="$id"/>
                             <xsl:copy-of select="dc:subject"/>
-                            <xsl:copy-of select="dc:description"/>
+                        </xsl:variable>
+                        <xsl:variable name="notes">
+                            <xsl:for-each select="bib:Memo">
+                                <bib:Memo rdf:about="#note_{$id-num}-{position()}">
+                                    <xsl:copy-of select="node()"/>
+                                </bib:Memo>
+                            </xsl:for-each>
+                        </xsl:variable>
+                        <xsl:variable name="note-references">
+                            <xsl:for-each select="$notes/bib:Memo">
+                                <dcterms:isReferencedBy rdf:resource="{@rdf:about}"/>
+                            </xsl:for-each>
                         </xsl:variable>
                         <xsl:choose>
                             <xsl:when test="z:itemType='thesis'">
@@ -580,7 +601,9 @@
                                     <xsl:copy-of select="z:type"/>
                                     <xsl:copy-of select="$tags"/>
                                     <xsl:copy-of select="syriaca:create-flags(.,$itemType)"/>
+                                    <xsl:copy-of select="$note-references"/>
                                 </bib:Thesis>
+                                <xsl:copy-of select="$notes"/>
                             </xsl:when>
                             <!-- Book section -->
                             <xsl:when test="count(dc:title)=2 and bib:pages and bib:editors and (dc:date|dc:publisher)">
@@ -599,7 +622,9 @@
                                     <xsl:copy-of select="$publication-info"/>
                                     <xsl:copy-of select="$tags"/>
                                     <xsl:copy-of select="syriaca:create-flags(.,$itemType)"/>
+                                    <xsl:copy-of select="$note-references"/>
                                 </bib:BookSection>
+                                <xsl:copy-of select="$notes"/>
                             </xsl:when>
                             <!-- Journal article -->
                             <xsl:when test="count(dc:title)=2 and (prism:volume|dc:date) and not(bib:editors|dc:publisher)">
@@ -617,7 +642,9 @@
                                     <xsl:copy-of select="$publication-info"/>
                                     <xsl:copy-of select="$tags"/>
                                     <xsl:copy-of select="syriaca:create-flags(.,$itemType)"/>
+                                    <xsl:copy-of select="$note-references"/>
                                 </bib:Article>
+                                <xsl:copy-of select="$notes"/>
                             </xsl:when>
                             <xsl:when test="count(dc:title)=1 and not(bib:pages) and (dc:date|dc:publisher)">
                                 <bib:Book>
@@ -630,7 +657,9 @@
                                     <xsl:copy-of select="prism:volume"/>
                                     <xsl:copy-of select="$tags"/>
                                     <xsl:copy-of select="syriaca:create-flags(.,$itemType)"/>
+                                    <xsl:copy-of select="$note-references"/>
                                 </bib:Book>
+                                <xsl:copy-of select="$notes"/>
                             </xsl:when>
                             <!-- Unknown item type -->
                             <!-- !!! This seems to be catching things that should be regular book section instead. E.g., Walid Saleh, An Islamic Diatessaron -->
@@ -651,7 +680,9 @@
                                     <xsl:copy-of select="$tags"/>
                                     <dc:subject>!unknown type</dc:subject>
                                     <xsl:copy-of select="syriaca:create-flags(.,$itemType)"/>
+                                    <xsl:copy-of select="$note-references"/>
                                 </bib:BookSection>
+                                <xsl:copy-of select="$notes"/>
                             </xsl:otherwise>
                         </xsl:choose>
                     </xsl:for-each>
