@@ -322,7 +322,7 @@
                     regex="{$regex-edition}">
                     <xsl:matching-substring>
                         <xsl:if test="regex-group(1)">
-                            <prism:edition><xsl:value-of select="replace(regex-group(1),'[\.\s]*$','')"/></prism:edition>
+                            <prism:edition><xsl:value-of select="replace(regex-group(1),'[\.\s]+$','')"/></prism:edition>
                         </xsl:if>
                     </xsl:matching-substring>
                     <xsl:non-matching-substring>

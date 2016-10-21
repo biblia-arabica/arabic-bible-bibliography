@@ -225,7 +225,7 @@ Religion in Geschichte und Gegenwart: Handwörterbuch für Theologie und Religio
             <foaf:name>Mohr Siebeck</foaf:name>
          </foaf:Organization>
       </dc:publisher>
-      <prism:edition>3.</prism:edition>
+      <prism:edition>3</prism:edition>
       <dc:date>1957</dc:date>
       <bib:pages>529-531</bib:pages>
       <dc:subject>ID: 5</dc:subject>
@@ -272,7 +272,7 @@ Verlagsbuchhandlung</foaf:name>
          </foaf:Organization>
       </dc:publisher>
       <dcterms:abstract>An update of Baumstark [#].</dcterms:abstract>
-      <prism:edition>2.</prism:edition>
+      <prism:edition>2</prism:edition>
       <dc:date>1958</dc:date>
       <bib:pages>394-396</bib:pages>
       <dc:subject>ID: 6</dc:subject>
@@ -461,7 +461,7 @@ Orients</dc:title>
 Verlagsbuchhandlung</foaf:name>
          </foaf:Organization>
       </dc:publisher>
-      <prism:edition>1.</prism:edition>
+      <prism:edition>1</prism:edition>
       <dc:date>1931</dc:date>
       <bib:pages>317-319</bib:pages>
       <dc:subject>ID: 10</dc:subject>
@@ -1203,7 +1203,7 @@ Arabic versions</bib:pages>
       </bib:authors>
       <dc:title>Bible, Translations, Modern Versions, Arabic</dc:title>
       <dcterms:abstract>Almost entirely based on 1st ed., see [#].</dcterms:abstract>
-      <prism:edition>2.</prism:edition>
+      <prism:edition>2</prism:edition>
       <bib:pages>627</bib:pages>
       <dc:subject>ID: 28</dc:subject>
       <dc:subject>MS: Munich, Staatsbibliothek, Ar. 238</dc:subject>
@@ -1866,7 +1866,7 @@ Encyclopédique de la Bible</dc:title>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Bible, Translations, Ancient versions, Arabic</dc:title>
-      <prism:edition>1.</prism:edition>
+      <prism:edition>1</prism:edition>
       <bib:pages>cols. 863-864</bib:pages>
       <dc:subject>ID: 44</dc:subject>
       <dc:subject>MS: ,  Violet fragment, Violet fragment</dc:subject>
@@ -3527,7 +3527,7 @@ Theologie und Religionswissenschaft</dc:title>
             <foaf:name>Mohr Siebeck</foaf:name>
          </foaf:Organization>
       </dc:publisher>
-      <prism:edition>3.</prism:edition>
+      <prism:edition>3</prism:edition>
       <dc:date>1957</dc:date>
       <bib:pages>cols.
 1200-1201</bib:pages>
