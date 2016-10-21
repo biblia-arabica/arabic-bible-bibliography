@@ -120,7 +120,7 @@
                                             <!-- !!! This doesn't catch the place if there is no publisher name. 
                                             Also fails if there is a slash, e.g., (Leiden/Boston: Brill, 2008) -->
                                             <xsl:variable name="regex-publisher" select="'[,\(]\s*([\w\s\.&amp;;]+):\s*([\w\s\.&amp;;]+)'"/>
-                                            <xsl:variable name="regex-date" select="'\s*((14|15|16|17|18|19|20)\d{2}(\-\d+)?)(,|\))'"/>
+                                            <xsl:variable name="regex-date" select="'\s*((14|15|16|17|18|19|20)\d{2}(\-\d+)?)(,|\)|\.\s*$)'"/>
                                             <xsl:variable name="regex-pages" select="'\s*p?p\.[\s\n\t]*((([0-9A-Za-z]+(\-[0-9A-Za-z]+)?),?\s*)+)\.*|\s*(col\.[\s\n\t]*(([0-9A-Za-z]+(\-[0-9A-Za-z]+)?),?\s*)+)\.*'"/>
                                             <xsl:variable name="regex-edition" select="',\s*([A-Za-z0-9]+\.?)\s*ed\.,?'"/>
                                             <xsl:variable name="regex-editors" select="'(\[#\]|in)\s+([\w\s,À-ʸ\-\.]+?)\(eds?\.?\),?\s*'"/>
@@ -235,7 +235,7 @@
                                                                                                                 <xsl:non-matching-substring>
                                                                                                                     <xsl:analyze-string 
                                                                                                                         select="." 
-                                                                                                                        regex="{concat('\(',$regex-series-volume,'\)|\(',$regex-journal-volume,'\)')}">
+                                                                                                                        regex="{$regex-authors}">
                                                                                                                         <xsl:matching-substring>
                                                                                                                             <xsl:if test="regex-group(2)">
                                                                                                                                 <dcterms:isPartOf>

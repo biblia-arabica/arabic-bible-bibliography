@@ -3855,6 +3855,7 @@ Greek</dc:title>
          </foaf:Organization>
       </dc:publisher>
       <dc:date>1902</dc:date>
+      <dc:date>1968</dc:date>
       <bib:pages>110-111</bib:pages>
       <dc:subject>ID: 101</dc:subject>
       <dc:subject>MS: Paris, BNF, Ar. 1</dc:subject>
@@ -5412,12 +5413,13 @@ du Corpus SCO</foaf:name>
             </rdf:li>
             <rdf:li>
                <foaf:Person>
-                  <foaf:surname>Groningen</foaf:surname>
-                  <foaf:givenname>Rijksuniversiteit</foaf:givenname>
+                  <foaf:surname>Rijksuniversiteit Groningen</foaf:surname>
+                  <foaf:givenname/>
                </foaf:Person>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:date>1959</dc:date>
       <dc:subject>ID: 141</dc:subject>
       <dc:subject>MS: Sinai, Ar. 7 and Ar. 589, Berlin</dc:subject>
       <dc:subject>MS: Sinai, Ar. 7 and Ar. 589,  Staatsbibliothek</dc:subject>
@@ -5434,7 +5436,6 @@ du Corpus SCO</foaf:name>
       <dc:subject>MS: Paris, BNF, Ar. 51.</dc:subject>
       <dc:subject>Subject: Editions, Chrestomathies</dc:subject>
       <dc:subject>!unknown type</dc:subject>
-      <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no title</dc:subject>
       <dc:subject>!no pages</dc:subject>
@@ -7400,11 +7401,8 @@ Sinai: It's Manuscripts and their Conservation: Papers Given in Memory of Profes
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no volume</dc:subject>
    </bib:Article>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Book/>
-      </dcterms:isPartOf>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -7417,17 +7415,14 @@ Sinai: It's Manuscripts and their Conservation: Papers Given in Memory of Profes
       </bib:authors>
       <dc:title>Les Enluminures du ms. Copte 13 de la
 B.N.</dc:title>
+      <dc:date>1966</dc:date>
       <dc:subject>ID: 196</dc:subject>
       <dc:subject>MS: St Petersburg, RNL, A. N.S.</dc:subject>
       <dc:subject>?MS: 327 and Leipzig, Universitätsbibliothek, Cod. Tisch. 31 and 37.</dc:subject>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
-      <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
-      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-   </bib:BookSection>
+   </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <bib:authors>
@@ -8380,11 +8375,8 @@ editarum, cum observationibus</dc:title>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no pages</dc:subject>
    </bib:BookSection>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Book/>
-      </dcterms:isPartOf>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -8397,18 +8389,15 @@ editarum, cum observationibus</dc:title>
       </bib:authors>
       <dc:title>The Arabic Versions of the Pentateuch
 in the Church of Egypt</dc:title>
+      <dc:date>1921</dc:date>
       <dc:subject>ID: 223</dc:subject>
       <dc:subject>MS: Paris, BNF Ar. 1, Florence</dc:subject>
       <dc:subject>MS: Paris, BNF Ar. 1,  BML Or. 112 (formerly</dc:subject>
       <dc:subject>?MS: 21).</dc:subject>
       <dc:subject>Subject: Pentateuch</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
-      <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
-      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-   </bib:BookSection>
+   </bib:Book>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -8460,13 +8449,13 @@ ersten Buchs Moses zu Mannheim</dc:title>
       <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:BookSection>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
+         <bib:Journal>
             <dc:title>centuries: A Comparative Study of
 Manuscripts and Translation Techniques</dc:title>
-         </bib:Book>
+         </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -8482,15 +8471,14 @@ Manuscripts and Translation Techniques</dc:title>
 Pentateuch from the 9th to the 13th</dc:title>
       <dcterms:abstract>Offers a survey on the different translations of the Pentateuch and an in-depth
 study of Ms. Sinai, Ar. 2. </dcterms:abstract>
+      <dc:date>2011</dc:date>
       <dc:subject>ID: 225</dc:subject>
       <dc:subject>MS: ,  ,  </dc:subject>
       <dc:subject>Subject: Pentateuch</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
-      <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no pages</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
-   </bib:BookSection>
+      <dc:subject>!no volume</dc:subject>
+   </bib:Article>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -9810,13 +9798,13 @@ Syro-Arabic Versions of Ruth</dc:title>
       <dc:subject>!no pages</dc:subject>
       <dc:subject>!no volume</dc:subject>
    </bib:Article>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
+         <bib:Journal>
             <dc:title>o Arabic Versions
 of the Book of Ruth: Text Edition and Language Studies</dc:title>
-         </bib:Book>
+         </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -9829,6 +9817,7 @@ of the Book of Ruth: Text Edition and Language Studies</dc:title>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Tw</dc:title>
+      <dc:date>1995</dc:date>
       <dc:subject>ID: 257</dc:subject>
       <dc:subject>MS: St Petersburg, Institute of Oriental Manuscripts, D</dc:subject>
       <dc:subject>?MS: 226</dc:subject>
@@ -9842,12 +9831,10 @@ of the Book of Ruth: Text Edition and Language Studies</dc:title>
       <dc:subject>MS: Beirut, Bibliothèque Orientale,  Coptic Orthodox Patriarchate</dc:subject>
       <dc:subject>MS: Beirut, Bibliothèque Orientale,  Bibl. 32.</dc:subject>
       <dc:subject>Subject: Historical Books</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
-      <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no pages</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
-   </bib:BookSection>
+      <dc:subject>!no volume</dc:subject>
+   </bib:Article>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -10390,11 +10377,8 @@ and translation techniques, as well as a reproduction of Jeremiah 1-6.</dcterms:
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no volume</dc:subject>
    </bib:Article>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Book/>
-      </dcterms:isPartOf>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -10407,16 +10391,13 @@ and translation techniques, as well as a reproduction of Jeremiah 1-6.</dcterms:
       </bib:authors>
       <dc:title>The Book of Jeremias and Lamentations in the Arabic translation of Pethion Ibn Ayyub
 Al Sahhar</dc:title>
+      <dc:date>1959</dc:date>
       <dc:subject>ID: 268</dc:subject>
       <dc:subject>MS: Berlin, Staatsbibliothek, Diez A fol. 41</dc:subject>
       <dc:subject>Subject: Pethion ibn Ayyūb</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
-      <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
-      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-   </bib:BookSection>
+   </bib:Book>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -10929,11 +10910,8 @@ Monferrer Sala.)</dcterms:abstract>
       <dc:subject>Subject: Sapiential books</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Book>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Book/>
-      </dcterms:isPartOf>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -10945,16 +10923,13 @@ Monferrer Sala.)</dcterms:abstract>
          </rdf:Seq>
       </bib:authors>
       <dc:title>The early Arabic versions of Job (first millennium C.E.)</dc:title>
+      <dc:date>1999</dc:date>
       <dc:subject>ID: 284</dc:subject>
       <dc:subject>MS: St Petersburg, Institute of Oriental Manuscripts, A 187 </dc:subject>
       <dc:subject>Subject: Sapiential books</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
-      <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
-      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-   </bib:BookSection>
+   </bib:Book>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -14786,11 +14761,8 @@ with Isho‘dad and Theodore of Mopsuestia commentaries. </dcterms:abstract>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no pages</dc:subject>
    </bib:BookSection>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Book/>
-      </dcterms:isPartOf>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -14804,17 +14776,14 @@ with Isho‘dad and Theodore of Mopsuestia commentaries. </dcterms:abstract>
       <dc:title>The Arabic text of I Corinthians in
 "Studia sinaitica no. II "; a comparative linguistic, and critical study</dc:title>
       <dcterms:abstract>Galatians</dcterms:abstract>
+      <dc:date>1942</dc:date>
       <dc:subject>ID: 397</dc:subject>
       <dc:subject>MS: Vatican, BAV, Lat. 12900 (formerly Chapter of the</dc:subject>
       <dc:subject>?MS: Cathedral of Siguenze, Ms. 150).</dc:subject>
       <dc:subject>Subject: I Corinthians</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
-      <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
-      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-   </bib:BookSection>
+   </bib:Book>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -17887,11 +17856,8 @@ Oxford, Bodleian Library, Or. 251.</dcterms:abstract>
       <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Book/>
-      </dcterms:isPartOf>
+   <bib:Book>
+      <z:itemType>book</z:itemType>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -17905,6 +17871,7 @@ Oxford, Bodleian Library, Or. 251.</dcterms:abstract>
       <dc:title>Ein weiteres Bruchstück des Protoevangelium
 Jacobi im Cod. Sin. Ar. 436</dc:title>
       <dcterms:abstract>Biblical quotations in Christian Arabic writings</dcterms:abstract>
+      <dc:date>1990</dc:date>
       <dc:subject>ID: 486</dc:subject>
       <dc:subject>MS: Sinai,  Ar. 75 (fols 102-223), Ar. 75 (fols 102-223)</dc:subject>
       <dc:subject>MS: , Ar. 441 (fols 121-227), Ar. 441 (fols 121-227)</dc:subject>
@@ -17915,13 +17882,9 @@ Jacobi im Cod. Sin. Ar. 436</dc:title>
       <dc:subject>MS: Cairo, Coptic Orthodox Patriarchate, Theol. 209</dc:subject>
       <dc:subject>?MS: (Simaika 238)</dc:subject>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
-      <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
-      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-   </bib:BookSection>
+   </bib:Book>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -18363,6 +18326,7 @@ Sinai, with a Treatise on the Triune Nature of God, and Translation form the Sam
       </dc:publisher>
       <dcterms:abstract>Ms.: Sinai, Ar. 154, fols. 99r-139v.</dcterms:abstract>
       <dc:date>1899</dc:date>
+      <dc:date>2012</dc:date>
       <dc:subject>ID: 497</dc:subject>
       <dc:subject>MS: St. Petersburg, RNL, Yevr. II</dc:subject>
       <dc:subject>?MS: C 1/2</dc:subject>
