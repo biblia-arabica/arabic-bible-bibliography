@@ -110,6 +110,7 @@
                         <xsl:for-each select="$entry-with-titles/entry[matches(.,'^\s*\[#\]')]">
                             <xsl:variable name="mss" select="following-sibling::*[matches(.,'^\s*[Mm][Ss][Ss]')][1]"/>
                             <xsl:variable name="abstract" select="following-sibling::*[not(matches(.,'^\s*[Mm][Ss][Ss]') or matches(.,'^\s*\[#\]'))][1]"/>
+                            <xsl:variable name="subject" select="preceding-sibling::*[tei:anchor][1]"/>
                             <entry>
                             <xsl:for-each select="node()">
                                     <xsl:choose>
@@ -124,11 +125,11 @@
                                             <xsl:variable name="regex-edition" select="',\s*([A-Za-z0-9]+\.?)\s*ed\.,?'"/>
                                             <xsl:variable name="regex-editors" select="'(\[#\]|in)\s+([\w\s,À-ʸ\-\.]+?)\(eds?\.?\),?\s*'"/>
                                             <xsl:variable name="regex-journal-volume" select="'(^[\s\S]*?|^)\s*(\d+\.?\d*)\s*\(*$'"/>
-                                            <xsl:variable name="regex-series-volume" select="'^,\s*([\s\S]*?)\s*(\d+\.?\d*)\s*\(*$'"/>
+                                            <xsl:variable name="regex-series-volume" select="',\s*([\s\S]*?)\s*(\d+\.?\d*)\s*'"/>
                                             <xsl:variable name="regex-authors" select="'\[#\]\s*([\w\s,À-ʸ\-\.]+)'"/>
                                             <xsl:variable name="regex-article-title" select="'[“-‟&quot;]+([\s\S]*)[“-‟&quot;]+'"/>
                                             <xsl:variable name="regex-translators" select="'([Ee]d\.\s+and\s+)?[Tt]rans?l?\.?\s+(and\s+[Ee]d.\s*)?(\s+by\s+)?([\w\s,À-ʸ\-\.]+?)'"/>
-                                            
+                                            <xsl:variable name="regex-thesis" select="'Ph.D. Thesis, Catholic University of America, Washington, D.C., 1921.'"/>
                                             
                                                     <xsl:analyze-string 
                                                         select="." 
@@ -311,6 +312,9 @@
                                 <xsl:if test="$abstract">
                                     <dcterms:abstract><xsl:value-of select="$abstract"/></dcterms:abstract>
                                 </xsl:if>
+                                <xsl:if test="$subject">
+                                    <dc:subject>Subject: <xsl:value-of select="$subject"/></dc:subject>
+                                </xsl:if>
                             </entry>
                         </xsl:for-each>
                     </xsl:variable>
@@ -451,6 +455,10 @@
         <!-- !!! This doesn't handle italics inside article titles. E.g., Mark Swanson, “Ibn Taymiyya and the <hi rend="italic">Kitāb al-burhān</hi>. A
             Muslim controversialist responds to a ninth-century Arabic Christian apology,” -->
         <dc:title><xsl:copy-of select="node()"></xsl:copy-of></dc:title>
+    </xsl:template>
+    <!-- preserves anchors -->
+    <xsl:template match="//tei:anchor">
+        <xsl:copy-of select="."/>
     </xsl:template>
         
 </xsl:stylesheet>
