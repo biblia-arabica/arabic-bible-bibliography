@@ -5395,6 +5395,8 @@ du Corpus SCO</foaf:name>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:title>The Mount Sinai Arabic Version of IV Ezra. Text, Translation
+and Introduction</dc:title>
       <dc:publisher>
          <foaf:Organization>
             <foaf:name>Rijksuniversiteit Groningen</foaf:name>
@@ -5409,7 +5411,6 @@ du Corpus SCO</foaf:name>
       <z:type>PhD</z:type>
       <dc:subject>ID: 141</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no title</dc:subject>
    </bib:Thesis>
    <bib:Book>
       <z:itemType>book</z:itemType>
@@ -7371,8 +7372,8 @@ Sinai: It's Manuscripts and their Conservation: Papers Given in Memory of Profes
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no volume</dc:subject>
    </bib:Article>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:Thesis>
+      <z:itemType>thesis</z:itemType>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -7396,9 +7397,10 @@ B.N.</dc:title>
          </foaf:Organization>
       </dc:publisher>
       <dc:date>1966</dc:date>
+      <z:type>PhD</z:type>
       <dc:subject>ID: 196</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+   </bib:Thesis>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <bib:authors>
@@ -8000,7 +8002,9 @@ Christian Arabic</dc:title>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book/>
+         <bib:Book>
+            <dc:title>unpubl. PhD-Thesis, University of Haifa.</dc:title>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -8019,7 +8023,6 @@ and Lebanon</dc:title>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
@@ -8347,8 +8350,8 @@ editarum, cum observationibus</dc:title>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no pages</dc:subject>
    </bib:BookSection>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:Thesis>
+      <z:itemType>thesis</z:itemType>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -8372,9 +8375,10 @@ in the Church of Egypt</dc:title>
          </foaf:Organization>
       </dc:publisher>
       <dc:date>1921</dc:date>
+      <z:type>Ph.D.</z:type>
       <dc:subject>ID: 223</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+   </bib:Thesis>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -10167,8 +10171,8 @@ comparison with the Peshitta.</dcterms:abstract>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no pages</dc:subject>
    </bib:BookSection>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:Thesis>
+      <z:itemType>thesis</z:itemType>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -10192,9 +10196,10 @@ Associated Apocrypha in Ms. Sinai Arabic I</dc:title>
          </foaf:Organization>
       </dc:publisher>
       <dc:date>1989</dc:date>
+      <z:type>PhD</z:type>
       <dc:subject>ID: 263</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+   </bib:Thesis>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -10887,7 +10892,10 @@ Monferrer Sala.)</dcterms:abstract>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book/>
+         <bib:Book>
+            <dc:title>Ph.D-Thesis, University of St
+Andrews, 1999.</dc:title>
+         </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -10904,7 +10912,6 @@ Monferrer Sala.)</dcterms:abstract>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
@@ -15868,6 +15875,8 @@ Macchabées dans les Polyglottes de Londres et la Bible manuscrite de St. Péter
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:title>The Falasha Version of the Testaments of Abraham, Isaac and
+Jacob</dc:title>
       <dc:publisher>
          <foaf:Organization>
             <foaf:name>Manchester</foaf:name>
@@ -15882,7 +15891,6 @@ Macchabées dans les Polyglottes de Londres et la Bible manuscrite de St. Péter
       <z:type>PhD</z:type>
       <dc:subject>ID: 431</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no title</dc:subject>
    </bib:Thesis>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -17814,8 +17822,8 @@ Oxford, Bodleian Library, Or. 251.</dcterms:abstract>
       <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
+   <bib:Thesis>
+      <z:itemType>thesis</z:itemType>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -17839,9 +17847,10 @@ Jacobi im Cod. Sin. Ar. 436</dc:title>
          </foaf:Organization>
       </dc:publisher>
       <dc:date>1990</dc:date>
+      <z:type>PhD</z:type>
       <dc:subject>ID: 486</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-   </bib:Book>
+   </bib:Thesis>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
