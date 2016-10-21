@@ -109,7 +109,7 @@
                     <xsl:variable name="entry">
                         <xsl:for-each select="$entry-with-titles/entry[matches(.,'^\s*\[#\]')]">
                             <xsl:variable name="mss" select="following-sibling::*[matches(.,'^\s*[Mm][Ss][Ss]')][1]"/>
-                            <xsl:variable name="abstract" select="following-sibling::*[not(matches(.,'^\s*[Mm][Ss][Ss]') or matches(.,'^\s*\[#\]'))][1]"/>
+                            <xsl:variable name="abstract" select="following-sibling::*[1][not(matches(.,'^\s*[Mm][Ss][Ss]') or matches(.,'^\s*\[#\]'))]"/>
                             <xsl:variable name="subject" select="preceding-sibling::*[tei:anchor][1]"/>
                             <entry>
                             <xsl:for-each select="node()">
