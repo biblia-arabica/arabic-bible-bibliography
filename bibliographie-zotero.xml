@@ -98,7 +98,7 @@ L’onore della traduzione | La tâche de la traduction</dc:title>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
@@ -146,7 +146,7 @@ and 134-139</bib:pages>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -194,7 +194,7 @@ journey to Rome. </dcterms:abstract>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -373,7 +373,7 @@ Syriac Literature and Sciences</dc:title>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -415,7 +415,7 @@ Orients</dc:title>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -549,7 +549,7 @@ Verlagsbuchhandlung</foaf:name>
       <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no pages</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
@@ -682,7 +682,7 @@ historical, text-critical and literary aspects</dc:title>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -807,7 +807,7 @@ des Orients</dc:title>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -986,7 +986,7 @@ exhibiting a systematic view of that science</dc:title>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -1026,7 +1026,7 @@ exhibiting a systematic view of that science</dc:title>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -1265,7 +1265,7 @@ Testament</dc:title>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:Article>
@@ -1350,7 +1350,7 @@ pp. 17-29.</dcterms:abstract>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
@@ -1444,7 +1444,7 @@ manuscript sources and secondary literature.</dcterms:abstract>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
@@ -2160,7 +2160,7 @@ arabica) in the Biblia Hebraica.</dcterms:abstract>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
@@ -2334,7 +2334,7 @@ b. al-Qūṭī [#] and ibn Balashk [#] </dcterms:abstract>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -2502,7 +2502,7 @@ Bible Translations</dc:title>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -2548,7 +2548,7 @@ Bible Translations</dc:title>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -2805,7 +2805,7 @@ Vostok</dc:title>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
@@ -3144,7 +3144,7 @@ the possession of the Septuaginta-Unternehmen and has been used for collation.</
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -3183,7 +3183,7 @@ the possession of the Septuaginta-Unternehmen and has been used for collation.</
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -3386,7 +3386,7 @@ history of Bible translation in Maltese</dc:title>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:Article>
@@ -3604,7 +3604,7 @@ Maltese</dc:title>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
@@ -3750,7 +3750,7 @@ Woordenboek</dc:title>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
@@ -3794,7 +3794,7 @@ Criticism of the New Testament</dc:title>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -3906,7 +3906,7 @@ Testament</dc:title>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -3947,7 +3947,7 @@ Greek</dc:title>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -4263,7 +4263,7 @@ unspecified modern one.</dcterms:abstract>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:Article>
@@ -4343,7 +4343,7 @@ Graecum, auctoritate Academiae Scientiarum Gottingensis editum, Vol. 1, Genesis<
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -4382,7 +4382,7 @@ Bibelgesellschaft 2009, does not add further material. </dcterms:abstract>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -4435,7 +4435,7 @@ Deutscher Orientalistentag vom 26. bis 30. September 1988 in Köln. Ausgewählte
       <dc:subject>Subject: Blau in Targume Miqra</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -4556,7 +4556,7 @@ Plantin</foaf:name>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -4596,7 +4596,7 @@ the famous gloss on Ps 18:5 that contains the first mention of Christopher Colum
       <dc:subject>Subject: Blau in Targume Miqra</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -4633,7 +4633,7 @@ caratteri arabi</dc:title>
       <dc:subject>Subject: Blau in Targume Miqra</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -5077,7 +5077,7 @@ enterprise.</dcterms:abstract>
       <dc:subject>Subject: London Polyglot</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:Article>
@@ -5159,7 +5159,7 @@ Jésus en Syrie (1831-1895)</dc:title>
       <dc:subject>Subject: London Polyglot</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -5193,7 +5193,7 @@ Jésus en Syrie (1831-1895)</dc:title>
       <dc:subject>Subject: London Polyglot</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
@@ -5242,7 +5242,7 @@ notes. </dcterms:abstract>
       <dc:subject>Subject: Editions, Chrestomathies</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -5276,7 +5276,7 @@ today.</dcterms:abstract>
       <dc:subject>Subject: Editions, Chrestomathies</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
@@ -5570,7 +5570,7 @@ Arabic-Latin glossary on pp</bib:pages>
       <dc:subject>Subject: Editions, Chrestomathies</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:Book>
@@ -5648,7 +5648,7 @@ arábigo-española</dc:title>
       <dc:subject>Subject: Editions, Chrestomathies</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -5989,7 +5989,7 @@ Which one?</dcterms:abstract>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
@@ -6046,7 +6046,7 @@ Jacobite and Nestorian Churches</dc:title>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:Book>
@@ -6104,7 +6104,7 @@ Bildschmuck eines arabischen Evangelienbuches des 14. Jahrhunderts</dc:title>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
@@ -6131,7 +6131,7 @@ Prophetenillustrationen durch stehende Autorenbilder”</dc:title>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
@@ -6158,7 +6158,7 @@ mesopotamischer Federzeichnung vom Jahre 1299</dc:title>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
@@ -6187,7 +6187,7 @@ mesopotamischer Federzeichnung vom Jahre 1299</dc:title>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:Book>
@@ -6296,7 +6296,7 @@ Restoration</dc:title>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:Book>
@@ -6435,7 +6435,7 @@ manuscrits arabes, chrétiens et musulmans</dc:title>
       <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no pages</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
@@ -6508,7 +6508,7 @@ siècle (cod. Sin. ar. 116)</dc:title>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
@@ -6536,7 +6536,7 @@ Kuriositäten der Kaiserlichen Öffentlichen Bibliothek zu St. Petersburg</dc:ti
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:Book>
@@ -6597,7 +6597,7 @@ bibliothèque de Topqapi Sarayi à décor byzantin et islamique</dc:title>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:Book>
@@ -6665,7 +6665,7 @@ Christian Painting in Muslim Egypt During the Thirteenth and Fourteenth Centurie
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:Article>
@@ -6904,7 +6904,7 @@ the Crossroads of the Medieval Mediterranean </foaf:name>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -6947,7 +6947,7 @@ Painting in Egypt of the Twelfth to mid-Thirteenth Centuries</dc:title>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
@@ -7008,7 +7008,7 @@ Pindar Press</foaf:name>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -7319,7 +7319,7 @@ dans l'Evangile arabe de l'Enfance du Christ de Florence (Laur. Or. 387), Mélan
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -7524,6 +7524,8 @@ B.N.</dc:title>
       <dc:subject>MS: St Petersburg, RNL, A. N.S.</dc:subject>
       <dc:subject>?MS: 327 and Leipzig, Universitätsbibliothek, Cod. Tisch. 31 and 37.</dc:subject>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
+      <dc:subject>!uncaptured data</dc:subject>
+      <dc:description>  ,  .</dc:description>
       <dc:subject>!no abstract</dc:subject>
    </bib:Thesis>
    <bib:Book>
@@ -8151,7 +8153,7 @@ and Lebanon</dc:title>
       <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no pages</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:Article>
@@ -8476,7 +8478,7 @@ editarum, cum observationibus</dc:title>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:Thesis>
       <z:itemType>thesis</z:itemType>
@@ -8509,6 +8511,8 @@ in the Church of Egypt</dc:title>
       <dc:subject>MS: Paris, BNF Ar. 1,  BML Or. 112 (formerly</dc:subject>
       <dc:subject>?MS: 21).</dc:subject>
       <dc:subject>Subject: Pentateuch</dc:subject>
+      <dc:subject>!uncaptured data</dc:subject>
+      <dc:description>  .</dc:description>
       <dc:subject>!no abstract</dc:subject>
    </bib:Thesis>
    <bib:BookSection>
@@ -8595,6 +8599,8 @@ study of Ms. Sinai, Ar. 2. </dcterms:abstract>
       <dc:subject>ID: 225</dc:subject>
       <dc:subject>MS: ,  ,  </dc:subject>
       <dc:subject>Subject: Pentateuch</dc:subject>
+      <dc:subject>!uncaptured data</dc:subject>
+      <dc:description> ,  .</dc:description>
       <dc:subject>!no abstract</dc:subject>
    </bib:Thesis>
    <bib:BookSection>
@@ -8684,7 +8690,7 @@ Arabic translations of the Pentateuch. </dcterms:abstract>
       <dc:subject>Subject: Pentateuch</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -8729,7 +8735,7 @@ Arabic translations of the Pentateuch. </dcterms:abstract>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -8891,7 +8897,7 @@ introduction.</dcterms:abstract>
       <dc:subject>Subject: Al-Harith ibn Sinan</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -8940,7 +8946,7 @@ introduction.</dcterms:abstract>
       <dc:subject>Subject: Al-Harith ibn Sinan</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -9054,7 +9060,7 @@ al-Ḥārith’s introduction, as preserved in the two copies of the Bodleian Li
       <dc:subject>Subject: Al-Harith ibn Sinan</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -9695,7 +9701,7 @@ Breisgau</vcard:locality>
       <dc:subject>Subject: Pentateuch Catena</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
@@ -9763,7 +9769,7 @@ Studies, University of Oxford.</dcterms:abstract>
       <dc:subject>Subject: Pentateuch Catena</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -9799,7 +9805,7 @@ Studies</dc:title>
       <dc:subject>Subject: Pentateuch Catena</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -10031,7 +10037,7 @@ in the Polyglots.</dcterms:abstract>
       <dc:subject>Subject: Historical Books</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -10241,7 +10247,7 @@ Ezra and Nehemia in the Polyglots.</dcterms:abstract>
       <dc:subject>Subject: Historical Books</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -10356,6 +10362,8 @@ manuscripts.</dcterms:abstract>
       <dc:subject>MS: , Ar. 597, Ar. 597</dc:subject>
       <dc:subject>MS: Vatican, BAV, Ar. 503.</dc:subject>
       <dc:subject>Subject: Prophets</dc:subject>
+      <dc:subject>!uncaptured data</dc:subject>
+      <dc:description>  ( ).</dc:description>
       <dc:subject>!no abstract</dc:subject>
    </bib:Thesis>
    <bib:Article>
@@ -10559,7 +10567,7 @@ Uebersetzung des Propheten Jeremias</dc:title>
       <dc:subject>Subject: Pethion ibn Ayyūb</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
@@ -10599,7 +10607,7 @@ London Polyglot to fill in gaps in the Paris Polyglot.</dcterms:abstract>
       <dc:subject>Subject: al-ʿAlam</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -10701,7 +10709,7 @@ Polyglots with a focus on the translation’s relation with its Greek Vorlage
       <dc:subject>Subject: al-ʿAlam</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -10764,7 +10772,7 @@ und historischen Commentar</dc:title>
       <dc:subject>Subject: al-ʿAlam</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -10800,7 +10808,7 @@ und historischen Commentar</dc:title>
       <dc:subject>Subject: al-ʿAlam</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -10837,7 +10845,7 @@ und historischen Commentar</dc:title>
       <dc:subject>Subject: al-ʿAlam</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -11592,7 +11600,7 @@ upon papyri datable to before 300 A.H./912 A.D</dc:title>
       <dc:subject>Subject: Violet Fragment</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -12062,7 +12070,7 @@ IIIe/IXe Siecle</dc:title>
       <dc:subject>Subject: New Testament</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:Article>
@@ -12506,7 +12514,7 @@ Monastery (Compare Lewis [#]).</dcterms:abstract>
       <dc:subject>Subject: Gospels</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -13376,7 +13384,7 @@ Arabic Diatesseron</dc:title>
       <dc:subject>Subject: Diatesseron</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:Article>
@@ -13744,7 +13752,7 @@ Introduction to the Arabic Diatessaron</dc:title>
       <dc:subject>Subject: Diatesseron</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
@@ -13787,7 +13795,7 @@ Creation, Dissemination, Significance, and History in Scholarship</dc:title>
       <dc:subject>Subject: Diatesseron</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -13830,7 +13838,7 @@ thereof, with notes on the Coptic reception. </dcterms:abstract>
       <dc:subject>Subject: Diatesseron</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -14123,7 +14131,7 @@ Diatessaron</dc:title>
       <dc:subject>Subject: Hibbatallah</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -14274,7 +14282,7 @@ Velasquez,</bib:pages>
       <dc:subject>Subject: Isaak Velasquez</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:Article>
@@ -14495,7 +14503,7 @@ Prologues, as preserved in Ms. Munich, Bayrische Staatsbibliothek, Ar. 238.</dct
       <dc:subject>Subject: Isaak Velasquez</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:Article>
@@ -14821,7 +14829,7 @@ dans une des premières traductions en arabe</dc:title>
       <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no pages</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:Article>
@@ -15437,7 +15445,7 @@ Adam.</dcterms:abstract>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -15852,7 +15860,7 @@ Alexandria</dc:title>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:Article>
@@ -16226,7 +16234,7 @@ etiopici</dc:title>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -16528,7 +16536,7 @@ Arabic.</dcterms:abstract>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
@@ -16599,7 +16607,7 @@ Edition und Übersetzung der arabischen und äthiopischen Versionen</dc:title>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
@@ -16629,7 +16637,7 @@ Edition und Übersetzung der arabischen und äthiopischen Versionen</dc:title>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
@@ -16660,7 +16668,7 @@ Morgenlands</dc:title>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:Article>
@@ -16727,7 +16735,7 @@ Johannes-Apokalypse</dc:title>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -17208,7 +17216,7 @@ Infancy Gospels</dcterms:abstract>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -17393,7 +17401,7 @@ Apocrypha (Leipzig:Avenarius et Mendelssohn, 1853) pp. 171-202.</dcterms:abstrac
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
@@ -17771,7 +17779,7 @@ briefly, with reference to [] Thilo.</dcterms:abstract>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -17839,7 +17847,7 @@ alongside Rödiger’s revisions of Wallin’s Arabic text []. The translation i
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -17975,7 +17983,7 @@ Oxford, Bodleian Library, Or. 251.</dcterms:abstract>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:Thesis>
@@ -18015,6 +18023,8 @@ Jacobi im Cod. Sin. Ar. 436</dc:title>
       <dc:subject>MS: Cairo, Coptic Orthodox Patriarchate, Theol. 209</dc:subject>
       <dc:subject>?MS: (Simaika 238)</dc:subject>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
+      <dc:subject>!uncaptured data</dc:subject>
+      <dc:description>  ,  .</dc:description>
       <dc:subject>!no abstract</dc:subject>
    </bib:Thesis>
    <bib:Article>
@@ -19288,7 +19298,7 @@ Translations to Judeo-Arabic</dc:title>
       <dc:subject>Subject: general</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
@@ -19956,7 +19966,7 @@ furnishes an edition text in Arabic letters, as well as a German translation. </
       <dc:subject>Subject: Prophets</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -20647,7 +20657,7 @@ was given to Barberini</dcterms:abstract>
       <dc:subject>Subject: Samaritan</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:Article>
@@ -20832,7 +20842,7 @@ Polyglot version for comparison, along with some annotations</bib:pages>
       <dc:subject>Subject: Samaritan</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
       <dc:subject>!no publisher</dc:subject>
    </bib:BookSection>
    <bib:Book>
@@ -22051,7 +22061,7 @@ Bible Quotations in al</foaf:name>
       <dc:subject>Subject: al-Biqāʿī</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!missing title</dc:subject>
    </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>

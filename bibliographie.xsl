@@ -1,4 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- TEXT TO ZOTERO BIBLIOGRAPHY CONVERTER  -->
+<!-- by Nathan Gibson -->
+<!-- Known Limitations:
+    - Entries that do not begin with [#] are not processed, or are mistakenly inserted as abstracts into another entry. 
+    - Does not support series information. 
+    - Encyclopedia articles are classified as book sections. 
+    - Encyclopedia articles may lose volume/page information. 
+    - Italics inside titles are not processed correctly. 
+    - Does not support reprint information.
+    - Does not support URLs.
+    - The conversion attempts to add tags to entries that may be missing information, e.g., "!no title"
+    - When the conversion adds manuscript tags, it flags with a "?" ones for which the format is unexpected.
+    - For subject tags, the converter grabs only the one most directly above the entry.
+    - Does not support the following fields:
+        z:seriesEditors
+        z:translators
+        z:bookAuthors
+        z:numberOfVolumes
+        z:language
+        dc:identifier -->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0"
     xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:syriaca="http://syriaca.org" xmlns:saxon="http://saxon.sf.net/" xmlns:functx="http://www.functx.com" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -77,7 +97,7 @@
         <xsl:if test="not($item-node/dc:abstract)"><dc:subject>!no abstract</dc:subject></xsl:if>
         <xsl:if test="not($item-node/dc:title)"><dc:subject>!no title</dc:subject></xsl:if>
         <xsl:if test="$itemType=('journalArticle','bookSection') and not($item-node/bib:pages)"><dc:subject>!no pages</dc:subject></xsl:if>
-        <xsl:if test="$itemType=('journalArticle','bookSection') and count($item-node/dc:title)=1"><dc:subject>!no pages</dc:subject></xsl:if>
+        <xsl:if test="$itemType=('journalArticle','bookSection') and count($item-node/dc:title)=1"><dc:subject>!missing title</dc:subject></xsl:if>
         <xsl:if test="$itemType=('journalArticle') and not($item-node/prism:volume)"><dc:subject>!no volume</dc:subject></xsl:if>
         <xsl:if test="$itemType=('book','bookSection') and not($item-node/dc:publisher)"><dc:subject>!no publisher</dc:subject></xsl:if>
     </xsl:function>
@@ -208,6 +228,18 @@
             </xsl:if>
         </entry>
     </xsl:function>
+    <xsl:function name="syriaca:add-uncaptured-data">
+        <xsl:param name="input-node"/>
+        <entry>
+            <xsl:copy-of select="$input-node/node()[not(. instance of text())]"/>
+            <xsl:for-each select="$input-node/node()[. instance of text()]">
+                <dc:description><xsl:copy-of select="."/></dc:description>
+            </xsl:for-each>
+            <xsl:if test="$input-node/node()[. instance of text()]">
+                <dc:subject>!uncaptured data</dc:subject>
+            </xsl:if>
+        </entry>
+    </xsl:function>
     
     
     
@@ -232,8 +264,6 @@
                             <xsl:variable name="mss" select="following-sibling::*[matches(.,'^\s*[Mm][Ss][Ss]')][1]"/>
                             <xsl:variable name="abstract" select="following-sibling::*[1][not(matches(.,'^\s*[Mm][Ss][Ss]') or matches(.,'^\s*\[#\]'))]"/>
                             <xsl:variable name="subject" select="preceding-sibling::*[tei:anchor][1]"/><xsl:variable name="regex-volume" select="'\s*[Vv]ol\.\s*([0-9A-Za-z]+(\-[0-9A-Za-z]+)?),*'"/>
-                            <!-- !!! This doesn't catch the place if there is no publisher name. 
-                                            Also fails if there is a slash, e.g., (Leiden/Boston: Brill, 2008) -->
                             <xsl:variable name="regex-publisher" select="'[,\(]\s*([\w\s\.&amp;;/]+):\s*([\w\s\.&amp;;]+)'"/>
                             <xsl:variable name="regex-date" select="'\s*((14|15|16|17|18|19|20)\d{2}(\-\d+)?)(,|\)|\.\s*$)'"/>
                             <xsl:variable name="regex-pages" select="'\s*p?p\.[\s\n\t]*((([0-9A-Za-z]+(\-[0-9A-Za-z]+)?),?\s*)+)\.*|\s*(col\.[\s\n\t]*(([0-9A-Za-z]+(\-[0-9A-Za-z]+)?),?\s*)+)\.*'"/>
@@ -252,7 +282,8 @@
                                         <xsl:variable name="title" select="syriaca:add-title($authors,',*\s*([A-Za-z]+[\s\S]*.*)+\s*')"/>
                                         <xsl:variable name="mss" select="syriaca:add-mss($title,$mss)"/>
                                         <xsl:variable name="abstract-subjects" select="syriaca:add-abstract-and-subjects($mss,$abstract,$subject)"/>
-                                        <xsl:copy-of select="$abstract-subjects"/>
+                                        <xsl:variable name="uncaptured-data" select="syriaca:add-uncaptured-data($abstract-subjects)"/>
+                                        <xsl:copy-of select="$uncaptured-data"/>
                                 </xsl:when>
                                 <xsl:otherwise>
                                     <entry>
@@ -530,6 +561,7 @@
                         <xsl:variable name="tags">
                             <xsl:copy-of select="$id"/>
                             <xsl:copy-of select="dc:subject"/>
+                            <xsl:copy-of select="dc:description"/>
                         </xsl:variable>
                         <xsl:choose>
                             <xsl:when test="z:itemType='thesis'">
@@ -632,6 +664,3 @@
     </xsl:template>
         
 </xsl:stylesheet>
-
-<!-- Knutsson entries are not showing up.
-Reprint -->
