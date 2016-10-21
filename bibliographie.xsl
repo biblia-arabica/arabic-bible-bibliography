@@ -168,6 +168,33 @@
             </xsl:for-each> 
         </entry>
     </xsl:function>
+    <xsl:function name="syriaca:add-mss">
+        <xsl:param name="input-node"/>
+        <xsl:param name="mss"/>
+        <entry>
+            <xsl:copy-of select="$input-node/node()"/>
+            <xsl:if test="$mss">
+                <xsl:variable name="mss-preface-regex" select="'^\s*(([Mm][Ss][Ss]\.?:?)|(and)?)'"/>
+                <xsl:variable name="mss-city-regex" select="'(\s*(.*?),)?'"/>
+                <xsl:variable name="mss-collection-regex" select="'(\s*(.*?),)?'"/>
+                <xsl:variable name="mss-item-regex" select="'(\s*(.+))\s*$?'"/>
+                <xsl:variable name="mss-tokenized" select="tokenize($mss,'\s*;\s*')"/>
+                <xsl:for-each select="$mss-tokenized">
+                    <xsl:analyze-string select="." regex="{concat($mss-preface-regex,$mss-city-regex, $mss-collection-regex,$mss-item-regex)}">
+                        <xsl:matching-substring>
+                            <xsl:for-each select="tokenize(regex-group(9),'(,(\sand\s)?)|\sand\s')">
+                                <dc:subject><xsl:value-of select="concat('MS: ',regex-group(5),', ',regex-group(7),', ',.)"/></dc:subject>
+                            </xsl:for-each>
+                        </xsl:matching-substring>
+                        <xsl:non-matching-substring>
+                            <dc:subject>?MS: <xsl:value-of select="."/></dc:subject>
+                        </xsl:non-matching-substring>
+                    </xsl:analyze-string>
+                </xsl:for-each>
+            </xsl:if> 
+        </entry>
+    </xsl:function>
+    
     
     <!-- The number the ID tags should start with. -->
     <xsl:variable name="id-start" select="1"/>
@@ -212,11 +239,12 @@
                             <xsl:variable name="regex-translators" select="'([Ee]d\.\s+and\s+)?[Tt]rans?l?\.?\s+(and\s+[Ee]d.\s*)?(\s+by\s+)?([\w\s,À-ʸ\-\.]+?)'"/>
                             <xsl:variable name="regex-thesis" select="'([Uu]npubl(\.|ished)\s*)?([\w\.]+)[\s\-]*[Tt]hesis,\s*(.+?),(([\w\s\.,]+),)?\s*((14|15|16|17|18|19|20)\d{2}(\-\d+)?)'"/>
                             <xsl:choose>
-                                <xsl:when test="matches(.,'[Tt]hesis')">
+                                <xsl:when test="matches(.,$regex-thesis)">
                                         <xsl:variable name="thesis" select="syriaca:add-thesis(.,$regex-thesis)"/>
                                         <xsl:variable name="authors" select="syriaca:add-authors($thesis,'\[#\]\s*([\w\sÀ-ʸ\-\.]+),')"/>
                                         <xsl:variable name="title" select="syriaca:add-title($authors,',*\s*([A-Za-z]+[\s\S]*.*)+\s*')"/>
-                                        <xsl:copy-of select="$title"/>
+                                        <xsl:variable name="mss" select="syriaca:add-mss($title,$mss)"/>
+                                        <xsl:copy-of select="$mss"/>
                                 </xsl:when>
                                 <xsl:otherwise>
                                     <entry>
