@@ -5383,64 +5383,25 @@ du Corpus SCO</foaf:name>
       <dc:subject>Subject: Editions, Chrestomathies</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Book>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Book/>
-      </dcterms:isPartOf>
-      <bib:authors>
-         <rdf:Seq>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>Drint</foaf:surname>
-                  <foaf:givenname>Adriana</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>Text</foaf:surname>
-                  <foaf:givenname>The Mount Sinai Arabic Version of IV Ezra.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
-            <rdf:li>
-               <foaf:Person/>
-            </rdf:li>
-            <rdf:li>
-               <foaf:Person/>
-            </rdf:li>
-            <rdf:li>
-               <foaf:Person/>
-            </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>Rijksuniversiteit Groningen</foaf:surname>
-                  <foaf:givenname/>
-               </foaf:Person>
-            </rdf:li>
-         </rdf:Seq>
-      </bib:authors>
+   <bib:Thesis>
+      <z:itemType>thesis</z:itemType>
+      <dc:publisher>
+         <foaf:Organization>
+            <foaf:name>Rijksuniversiteit Groningen</foaf:name>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality> </vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+         </foaf:Organization>
+      </dc:publisher>
       <dc:date>1959</dc:date>
+      <z:type>Rijksuniversiteit Groningen</z:type>
       <dc:subject>ID: 141</dc:subject>
-      <dc:subject>MS: Sinai, Ar. 7 and Ar. 589, Berlin</dc:subject>
-      <dc:subject>MS: Sinai, Ar. 7 and Ar. 589,  Staatsbibliothek</dc:subject>
-      <dc:subject>MS: Sinai, Ar. 7 and Ar. 589,  Sprenger 30</dc:subject>
-      <dc:subject>MS: Oxford, Bodleian Library, Or. 251</dc:subject>
-      <dc:subject>MS: Oxford, Bodleian Library, Hunt. 260</dc:subject>
-      <dc:subject>MS: Vatican, BAV, Ar. 462</dc:subject>
-      <dc:subject>MS: Vatican, BAV, Borg. Ar. 95</dc:subject>
-      <dc:subject>MS: Coptic Orthodox Patriarchate, Bibl. 75, 77</dc:subject>
-      <dc:subject>MS: Coptic Orthodox Patriarchate, Bibl. 75,  86</dc:subject>
-      <dc:subject>MS: Coptic Orthodox Patriarchate, Bibl. 75,  89</dc:subject>
-      <dc:subject>MS: Coptic Orthodox Patriarchate, Bibl. 75, Theol. 286</dc:subject>
-      <dc:subject>MS: Beirut, Bibliothèque Orientale, Ms. 419</dc:subject>
-      <dc:subject>MS: Paris, BNF, Ar. 51.</dc:subject>
-      <dc:subject>Subject: Editions, Chrestomathies</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
+      <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no title</dc:subject>
-      <dc:subject>!no pages</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
-   </bib:BookSection>
+   </bib:Thesis>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <bib:authors>
@@ -7403,25 +7364,22 @@ Sinai: It's Manuscripts and their Conservation: Papers Given in Memory of Profes
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <bib:authors>
-         <rdf:Seq>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>Theodoraki</foaf:surname>
-                  <foaf:givenname>G.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
-         </rdf:Seq>
-      </bib:authors>
       <dc:title>Les Enluminures du ms. Copte 13 de la
 B.N.</dc:title>
+      <dc:publisher>
+         <foaf:Organization>
+            <foaf:name>University of Paris</foaf:name>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality> </vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+         </foaf:Organization>
+      </dc:publisher>
       <dc:date>1966</dc:date>
       <dc:subject>ID: 196</dc:subject>
-      <dc:subject>MS: St Petersburg, RNL, A. N.S.</dc:subject>
-      <dc:subject>?MS: 327 and Leipzig, Universitätsbibliothek, Cod. Tisch. 31 and 37.</dc:subject>
-      <dc:subject>Subject: Art, paleography, codicology</dc:subject>
+      <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
@@ -8026,26 +7984,13 @@ Christian Arabic</dc:title>
       <dcterms:isPartOf>
          <bib:Book/>
       </dcterms:isPartOf>
-      <bib:authors>
-         <rdf:Seq>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>Bassal</foaf:surname>
-                  <foaf:givenname>Ibrahim</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
-         </rdf:Seq>
-      </bib:authors>
       <dc:title>Hebrew and Aramaic elements in the
 Vernacular Christian Arabic in Israel and in the Written Christian Arabic in the Holy Land, Syria
 and Lebanon</dc:title>
       <dc:subject>ID: 213</dc:subject>
-      <dc:subject>MS: Copenhagen, Royal Library, Ar. 75</dc:subject>
-      <dc:subject>MS: Leiden, University Library, Or. 377 (Warner 377)</dc:subject>
-      <dc:subject>MS: Leiden, University Library, Or. 230 (Scaliger Arab. 230).</dc:subject>
-      <dc:subject>Subject: Pentateuch</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no date</dc:subject>
+      <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no pages</dc:subject>
       <dc:subject>!no pages</dc:subject>
@@ -8377,26 +8322,22 @@ editarum, cum observationibus</dc:title>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <bib:authors>
-         <rdf:Seq>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>Rhode</foaf:surname>
-                  <foaf:givenname>Joseph Francis</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
-         </rdf:Seq>
-      </bib:authors>
       <dc:title>The Arabic Versions of the Pentateuch
 in the Church of Egypt</dc:title>
+      <dc:publisher>
+         <foaf:Organization>
+            <foaf:name>Catholic University of America, Washington</foaf:name>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality> D.C.</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+         </foaf:Organization>
+      </dc:publisher>
       <dc:date>1921</dc:date>
       <dc:subject>ID: 223</dc:subject>
-      <dc:subject>MS: Paris, BNF Ar. 1, Florence</dc:subject>
-      <dc:subject>MS: Paris, BNF Ar. 1,  BML Or. 112 (formerly</dc:subject>
-      <dc:subject>?MS: 21).</dc:subject>
-      <dc:subject>Subject: Pentateuch</dc:subject>
+      <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
    </bib:Book>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -8449,36 +8390,28 @@ ersten Buchs Moses zu Mannheim</dc:title>
       <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:BookSection>
-   <bib:Article>
-      <z:itemType>journalArticle</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Journal>
-            <dc:title>centuries: A Comparative Study of
-Manuscripts and Translation Techniques</dc:title>
-         </bib:Journal>
-      </dcterms:isPartOf>
-      <bib:authors>
-         <rdf:Seq>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>Ronny Vollandt</foaf:surname>
-                  <foaf:givenname/>
-               </foaf:Person>
-            </rdf:li>
-         </rdf:Seq>
-      </bib:authors>
+   <bib:Thesis>
+      <z:itemType>thesis</z:itemType>
       <dc:title>Christian-Arabic Translations of the
 Pentateuch from the 9th to the 13th</dc:title>
-      <dcterms:abstract>Offers a survey on the different translations of the Pentateuch and an in-depth
-study of Ms. Sinai, Ar. 2. </dcterms:abstract>
+      <dc:title>centuries: A Comparative Study of
+Manuscripts and Translation Techniques</dc:title>
+      <dc:publisher>
+         <foaf:Organization>
+            <foaf:name>University of Cambridge</foaf:name>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality> </vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+         </foaf:Organization>
+      </dc:publisher>
       <dc:date>2011</dc:date>
+      <z:type>University of Cambridge</z:type>
       <dc:subject>ID: 225</dc:subject>
-      <dc:subject>MS: ,  ,  </dc:subject>
-      <dc:subject>Subject: Pentateuch</dc:subject>
+      <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no pages</dc:subject>
-      <dc:subject>!no volume</dc:subject>
-   </bib:Article>
+   </bib:Thesis>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -10191,35 +10124,22 @@ comparison with the Peshitta.</dcterms:abstract>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <bib:authors>
-         <rdf:Seq>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>Stapleton</foaf:surname>
-                  <foaf:givenname>Russel</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
-         </rdf:Seq>
-      </bib:authors>
       <dc:title>An Edition of the Book of Daniel and
 Associated Apocrypha in Ms. Sinai Arabic I</dc:title>
-      <dcterms:abstract>Contains an edition and translation of Daniel, as preserved in Ms. Sinai, Ar. 1,
-with a discussion of linguistic features and the relation between Sinai Ar. 1 and a few related
-manuscripts.</dcterms:abstract>
+      <dc:publisher>
+         <foaf:Organization>
+            <foaf:name>Brandeis University</foaf:name>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality> </vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+         </foaf:Organization>
+      </dc:publisher>
       <dc:date>1989</dc:date>
       <dc:subject>ID: 263</dc:subject>
-      <dc:subject>MS: London, BL, Add. 26116</dc:subject>
-      <dc:subject>MS: Oxford, Bodleian Library, Fraser 257</dc:subject>
-      <dc:subject>MS: Oxford, Bodleian Library,  Arch. Seld. A67</dc:subject>
-      <dc:subject>MS: Sinai, Ar. 1, Ar. 9</dc:subject>
-      <dc:subject>MS: Sinai, Ar. 1,  Ar. 448 (?)</dc:subject>
-      <dc:subject>MS: Sinai, Ar. 1,  Ar. 513</dc:subject>
-      <dc:subject>MS: Sinai, Ar. 1,  Ar. 539</dc:subject>
-      <dc:subject>MS: , Ar. 597, Ar. 597</dc:subject>
-      <dc:subject>MS: Vatican, BAV, Ar. 503.</dc:subject>
-      <dc:subject>Subject: Prophets</dc:subject>
+      <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
    </bib:Book>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -10910,26 +10830,21 @@ Monferrer Sala.)</dcterms:abstract>
       <dc:subject>Subject: Sapiential books</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Book>
-   <bib:Book>
-      <z:itemType>book</z:itemType>
-      <bib:authors>
-         <rdf:Seq>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>Blackburn</foaf:surname>
-                  <foaf:givenname>Steven</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
-         </rdf:Seq>
-      </bib:authors>
+   <bib:BookSection>
+      <z:itemType>bookSection</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Book/>
+      </dcterms:isPartOf>
       <dc:title>The early Arabic versions of Job (first millennium C.E.)</dc:title>
-      <dc:date>1999</dc:date>
       <dc:subject>ID: 284</dc:subject>
-      <dc:subject>MS: St Petersburg, Institute of Oriental Manuscripts, A 187 </dc:subject>
-      <dc:subject>Subject: Sapiential books</dc:subject>
+      <dc:subject>!unknown type</dc:subject>
+      <dc:subject>!no date</dc:subject>
+      <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dc:subject>!no pages</dc:subject>
+      <dc:subject>!no pages</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-   </bib:Book>
+   </bib:BookSection>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -15878,30 +15793,8 @@ Macchabées dans les Polyglottes de Londres et la Bible manuscrite de St. Péter
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:BookSection>
-   <bib:Book>
+   <bib:Thesis>
       <z:itemType>thesis</z:itemType>
-      <bib:authors>
-         <rdf:Seq>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>Gauguine</foaf:surname>
-                  <foaf:givenname>Maurice</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>Abraham</foaf:surname>
-                  <foaf:givenname>The Falasha Version of the Testaments of</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
-            <rdf:li>
-               <foaf:Person/>
-            </rdf:li>
-            <rdf:li>
-               <foaf:Person/>
-            </rdf:li>
-         </rdf:Seq>
-      </bib:authors>
       <dc:publisher>
          <foaf:Organization>
             <foaf:name>Manchester</foaf:name>
@@ -15912,16 +15805,13 @@ Macchabées dans les Polyglottes de Londres et la Bible manuscrite de St. Péter
             </vcard:adr>
          </foaf:Organization>
       </dc:publisher>
-      <dcterms:abstract>Treats a literal and freer translation of Arabic version into Ge’ez. </dcterms:abstract>
-      <z:type>PhD</z:type>
+      <dc:date>1965</dc:date>
+      <z:type>Manchester</z:type>
       <dc:subject>ID: 431</dc:subject>
-      <dc:subject>MS: Sinai, Ar. 436, Ar. 535</dc:subject>
-      <dc:subject>MS: Sinai, Ar. 436, Ar. 556.</dc:subject>
-      <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
-      <dc:subject>!no date</dc:subject>
+      <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no title</dc:subject>
-   </bib:Book>
+   </bib:Thesis>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -17854,32 +17744,22 @@ Oxford, Bodleian Library, Or. 251.</dcterms:abstract>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <bib:authors>
-         <rdf:Seq>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>Wetzel</foaf:surname>
-                  <foaf:givenname>E.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
-         </rdf:Seq>
-      </bib:authors>
       <dc:title>Ein weiteres Bruchstück des Protoevangelium
 Jacobi im Cod. Sin. Ar. 436</dc:title>
-      <dcterms:abstract>Biblical quotations in Christian Arabic writings</dcterms:abstract>
+      <dc:publisher>
+         <foaf:Organization>
+            <foaf:name>Ludwig-Maximilian-Universität</foaf:name>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality> Munich</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+         </foaf:Organization>
+      </dc:publisher>
       <dc:date>1990</dc:date>
       <dc:subject>ID: 486</dc:subject>
-      <dc:subject>MS: Sinai,  Ar. 75 (fols 102-223), Ar. 75 (fols 102-223)</dc:subject>
-      <dc:subject>MS: , Ar. 441 (fols 121-227), Ar. 441 (fols 121-227)</dc:subject>
-      <dc:subject>MS: , Ar. 436 (?), Ar. 436 (?)</dc:subject>
-      <dc:subject>MS: Vatican, Biblioteca Vaticana, Ar. 491</dc:subject>
-      <dc:subject>MS: , Ar. 645 (fols 184-192), Ar. 645 (fols 184-192)</dc:subject>
-      <dc:subject>MS: Jerusalem, St. Anne, 33</dc:subject>
-      <dc:subject>MS: Cairo, Coptic Orthodox Patriarchate, Theol. 209</dc:subject>
-      <dc:subject>?MS: (Simaika 238)</dc:subject>
-      <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
+      <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
    </bib:Book>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>

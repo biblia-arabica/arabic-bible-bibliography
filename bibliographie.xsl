@@ -81,6 +81,34 @@
         <xsl:if test="$itemType=('journalArticle') and not($item-node/prism:volume)"><dc:subject>!no volume</dc:subject></xsl:if>
         <xsl:if test="$itemType=('book','bookSection') and not($item-node/dc:publisher)"><dc:subject>!no publisher</dc:subject></xsl:if>
     </xsl:function>
+    <xsl:function name="syriaca:extract-thesis">
+        <xsl:param name="input-node"/>
+        <xsl:param name="regex-thesis"/>
+        <xsl:analyze-string 
+            select="$input-node" 
+            regex="{$regex-thesis}">
+            <xsl:matching-substring>
+                <xsl:if test="regex-group(1)">
+                    <z:itemType>thesis</z:itemType>
+                    <dc:publisher>
+                        <foaf:Organization>
+                            <foaf:name><xsl:value-of select="regex-group(2)"/></foaf:name>
+                            <vcard:adr>
+                                <vcard:Address>
+                                    <vcard:locality><xsl:value-of select="regex-group(4)"/></vcard:locality>
+                                </vcard:Address>
+                            </vcard:adr>
+                        </foaf:Organization>
+                    </dc:publisher>
+                    <dc:date><xsl:value-of select="regex-group(5)"/></dc:date>
+                    <z:type><xsl:value-of select="regex-group(2)"/></z:type>
+                </xsl:if>
+            </xsl:matching-substring>
+            <xsl:non-matching-substring>
+                <xsl:copy-of select="."/>
+            </xsl:non-matching-substring>
+        </xsl:analyze-string>
+    </xsl:function>
     
     <!-- The number the ID tags should start with. -->
     <xsl:variable name="id-start" select="1"/>
@@ -110,27 +138,40 @@
                         <xsl:for-each select="$entry-with-titles/entry[matches(.,'^\s*\[#\]')]">
                             <xsl:variable name="mss" select="following-sibling::*[matches(.,'^\s*[Mm][Ss][Ss]')][1]"/>
                             <xsl:variable name="abstract" select="following-sibling::*[1][not(matches(.,'^\s*[Mm][Ss][Ss]') or matches(.,'^\s*\[#\]'))]"/>
-                            <xsl:variable name="subject" select="preceding-sibling::*[tei:anchor][1]"/>
-                            <entry>
-                            <xsl:for-each select="node()">
-                                    <xsl:choose>
-                                        <xsl:when test="name()='dc:title'"><xsl:copy-of select="."/></xsl:when>
-                                        <xsl:otherwise>
-                                            <xsl:variable name="regex-volume" select="'\s*[Vv]ol\.\s*([0-9A-Za-z]+(\-[0-9A-Za-z]+)?),*'"/>
-                                            <!-- !!! This doesn't catch the place if there is no publisher name. 
+                            <xsl:variable name="subject" select="preceding-sibling::*[tei:anchor][1]"/><xsl:variable name="regex-volume" select="'\s*[Vv]ol\.\s*([0-9A-Za-z]+(\-[0-9A-Za-z]+)?),*'"/>
+                            <!-- !!! This doesn't catch the place if there is no publisher name. 
                                             Also fails if there is a slash, e.g., (Leiden/Boston: Brill, 2008) -->
-                                            <xsl:variable name="regex-publisher" select="'[,\(]\s*([\w\s\.&amp;;]+):\s*([\w\s\.&amp;;]+)'"/>
-                                            <xsl:variable name="regex-date" select="'\s*((14|15|16|17|18|19|20)\d{2}(\-\d+)?)(,|\)|\.\s*$)'"/>
-                                            <xsl:variable name="regex-pages" select="'\s*p?p\.[\s\n\t]*((([0-9A-Za-z]+(\-[0-9A-Za-z]+)?),?\s*)+)\.*|\s*(col\.[\s\n\t]*(([0-9A-Za-z]+(\-[0-9A-Za-z]+)?),?\s*)+)\.*'"/>
-                                            <xsl:variable name="regex-edition" select="',\s*([A-Za-z0-9]+\.?)\s*ed\.,?'"/>
-                                            <xsl:variable name="regex-editors" select="'(\[#\]|in)\s+([\w\s,À-ʸ\-\.]+?)\(eds?\.?\),?\s*'"/>
-                                            <xsl:variable name="regex-journal-volume" select="'(^[\s\S]*?|^)\s*(\d+\.?\d*)\s*\(*$'"/>
-                                            <xsl:variable name="regex-series-volume" select="',\s*([\s\S]*?)\s*(\d+\.?\d*)\s*'"/>
-                                            <xsl:variable name="regex-authors" select="'\[#\]\s*([\w\s,À-ʸ\-\.]+)'"/>
-                                            <xsl:variable name="regex-article-title" select="'[“-‟&quot;]+([\s\S]*)[“-‟&quot;]+'"/>
-                                            <xsl:variable name="regex-translators" select="'([Ee]d\.\s+and\s+)?[Tt]rans?l?\.?\s+(and\s+[Ee]d.\s*)?(\s+by\s+)?([\w\s,À-ʸ\-\.]+?)'"/>
-                                            <xsl:variable name="regex-thesis" select="'(unpubl\.[\s\n\t]*)?([\w\.]+)[\s\n\t\-]*[Tt]hesis, (\w+)(,[\s\n\t]*([\w\s\n\t\.]+))?,[\s\n\t]*'"/>
-                                            
+                            <xsl:variable name="regex-publisher" select="'[,\(]\s*([\w\s\.&amp;;]+):\s*([\w\s\.&amp;;]+)'"/>
+                            <xsl:variable name="regex-date" select="'\s*((14|15|16|17|18|19|20)\d{2}(\-\d+)?)(,|\)|\.\s*$)'"/>
+                            <xsl:variable name="regex-pages" select="'\s*p?p\.[\s\n\t]*((([0-9A-Za-z]+(\-[0-9A-Za-z]+)?),?\s*)+)\.*|\s*(col\.[\s\n\t]*(([0-9A-Za-z]+(\-[0-9A-Za-z]+)?),?\s*)+)\.*'"/>
+                            <xsl:variable name="regex-edition" select="',\s*([A-Za-z0-9]+\.?)\s*ed\.,?'"/>
+                            <xsl:variable name="regex-editors" select="'(\[#\]|in)\s+([\w\s,À-ʸ\-\.]+?)\(eds?\.?\),?\s*'"/>
+                            <xsl:variable name="regex-journal-volume" select="'(^[\s\S]*?|^)\s*(\d+\.?\d*)\s*\(*$'"/>
+                            <xsl:variable name="regex-series-volume" select="',\s*([\s\S]*?)\s*(\d+\.?\d*)\s*'"/>
+                            <xsl:variable name="regex-authors" select="'\[#\]\s*([\w\s,À-ʸ\-\.]+)'"/>
+                            <xsl:variable name="regex-article-title" select="'[“-‟&quot;]+([\s\S]*)[“-‟&quot;]+'"/>
+                            <xsl:variable name="regex-translators" select="'([Ee]d\.\s+and\s+)?[Tt]rans?l?\.?\s+(and\s+[Ee]d.\s*)?(\s+by\s+)?([\w\s,À-ʸ\-\.]+?)'"/>
+                            <xsl:variable name="regex-thesis" select="'([\w\.]+)[\s\-]*[Tt]hesis,\s*(.+?),(([\w\s\.]+),)?\s*((14|15|16|17|18|19|20)\d{2}(\-\d+)?)'"/>
+                            <xsl:choose>
+                                <xsl:when test="matches(.,'[Tt]hesis')">
+                                    <entry>
+                                        <xsl:for-each select="node()">
+                                            <xsl:choose>
+                                                <xsl:when test="name()='dc:title'"><xsl:copy-of select="."/></xsl:when>
+                                                <xsl:otherwise>
+                                                    <!--<z:itemType>thesis</z:itemType>-->
+                                                    <xsl:copy-of select="syriaca:extract-thesis(.,$regex-thesis)"/>
+                                                </xsl:otherwise>
+                                            </xsl:choose>
+                                        </xsl:for-each>
+                                    </entry>
+                                </xsl:when>
+                                <xsl:otherwise>
+                                    <entry>
+                                        <xsl:for-each select="node()">
+                                            <xsl:choose>
+                                                <xsl:when test="name()='dc:title'"><xsl:copy-of select="."/></xsl:when>
+                                                <xsl:otherwise>
                                                     <xsl:analyze-string 
                                                         select="." 
                                                         regex="{$regex-pages}"> 
@@ -152,7 +193,7 @@
                                                                     </xsl:if>
                                                                 </xsl:matching-substring>
                                                                 <xsl:non-matching-substring>
-                                                                        <xsl:analyze-string 
+                                                                    <xsl:analyze-string 
                                                                         select="." 
                                                                         regex="{$regex-volume}">
                                                                         <xsl:matching-substring>
@@ -306,41 +347,45 @@
                                                                                 </xsl:non-matching-substring>
                                                                             </xsl:analyze-string>
                                                                         </xsl:non-matching-substring>
-                                                                        </xsl:analyze-string>
+                                                                    </xsl:analyze-string>
                                                                 </xsl:non-matching-substring>
                                                             </xsl:analyze-string>
                                                         </xsl:non-matching-substring>
                                                     </xsl:analyze-string>
-                                        </xsl:otherwise>
-                                    </xsl:choose>   
-                            </xsl:for-each>
-                                <xsl:if test="$mss">
-                                    <xsl:variable name="mss-preface-regex" select="'^\s*(([Mm][Ss][Ss]\.?:?)|(and)?)'"/>
-                                    <xsl:variable name="mss-city-regex" select="'(\s*(.*?),)?'"/>
-                                    <xsl:variable name="mss-collection-regex" select="'(\s*(.*?),)?'"/>
-                                    <xsl:variable name="mss-item-regex" select="'(\s*(.+))\s*$?'"/>
-                                    <xsl:variable name="mss-tokenized" select="tokenize($mss,'\s*;\s*')"/>
-                                    <xsl:for-each select="$mss-tokenized">
-                                        <xsl:analyze-string select="." regex="{concat($mss-preface-regex,$mss-city-regex, $mss-collection-regex,$mss-item-regex)}">
-                                            <xsl:matching-substring>
-                                                <xsl:for-each select="tokenize(regex-group(9),'(,(\sand\s)?)|\sand\s')">
-                                                    <dc:subject><xsl:value-of select="concat('MS: ',regex-group(5),', ',regex-group(7),', ',.)"/></dc:subject>
-                                                </xsl:for-each>
-                                            </xsl:matching-substring>
-                                            <xsl:non-matching-substring>
-                                                <dc:subject>?MS: <xsl:value-of select="."/></dc:subject>
-                                            </xsl:non-matching-substring>
-                                        </xsl:analyze-string>
-                                    </xsl:for-each>
-                                    
-                                </xsl:if>
-                                <xsl:if test="$abstract">
-                                    <dcterms:abstract><xsl:value-of select="$abstract"/></dcterms:abstract>
-                                </xsl:if>
-                                <xsl:if test="$subject">
-                                    <dc:subject>Subject: <xsl:value-of select="$subject"/></dc:subject>
-                                </xsl:if>
-                            </entry>
+                                                </xsl:otherwise>
+                                            </xsl:choose>   
+                                        </xsl:for-each>
+                                        <xsl:if test="$mss">
+                                            <xsl:variable name="mss-preface-regex" select="'^\s*(([Mm][Ss][Ss]\.?:?)|(and)?)'"/>
+                                            <xsl:variable name="mss-city-regex" select="'(\s*(.*?),)?'"/>
+                                            <xsl:variable name="mss-collection-regex" select="'(\s*(.*?),)?'"/>
+                                            <xsl:variable name="mss-item-regex" select="'(\s*(.+))\s*$?'"/>
+                                            <xsl:variable name="mss-tokenized" select="tokenize($mss,'\s*;\s*')"/>
+                                            <xsl:for-each select="$mss-tokenized">
+                                                <xsl:analyze-string select="." regex="{concat($mss-preface-regex,$mss-city-regex, $mss-collection-regex,$mss-item-regex)}">
+                                                    <xsl:matching-substring>
+                                                        <xsl:for-each select="tokenize(regex-group(9),'(,(\sand\s)?)|\sand\s')">
+                                                            <dc:subject><xsl:value-of select="concat('MS: ',regex-group(5),', ',regex-group(7),', ',.)"/></dc:subject>
+                                                        </xsl:for-each>
+                                                    </xsl:matching-substring>
+                                                    <xsl:non-matching-substring>
+                                                        <dc:subject>?MS: <xsl:value-of select="."/></dc:subject>
+                                                    </xsl:non-matching-substring>
+                                                </xsl:analyze-string>
+                                            </xsl:for-each>
+                                            
+                                        </xsl:if>
+                                        <xsl:if test="$abstract">
+                                            <dcterms:abstract><xsl:value-of select="$abstract"/></dcterms:abstract>
+                                        </xsl:if>
+                                        <xsl:if test="$subject">
+                                            <dc:subject>Subject: <xsl:value-of select="$subject"/></dc:subject>
+                                        </xsl:if>
+                                    </entry>
+                                </xsl:otherwise>
+                            </xsl:choose>
+                            
+                            
                         </xsl:for-each>
                     </xsl:variable>
                     
@@ -450,7 +495,7 @@
                                 </bib:Book>
                             </xsl:when>
                             <xsl:when test="z:itemType='thesis'">
-                                <bib:Book>
+                                <bib:Thesis>
                                     <xsl:variable name="itemType" select="'thesis'"/>
                                     <z:itemType><xsl:value-of select="$itemType"/></z:itemType>
                                     <xsl:copy-of select="$contributors-all"/>
@@ -459,7 +504,7 @@
                                     <xsl:copy-of select="z:type"/>
                                     <xsl:copy-of select="$tags"/>
                                     <xsl:copy-of select="syriaca:create-flags(.,$itemType)"/>
-                                </bib:Book>
+                                </bib:Thesis>
                             </xsl:when>
                             <!-- Unknown item type -->
                             <!-- !!! This seems to be catching things that should be regular book section instead. E.g., Walid Saleh, An Islamic Diatessaron -->
