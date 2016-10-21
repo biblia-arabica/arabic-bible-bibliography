@@ -95,7 +95,7 @@
                             <foaf:name><xsl:value-of select="regex-group(2)"/></foaf:name>
                             <vcard:adr>
                                 <vcard:Address>
-                                    <vcard:locality><xsl:value-of select="regex-group(4)"/></vcard:locality>
+                                    <vcard:locality><xsl:value-of select="normalize-space(regex-group(4))"/></vcard:locality>
                                 </vcard:Address>
                             </vcard:adr>
                         </foaf:Organization>
@@ -151,7 +151,7 @@
                             <xsl:variable name="regex-authors" select="'\[#\]\s*([\w\s,À-ʸ\-\.]+)'"/>
                             <xsl:variable name="regex-article-title" select="'[“-‟&quot;]+([\s\S]*)[“-‟&quot;]+'"/>
                             <xsl:variable name="regex-translators" select="'([Ee]d\.\s+and\s+)?[Tt]rans?l?\.?\s+(and\s+[Ee]d.\s*)?(\s+by\s+)?([\w\s,À-ʸ\-\.]+?)'"/>
-                            <xsl:variable name="regex-thesis" select="'([\w\.]+)[\s\-]*[Tt]hesis,\s*(.+?),(([\w\s\.]+),)?\s*((14|15|16|17|18|19|20)\d{2}(\-\d+)?)'"/>
+                            <xsl:variable name="regex-thesis" select="'([\w\.]+)[\s\-]*[Tt]hesis,\s*(.+?),(([\w\s\.,]+),)?\s*((14|15|16|17|18|19|20)\d{2}(\-\d+)?)'"/>
                             <xsl:choose>
                                 <xsl:when test="matches(.,'[Tt]hesis')">
                                     <entry>

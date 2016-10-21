@@ -5390,7 +5390,7 @@ du Corpus SCO</foaf:name>
             <foaf:name>Rijksuniversiteit Groningen</foaf:name>
             <vcard:adr>
                <vcard:Address>
-                  <vcard:locality> </vcard:locality>
+                  <vcard:locality/>
                </vcard:Address>
             </vcard:adr>
          </foaf:Organization>
@@ -7371,7 +7371,7 @@ B.N.</dc:title>
             <foaf:name>University of Paris</foaf:name>
             <vcard:adr>
                <vcard:Address>
-                  <vcard:locality> </vcard:locality>
+                  <vcard:locality/>
                </vcard:Address>
             </vcard:adr>
          </foaf:Organization>
@@ -8326,10 +8326,10 @@ editarum, cum observationibus</dc:title>
 in the Church of Egypt</dc:title>
       <dc:publisher>
          <foaf:Organization>
-            <foaf:name>Catholic University of America, Washington</foaf:name>
+            <foaf:name>Catholic University of America</foaf:name>
             <vcard:adr>
                <vcard:Address>
-                  <vcard:locality> D.C.</vcard:locality>
+                  <vcard:locality>Washington, D.C.</vcard:locality>
                </vcard:Address>
             </vcard:adr>
          </foaf:Organization>
@@ -8401,7 +8401,7 @@ Manuscripts and Translation Techniques</dc:title>
             <foaf:name>University of Cambridge</foaf:name>
             <vcard:adr>
                <vcard:Address>
-                  <vcard:locality> </vcard:locality>
+                  <vcard:locality/>
                </vcard:Address>
             </vcard:adr>
          </foaf:Organization>
@@ -10131,7 +10131,7 @@ Associated Apocrypha in Ms. Sinai Arabic I</dc:title>
             <foaf:name>Brandeis University</foaf:name>
             <vcard:adr>
                <vcard:Address>
-                  <vcard:locality> </vcard:locality>
+                  <vcard:locality/>
                </vcard:Address>
             </vcard:adr>
          </foaf:Organization>
@@ -15800,7 +15800,7 @@ Macchabées dans les Polyglottes de Londres et la Bible manuscrite de St. Péter
             <foaf:name>Manchester</foaf:name>
             <vcard:adr>
                <vcard:Address>
-                  <vcard:locality> </vcard:locality>
+                  <vcard:locality/>
                </vcard:Address>
             </vcard:adr>
          </foaf:Organization>
@@ -17751,7 +17751,7 @@ Jacobi im Cod. Sin. Ar. 436</dc:title>
             <foaf:name>Ludwig-Maximilian-Universität</foaf:name>
             <vcard:adr>
                <vcard:Address>
-                  <vcard:locality> Munich</vcard:locality>
+                  <vcard:locality>Munich</vcard:locality>
                </vcard:Address>
             </vcard:adr>
          </foaf:Organization>
