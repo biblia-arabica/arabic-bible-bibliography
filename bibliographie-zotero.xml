@@ -60,13 +60,14 @@
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:BookSection>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
-            <dc:title>The Task of Translation |
-L’onore della traduzione | La tâche de la traduction</dc:title>
-         </bib:Book>
+         <bib:Journal>
+            <dc:title>Oasis: Rivista semestrale della Fondazione
+Internazionale/ Oasis: A Biannual Journal of the Oasis International Foundation</dc:title>
+            <prism:volume>17</prism:volume>
+         </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -90,24 +91,17 @@ L’onore della traduzione | La tâche de la traduction</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:title>The Task of Translation |
+L’onore della traduzione | La tâche de la traduction</dc:title>
       <dc:date>2013</dc:date>
       <bib:pages>90-97</bib:pages>
       <dc:subject>ID: 2</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
       <dc:subject>MS: Berlin, Staatsbibliothek, Violet fragment</dc:subject>
       <dc:subject>MS: Istanbul, Süleymaniye, Carullah 3</dc:subject>
       <dc:subject>MS: Cambridge, CUL, T-S Ar. 1a.55.</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!missing title</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_2-1"/>
-   </bib:BookSection>
-   <bib:Memo rdf:about="#note_2-1">
-      <rdf:value> Oasis: Rivista semestrale della Fondazione
-Internazionale/ Oasis: A Biannual Journal of the Oasis International Foundation 17 ( ,  </rdf:value>
-   </bib:Memo>
+   </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <bib:authors>
@@ -522,6 +516,7 @@ Verlagsbuchhandlung</foaf:name>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Near East Theological Review</dc:title>
+            <dc:title>(in Arabic)</dc:title>
             <prism:volume>5</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -552,7 +547,6 @@ Verlagsbuchhandlung</foaf:name>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
          <bib:Book>
-            <dc:title>מקראת, תרגומים, ערבית</dc:title>
             <prism:volume>24</prism:volume>
          </bib:Book>
       </dcterms:isPartOf>
@@ -566,6 +560,7 @@ Verlagsbuchhandlung</foaf:name>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:title>מקראת, תרגומים, ערבית</dc:title>
       <bib:pages>cols. 304-305</bib:pages>
       <dc:subject>ID: 13</dc:subject>
       <dc:subject>!unknown type</dc:subject>
@@ -637,7 +632,6 @@ historical, text-critical and literary aspects</dc:title>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
          <bib:Book>
-            <dc:title>מקרא, תרגומים, תתרגומיים נוצריים לערבית</dc:title>
             <prism:volume>24</prism:volume>
          </bib:Book>
       </dcterms:isPartOf>
@@ -651,6 +645,7 @@ historical, text-critical and literary aspects</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:title>מקרא, תרגומים, תתרגומיים נוצריים לערבית</dc:title>
       <dc:publisher>
          <foaf:Organization>
             <vcard:adr>
@@ -683,9 +678,7 @@ historical, text-critical and literary aspects</dc:title>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
-            <dc:title>תרגומים ערביים</dc:title>
-         </bib:Book>
+         <bib:Book/>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -707,6 +700,7 @@ historical, text-critical and literary aspects</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:editors>
+      <dc:title>תרגומים ערביים</dc:title>
       <dc:publisher>
          <foaf:Organization>
             <vcard:adr>
@@ -1970,6 +1964,7 @@ Century)</dc:title>
       <dcterms:isPartOf>
          <bib:Book>
             <dc:title>Enzyklopaedie des Islam</dc:title>
+            <dc:title>Handwörterbuch des Islam</dc:title>
             <prism:volume>4</prism:volume>
          </bib:Book>
       </dcterms:isPartOf>
@@ -1999,7 +1994,7 @@ Century)</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:editors>
-      <dc:title>Handwörterbuch des Islam</dc:title>
+      <dc:title>Tawrāt</dc:title>
       <dc:publisher>
          <foaf:Organization>
             <vcard:adr>
@@ -2062,6 +2057,7 @@ Century)</dc:title>
       <dcterms:isPartOf>
          <bib:Book>
             <dc:title>Enzyklopaedie des Islam</dc:title>
+            <dc:title>Handwörterbuch des Islam</dc:title>
             <prism:volume>4</prism:volume>
          </bib:Book>
       </dcterms:isPartOf>
@@ -2091,7 +2087,7 @@ Century)</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:editors>
-      <dc:title>Handwörterbuch des Islam</dc:title>
+      <dc:title>Zabūr</dc:title>
       <dc:publisher>
          <foaf:Organization>
             <vcard:adr>
@@ -2425,6 +2421,7 @@ selection of Christian, Judaeo-Arabic and Samaritan traditions. </dcterms:abstra
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Oriens Christianus</dc:title>
+            <dc:title/>
             <prism:volume>83</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -3084,12 +3081,14 @@ Vostok</dc:title>
       <rdf:value> [The
 Bible and Arabic Philology in Russia ( ]. in  . Issue 2-3.  [English summary on ].</rdf:value>
    </bib:Memo>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
-            <dc:title>Biblija i arabskaja filologija v Rossii (</dc:title>
-         </bib:Book>
+         <bib:Journal>
+            <dc:title>Biblija i arabskaja filologija v Rossii ( ” [La
+Bible et la philologie arabe en Russie (</dc:title>
+            <prism:volume>1991</prism:volume>
+         </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -3106,18 +3105,15 @@ Bible and Arabic Philology in Russia ( ]. in  . Issue 2-3.  [English summary on 
       <dc:date>2010</dc:date>
       <bib:pages>179-197</bib:pages>
       <dc:subject>ID: 70</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
       <dc:subject>MS: Violet fragment and Moscow, State Library, Ms. 432.</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!missing title</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
       <dcterms:isReferencedBy rdf:resource="#note_70-1"/>
-   </bib:BookSection>
+   </bib:Article>
    <bib:Memo rdf:about="#note_70-1">
-      <rdf:value> [La
-Bible et la philologie arabe en Russie (1991– ]. Simvol 58 ( ,</rdf:value>
+      <rdf:value>– ]. Simvol 58 ( ,</rdf:value>
    </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -3178,12 +3174,13 @@ Theology</foaf:name>
    <bib:Memo rdf:about="#note_71-1">
       <rdf:value>, University of Malta, ,</rdf:value>
    </bib:Memo>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
-            <dc:title>xxxx</dc:title>
-         </bib:Book>
+         <bib:Journal>
+            <dc:title>in Sijon</dc:title>
+            <prism:volume>6</prism:volume>
+         </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -3195,21 +3192,19 @@ Theology</foaf:name>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:title>xxxx</dc:title>
       <dcterms:abstract>Fernleihe?</dcterms:abstract>
       <dc:date>1974</dc:date>
       <dc:subject>ID: 72</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
       <dc:subject>MS: Violet fragment and Moscow, State Library, Ms. 432.</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no pages</dc:subject>
-      <dc:subject>!missing title</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
       <dcterms:isReferencedBy rdf:resource="#note_72-1"/>
-   </bib:BookSection>
+   </bib:Article>
    <bib:Memo rdf:about="#note_72-1">
-      <rdf:value> in Sijon 6 (  54-59. </rdf:value>
+      <rdf:value>  54-59. </rdf:value>
    </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
@@ -3713,12 +3708,13 @@ history of Bible translation in Maltese</dc:title>
       <rdf:value>Melita Theologica Supplementary
 Series 2  , University of Malta .</rdf:value>
    </bib:Memo>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
-            <dc:title>Il-Bibbja bil-Malti</dc:title>
-         </bib:Book>
+         <bib:Journal>
+            <dc:title>in Sijon</dc:title>
+            <prism:volume>6</prism:volume>
+         </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -3730,26 +3726,19 @@ Series 2  , University of Malta .</rdf:value>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:title>Il-Bibbja bil-Malti</dc:title>
       <dcterms:abstract>Includes a list of printed Maltese Bibles.</dcterms:abstract>
       <dc:date>1973</dc:date>
       <bib:pages>27-31</bib:pages>
       <dc:subject>ID: 85</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
       <dc:subject>MS: Venice,  St. Mark 11 (Venet. 11) and 27 (Venet. 539), St. Mark 11 (Venet. 11)</dc:subject>
       <dc:subject>MS: Venice,  St. Mark 11 (Venet. 11) and 27 (Venet. 539), 27 (Venet. 539)</dc:subject>
       <dc:subject>MS: , Greek monastery, Greek monastery</dc:subject>
       <dc:subject>?MS: Jerusalem Cod. 1</dc:subject>
       <dc:subject>MS: Leiden, University Library, Or. 243.</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!missing title</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_85-1"/>
-   </bib:BookSection>
-   <bib:Memo rdf:about="#note_85-1">
-      <rdf:value> in Sijon 6 ( ,</rdf:value>
-   </bib:Memo>
+   </bib:Article>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -3849,6 +3838,7 @@ of the Old Testament</dc:title>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Melita Theologica</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>10</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -3882,6 +3872,7 @@ features in their translation techniques. </dcterms:abstract>
          <bib:Journal>
             <dc:title>Lehen
 il-Malti</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>15</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -3912,6 +3903,7 @@ il-Malti</dc:title>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>The Sundial</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>10</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -3948,6 +3940,8 @@ Maltese</dc:title>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>The Sundial</dc:title>
+            <dc:title>The First Maltese Translation of the New Testament
+( ,” in</dc:title>
             <prism:volume>8</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -3961,8 +3955,6 @@ Maltese</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
-      <dc:title>The First Maltese Translation of the New Testament
-( ,” in</dc:title>
       <dc:date>1847-1947</dc:date>
       <dc:date>1947</dc:date>
       <bib:pages>10-13</bib:pages>
@@ -4197,6 +4189,7 @@ Criticism of the New Testament</dc:title>
          <bib:Journal>
             <dc:title>Islam and
 Christian-Muslim Relations</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>22.1</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -4365,6 +4358,7 @@ Publishing House, Inc,</rdf:value>
          <bib:Journal>
             <dc:title>The
 Bible Translator</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>6</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -4468,6 +4462,7 @@ Dictionary of the Bible Comprising Its Antiquities, Biography, Geography, and Na
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Cahiers de Civilisation Médiévale</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>14</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -4500,6 +4495,7 @@ Dictionary of the Bible Comprising Its Antiquities, Biography, Geography, and Na
       <dcterms:isPartOf>
          <bib:Book>
             <dc:title>Enzyklopaedie des Islam</dc:title>
+            <dc:title>Handwörterbuch des Islam</dc:title>
             <prism:volume>2</prism:volume>
          </bib:Book>
       </dcterms:isPartOf>
@@ -4529,7 +4525,7 @@ Dictionary of the Bible Comprising Its Antiquities, Biography, Geography, and Na
             </rdf:li>
          </rdf:Seq>
       </bib:editors>
-      <dc:title>Handwörterbuch des Islam</dc:title>
+      <dc:title>Indjīl</dc:title>
       <dc:publisher>
          <foaf:Organization>
             <vcard:adr>
@@ -5254,6 +5250,7 @@ arabischen Version in den Polylotten geflossen ist</dc:title>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Al-Abhath</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>48</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -5296,6 +5293,7 @@ Lettres of the 19th century: The case of al-Shidyaq</dc:title>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>JAOS</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>11</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -5421,6 +5419,7 @@ Haven</vcard:locality>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>The Muslim World</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>65</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -5456,6 +5455,7 @@ Translation</dc:title>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>ZDMG</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>10</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -5538,6 +5538,7 @@ enterprise.</dcterms:abstract>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>The American Journal of Theology</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>23</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -5567,12 +5568,13 @@ enterprise.</dcterms:abstract>
       <dc:subject>Subject: London Polyglot</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Article>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
-            <dc:title>The American Mission Bible Translation to Arabic</dc:title>
-         </bib:Book>
+         <bib:Journal>
+            <dc:title>Pe‘amim</dc:title>
+            <prism:volume>83</prism:volume>
+         </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -5584,10 +5586,10 @@ enterprise.</dcterms:abstract>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:title>The American Mission Bible Translation to Arabic</dc:title>
       <dc:date>2000</dc:date>
       <bib:pages>57-69 </bib:pages>
       <dc:subject>ID: 130</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
       <dc:subject>MS: ,  Violet fragment, Violet fragment</dc:subject>
       <dc:subject>MS: Sinai,  Ar., Ar.</dc:subject>
       <dc:subject>?MS: 2</dc:subject>
@@ -5600,13 +5602,10 @@ enterprise.</dcterms:abstract>
       <dc:subject>Subject: London Polyglot</dc:subject>
       <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!missing title</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
       <dcterms:isReferencedBy rdf:resource="#note_130-1"/>
-   </bib:BookSection>
+   </bib:Article>
    <bib:Memo rdf:about="#note_130-1">
-      <rdf:value> Pe‘amim 83
-( , [in Hebrew].</rdf:value>
+      <rdf:value> , [in Hebrew].</rdf:value>
    </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -5699,6 +5698,7 @@ Jésus en Syrie (1831-1895)</dc:title>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>al-Mashriq</dc:title>
+            <dc:title>al-shaykh Ibrāhīm al-Yazījī wa-l-maṭbaʿa al-kāthūlīkiyya baina</dc:title>
             <prism:volume>1872</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -5712,7 +5712,6 @@ Jésus en Syrie (1831-1895)</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
-      <dc:title>al-shaykh Ibrāhīm al-Yazījī wa-l-maṭbaʿa al-kāthūlīkiyya baina</dc:title>
       <dcterms:abstract>1897</dcterms:abstract>
       <dc:date>1991</dc:date>
       <bib:pages>127-128</bib:pages>
@@ -6685,13 +6684,13 @@ New Testaments in Muslim religious art</dc:title>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Book>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
-            <dc:title>The pictorial art of the
-Jacobite and Nestorian Churches</dc:title>
-         </bib:Book>
+         <bib:Journal>
+            <dc:title>Byzantinische Zeitschrift</dc:title>
+            <prism:volume>30</prism:volume>
+         </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -6703,21 +6702,15 @@ Jacobite and Nestorian Churches</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:title>The pictorial art of the
+Jacobite and Nestorian Churches</dc:title>
       <dc:date>1929</dc:date>
       <bib:pages>595-597</bib:pages>
       <dc:subject>ID: 156</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
       <dc:subject>MS: Florence, BML, Or. 387.</dc:subject>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!missing title</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_156-1"/>
-   </bib:BookSection>
-   <bib:Memo rdf:about="#note_156-1">
-      <rdf:value> Byzantinische Zeitschrift 30 ( ,</rdf:value>
-   </bib:Memo>
+   </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <bib:authors>
@@ -6749,19 +6742,13 @@ Islam: a study of the place of pictorial art in Muslim culture</dc:title>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Book>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
-            <dcterms:isPartOf>
-               <bib:Series>
-                  <dc:title>III. Serie,</dc:title>
-                  <dc:identifier>13</dc:identifier>
-               </bib:Series>
-            </dcterms:isPartOf>
-            <dc:title>Erbe christlicher Antike im
-Bildschmuck eines arabischen Evangelienbuches des 14. Jahrhunderts</dc:title>
-         </bib:Book>
+         <bib:Journal>
+            <dc:title>OC, III. Serie</dc:title>
+            <prism:volume>13</prism:volume>
+         </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -6773,34 +6760,22 @@ Bildschmuck eines arabischen Evangelienbuches des 14. Jahrhunderts</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:title>Erbe christlicher Antike im
+Bildschmuck eines arabischen Evangelienbuches des 14. Jahrhunderts</dc:title>
       <dc:date>1938</dc:date>
       <bib:pages>1-38</bib:pages>
       <dc:subject>ID: 158</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
       <dc:subject>MS: Leiden, University Library, Or. 1571.</dc:subject>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!missing title</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_158-1"/>
-   </bib:BookSection>
-   <bib:Memo rdf:about="#note_158-1">
-      <rdf:value> OC</rdf:value>
-   </bib:Memo>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
-            <dcterms:isPartOf>
-               <bib:Series>
-                  <dc:title>III. Serie,</dc:title>
-                  <dc:identifier>9</dc:identifier>
-               </bib:Series>
-            </dcterms:isPartOf>
-            <dc:title>Frühchristlich-syrische
-Prophetenillustrationen durch stehende Autorenbilder”</dc:title>
-         </bib:Book>
+         <bib:Journal>
+            <dc:title>OC, III. Serie</dc:title>
+            <prism:volume>9</prism:volume>
+         </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -6812,34 +6787,22 @@ Prophetenillustrationen durch stehende Autorenbilder”</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:title>Frühchristlich-syrische
+Prophetenillustrationen durch stehende Autorenbilder”</dc:title>
       <dc:date>1934</dc:date>
       <bib:pages>99-104</bib:pages>
       <dc:subject>ID: 159</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
       <dc:subject>MS: Berlin, Staatsbibliothek, Diez A. Fol. 41.</dc:subject>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!missing title</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_159-1"/>
-   </bib:BookSection>
-   <bib:Memo rdf:about="#note_159-1">
-      <rdf:value> OC</rdf:value>
-   </bib:Memo>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
-            <dcterms:isPartOf>
-               <bib:Series>
-                  <dc:title>NS</dc:title>
-                  <dc:identifier>1</dc:identifier>
-               </bib:Series>
-            </dcterms:isPartOf>
-            <dc:title>Ein apokryphes Herrenleben in
-mesopotamischer Federzeichnung vom Jahre 1299</dc:title>
-         </bib:Book>
+         <bib:Journal>
+            <dc:title>OC, NS</dc:title>
+            <prism:volume>1</prism:volume>
+         </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -6851,27 +6814,22 @@ mesopotamischer Federzeichnung vom Jahre 1299</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:title>Ein apokryphes Herrenleben in
+mesopotamischer Federzeichnung vom Jahre 1299</dc:title>
       <dc:date>1911</dc:date>
       <bib:pages>249-271</bib:pages>
       <dc:subject>ID: 160</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
       <dc:subject>MS: Florence, BML, Or. 387.</dc:subject>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!missing title</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_160-1"/>
-   </bib:BookSection>
-   <bib:Memo rdf:about="#note_160-1">
-      <rdf:value> OC</rdf:value>
-   </bib:Memo>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
-            <dc:title>Palaestinensia</dc:title>
-         </bib:Book>
+         <bib:Journal>
+            <dc:title>Römische Quartalschrift</dc:title>
+            <prism:volume>20</prism:volume>
+         </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -6883,24 +6841,17 @@ mesopotamischer Federzeichnung vom Jahre 1299</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:title>Palaestinensia</dc:title>
       <dc:date>1906</dc:date>
       <bib:pages>123-149</bib:pages>
       <dc:subject>ID: 161</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
       <dc:subject>MS: London, BL, Add. 11850</dc:subject>
       <dc:subject>MS: London, BL, Jerusalem</dc:subject>
       <dc:subject>MS: London, BL,  Greek</dc:subject>
       <dc:subject>?MS: Patriarchate, Ar. 9.</dc:subject>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!missing title</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_161-1"/>
-   </bib:BookSection>
-   <bib:Memo rdf:about="#note_161-1">
-      <rdf:value> Römische Quartalschrift 20 ( ,</rdf:value>
-   </bib:Memo>
+   </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <bib:authors>
@@ -6981,14 +6932,13 @@ Vaticana dal Secolo III al Secolo XVI</dc:title>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Book>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
-            <dc:title>An Arabic Bible in the
-Collection of the St. Petersburg Branch of the Institute of Oriental Studies: The Problems of
-Restoration</dc:title>
-         </bib:Book>
+         <bib:Journal>
+            <dc:title>Manuscripta Orientalia</dc:title>
+            <prism:volume>4</prism:volume>
+         </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -7000,22 +6950,17 @@ Restoration</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:title>An Arabic Bible in the
+Collection of the St. Petersburg Branch of the Institute of Oriental Studies: The Problems of
+Restoration</dc:title>
       <dc:date>1998</dc:date>
       <bib:pages>35-38</bib:pages>
       <dc:subject>ID: 164</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
       <dc:subject>MS: St Petersburg,  Institute of, Institute of</dc:subject>
       <dc:subject>?MS: Oriental Manuscripts, D 226.</dc:subject>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!missing title</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_164-1"/>
-   </bib:BookSection>
-   <bib:Memo rdf:about="#note_164-1">
-      <rdf:value> Manuscripta Orientalia 4 ( ,</rdf:value>
-   </bib:Memo>
+   </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <bib:authors>
@@ -7088,6 +7033,7 @@ Jahrhundert</dc:title>
          <bib:Journal>
             <dc:title>Kleinere
 Schriften</dc:title>
+            <dc:title>ZDMG</dc:title>
             <prism:volume>18</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -7124,10 +7070,7 @@ British Library, Add. 26116. Cf. [#, see below] von Baudissin and [#, see below]
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
-            <dc:title>Les chiffres coptes dans les
-manuscrits arabes, chrétiens et musulmans</dc:title>
-         </bib:Book>
+         <bib:Book/>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -7139,6 +7082,8 @@ manuscrits arabes, chrétiens et musulmans</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:title>Les chiffres coptes dans les
+manuscrits arabes, chrétiens et musulmans</dc:title>
       <dc:subject>ID: 167</dc:subject>
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>MS: St Petersburg,  Russian, Russian</dc:subject>
@@ -7206,13 +7151,13 @@ siècle (cod. Sin. ar. 116)</dc:title>
    <bib:Memo rdf:about="#note_168-1">
       <rdf:value>  (Texte und Untersuchungen zur Geschichte der altchristlichen Literatur ,)  -Verlag, ,</rdf:value>
    </bib:Memo>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
-            <dc:title>Die Galen-Handschrift und Makamen des
-Ḥarīrī der Wiener Nationalbibliothek</dc:title>
-         </bib:Book>
+         <bib:Journal>
+            <dc:title>Jahrbuch der Kunsthistorischen Sammlungen in Wien</dc:title>
+            <prism:volume>11</prism:volume>
+         </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -7224,28 +7169,23 @@ siècle (cod. Sin. ar. 116)</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:title>Die Galen-Handschrift und Makamen des
+Ḥarīrī der Wiener Nationalbibliothek</dc:title>
       <dc:date>1937</dc:date>
       <bib:pages>1-48</bib:pages>
       <dc:subject>ID: 169</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
       <dc:subject>MS: Florence, BML, Or. 387.</dc:subject>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!missing title</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_169-1"/>
-   </bib:BookSection>
-   <bib:Memo rdf:about="#note_169-1">
-      <rdf:value> Jahrbuch der Kunsthistorischen Sammlungen in Wien 11 ( ,</rdf:value>
-   </bib:Memo>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
-            <dc:title>Seltenheiten und
-Kuriositäten der Kaiserlichen Öffentlichen Bibliothek zu St. Petersburg</dc:title>
-         </bib:Book>
+         <bib:Journal>
+            <dc:title>Zeitschrift für
+Bücherfreunde</dc:title>
+            <prism:volume>12</prism:volume>
+         </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -7257,23 +7197,16 @@ Kuriositäten der Kaiserlichen Öffentlichen Bibliothek zu St. Petersburg</dc:ti
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:title>Seltenheiten und
+Kuriositäten der Kaiserlichen Öffentlichen Bibliothek zu St. Petersburg</dc:title>
       <dc:date>1908-09</dc:date>
       <bib:pages>26-34</bib:pages>
       <dc:subject>ID: 170</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
       <dc:subject>MS: St Petersburg, RNL, Ar. N.S.</dc:subject>
       <dc:subject>?MS: 327 (pl. 8).</dc:subject>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!missing title</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_170-1"/>
-   </bib:BookSection>
-   <bib:Memo rdf:about="#note_170-1">
-      <rdf:value> Zeitschrift für
-Bücherfreunde 12 ( ,</rdf:value>
-   </bib:Memo>
+   </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <bib:authors>
@@ -7307,13 +7240,13 @@ Mamlūks</dc:title>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Book>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
-            <dc:title>Un évangélaire arabe de la
-bibliothèque de Topqapi Sarayi à décor byzantin et islamique</dc:title>
-         </bib:Book>
+         <bib:Journal>
+            <dc:title>Syria</dc:title>
+            <prism:volume>44</prism:volume>
+         </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -7325,22 +7258,16 @@ bibliothèque de Topqapi Sarayi à décor byzantin et islamique</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:title>Un évangélaire arabe de la
+bibliothèque de Topqapi Sarayi à décor byzantin et islamique</dc:title>
       <dc:date>1967</dc:date>
       <bib:pages>119-130</bib:pages>
       <dc:subject>ID: 172</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
       <dc:subject>MS: Istanbul,  Topkapı Sarayı, Topkapı Sarayı</dc:subject>
       <dc:subject>?MS: Library, Ahmet III 3519 (various plates).</dc:subject>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!missing title</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_172-1"/>
-   </bib:BookSection>
-   <bib:Memo rdf:about="#note_172-1">
-      <rdf:value> Syria 44 ( ,</rdf:value>
-   </bib:Memo>
+   </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <bib:authors>
@@ -7378,13 +7305,13 @@ Arabe</foaf:name>
    <bib:Memo rdf:about="#note_173-1">
       <rdf:value>’Etat Affaires Culturelles   / Gallimard, .</rdf:value>
    </bib:Memo>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
-            <dc:title>An Icon at Mt. Sinai and
-Christian Painting in Muslim Egypt During the Thirteenth and Fourteenth Centuries</dc:title>
-         </bib:Book>
+         <bib:Journal>
+            <dc:title>Art Bulletin</dc:title>
+            <prism:volume>65</prism:volume>
+         </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -7396,10 +7323,11 @@ Christian Painting in Muslim Egypt During the Thirteenth and Fourteenth Centurie
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:title>An Icon at Mt. Sinai and
+Christian Painting in Muslim Egypt During the Thirteenth and Fourteenth Centuries</dc:title>
       <dc:date>1983</dc:date>
       <bib:pages>201-218</bib:pages>
       <dc:subject>ID: 174</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
       <dc:subject>MS: Paris, Institut Catholique, Copt.-Ar. 1 (p. 204</dc:subject>
       <dc:subject>MS: Paris, Institut Catholique,  pls. 4-7</dc:subject>
       <dc:subject>MS: Paris, Institut Catholique, p. 209</dc:subject>
@@ -7411,22 +7339,15 @@ Christian Painting in Muslim Egypt During the Thirteenth and Fourteenth Centurie
       <dc:subject>MS: Cairo, Coptic Museum, Bibl. 94 (p. 205</dc:subject>
       <dc:subject>MS: Cairo, Coptic Museum,  pl. 8).</dc:subject>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!missing title</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_174-1"/>
-   </bib:BookSection>
-   <bib:Memo rdf:about="#note_174-1">
-      <rdf:value> Art Bulletin 65
-( ,</rdf:value>
-   </bib:Memo>
+   </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Imperatorskoe
 Russkoe Archeologicheskoe Obshchestvo, Zapiski</dc:title>
+            <dc:title>'mich Redin,   in</dc:title>
             <prism:volume>7</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -7498,6 +7419,7 @@ pls. 23 and 24), Ar. 104 (p. 41, pl. 21), Ar. 106 (pp. 11-12, pl. 7), Ar. 122 (p
          <bib:Journal>
             <dc:title>Mamluk Studies
 Review</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>13</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -7534,6 +7456,7 @@ Cairo, Coptic Museum MS Bibl. 90 in its Mamluk Context</dc:title>
       <dcterms:isPartOf>
          <bib:Book>
             <dc:title>The Bible as Book: The Manuscript Tradition</dc:title>
+            <dc:title>idem</dc:title>
             <prism:volume>2</prism:volume>
          </bib:Book>
       </dcterms:isPartOf>
@@ -7563,7 +7486,8 @@ Cairo, Coptic Museum MS Bibl. 90 in its Mamluk Context</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:editors>
-      <dc:title>idem</dc:title>
+      <dc:title>Cultural Transmission: Illustrated
+Biblical Manuscripts from the medieval Eastern Christian and Arab Worlds</dc:title>
       <dc:publisher>
          <foaf:Organization>
             <vcard:adr>
@@ -7618,14 +7542,13 @@ Pindar Press</foaf:name>
    <bib:Memo rdf:about="#note_178-1">
       <rdf:value>  (London and New Castle , (reprinted in  , Byzantium , ,  ).</rdf:value>
    </bib:Memo>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
-            <dc:title>Introducing the
-Catalogue, in progress, of the illustrated Manuscripts in the Coptic Museum</dc:title>
-            <prism:volume>2</prism:volume>
-         </bib:Book>
+         <bib:Journal>
+            <dc:title>Parole de l’Orient</dc:title>
+            <prism:volume>19</prism:volume>
+         </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -7637,34 +7560,14 @@ Catalogue, in progress, of the illustrated Manuscripts in the Coptic Museum</dc:
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
-      <dc:publisher>
-         <foaf:Organization>
-            <vcard:adr>
-               <vcard:Address>
-                  <vcard:locality>Eastern Christianity and Islam</vcard:locality>
-               </vcard:Address>
-            </vcard:adr>
-            <foaf:name>Art at
-the Crossroads of the Medieval Mediterranean </foaf:name>
-         </foaf:Organization>
-      </dc:publisher>
-      <dc:publisher>
-         <foaf:Organization>
-            <vcard:adr>
-               <vcard:Address>
-                  <vcard:locality>London</vcard:locality>
-               </vcard:Address>
-            </vcard:adr>
-            <foaf:name>The Pindar Press</foaf:name>
-         </foaf:Organization>
-      </dc:publisher>
+      <dc:title>Introducing the
+Catalogue, in progress, of the illustrated Manuscripts in the Coptic Museum</dc:title>
       <dc:date>1994</dc:date>
       <dc:date>2000</dc:date>
       <bib:pages>401-413
 </bib:pages>
       <bib:pages>353-364</bib:pages>
       <dc:subject>ID: 179</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
       <dc:subject>MS: Paris, Institut Catholique, Copt.-Ar. 1</dc:subject>
       <dc:subject>MS: Paris, Institut Catholique, Cairo</dc:subject>
       <dc:subject>MS: Paris, Institut Catholique,  Coptic Museum</dc:subject>
@@ -7676,20 +7579,19 @@ the Crossroads of the Medieval Mediterranean </foaf:name>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
       <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!missing title</dc:subject>
       <dcterms:isReferencedBy rdf:resource="#note_179-1"/>
-   </bib:BookSection>
+   </bib:Article>
    <bib:Memo rdf:about="#note_179-1">
-      <rdf:value> Parole de l’Orient 19
-( , (reprinted in idem, Byzantium , ,  ).</rdf:value>
+      <rdf:value> , (reprinted in idem, Byzantium, Eastern Christianity and Islam: Art at
+the Crossroads of the Medieval Mediterranean (London: The Pindar Press, , Vol. 2, ).</rdf:value>
    </bib:Memo>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
-            <dc:title>Christian-Muslim Relations in
-Painting in Egypt of the Twelfth to mid-Thirteenth Centuries</dc:title>
-         </bib:Book>
+         <bib:Journal>
+            <dc:title>Cahiers Archeologiques</dc:title>
+            <prism:volume>33</prism:volume>
+         </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -7701,10 +7603,11 @@ Painting in Egypt of the Twelfth to mid-Thirteenth Centuries</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:title>Christian-Muslim Relations in
+Painting in Egypt of the Twelfth to mid-Thirteenth Centuries</dc:title>
       <dc:date>1985</dc:date>
       <bib:pages>111-155</bib:pages>
       <dc:subject>ID: 180</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
       <dc:subject>MS: Oxford, Bodleian Library, Hunt. 17 (p. 131</dc:subject>
       <dc:subject>MS: Oxford, Bodleian Library,  pls. 17-18)</dc:subject>
       <dc:subject>MS: Paris, Institut Catholique, Copt.-Ar. 1 (p. 120</dc:subject>
@@ -7724,23 +7627,15 @@ Painting in Egypt of the Twelfth to mid-Thirteenth Centuries</dc:title>
       <dc:subject>MS: Cairo, Coptic Museum, Bibl.</dc:subject>
       <dc:subject>?MS: 147.</dc:subject>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!missing title</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_180-1"/>
-   </bib:BookSection>
-   <bib:Memo rdf:about="#note_180-1">
-      <rdf:value> Cahiers Archeologiques 33 ( ,</rdf:value>
-   </bib:Memo>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
+   </bib:Article>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
-            <dc:title>The Commissioning of a
-Late Twelfth Century Gospel Book: The Frontispieces of Ms Paris, Bibl. Nat. Copte 13</dc:title>
-            <prism:volume>1</prism:volume>
-         </bib:Book>
+         <bib:Journal>
+            <dc:title>in Byzantinische Forschungen</dc:title>
+            <prism:volume>10</prism:volume>
+         </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -7752,33 +7647,13 @@ Late Twelfth Century Gospel Book: The Frontispieces of Ms Paris, Bibl. Nat. Copt
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
-      <dc:publisher>
-         <foaf:Organization>
-            <vcard:adr>
-               <vcard:Address>
-                  <vcard:locality>Eastern Christianity and Islam</vcard:locality>
-               </vcard:Address>
-            </vcard:adr>
-            <foaf:name>Art at the Crossroads of the Medieval Mediterranean </foaf:name>
-         </foaf:Organization>
-      </dc:publisher>
-      <dc:publisher>
-         <foaf:Organization>
-            <vcard:adr>
-               <vcard:Address>
-                  <vcard:locality>London</vcard:locality>
-               </vcard:Address>
-            </vcard:adr>
-            <foaf:name>The
-Pindar Press</foaf:name>
-         </foaf:Organization>
-      </dc:publisher>
+      <dc:title>The Commissioning of a
+Late Twelfth Century Gospel Book: The Frontispieces of Ms Paris, Bibl. Nat. Copte 13</dc:title>
       <dc:date>1985</dc:date>
       <dc:date>2000</dc:date>
       <bib:pages>113-140 </bib:pages>
       <bib:pages>115-157</bib:pages>
       <dc:subject>ID: 181</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
       <dc:subject>MS: Paris, BNF, Copt. 13</dc:subject>
       <dc:subject>MS: Paris, Institut Catholique, Copt.-Ar. 1 (p. 133-134</dc:subject>
       <dc:subject>MS: Paris, Institut Catholique,  pl. 1-2)</dc:subject>
@@ -7792,17 +7667,19 @@ Pindar Press</foaf:name>
       <dc:subject>Subject: Art, paleography, codicology</dc:subject>
       <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!missing title</dc:subject>
       <dcterms:isReferencedBy rdf:resource="#note_181-1"/>
-   </bib:BookSection>
+   </bib:Article>
    <bib:Memo rdf:about="#note_181-1">
-      <rdf:value> in Byzantinische Forschungen10 ( (reprinted in idem, Byzantium , ,  ).</rdf:value>
+      <rdf:value> (reprinted in idem, Byzantium,
+Eastern Christianity and Islam: Art at the Crossroads of the Medieval Mediterranean (London: The
+Pindar Press, , Vol. 1, ).</rdf:value>
    </bib:Memo>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Aram</dc:title>
+            <dc:title>idem</dc:title>
          </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
@@ -7815,7 +7692,8 @@ Pindar Press</foaf:name>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
-      <dc:title>idem</dc:title>
+      <dc:title>Manuscript Production by Christians
+in 13th-14th Century Greater Syria and Mesopotamia and Related Areas</dc:title>
       <dc:date>1997</dc:date>
       <dc:date>2000</dc:date>
       <bib:pages>289-336 </bib:pages>
@@ -7851,6 +7729,7 @@ Islam: Art at the Crossroads of the Medieval Mediterranean (London: The Pindar P
          <bib:Journal>
             <dc:title>XVI.
 Internationaler Byzantinistencongress, Akten 11/5, Jahrbuch der Östereichischen Byzantinistik</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>32</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -7918,6 +7797,7 @@ Copte-Arabe 1)</dc:title>
          <bib:Journal>
             <dc:title>Israel
 Oriental Studies</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>12</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -8037,6 +7917,8 @@ l'illustration de l'Évangile arabe de l'Enfance à Florence (Laur. Or. 387)</dc
       <dcterms:isPartOf>
          <bib:Book>
             <dc:title>The Kariye Djami</dc:title>
+            <dc:title>Studies in the
+art of the Kariye Djami and its intellectual background</dc:title>
             <prism:volume>4</prism:volume>
          </bib:Book>
       </dcterms:isPartOf>
@@ -8050,8 +7932,7 @@ l'illustration de l'Évangile arabe de l'Enfance à Florence (Laur. Or. 387)</dc
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
-      <dc:title>Studies in the
-art of the Kariye Djami and its intellectual background</dc:title>
+      <dc:title>The Cycle of the Infancy of Christ</dc:title>
       <dc:publisher>
          <foaf:Organization>
             <vcard:adr>
@@ -8079,8 +7960,6 @@ Underwood (ed.),  ,     , ,</rdf:value>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
          <bib:Book>
-            <dc:title>Le cycle des mages
-dans l'Evangile arabe de l'Enfance du Christ de Florence (Laur. Or. 387), Mélanges A. Abel</dc:title>
             <prism:volume>2</prism:volume>
          </bib:Book>
       </dcterms:isPartOf>
@@ -8094,6 +7973,8 @@ dans l'Evangile arabe de l'Enfance du Christ de Florence (Laur. Or. 387), Mélan
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:title>Le cycle des mages
+dans l'Evangile arabe de l'Enfance du Christ de Florence (Laur. Or. 387), Mélanges A. Abel</dc:title>
       <dc:publisher>
          <foaf:Organization>
             <vcard:adr>
@@ -8124,6 +8005,7 @@ dans l'Evangile arabe de l'Enfance du Christ de Florence (Laur. Or. 387), Mélan
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Journal of American Oriental Society</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>110</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -8157,6 +8039,7 @@ copy of the Psalms in Arabic [mentioned in GCAL:1, p. 114, #].</dcterms:abstract
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Manuscripta Orientalia</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>6</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -8188,6 +8071,7 @@ and [#] Krachkovksi).</dcterms:abstract>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Manuscripta Orientalia</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>3</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -8275,6 +8159,7 @@ Sinai: It's Manuscripts and their Conservation: Papers Given in Memory of Profes
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Byzantinisch-neugriechiesche Jahrbücher</dc:title>
+            <dc:title>   in</dc:title>
             <prism:volume>2</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -8408,6 +8293,7 @@ Ar. 581 (p.xli, pl. 59a), Ar. 788 (p. xli, pl. 59c), Borg. Ar. 48 (p. xlii, pl. 
             </dcterms:isPartOf>
             <dc:title>Collectanea Vaticana in Honorem
 Anselmi M. Card. Albareda a Bibliotheca Apostolica</dc:title>
+            <dc:title>Note di storia letteraria arabo-isponica</dc:title>
          </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
@@ -8420,7 +8306,8 @@ Anselmi M. Card. Albareda a Bibliotheca Apostolica</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
-      <dc:title>Note di storia letteraria arabo-isponica</dc:title>
+      <dc:title>Manoscritti arabi di
+origine spagnola nella Biblioteca Vaticana</dc:title>
       <dc:publisher>
          <foaf:Organization>
             <vcard:adr>
@@ -8694,6 +8581,7 @@ Literatur, vol. 1 (Vatican City, 1944), pp. 85-195.</dcterms:abstract>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Christianskij Vostok</dc:title>
+            <dc:title>[in Russian]</dc:title>
             <prism:volume>6</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -8737,6 +8625,7 @@ In   (OEuvres choisies), t. VI. (Moscou–Léningrad:
                </bib:Series>
             </dcterms:isPartOf>
             <dc:title>Doklady Akademii Nauk series B</dc:title>
+            <dc:title>Izbrannye sochinenija</dc:title>
          </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
@@ -8749,7 +8638,8 @@ In   (OEuvres choisies), t. VI. (Moscou–Léningrad:
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
-      <dc:title>Izbrannye sochinenija</dc:title>
+      <dc:title>Original vatikanskoj rukopisi arabskogo perevoda Biblii
+[The original of a Vatican manuscript of an Arabic translation of the Bible]</dc:title>
       <dcterms:abstract>Also refered to in [#] Ignatii Krachkovskii, Über Arabische
 Handschriften gebeugt. Erinnerung an Bücher und Menschen (Leipzig: Koehler &amp; Amelang,
 1949), pp. 54.</dcterms:abstract>
@@ -8981,6 +8871,8 @@ Translations</dc:title>
       <dcterms:isPartOf>
          <bib:Book>
             <dc:title/>
+            <dc:title>Teshūrōt la-Avishur. Studies in the Bible and Ancient Near East, in Hebrew and Semitic
+Languages</dc:title>
          </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
@@ -9009,8 +8901,8 @@ Translations</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:editors>
-      <dc:title>Teshūrōt la-Avishur. Studies in the Bible and Ancient Near East, in Hebrew and Semitic
-Languages</dc:title>
+      <dc:title>Hebrew and Aramaic elements in the vernacular and written
+Christian Arabic</dc:title>
       <dc:date>2004</dc:date>
       <bib:pages>17-19 </bib:pages>
       <dc:subject>ID: 212</dc:subject>
@@ -9068,6 +8960,7 @@ and Lebanon</dc:title>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Mashriq</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>21</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -9096,6 +8989,7 @@ and Lebanon</dc:title>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Melilah </dc:title>
+            <dc:title>[Features in Arabic Translations of the Pentateuch], in</dc:title>
             <prism:volume>5</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -9127,6 +9021,7 @@ see there. </dcterms:abstract>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Biblische Zeitschrift</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>15</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -9240,6 +9135,9 @@ Manuscript of the Pentateuch</dc:title>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title/>
+            <dc:title>Acta</dc:title>
+            <dc:title>Orientalia Hung</dc:title>
+            <dc:title/>
             <prism:volume>65</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -9253,7 +9151,8 @@ Manuscript of the Pentateuch</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
-      <dc:title>Acta</dc:title>
+      <dc:title>A Note on Some Hypothetical Clauses in a Coptic and Arabic
+MS of the Pentateuch: The Case of lawla</dc:title>
       <dcterms:abstract>His Hebrew articles.</dcterms:abstract>
       <dc:date>2012</dc:date>
       <bib:pages>457-461</bib:pages>
@@ -9898,6 +9797,7 @@ introduction.</dcterms:abstract>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>OS</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>64</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -9938,6 +9838,7 @@ primary and secondary sources. </dcterms:abstract>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>ZDMG</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>32</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -11402,6 +11303,7 @@ manuscripts.</dcterms:abstract>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Biblica</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>1</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -11442,6 +11344,7 @@ manuscripts.</dcterms:abstract>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Biblica</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>2</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -11480,6 +11383,7 @@ date of the original Greek manuscript used as a Vorlage and offers reproductions
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Biblica</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>3</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -11958,6 +11862,7 @@ Zechariah</dc:title>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title/>
+            <dc:title>ZAW</dc:title>
             <prism:volume>5</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -12408,6 +12313,8 @@ Ramla].</dcterms:abstract>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Palestinskii Sbornik</dc:title>
+            <dc:title>[A
+Greek-Syriac-Arabic Manuscript of the Ninth Century], in</dc:title>
             <prism:volume>63</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -12435,6 +12342,7 @@ Ramla].</dcterms:abstract>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Biblica</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>31</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -12857,6 +12765,7 @@ in Kees Versteegh,    , ,</rdf:value>
          <bib:Book>
             <dc:title>Moyen Arabe et variétés mixtes de
 l'arabe à travers l'histoire. Actes du Premier Colloque International</dc:title>
+            <dc:title>Louvain-la-Neuve, 10-14 mai 2004</dc:title>
          </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
@@ -12869,7 +12778,7 @@ l'arabe à travers l'histoire. Actes du Premier Colloque International</dc:title
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
-      <dc:title>Louvain-la-Neuve, 10-14 mai 2004</dc:title>
+      <dc:title>Arabic words in Greek letters: the Violet fragment and more</dc:title>
       <dc:publisher>
          <foaf:Organization>
             <vcard:adr>
@@ -12928,6 +12837,7 @@ der Omajjaden-Moschee zu Damaskus</dc:title>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Orientalistische Literaturzeitung</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>4</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -13218,10 +13128,7 @@ Saadaiah’s version</dcterms:abstract>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
-            <dc:title>Les Manuscrits Arabes Datés du
-IIIe/IXe Siecle</dc:title>
-         </bib:Book>
+         <bib:Book/>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -13233,6 +13140,8 @@ IIIe/IXe Siecle</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:title>Les Manuscrits Arabes Datés du
+IIIe/IXe Siecle</dc:title>
       <dc:date>1987-1989</dc:date>
       <bib:pages>343-379</bib:pages>
       <dc:subject>ID: 312</dc:subject>
@@ -13360,6 +13269,7 @@ texte et lexique, Ph.D. dissertation, Université Michel de Montaigne, Bordeaux,
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Anglican</dc:title>
+            <dc:title>Theological Review</dc:title>
          </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
@@ -13372,7 +13282,7 @@ texte et lexique, Ph.D. dissertation, Université Michel de Montaigne, Bordeaux,
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
-      <dc:title>Theological Review</dc:title>
+      <dc:title>Two Readings from the Arabic Versions of the New Testament</dc:title>
       <dc:date>1948</dc:date>
       <bib:pages>176-179</bib:pages>
       <dc:subject>ID: 316</dc:subject>
@@ -14203,6 +14113,7 @@ BnF. Suppl. gr. 911). Una presentación</dc:title>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Real monasterio de el escorial: La ciudad de dios</dc:title>
+            <dc:title/>
             <prism:volume>213</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -14356,6 +14267,9 @@ manuscrito greco-árabe inédito del Evangelio de Lucas (BnF, Suppl. gr. 911, s.
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Nomina sacra</dc:title>
+            <dc:title>Collectanea
+Christiana Orientalia</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>1</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -14369,8 +14283,8 @@ manuscrito greco-árabe inédito del Evangelio de Lucas (BnF, Suppl. gr. 911, s.
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
-      <dc:title>Collectanea
-Christiana Orientalia</dc:title>
+      <dc:title>en
+un ms. inédito de Lucas (Ms BnF, Suppl. gr. 911, año 1043)</dc:title>
       <dc:date>2003</dc:date>
       <bib:pages>247-275</bib:pages>
       <dc:subject>ID: 344</dc:subject>
@@ -14491,6 +14405,7 @@ membrum disjectum or the reconstruction of a lost bifolio: St. Petersburg ‘Gre
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Parole de l’Orient</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>30</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -14650,13 +14565,13 @@ Neotestamentica. Studia ad novum Testamentum praesertim pertinentia</dc:title>
       <dc:subject>Subject: Diatesseron</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:BookSection>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
-            <dc:title>An Archaic Element in the
-Arabic Diatesseron</dc:title>
-         </bib:Book>
+         <bib:Journal>
+            <dc:title>Novum Testamentum</dc:title>
+            <prism:volume>17</prism:volume>
+         </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -14668,22 +14583,16 @@ Arabic Diatesseron</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:title>An Archaic Element in the
+Arabic Diatesseron</dc:title>
       <dc:date>1975</dc:date>
       <bib:pages>151-155</bib:pages>
       <dc:subject>ID: 351</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
       <dc:subject>MS: Oxford, Bodleian Library, Ar.</dc:subject>
       <dc:subject>?MS: e. 63</dc:subject>
       <dc:subject>Subject: Diatesseron</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!missing title</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_351-1"/>
-   </bib:BookSection>
-   <bib:Memo rdf:about="#note_351-1">
-      <rdf:value> Novum Testamentum 17 ( ,</rdf:value>
-   </bib:Memo>
+   </bib:Article>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -15052,13 +14961,13 @@ Harmonies</dcterms:abstract>
       <dc:subject>!no title</dc:subject>
       <dc:subject>!no pages</dc:subject>
    </bib:BookSection>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
-            <dc:title>An
-Introduction to the Arabic Diatessaron</dc:title>
-         </bib:Book>
+         <bib:Journal>
+            <dc:title>OC</dc:title>
+            <prism:volume>83</prism:volume>
+         </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -15070,24 +14979,18 @@ Introduction to the Arabic Diatessaron</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:title>An
+Introduction to the Arabic Diatessaron</dc:title>
       <dc:date>1999</dc:date>
       <bib:pages>72-129</bib:pages>
       <dc:subject>ID: 362</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
       <dc:subject>MS: Vatican, BAV, Ar. 14</dc:subject>
       <dc:subject>MS: Vatican, BAV, Borg. Ar 250</dc:subject>
       <dc:subject>MS: , Cairo 202, Cairo 202</dc:subject>
       <dc:subject>MS: Oxford, Bodl., Ar. e. 163.</dc:subject>
       <dc:subject>Subject: Diatesseron</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!missing title</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_362-1"/>
-   </bib:BookSection>
-   <bib:Memo rdf:about="#note_362-1">
-      <rdf:value> OC 83 ( ,</rdf:value>
-   </bib:Memo>
+   </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <bib:authors>
@@ -15353,6 +15256,7 @@ Neuen Testament</dc:title>
                </bib:Series>
             </dcterms:isPartOf>
             <dc:title>Diatesseron</dc:title>
+            <dc:title>Infancy Gospels</dc:title>
          </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
@@ -15377,7 +15281,8 @@ Neuen Testament</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:editors>
-      <dc:title>Infancy Gospels</dc:title>
+      <dc:title>The Genealogies of Jesus in
+Tatian’s  . The Question of their Absence or Presence</dc:title>
       <dc:publisher>
          <foaf:Organization>
             <vcard:adr>
@@ -15537,6 +15442,7 @@ Century Critical Edition of the Gospels (with special attention to Luke 16:16 an
          <bib:Journal>
             <dc:title>The Journal of
 Theological Studies</dc:title>
+            <dc:title/>
             <prism:volume>44</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -15639,6 +15545,7 @@ profesorado: Estudios de erudición oriental</dc:title>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Studia Orientalia Christiana Collectanea</dc:title>
+            <dc:title>[in Arabic]</dc:title>
             <prism:volume>39</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -15725,6 +15632,7 @@ Velasquez,</bib:pages>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Boletín Millares Carlo</dc:title>
+            <dc:title>]</dc:title>
             <prism:volume>13</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -15897,14 +15805,13 @@ Fleischer and Fraenkel #].</dcterms:abstract>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no volume</dc:subject>
    </bib:Article>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
-            <dc:title>Die
-monarchianistischen Prologe zu den vier Evangelien in der spanisch-arabischen Bibelübersetzung des
-Isaak Velasquez nach der Münchener Handschrift Cod. Arab. 238</dc:title>
-         </bib:Book>
+         <bib:Journal>
+            <dc:title>OC</dc:title>
+            <prism:volume>10</prism:volume>
+         </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -15916,24 +15823,19 @@ Isaak Velasquez nach der Münchener Handschrift Cod. Arab. 238</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:title>Die
+monarchianistischen Prologe zu den vier Evangelien in der spanisch-arabischen Bibelübersetzung des
+Isaak Velasquez nach der Münchener Handschrift Cod. Arab. 238</dc:title>
       <dcterms:abstract>Edits and translates into German the Monarchian
 Prologues, as preserved in Ms. Munich, Bayrische Staatsbibliothek, Ar. 238.</dcterms:abstract>
       <dc:date>1935</dc:date>
       <bib:pages>80-99</bib:pages>
       <dc:subject>ID: 384</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
       <dc:subject>MS: Munich, Bayrische Staatsbibliothek, Ar.</dc:subject>
       <dc:subject>?MS: 238.</dc:subject>
       <dc:subject>Subject: Isaak Velasquez</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!missing title</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_384-1"/>
-   </bib:BookSection>
-   <bib:Memo rdf:about="#note_384-1">
-      <rdf:value> OC 10 ( ,</rdf:value>
-   </bib:Memo>
+   </bib:Article>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -15965,9 +15867,7 @@ Ussher</dc:title>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
-            <dc:title>xxxx</dc:title>
-         </bib:Book>
+         <bib:Book/>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -15979,6 +15879,7 @@ Ussher</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:title>xxxx</dc:title>
       <dc:date>1890</dc:date>
       <dc:subject>ID: 386</dc:subject>
       <dc:subject>!unknown type</dc:subject>
@@ -16146,6 +16047,7 @@ translation technique. (Comp. [# Boyd, Robert])</dcterms:abstract>
       <dcterms:isPartOf>
          <bib:Book>
             <dc:title>The Journal of Theological</dc:title>
+            <dc:title>Studies 6</dc:title>
          </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
@@ -16158,7 +16060,8 @@ translation technique. (Comp. [# Boyd, Robert])</dcterms:abstract>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
-      <dc:title>Studies 6</dc:title>
+      <dc:title>The Palestinian Syriac
+Lectionary</dc:title>
       <dcterms:abstract> An argument against the hypothesis that the Palestinian
 Syriac Lectionary is of Egyptian Bohairic Origin.</dcterms:abstract>
       <dc:date>1904</dc:date>
@@ -16333,6 +16236,7 @@ contain from Acts to the end of the New Testament.</dcterms:abstract>
          <bib:Book>
             <dc:title>Studies on the Christian Arabic
 Heritage in Honour of Father Prof. Dr. Samir Khalil Samir</dc:title>
+            <dc:title>Eastern Christian Studies</dc:title>
             <prism:volume>5</prism:volume>
          </bib:Book>
       </dcterms:isPartOf>
@@ -16346,7 +16250,8 @@ Heritage in Honour of Father Prof. Dr. Samir Khalil Samir</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
-      <dc:title>Eastern Christian Studies</dc:title>
+      <dc:title>A Neglected Witness to the East Syriac New Testament
+Commentary Tradition: Sinai, Arabic Ms 151</dc:title>
       <dc:publisher>
          <foaf:Organization>
             <vcard:adr>
@@ -16419,6 +16324,7 @@ with Isho‘dad and Theodore of Mopsuestia commentaries. </dcterms:abstract>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Revue Biblique</dc:title>
+            <dc:title>n.s.</dc:title>
             <prism:volume>7</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -16457,6 +16363,7 @@ French translation of Gal. 1:1-15 with commentary.</dcterms:abstract>
          <bib:Book>
             <dc:title>Graeco-Latina et Orientalia Studia in Honorem Angeli
 Urbani Heptagenarii</dc:title>
+            <dc:title>Syro-Arabica, Vol. 2</dc:title>
          </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
@@ -16487,7 +16394,8 @@ Urbani Heptagenarii</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:editors>
-      <dc:title>Syro-Arabica, Vol. 2</dc:title>
+      <dc:title>A Fragmentary Arabic Version of the Epistle of
+Galatians Kept in the Royal Library of the Monastery of the Escorial</dc:title>
       <dc:publisher>
          <foaf:Organization>
             <vcard:adr>
@@ -16517,6 +16425,8 @@ and a comparison with Sinai, Ar. 151 and a Greek version.</dcterms:abstract>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Mélanges offerts à M. Dunand, Mélanges de l'Université Saint Joseph 46</dc:title>
+            <dc:title>in   ( ,  Reprint, in Études sur le christianisme arabe au Moyen Age (Aldershot, . [On BnF
+arabe</dc:title>
             <prism:volume>6725</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -16554,6 +16464,7 @@ and Greek texts.]</rdf:value>
          <bib:Journal>
             <dc:title>Journal of Semitic
 Studies</dc:title>
+            <dc:title>LX/</dc:title>
             <prism:volume>2</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -16717,6 +16628,15 @@ de Santiago’, guardado en la Biblioteca de El Escorial</dc:title>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Actes du II</dc:title>
+            <dc:title>um</dc:title>
+            <dc:title>Symposium
+Syro-Arabicum (Sayyidat al-Bīr, septembre 1998)</dc:title>
+            <dc:title>Études arabes
+chrétiennes</dc:title>
+            <dc:title>Parole de l’Orient</dc:title>
+            <dc:title>An Eastern Arabic version of the three Epistles of
+Saint John (codex ar.  kept in the Monastery of El Escorial (Madrid),” Samir Khalil Samir
+(ed.),  , Vol.</dc:title>
             <prism:volume>1</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -16730,7 +16650,6 @@ de Santiago’, guardado en la Biblioteca de El Escorial</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
-      <dc:title>um</dc:title>
       <dc:date>1625</dc:date>
       <dc:date>2002</dc:date>
       <bib:pages>30-32</bib:pages>
@@ -16853,6 +16772,7 @@ el Cod. Ár. 1625 de la Biblioteca de El Escorial: Estudio y edición</dc:title>
             </dcterms:isPartOf>
             <dc:title>The
 Testament of Abraham. The Greek Text, edited with Introduction and notes</dc:title>
+            <dc:title>Texts and Studies</dc:title>
          </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
@@ -16865,7 +16785,8 @@ Testament of Abraham. The Greek Text, edited with Introduction and notes</dc:tit
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
-      <dc:title>Texts and Studies</dc:title>
+      <dc:title>The Testaments of Abraham,
+Isaac and Jacob (Extracts from the Arabic Version)</dc:title>
       <dc:publisher>
          <foaf:Organization>
             <vcard:adr>
@@ -17569,6 +17490,8 @@ Testamenti</dc:title>
          <bib:Book>
             <dc:title>Travaux de symposium international Le Livre. La Roumanie. L’Europe. Troisième édition
 – 20 à 24 Septembre 2010</dc:title>
+            <dc:title>La deuxième section – Bibliothéconomie et
+les sciences de l’information</dc:title>
             <prism:volume>2</prism:volume>
          </bib:Book>
       </dcterms:isPartOf>
@@ -17582,8 +17505,8 @@ Testamenti</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
-      <dc:title>La deuxième section – Bibliothéconomie et
-les sciences de l’information</dc:title>
+      <dc:title>L’édition du Livre arabe des
+Macchabées dans les Polyglottes de Londres et la Bible manuscrite de St. Pétersbourg</dc:title>
       <dc:publisher>
          <foaf:Organization>
             <vcard:adr>
@@ -17747,12 +17670,12 @@ uncanonical Gospels and other Writings</dc:title>
    <bib:Memo rdf:about="#note_434-1">
       <rdf:value>?</rdf:value>
    </bib:Memo>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
+         <bib:Journal>
             <dc:title>Hebraica</dc:title>
-         </bib:Book>
+         </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -17773,11 +17696,11 @@ uncanonical Gospels and other Writings</dc:title>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
+      <dc:subject>!no volume</dc:subject>
       <dcterms:isReferencedBy rdf:resource="#note_435-1"/>
-   </bib:BookSection>
+   </bib:Article>
    <bib:Memo rdf:about="#note_435-1">
-      <rdf:value>   4 (1887/ ,</rdf:value>
+      <rdf:value>1887/ ,</rdf:value>
    </bib:Memo>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -17944,6 +17867,9 @@ Forschungen</dc:title>
       <dcterms:isPartOf>
          <bib:Book>
             <dc:title>Testament of Abraham</dc:title>
+            <dc:title>Testaments of Isaac and Jacob</dc:title>
+            <dc:title>Non-canonical” Religious Texts in Early Judaism and Early
+Christianity</dc:title>
          </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
@@ -17972,7 +17898,8 @@ Forschungen</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:editors>
-      <dc:title>Testaments of Isaac and Jacob</dc:title>
+      <dc:title>The Coptic, Arabic and Ethiopic
+Versions of the   and the Emergence of the</dc:title>
       <dc:publisher>
          <foaf:Organization>
             <vcard:adr>
@@ -18131,7 +18058,6 @@ versions.</dcterms:abstract>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
          <bib:Book>
-            <dc:title>Abrǝham: Gädla Abrǝham</dc:title>
             <prism:volume>1</prism:volume>
          </bib:Book>
       </dcterms:isPartOf>
@@ -18145,6 +18071,7 @@ versions.</dcterms:abstract>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:title>Abrǝham: Gädla Abrǝham</dc:title>
       <dcterms:abstract>Mentions several Ge’ez versions based on the
 Arabic.</dcterms:abstract>
       <bib:pages>49</bib:pages>
@@ -18420,12 +18347,12 @@ the Apocalypse of Baruch</dc:title>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no volume</dc:subject>
    </bib:Article>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
+         <bib:Journal>
             <dc:title>Byzantinisches Jahrbuch</dc:title>
-         </bib:Book>
+         </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -18447,11 +18374,11 @@ Handschrift 885-886 n.Chr.</dc:title>
       <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
+      <dc:subject>!no volume</dc:subject>
       <dcterms:isReferencedBy rdf:resource="#note_452-1"/>
-   </bib:BookSection>
+   </bib:Article>
    <bib:Memo rdf:about="#note_452-1">
-      <rdf:value>   14 (1907/09),</rdf:value>
+      <rdf:value>1907/09),</rdf:value>
    </bib:Memo>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -18590,6 +18517,7 @@ Testaments of Abraham, Isaac and Jacob. </dcterms:abstract>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Orientalalia Suecana</dc:title>
+            <dc:title>tudia Orientalia memoriae Erici Gren dedicta</dc:title>
          </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
@@ -18602,7 +18530,7 @@ Testaments of Abraham, Isaac and Jacob. </dcterms:abstract>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
-      <dc:title>tudia Orientalia memoriae Erici Gren dedicta</dc:title>
+      <dc:title>Zur Charakteristik des apokryphen Johannesevangeliums</dc:title>
       <dc:date>1960</dc:date>
       <dc:date>1961</dc:date>
       <bib:pages>107-130</bib:pages>
@@ -18742,6 +18670,7 @@ Nils Simonsson (eds.), S
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Revue de l’Histoire des Religions</dc:title>
+            <dc:title/>
             <prism:volume>49</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -19537,6 +19466,7 @@ alongside Rödiger’s revisions of Wallin’s Arabic text []. The translation i
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Revue Biblique</dc:title>
+            <dc:title>n.s.</dc:title>
             <prism:volume>7</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -19727,6 +19657,7 @@ Jacobi im Cod. Sin. Ar. 436</dc:title>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Islamochristiana</dc:title>
+            <dc:title/>
             <prism:volume>2</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -19818,6 +19749,11 @@ Writings of Abū Rāʾiṭa al-Takrītī</dc:title>
       <dcterms:isPartOf>
          <bib:Book>
             <dc:title>taḥrīf</dc:title>
+            <dc:title>First</dc:title>
+            <dc:title>On the Holy
+Trinity</dc:title>
+            <dc:title>Ideas, Images, and Methods of
+Portrayel: Insights into Classical Arabic Literature and Islam</dc:title>
          </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
@@ -19840,7 +19776,8 @@ Writings of Abū Rāʾiṭa al-Takrītī</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:editors>
-      <dc:title>First</dc:title>
+      <dc:title>Refuting the charge of  : Abū
+Rāʾiṭa (d. ca. 835) and His ‘ Risāla ’</dc:title>
       <dc:publisher>
          <foaf:Organization>
             <vcard:adr>
@@ -19976,6 +19913,7 @@ of Alexandria: The Book of the Demonstration (Kitāb al-Burhān)</dc:title>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Oriens Christianus</dc:title>
+            <dc:title>in  N.S.</dc:title>
             <prism:volume>1</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -20018,6 +19956,7 @@ Alexandrien</dc:title>
       <dcterms:isPartOf>
          <bib:Book>
             <dc:title>Kitāb al-burhān</dc:title>
+            <dc:title>Christian-Muslim encounters</dc:title>
          </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
@@ -20046,7 +19985,8 @@ Alexandrien</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:editors>
-      <dc:title>Christian-Muslim encounters</dc:title>
+      <dc:title>Ibn Taymiyya and the  . A
+Muslim controversialist responds to a ninth-century Arabic Christian apology</dc:title>
       <dc:publisher>
          <foaf:Organization>
             <vcard:adr>
@@ -20341,6 +20281,7 @@ Press</foaf:name>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>American Journal of Theology</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>5</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -20423,6 +20364,7 @@ Abbasid Period (750-1258)</dc:title>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Parole d'Orient</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>16</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -20455,6 +20397,7 @@ Abbasid Period (750-1258)</dc:title>
       <dcterms:isPartOf>
          <bib:Book>
             <dc:title>Christian-Muslim Relations. A Biographical History</dc:title>
+            <dc:title>600-900</dc:title>
          </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
@@ -20483,7 +20426,7 @@ Abbasid Period (750-1258)</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:editors>
-      <dc:title>600-900</dc:title>
+      <dc:title>Fī tathlīth Allāh al-wāḥid</dc:title>
       <dc:publisher>
          <foaf:Organization>
             <vcard:adr>
@@ -20803,6 +20746,7 @@ Writings of the Umayyad Period</dc:title>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Parole d’Orient</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>39</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -20838,6 +20782,7 @@ On the Veneration of the Holy Icons</dc:title>
          <bib:Journal>
             <dc:title>Journal of Eastern
 Christian Studies</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>65.1</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -20919,6 +20864,7 @@ Finnisch-deutschen Theologentagung (Makarios-Symposium) im Kloster Neu-Valamo, F
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Orientalia Christiana Periodica</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>49</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -20946,6 +20892,7 @@ Finnisch-deutschen Theologentagung (Makarios-Symposium) im Kloster Neu-Valamo, F
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Journal of Theological Studies</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>34</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -20974,6 +20921,7 @@ Finnisch-deutschen Theologentagung (Makarios-Symposium) im Kloster Neu-Valamo, F
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Islamochristiana</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>3</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -21002,6 +20950,7 @@ I et le calife al-Mahdî (II/VIII siècle): ‘Mohammed a suivi la voie des prop
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Al-Machriq</dc:title>
+            <dc:title>[Luwīs Šayḫū],   in</dc:title>
             <prism:volume>19</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -21070,13 +21019,13 @@ du Dialogue entre Timothée et al-Mahdi</dc:title>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:Book>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
+   <bib:Article>
+      <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
-         <bib:Book>
-            <dc:title>Ancient Bible
-Translations to Judeo-Arabic</dc:title>
-         </bib:Book>
+         <bib:Journal>
+            <dc:title>(in Hebrew) Peʿamim</dc:title>
+            <prism:volume>83</prism:volume>
+         </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
@@ -21094,27 +21043,22 @@ Translations to Judeo-Arabic</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:title>Ancient Bible
+Translations to Judeo-Arabic</dc:title>
       <dc:date>2000</dc:date>
       <bib:pages>4-14</bib:pages>
       <dc:subject>ID: 518</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
       <dc:subject>MS: St. Petersburg, RNL, Yevr. II</dc:subject>
       <dc:subject>?MS: C 1/2</dc:subject>
       <dc:subject>Subject: general</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dc:subject>!missing title</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_518-1"/>
-   </bib:BookSection>
-   <bib:Memo rdf:about="#note_518-1">
-      <rdf:value> (in Hebrew) Peʿamim 83 ( ,  </rdf:value>
-   </bib:Memo>
+   </bib:Article>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
          <bib:Book>
             <dc:title>ה</dc:title>
+            <dc:title>דבר דבור על אופניו</dc:title>
          </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
@@ -21149,7 +21093,8 @@ Translations to Judeo-Arabic</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:editors>
-      <dc:title>דבר דבור על אופניו</dc:title>
+      <dc:title>ניצני פרשנות  מקרא
+בערבית-היהודית על סמך גלוסר קדום לספר תהילים</dc:title>
       <dc:publisher>
          <foaf:Organization>
             <vcard:adr>
@@ -21279,6 +21224,9 @@ Traducciones de la biblia al judeo-árabe</dc:title>
       <dcterms:isPartOf>
          <bib:Book>
             <dc:title/>
+            <dc:title>Jewish studies in a new Europe:
+proceedings of the Fifth Congress of Jewish Studies in Copenhagen 1994 under the auspices of the
+European Association for Jewish Studies</dc:title>
          </bib:Book>
       </dcterms:isPartOf>
       <bib:authors>
@@ -21309,9 +21257,7 @@ Traducciones de la biblia al judeo-árabe</dc:title>
             </rdf:li>
          </rdf:Seq>
       </bib:editors>
-      <dc:title>Jewish studies in a new Europe:
-proceedings of the Fifth Congress of Jewish Studies in Copenhagen 1994 under the auspices of the
-European Association for Jewish Studies</dc:title>
+      <dc:title>Arabic Bible translations in the Cairo Genizah collections</dc:title>
       <dc:publisher>
          <foaf:Organization>
             <vcard:adr>
@@ -21423,6 +21369,7 @@ Pentateuch</dc:title>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Leshonenu</dc:title>
+            <dc:title>[Observations on an Eastern early</dc:title>
             <prism:volume>11</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -21989,6 +21936,7 @@ Psalmenübersetzung und Commentar (Psalm 50-72)</dc:title>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Orientalistische Literaturzeitung</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>46</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -22131,6 +22079,7 @@ translations of Job.</dcterms:abstract>
          <bib:Journal>
             <dc:title>Abhandlungen der Philosophisch-philologischen Klasse der Königlich-Bayerischen Akademie der
 Wissenschaften</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>3</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -22662,6 +22611,7 @@ or Fiction</dc:title>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Orientalia</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>2</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -23658,6 +23608,8 @@ Gospels</dcterms:abstract>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Kitāb ad-Dīn wad-Daula</dc:title>
+            <dc:title>Oriens Christianus</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>3</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -23671,7 +23623,9 @@ Gospels</dcterms:abstract>
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
-      <dc:title>Oriens Christianus</dc:title>
+      <dc:title>Die alttestamentlichen Bibelzitate, vor allem aus dem
+Pentateuch, in Aṭ-Ṭabarī’s  und ihre Bedeutung für die
+Frage nach der Echtheit dieser Schrift</dc:title>
       <dcterms:abstract>Abdo Khalife and Wilhelm Kutsch, „ar-radd ala-n-Nasara de Ali at-Tabari,“ MUSJ 36 (1959), pp. 115-48.</dcterms:abstract>
       <dc:date>1934</dc:date>
       <bib:pages>23-39</bib:pages>
@@ -23750,6 +23704,8 @@ Peeters</foaf:name>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Alif</dc:title>
+            <dc:title>(Arabic with
+English summary)</dc:title>
             <prism:volume>7</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>
@@ -23806,6 +23762,8 @@ Untersuchung,“ Islamic philosophy, theology, and science 50 (Leiden / Boston:
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Fiṣal</dc:title>
+            <dc:title>Journal of Middle Eastern and North African
+Intellectual and Cultural Studies</dc:title>
          </bib:Journal>
       </dcterms:isPartOf>
       <bib:authors>
@@ -23818,8 +23776,7 @@ Untersuchung,“ Islamic philosophy, theology, and science 50 (Leiden / Boston:
             </rdf:li>
          </rdf:Seq>
       </bib:authors>
-      <dc:title>Journal of Middle Eastern and North African
-Intellectual and Cultural Studies</dc:title>
+      <dc:title>A Gospel Quotation of Syriac Origin in the   by Ibn Ḥazm</dc:title>
       <dcterms:abstract>Ibn Qutayba</dcterms:abstract>
       <dc:date>2002</dc:date>
       <bib:pages>127-146</bib:pages>
@@ -24190,6 +24147,7 @@ the Four Gospels</dc:title>
       <dcterms:isPartOf>
          <bib:Journal>
             <dc:title>Muslim World</dc:title>
+            <dc:title>in</dc:title>
             <prism:volume>15</prism:volume>
          </bib:Journal>
       </dcterms:isPartOf>

@@ -177,7 +177,7 @@
                     regex="{$regex-title}">
                     <xsl:matching-substring>
                         <xsl:choose>
-                            <xsl:when test="regex-group(1)"><dc:title><xsl:copy-of select="regex-group(1)"/></dc:title></xsl:when>
+                            <xsl:when test="regex-group(1)"><dc:title level="article"><xsl:copy-of select="regex-group(1)"/></dc:title></xsl:when>
                             <xsl:otherwise><xsl:copy-of select="."/></xsl:otherwise>
                         </xsl:choose>
                     </xsl:matching-substring>
@@ -496,7 +496,7 @@
                                     <xsl:copy-of select="$uncaptured-data"/>
                                 </xsl:when>
                                 <!-- Journal Article -->
-                                <xsl:when test="dc:title and matches(.,$regex-article-title) and matches(.,concat($regex-journal-volume,$regex-date))">
+                                <xsl:when test="matches(.,$regex-article-title) and matches(.,'(\d+\.?\d*)\s*\(+\s*((14|15|16|17|18|19|20)\d{2}(\-\d+)?).*\)')">
                                     <xsl:variable name="journal-article">
                                         <z:itemType>journalArticle</z:itemType>
                                         <xsl:copy-of select="node()"/>
@@ -894,12 +894,12 @@
                                     <dcterms:isPartOf>
                                         <bib:Book>
                                             <xsl:copy-of select="dcterms:isPartOf[bib:Series]"/>
-                                            <xsl:copy-of select="syriaca:sanitize-titles(dc:title[1])"/>
+                                            <xsl:copy-of select="syriaca:sanitize-titles(dc:title[not(@level='article')])"/>
                                             <xsl:copy-of select="prism:volume"/>
                                         </bib:Book>
                                     </dcterms:isPartOf>
                                     <xsl:copy-of select="$contributors-all"/>
-                                    <xsl:copy-of select="syriaca:sanitize-titles(dc:title[2])"/>
+                                    <xsl:copy-of select="syriaca:sanitize-titles(dc:title[@level='article'])"/>
                                     <xsl:copy-of select="$publication-info"/>
                                     <xsl:copy-of select="$tags"/>
                                     <xsl:copy-of select="syriaca:create-flags(.,$itemType)"/>
@@ -914,12 +914,12 @@
                                     <z:itemType><xsl:value-of select="$itemType"/></z:itemType>
                                     <dcterms:isPartOf>
                                         <bib:Journal>
-                                            <xsl:copy-of select="syriaca:sanitize-titles(dc:title[1])"/>
+                                            <xsl:copy-of select="syriaca:sanitize-titles(dc:title[not(@level='article')])"/>
                                             <xsl:copy-of select="prism:volume"/>
                                         </bib:Journal>
                                     </dcterms:isPartOf>
                                     <xsl:copy-of select="$contributors-all"/>
-                                    <xsl:copy-of select="syriaca:sanitize-titles(dc:title[2])"/>
+                                    <xsl:copy-of select="syriaca:sanitize-titles(dc:title[@level='article'])"/>
                                     <xsl:copy-of select="$publication-info"/>
                                     <xsl:copy-of select="$tags"/>
                                     <xsl:copy-of select="syriaca:create-flags(.,$itemType)"/>
@@ -951,12 +951,12 @@
                                     <dcterms:isPartOf>
                                         <bib:Book>
                                             <xsl:copy-of select="dcterms:isPartOf[bib:Series]"/>
-                                            <xsl:copy-of select="syriaca:sanitize-titles(dc:title[1])"/>
+                                            <xsl:copy-of select="syriaca:sanitize-titles(dc:title[not(@level='article')])"/>
                                             <xsl:copy-of select="prism:volume"/>
                                         </bib:Book>
                                     </dcterms:isPartOf>
                                     <xsl:copy-of select="$contributors-all"/>
-                                    <xsl:copy-of select="syriaca:sanitize-titles(dc:title[2])"/>
+                                    <xsl:copy-of select="syriaca:sanitize-titles(dc:title[@level='article'])"/>
                                     <xsl:copy-of select="$publication-info"/>
                                     <xsl:copy-of select="$tags"/>
                                     <xsl:copy-of select="syriaca:create-flags(.,$itemType)"/>
