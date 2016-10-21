@@ -15878,11 +15878,8 @@ Macchabées dans les Polyglottes de Londres et la Bible manuscrite de St. Péter
       <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no abstract</dc:subject>
    </bib:BookSection>
-   <bib:BookSection>
-      <z:itemType>bookSection</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Book/>
-      </dcterms:isPartOf>
+   <bib:Book>
+      <z:itemType>thesis</z:itemType>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -15903,29 +15900,28 @@ Macchabées dans les Polyglottes de Londres et la Bible manuscrite de St. Péter
             <rdf:li>
                <foaf:Person/>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>PhD-Thesis</foaf:surname>
-                  <foaf:givenname>unpubl.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
-            <rdf:li>
-               <foaf:Person/>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
+      <dc:publisher>
+         <foaf:Organization>
+            <foaf:name>Manchester</foaf:name>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality> </vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+         </foaf:Organization>
+      </dc:publisher>
       <dcterms:abstract>Treats a literal and freer translation of Arabic version into Ge’ez. </dcterms:abstract>
+      <z:type>PhD</z:type>
       <dc:subject>ID: 431</dc:subject>
       <dc:subject>MS: Sinai, Ar. 436, Ar. 535</dc:subject>
       <dc:subject>MS: Sinai, Ar. 436, Ar. 556.</dc:subject>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
-      <dc:subject>!unknown type</dc:subject>
       <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no title</dc:subject>
-      <dc:subject>!no pages</dc:subject>
-      <dc:subject>!no publisher</dc:subject>
-   </bib:BookSection>
+   </bib:Book>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
