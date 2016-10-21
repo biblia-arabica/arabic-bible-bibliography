@@ -342,12 +342,9 @@ Petit dictionnaire de l'orient chrétien (Turnhout: Brepols, 1991), p.
                </foaf:Person>
             </rdf:li>
             <rdf:li>
-               <foaf:Person/>
-            </rdf:li>
-            <rdf:li>
                <foaf:Person>
                   <foaf:surname>Moosa</foaf:surname>
-                  <foaf:givenname>ed. Matti</foaf:givenname>
+                  <foaf:givenname>trans.  Matti</foaf:givenname>
                </foaf:Person>
             </rdf:li>
             <rdf:li>
@@ -370,6 +367,7 @@ Syriac Literature and Sciences</dc:title>
             <foaf:name>Gorgias Press</foaf:name>
          </foaf:Organization>
       </dc:publisher>
+      <prism:edition>and</prism:edition>
       <dc:date>2003</dc:date>
       <dc:subject>ID: 8</dc:subject>
       <dc:subject>MS: Florence, BML, Or. 112 (formerly 21)</dc:subject>
@@ -1653,6 +1651,7 @@ Cambridge History of the Bible</dc:title>
          </rdf:Seq>
       </bib:authors>
       <dc:title>The Bible in Arabic</dc:title>
+      <prism:edition>new</prism:edition>
       <dc:subject>ID: 39</dc:subject>
       <dc:subject>MS: ,  Violet fragment, Violet fragment</dc:subject>
       <dc:subject>MS: Sinai, Ar. 1, Ar. 74</dc:subject>
@@ -1669,7 +1668,7 @@ Cambridge History of the Bible</dc:title>
       <dcterms:isReferencedBy rdf:resource="#note_39-1"/>
    </bib:BookSection>
    <bib:Memo rdf:about="#note_39-1">
-      <rdf:value> in  (new ed.; forthcoming).</rdf:value>
+      <rdf:value> in  ( ; forthcoming).</rdf:value>
    </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -2120,19 +2119,15 @@ of Islam</dc:title>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Zabūr</dc:title>
+      <prism:edition>2nd</prism:edition>
       <bib:pages>372-373</bib:pages>
       <dc:subject>ID: 50</dc:subject>
       <dc:subject>MS: ,  Violet fragment, Violet fragment</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_50-1"/>
    </bib:BookSection>
-   <bib:Memo rdf:about="#note_50-1">
-      <rdf:value> in  2nd ed.,</rdf:value>
-   </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <bib:authors>
@@ -2561,6 +2556,7 @@ b. al-Qūṭī [#] and ibn Balashk [#] </dcterms:abstract>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Tawrāt</dc:title>
+      <prism:edition>2nd</prism:edition>
       <bib:pages>393-395</bib:pages>
       <dc:subject>ID: 59</dc:subject>
       <dc:subject>MS: Vatican, BAV, Ar. 13</dc:subject>
@@ -2573,15 +2569,10 @@ b. al-Qūṭī [#] and ibn Balashk [#] </dcterms:abstract>
       <dc:subject>?MS: BNF, Anc. F. 27 (current shelfmark) and Suppl. Ar. 27 (Coisl. 239), Vatican, BAV, Lat. 12900
 (formerly Chapter of the Cathedral of Siguenze, Ms. 150).</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_59-1"/>
    </bib:BookSection>
-   <bib:Memo rdf:about="#note_59-1">
-      <rdf:value> in  2nd ed.,</rdf:value>
-   </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -2612,6 +2603,7 @@ encyclopédique de la Bible</dc:title>
          </foaf:Organization>
       </dc:publisher>
       <dcterms:abstract>Updated version of [#].</dcterms:abstract>
+      <prism:edition>3rd</prism:edition>
       <dc:date>1987</dc:date>
       <bib:pages>cols. 1320-1321</bib:pages>
       <dc:subject>ID: 60</dc:subject>
@@ -2625,13 +2617,8 @@ encyclopédique de la Bible</dc:title>
       <dc:subject>?MS: BNF, Anc. F. 27 (current shelfmark) and Suppl. Ar. 27 (Coisl. 239), Vatican, BAV, Lat. 12900
 (formerly Chapter of the Cathedral of Siguenze, Ms. 150).</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_60-1"/>
    </bib:BookSection>
-   <bib:Memo rdf:about="#note_60-1">
-      <rdf:value> in  3rd ed.  , ,</rdf:value>
-   </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -3277,7 +3264,7 @@ Hinrichs</foaf:name>
       <dcterms:isReferencedBy rdf:resource="#note_74-1"/>
    </bib:BookSection>
    <bib:Memo rdf:about="#note_74-1">
-      <rdf:value> in     ’schen Buchhandlung, ,</rdf:value>
+      <rdf:value> in  ,   ’schen Buchhandlung, ,</rdf:value>
    </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
@@ -4137,7 +4124,7 @@ Reprint</foaf:name>
             <rdf:li>
                <foaf:Person>
                   <foaf:surname>161-164.</foaf:surname>
-                  <foaf:givenname>pp. 366-367. 3rd ed. pp.</foaf:givenname>
+                  <foaf:givenname>pp. 366-367.  pp.</foaf:givenname>
                </foaf:Person>
             </rdf:li>
          </rdf:Seq>
@@ -4156,6 +4143,7 @@ Criticism of the New Testament</dc:title>
       </dc:publisher>
       <dcterms:abstract>Enumerates several bilingual manuscripts that contain an Arabic version. </dcterms:abstract>
       <prism:edition>2nd</prism:edition>
+      <prism:edition>3rd</prism:edition>
       <dc:date>1883</dc:date>
       <dc:subject>ID: 97</dc:subject>
       <dc:subject>MS: Venice,  St. Mark 11 (Venet. 11) and 27 (Venet. 539), St. Mark 11 (Venet. 11)</dc:subject>
@@ -4428,18 +4416,14 @@ Dictionary of the Bible Comprising Its Antiquities, Biography, Geography, and Na
             <foaf:name>John Murray</foaf:name>
          </foaf:Organization>
       </dc:publisher>
+      <prism:edition>2nd</prism:edition>
       <dc:date>1893</dc:date>
       <bib:pages>1614-1616</bib:pages>
       <dc:subject>ID: 104</dc:subject>
       <dc:subject>MS: Vatican, BAV, Ar. 13.</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_104-1"/>
    </bib:BookSection>
-   <bib:Memo rdf:about="#note_104-1">
-      <rdf:value> in  . . 2nd ed.  , ,</rdf:value>
-   </bib:Memo>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -4531,7 +4515,7 @@ Dictionary of the Bible Comprising Its Antiquities, Biography, Geography, and Na
       <dcterms:isReferencedBy rdf:resource="#note_106-1"/>
    </bib:BookSection>
    <bib:Memo rdf:about="#note_106-1">
-      <rdf:value> in     (reprinted  , , ).</rdf:value>
+      <rdf:value> in  ,   (reprinted  , , ).</rdf:value>
    </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -11025,7 +11009,7 @@ Nehemia, as found in the Polyglots.</dcterms:abstract>
       <dcterms:isReferencedBy rdf:resource="#note_259-1"/>
    </bib:BookSection>
    <bib:Memo rdf:about="#note_259-1">
-      <rdf:value> in     ’schen Buchhandlung, ,</rdf:value>
+      <rdf:value> in  ,   ’schen Buchhandlung, ,</rdf:value>
    </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
