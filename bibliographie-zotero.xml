@@ -112,12 +112,6 @@ L’onore della traduzione | La tâche de la traduction</dc:title>
                   <foaf:givenname>Jacob Georg Christian</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>1-13</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Bibliotheca Biblica.
@@ -147,7 +141,12 @@ Serenissimi Würtenbergensium Ducis olim Lorckiana</dc:title>
       <dc:subject>MS: Vatican, BAV,  Borg. Ar. 129.</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_3-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_3-1">
+      <rdf:value>PP: 1-13
+and 134-139</rdf:value>
+   </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <bib:authors>
@@ -156,12 +155,6 @@ Serenissimi Würtenbergensium Ducis olim Lorckiana</dc:title>
                <foaf:Person>
                   <foaf:surname>Adler</foaf:surname>
                   <foaf:givenname>Jacob Georg Christian</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>13</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
                </foaf:Person>
             </rdf:li>
          </rdf:Seq>
@@ -194,7 +187,12 @@ journey to Rome. </dcterms:abstract>
       <dc:subject>MS: Vatican, BAV,  Borg. Ar. 129.</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_4-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_4-1">
+      <rdf:value>PP: 13, 23, 67-69, 73,
+133-138, 148-162, 173-184 and 208-212</rdf:value>
+   </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -347,12 +345,6 @@ Petit dictionnaire de l'orient chrétien (Turnhout: Brepols, 1991), p.
                   <foaf:givenname>trans.  Matti</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>62-64.</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>The Scattered Pearls: A History of
@@ -378,15 +370,13 @@ Syriac Literature and Sciences</dc:title>
       <dc:subject>MS: ,  an unspecified Ms. from the monastery of St. Matthew., an unspecified Ms. from the monastery of St. Matthew.</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_8-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_8-1">
+      <rdf:value>PP: 62-64</rdf:value>
+   </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>,  pp.</dc:title>
-            <dc:identifier>12</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -424,10 +414,10 @@ Orients</dc:title>
       <dcterms:isReferencedBy rdf:resource="#note_9-2"/>
    </bib:Book>
    <bib:Memo rdf:about="#note_9-1">
-      <rdf:value>'sche Verlagshandlung</rdf:value>
+      <rdf:value>PP: 12-15</rdf:value>
    </bib:Memo>
    <bib:Memo rdf:about="#note_9-2">
-      <rdf:value>-15.</rdf:value>
+      <rdf:value>'sche Verlagshandlung, ,</rdf:value>
    </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -811,12 +801,6 @@ historical, text-critical and literary aspects</dc:title>
                   <foaf:givenname>Carl</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>67-68.</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Geschichte der chistlichen Litteraturen
@@ -846,7 +830,11 @@ des Orients</dc:title>
       <dc:subject>MS: St Petersburg, RNL, Ar. NS. 327.</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_19-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_19-1">
+      <rdf:value>PP: 67-68</rdf:value>
+   </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -1023,9 +1011,6 @@ Albert, et al.,    , ,</rdf:value>
                   <foaf:givenname>Samuel</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person/>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>A Lectures on Biblical criticism:
@@ -1047,7 +1032,11 @@ exhibiting a systematic view of that science</dc:title>
       <dc:subject>?MS: 5505 (cited as 5503!).</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_24-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_24-1">
+      <rdf:value>PP: 69-73</rdf:value>
+   </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <bib:authors>
@@ -1056,12 +1045,6 @@ exhibiting a systematic view of that science</dc:title>
                <foaf:Person>
                   <foaf:surname>Davidson</foaf:surname>
                   <foaf:givenname>Samuel</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>668-675.</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
                </foaf:Person>
             </rdf:li>
          </rdf:Seq>
@@ -1087,7 +1070,11 @@ exhibiting a systematic view of that science</dc:title>
       <dc:subject>MS: Vatican, BAV, Ar. 13.</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_25-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_25-1">
+      <rdf:value>PP: 668-675</rdf:value>
+   </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -1324,12 +1311,6 @@ into Arabic.</dcterms:abstract>
                   <foaf:givenname>Johann Gottfried</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>230-319</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Einleitung in das Alte
@@ -1362,8 +1343,12 @@ Testament</dc:title>
       <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dcterms:isReferencedBy rdf:resource="#note_32-1"/>
+      <dcterms:isReferencedBy rdf:resource="#note_32-2"/>
    </bib:Book>
    <bib:Memo rdf:about="#note_32-1">
+      <rdf:value>PP: 230-319 </rdf:value>
+   </bib:Memo>
+   <bib:Memo rdf:about="#note_32-2">
       <rdf:value>(= §§ 275-302).</rdf:value>
    </bib:Memo>
    <bib:BookSection>
@@ -1413,12 +1398,6 @@ Jewish Encyclopedia</dc:title>
                   <foaf:givenname>Heinrich</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>8-18.</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Die christlich-arabische Literatur der
@@ -1450,7 +1429,11 @@ pp. 17-29.</dcterms:abstract>
       <dc:subject>MS: Vatican, BAV, Ar. 5 (pls. on pp. 28-29). </dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_34-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_34-1">
+      <rdf:value>PP: 8-18</rdf:value>
+   </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <bib:authors>
@@ -1510,12 +1493,6 @@ Breisgau</vcard:locality>
                   <foaf:givenname>5</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>85-195.</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Geschichte der christlichen arabischen
@@ -1549,7 +1526,11 @@ manuscript sources and secondary literature.</dcterms:abstract>
       <dc:subject>?MS: 234</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_36-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_36-1">
+      <rdf:value>PP: 85-195</rdf:value>
+   </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <bib:authors>
@@ -2155,18 +2136,6 @@ First Font Reference Arabic Bible</dc:title>
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>, pp.</dc:title>
-            <dc:identifier>378</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>, ,  pp.</dc:title>
-            <dc:identifier>247</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -2218,14 +2187,14 @@ Testament</dc:title>
       <dcterms:isReferencedBy rdf:resource="#note_52-3"/>
    </bib:Book>
    <bib:Memo rdf:about="#note_52-1">
-      <rdf:value>’scher Verlag</rdf:value>
+      <rdf:value>PP: 378-402</rdf:value>
    </bib:Memo>
    <bib:Memo rdf:about="#note_52-2">
-      <rdf:value>-402.
-(trans. Daniel Guildfort Wait)</rdf:value>
+      <rdf:value>PP: 247-254</rdf:value>
    </bib:Memo>
    <bib:Memo rdf:about="#note_52-3">
-      <rdf:value>-254.</rdf:value>
+      <rdf:value>’scher Verlag, , 
+(trans. Daniel Guildfort Wait),    , ,</rdf:value>
    </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -2282,12 +2251,6 @@ Bible</dc:title>
    </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>pp.</dc:title>
-            <dc:identifier>266</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -2342,10 +2305,10 @@ arabica) in the Biblia Hebraica.</dcterms:abstract>
       <dcterms:isReferencedBy rdf:resource="#note_54-2"/>
    </bib:Book>
    <bib:Memo rdf:about="#note_54-1">
-      <rdf:value>(several reprints )</rdf:value>
+      <rdf:value>PP: 266-268</rdf:value>
    </bib:Memo>
    <bib:Memo rdf:about="#note_54-2">
-      <rdf:value>-268.</rdf:value>
+      <rdf:value>(several reprints ),</rdf:value>
    </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
@@ -2480,12 +2443,6 @@ Sprachen</dc:title>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>, pp.</dc:title>
-            <dc:identifier>52</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -2532,10 +2489,10 @@ b. al-Qūṭī [#] and ibn Balashk [#] </dcterms:abstract>
       <dcterms:isReferencedBy rdf:resource="#note_58-2"/>
    </bib:Book>
    <bib:Memo rdf:about="#note_58-1">
-      <rdf:value>/Labor Vincit</rdf:value>
+      <rdf:value>PP: 52-56, 61</rdf:value>
    </bib:Memo>
    <bib:Memo rdf:about="#note_58-2">
-      <rdf:value>-56 -.</rdf:value>
+      <rdf:value>/Labor Vincit, , -.</rdf:value>
    </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -2673,12 +2630,6 @@ encyclopédique de la Bible</dc:title>
                   <foaf:givenname>Max Leopold</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>53-55.</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>The Story of
@@ -2706,7 +2657,11 @@ Bible Translations</dc:title>
 (formerly Chapter of the Cathedral of Siguenze, Ms. 150).</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_62-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_62-1">
+      <rdf:value>PP: 53-55</rdf:value>
+   </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <bib:authors>
@@ -2715,12 +2670,6 @@ Bible Translations</dc:title>
                <foaf:Person>
                   <foaf:surname>Meinardus</foaf:surname>
                   <foaf:givenname>Otto</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>41-42.</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
                </foaf:Person>
             </rdf:li>
          </rdf:Seq>
@@ -2752,7 +2701,11 @@ Bible Translations</dc:title>
 (formerly Chapter of the Cathedral of Siguenze, Ms. 150).</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_63-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_63-1">
+      <rdf:value>PP: 41-42</rdf:value>
+   </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -2823,12 +2776,6 @@ Honor of Eugene A. Nida</dc:title>
                   <foaf:givenname>Bruce Manning</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>14-17</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>The Early Versions of the New
@@ -2855,7 +2802,11 @@ Testament: Their Origin, Transmission, and Limitations</dc:title>
       <dc:subject>MS: , Sbath 1020., Sbath 1020.</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_65-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_65-1">
+      <rdf:value>PP: 14-17, 257-268</rdf:value>
+   </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -3268,13 +3219,6 @@ Hinrichs</foaf:name>
    </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>, ,
-pp.</dc:title>
-            <dc:identifier>52</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:editors>
          <rdf:Seq>
             <rdf:li>
@@ -3315,13 +3259,12 @@ Thousand</dc:title>
       <dc:subject>ID: 75</dc:subject>
       <dc:subject>MS: Paris, BNF, Ar. 9</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dcterms:isReferencedBy rdf:resource="#note_75-1"/>
    </bib:Book>
    <bib:Memo rdf:about="#note_75-1">
-      <rdf:value>-55.</rdf:value>
+      <rdf:value>PP: 52-55</rdf:value>
    </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -3415,12 +3358,6 @@ Century)</dc:title>
                   <foaf:givenname>Alfred</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>24.</foaf:surname>
-                  <foaf:givenname>p.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Septuaginta: Societatis Scientiarum
@@ -3443,7 +3380,11 @@ the possession of the Septuaginta-Unternehmen and has been used for collation.</
       <dc:subject>MS: Paris, BNF, Ar. 9</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_78-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_78-1">
+      <rdf:value>PP: 24</rdf:value>
+   </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <bib:authors>
@@ -3452,12 +3393,6 @@ the possession of the Septuaginta-Unternehmen and has been used for collation.</
                <foaf:Person>
                   <foaf:surname>Roberts</foaf:surname>
                   <foaf:givenname>Bleddyn J.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>196</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
                </foaf:Person>
             </rdf:li>
          </rdf:Seq>
@@ -3482,7 +3417,11 @@ the possession of the Septuaginta-Unternehmen and has been used for collation.</
       <dc:subject>MS: Leiden, University Library, Or. 243.</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_79-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_79-1">
+      <rdf:value>PP: 196, 266-269</rdf:value>
+   </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -4024,12 +3963,6 @@ Woordenboek</dc:title>
                   <foaf:givenname>Christian Friedrich</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>191-238</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Dissertatio</dc:title>
@@ -4066,7 +3999,11 @@ Reprint</foaf:name>
       <dc:subject>MS: Leiden, University Library, Or. 243.</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_95-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_95-1">
+      <rdf:value>PP: 191-238, 501-504</rdf:value>
+   </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <bib:authors>
@@ -4075,12 +4012,6 @@ Reprint</foaf:name>
                <foaf:Person>
                   <foaf:surname>Schnurrer</foaf:surname>
                   <foaf:givenname>Christian Friedrich</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>339-397.</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
                </foaf:Person>
             </rdf:li>
          </rdf:Seq>
@@ -4105,7 +4036,11 @@ Reprint</foaf:name>
       <dc:subject>MS: Leiden, University Library, Or. 243.</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_96-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_96-1">
+      <rdf:value>PP: 339-397</rdf:value>
+   </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <bib:authors>
@@ -4114,12 +4049,6 @@ Reprint</foaf:name>
                <foaf:Person>
                   <foaf:surname>Scrivener</foaf:surname>
                   <foaf:givenname>Frederick Henry</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>161-164.</foaf:surname>
-                  <foaf:givenname>pp. 366-367.  pp.</foaf:givenname>
                </foaf:Person>
             </rdf:li>
          </rdf:Seq>
@@ -4148,7 +4077,15 @@ Criticism of the New Testament</dc:title>
       <dc:subject>MS: Leiden, University Library, Or. 243.</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_97-1"/>
+      <dcterms:isReferencedBy rdf:resource="#note_97-2"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_97-1">
+      <rdf:value>PP: 366-367</rdf:value>
+   </bib:Memo>
+   <bib:Memo rdf:about="#note_97-2">
+      <rdf:value>PP: 161-164</rdf:value>
+   </bib:Memo>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -4228,12 +4165,6 @@ and the Question of Medieval Byzantine-Orthodox Identity</dc:title>
    </bib:BookSection>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>, pp.</dc:title>
-            <dc:identifier>44</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -4267,9 +4198,13 @@ Testament</dc:title>
       <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dcterms:isReferencedBy rdf:resource="#note_100-1"/>
+      <dcterms:isReferencedBy rdf:resource="#note_100-2"/>
    </bib:Book>
    <bib:Memo rdf:about="#note_100-1">
-      <rdf:value>(Paul Siebeck)</rdf:value>
+      <rdf:value>PP: 44, 58, 66</rdf:value>
+   </bib:Memo>
+   <bib:Memo rdf:about="#note_100-2">
+      <rdf:value>(Paul Siebeck), ,</rdf:value>
    </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
@@ -4283,8 +4218,8 @@ Testament</dc:title>
             </rdf:li>
             <rdf:li>
                <foaf:Person>
-                  <foaf:surname>York</foaf:surname>
-                  <foaf:givenname>pp. 110-111. Reprint New</foaf:givenname>
+                  <foaf:surname>Inc</foaf:surname>
+                  <foaf:givenname/>
                </foaf:Person>
             </rdf:li>
          </rdf:Seq>
@@ -4301,6 +4236,17 @@ Greek</dc:title>
             <foaf:name>Cambridge University Press</foaf:name>
          </foaf:Organization>
       </dc:publisher>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>Reprint New York</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>Ktav
+Publishing House</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
       <dc:date>1902</dc:date>
       <dc:date>1968</dc:date>
       <dc:subject>ID: 101</dc:subject>
@@ -4310,13 +4256,11 @@ Greek</dc:title>
       <dc:subject>MS: Vatican, BAV, Borg. Syr. 49</dc:subject>
       <dc:subject>MS: Rome, Casanatense, Ar.-Carsh. 2 </dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dcterms:isReferencedBy rdf:resource="#note_101-1"/>
    </bib:Book>
    <bib:Memo rdf:about="#note_101-1">
-      <rdf:value>: Ktav
-Publishing House, Inc,</rdf:value>
+      <rdf:value>PP: 110-111</rdf:value>
    </bib:Memo>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -4620,12 +4564,6 @@ unspecified modern one.</dcterms:abstract>
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>pp.</dc:title>
-            <dc:identifier>1</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:editors>
          <rdf:Seq>
             <rdf:li>
@@ -4662,9 +4600,13 @@ unspecified modern one.</dcterms:abstract>
       <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dcterms:isReferencedBy rdf:resource="#note_110-1"/>
+      <dcterms:isReferencedBy rdf:resource="#note_110-2"/>
    </bib:Book>
    <bib:Memo rdf:about="#note_110-1">
-      <rdf:value>-80 [paginated separately].</rdf:value>
+      <rdf:value>PP: 1-80 </rdf:value>
+   </bib:Memo>
+   <bib:Memo rdf:about="#note_110-2">
+      <rdf:value>,  [paginated separately].</rdf:value>
    </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -4748,12 +4690,6 @@ Prolegomena V, §</dc:title>
                   <foaf:givenname>John William</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>44-45.</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Septuaginta: Vetus Testamentutm
@@ -4780,7 +4716,11 @@ Graecum, auctoritate Academiae Scientiarum Gottingensis editum, Vol. 1, Genesis<
       <dc:subject>MS: Oxford,  Bodl. Poc. 219 and March. 440. , March. 440. </dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_112-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_112-1">
+      <rdf:value>PP: 44-45</rdf:value>
+   </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <bib:authors>
@@ -4789,12 +4729,6 @@ Graecum, auctoritate Academiae Scientiarum Gottingensis editum, Vol. 1, Genesis<
                <foaf:Person>
                   <foaf:surname>Würthwein</foaf:surname>
                   <foaf:givenname>Ernst</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>114-115</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
                </foaf:Person>
             </rdf:li>
          </rdf:Seq>
@@ -4820,8 +4754,13 @@ Bibelgesellschaft 2009, does not add further material. </dcterms:abstract>
       <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dcterms:isReferencedBy rdf:resource="#note_113-1"/>
+      <dcterms:isReferencedBy rdf:resource="#note_113-2"/>
    </bib:Book>
    <bib:Memo rdf:about="#note_113-1">
+      <rdf:value>PP: 114-115,
+226-227 </rdf:value>
+   </bib:Memo>
+   <bib:Memo rdf:about="#note_113-2">
       <rdf:value>(Facs. 46).</rdf:value>
    </bib:Memo>
    <bib:BookSection>
@@ -4967,12 +4906,6 @@ Buch im Vorderen Orient</dc:title>
    </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>, pp.</dc:title>
-            <dc:identifier>70</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:editors>
          <rdf:Seq>
             <rdf:li>
@@ -5008,19 +4941,13 @@ Plantin</foaf:name>
       <dcterms:isReferencedBy rdf:resource="#note_117-2"/>
    </bib:Book>
    <bib:Memo rdf:about="#note_117-1">
-      <rdf:value>-Moretus</rdf:value>
+      <rdf:value>PP: 70-72</rdf:value>
    </bib:Memo>
    <bib:Memo rdf:about="#note_117-2">
-      <rdf:value>-72.</rdf:value>
+      <rdf:value>-Moretus, ,</rdf:value>
    </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>,  pp.</dc:title>
-            <dc:identifier>202</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -5062,10 +4989,10 @@ the famous gloss on Ps 18:5 that contains the first mention of Christopher Colum
       <dcterms:isReferencedBy rdf:resource="#note_118-2"/>
    </bib:Book>
    <bib:Memo rdf:about="#note_118-1">
-      <rdf:value>’s sons </rdf:value>
+      <rdf:value>PP: 202-212</rdf:value>
    </bib:Memo>
    <bib:Memo rdf:about="#note_118-2">
-      <rdf:value>-212.</rdf:value>
+      <rdf:value>’s sons , ,</rdf:value>
    </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
@@ -5075,12 +5002,6 @@ the famous gloss on Ps 18:5 that contains the first mention of Christopher Colum
                <foaf:Person>
                   <foaf:surname>Vercellin</foaf:surname>
                   <foaf:givenname>Giorgio</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>58-69.</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
                </foaf:Person>
             </rdf:li>
          </rdf:Seq>
@@ -5103,7 +5024,11 @@ caratteri arabi</dc:title>
       <dc:subject>MS: Vatican, BAV, Ar. 23</dc:subject>
       <dc:subject>Subject: Blau in Targume Miqra</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_119-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_119-1">
+      <rdf:value>PP: 58-69</rdf:value>
+   </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -5614,12 +5539,6 @@ enterprise.</dcterms:abstract>
                   <foaf:givenname>Michel Marie</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>110-113.</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>La nouvelle mission de la Compagnie de
@@ -5648,7 +5567,11 @@ Jésus en Syrie (1831-1895)</dc:title>
       <dc:subject>?MS: C 1-2.</dc:subject>
       <dc:subject>Subject: London Polyglot</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_132-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_132-1">
+      <rdf:value>PP: 110-113</rdf:value>
+   </bib:Memo>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -5691,12 +5614,6 @@ Jésus en Syrie (1831-1895)</dc:title>
    </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>, pp.</dc:title>
-            <dc:identifier>68</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -5741,20 +5658,14 @@ notes. </dcterms:abstract>
       <dcterms:isReferencedBy rdf:resource="#note_134-2"/>
    </bib:Book>
    <bib:Memo rdf:about="#note_134-1">
-      <rdf:value>/ The Hebrew University of
-Jerusalem</rdf:value>
+      <rdf:value>PP: 68-71, 95-96, 98-106, 145-154</rdf:value>
    </bib:Memo>
    <bib:Memo rdf:about="#note_134-2">
-      <rdf:value>-71 -96 -106 -154.</rdf:value>
+      <rdf:value>/ The Hebrew University of
+Jerusalem, ,</rdf:value>
    </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>, pp.</dc:title>
-            <dc:identifier>185</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -5786,10 +5697,10 @@ today.</dcterms:abstract>
       <dcterms:isReferencedBy rdf:resource="#note_135-2"/>
    </bib:Book>
    <bib:Memo rdf:about="#note_135-1">
-      <rdf:value>(Beirut</rdf:value>
+      <rdf:value>PP: 185-208</rdf:value>
    </bib:Memo>
    <bib:Memo rdf:about="#note_135-2">
-      <rdf:value>-208. [contains several Old and New Testament selections from
+      <rdf:value>(Beirut, ,  [contains several Old and New Testament selections from
 various sources]</rdf:value>
    </bib:Memo>
    <bib:Book>
@@ -6095,12 +6006,6 @@ and Introduction,  .</dc:title>
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>Arabic-Latin glossary on pp.</dc:title>
-            <dc:identifier>88</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -6133,10 +6038,11 @@ primorum capita Geneseos</dc:title>
       <dcterms:isReferencedBy rdf:resource="#note_143-2"/>
    </bib:Book>
    <bib:Memo rdf:about="#note_143-1">
-      <rdf:value>[incl. Arabic]  [Text on pp. 89-106</rdf:value>
+      <rdf:value>PP: 89-106,
+Arabic-Latin glossary on pp</rdf:value>
    </bib:Memo>
    <bib:Memo rdf:about="#note_143-2">
-      <rdf:value>-100 of Glossarium section.]</rdf:value>
+      <rdf:value>[incl. Arabic]  [Text on  88-100 of Glossarium section.]</rdf:value>
    </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
@@ -6193,12 +6099,6 @@ Translation from the Same Codex</dc:title>
                   <foaf:givenname>Francisco Javier</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>viii-ix</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Crestomatía
@@ -6220,7 +6120,11 @@ arábigo-española</dc:title>
       <dc:subject>?MS: 187.</dc:subject>
       <dc:subject>Subject: Editions, Chrestomathies</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_145-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_145-1">
+      <rdf:value>PP: viii-ix, 2-10</rdf:value>
+   </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <bib:editors>
@@ -6562,12 +6466,6 @@ Sira, as based on Ms. Sinai, Ar. 155.</dcterms:abstract>
    </bib:Book>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>, pp.</dc:title>
-            <dc:identifier>109</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:editors>
          <rdf:Seq>
             <rdf:li>
@@ -6604,10 +6502,10 @@ Which one?</dcterms:abstract>
       <dcterms:isReferencedBy rdf:resource="#note_154-2"/>
    </bib:Book>
    <bib:Memo rdf:about="#note_154-1">
-      <rdf:value>/Brockhaus</rdf:value>
+      <rdf:value>PP: 109-148</rdf:value>
    </bib:Memo>
    <bib:Memo rdf:about="#note_154-2">
-      <rdf:value>-148.</rdf:value>
+      <rdf:value>/Brockhaus, ,</rdf:value>
    </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
@@ -9257,17 +9155,21 @@ editarum, cum observationibus</dc:title>
                   <vcard:locality>Jena</vcard:locality>
                </vcard:Address>
             </vcard:adr>
-            <foaf:name>apud Bibliop. Academicum</foaf:name>
+            <foaf:name>apud Biblio </foaf:name>
          </foaf:Organization>
       </dc:publisher>
-      <dc:date>1789</dc:date>
       <dc:subject>ID: 222</dc:subject>
       <dc:subject>MS: Paris, BNF Ar. 1, Florence</dc:subject>
       <dc:subject>MS: Paris, BNF Ar. 1,  BML Or. 112 (formerly</dc:subject>
       <dc:subject>?MS: 21).</dc:subject>
       <dc:subject>Subject: Pentateuch</dc:subject>
+      <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_222-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_222-1">
+      <rdf:value>PP: Academicum, 1789</rdf:value>
+   </bib:Memo>
    <bib:Thesis>
       <z:itemType>thesis</z:itemType>
       <bib:authors>
@@ -9454,12 +9356,6 @@ study of Ms. Sinai, Ar. 2. </dcterms:abstract>
                   <foaf:givenname>Arthur</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>59-64</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Peschitta und
@@ -9484,15 +9380,13 @@ Arabic translations of the Pentateuch. </dcterms:abstract>
       <dc:subject>MS: Munich, Staatsbibliothek, Ar. 234.</dc:subject>
       <dc:subject>Subject: Pentateuch</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_227-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_227-1">
+      <rdf:value>PP: 59-64, 118-123</rdf:value>
+   </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>, , pp.</dc:title>
-            <dc:identifier>44</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:editors>
          <rdf:Seq>
             <rdf:li>
@@ -9526,13 +9420,12 @@ Arabic translations of the Pentateuch. </dcterms:abstract>
       <dc:subject>MS: Leiden, University Library, Or. 377 (Warner 377)</dc:subject>
       <dc:subject>MS: Leiden, University Library, Or. 230 (Scaliger Arab. 230).</dc:subject>
       <dc:subject>Subject: Pentateuch</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dcterms:isReferencedBy rdf:resource="#note_228-1"/>
    </bib:Book>
    <bib:Memo rdf:about="#note_228-1">
-      <rdf:value>-46.</rdf:value>
+      <rdf:value>PP: 44-46</rdf:value>
    </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -9661,12 +9554,6 @@ introduction.</dcterms:abstract>
                   <foaf:givenname>Antonius Maria</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>107-108.</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Monumenta Sacra et Profana</dc:title>
@@ -9698,7 +9585,11 @@ introduction.</dcterms:abstract>
       <dc:subject>MS: Birmingham, Mingana, Arab. Chr. 121.</dc:subject>
       <dc:subject>Subject: Al-Harith ibn Sinan</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_231-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_231-1">
+      <rdf:value>PP: 107-108</rdf:value>
+   </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <bib:authors>
@@ -9707,12 +9598,6 @@ introduction.</dcterms:abstract>
                <foaf:Person>
                   <foaf:surname>Hody</foaf:surname>
                   <foaf:givenname>Humfred</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>622-5.</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
                </foaf:Person>
             </rdf:li>
          </rdf:Seq>
@@ -9747,7 +9632,11 @@ introduction.</dcterms:abstract>
       <dc:subject>MS: Birmingham, Mingana, Arab. Chr. 121.</dc:subject>
       <dc:subject>Subject: Al-Harith ibn Sinan</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_232-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_232-1">
+      <rdf:value>PP: 622-5</rdf:value>
+   </bib:Memo>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -9833,12 +9722,6 @@ introduction to his translations. Contains an excerpt of the Arabic text.</dcter
             <rdf:li>
                <foaf:Person/>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>8-29.</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>A letter to the
@@ -9866,7 +9749,11 @@ al-Ḥārith’s introduction, as preserved in the two copies of the Bodleian Li
       <dc:subject>MS: Oxford, Bodl., A 147.</dc:subject>
       <dc:subject>Subject: Al-Harith ibn Sinan</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_235-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_235-1">
+      <rdf:value>PP: 8-29</rdf:value>
+   </bib:Memo>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -10512,12 +10399,6 @@ Buchhandlung, ,</rdf:value>
    </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>, pp.</dc:title>
-            <dc:identifier>32</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -10552,10 +10433,10 @@ Breisgau</vcard:locality>
       <dcterms:isReferencedBy rdf:resource="#note_250-2"/>
    </bib:Book>
    <bib:Memo rdf:about="#note_250-1">
-      <rdf:value>’sche Verlagshandlung</rdf:value>
+      <rdf:value>PP: 32-34</rdf:value>
    </bib:Memo>
    <bib:Memo rdf:about="#note_250-2">
-      <rdf:value>-34.</rdf:value>
+      <rdf:value>’sche Verlagshandlung, ,</rdf:value>
    </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
@@ -10594,12 +10475,6 @@ Lagardes Ausgabe der arabischen Übersetzung der Genesis (Cod. Leid. arab. 230) 
                   <foaf:givenname>Johann Albert</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>37-44.</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>S.
@@ -10628,7 +10503,11 @@ Studies, University of Oxford.</dcterms:abstract>
       <dc:subject>MS: Oxford, Bodl, Hunt. 84</dc:subject>
       <dc:subject>Subject: Pentateuch Catena</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_252-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_252-1">
+      <rdf:value>PP: 37-44</rdf:value>
+   </bib:Memo>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -10861,12 +10740,6 @@ of the Book of Ruth: Text Edition and Language Studies</dc:title>
                   <foaf:givenname>Anton</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>20-22.</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Septuagintastudien
@@ -10921,7 +10794,11 @@ in the Polyglots.</dcterms:abstract>
       <dc:subject>MS: Vatican, BAV,  Ar. 503.</dc:subject>
       <dc:subject>Subject: Historical Books</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_258-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_258-1">
+      <rdf:value>PP: 20-22</rdf:value>
+   </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -11131,9 +11008,13 @@ Ezra and Nehemia in the Polyglots.</dcterms:abstract>
       <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dcterms:isReferencedBy rdf:resource="#note_261-1"/>
+      <dcterms:isReferencedBy rdf:resource="#note_261-2"/>
    </bib:Book>
    <bib:Memo rdf:about="#note_261-1">
-      <rdf:value>(Paul Siebeck), , pp. xxi.</rdf:value>
+      <rdf:value>PP: xxi</rdf:value>
+   </bib:Memo>
+   <bib:Memo rdf:about="#note_261-2">
+      <rdf:value>(Paul Siebeck), ,</rdf:value>
    </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -11466,12 +11347,6 @@ Al Sahhar</dc:title>
                   <foaf:givenname>Joseph</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>13-14.</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Die äthiopische
@@ -11491,15 +11366,13 @@ Uebersetzung des Propheten Jeremias</dc:title>
       <dc:subject>MS: Berlin, Staatsbibliothek, Diez A fol. 41</dc:subject>
       <dc:subject>Subject: Pethion ibn Ayyūb</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_269-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_269-1">
+      <rdf:value>PP: 13-14</rdf:value>
+   </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>, pp.</dc:title>
-            <dc:identifier>49</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -11535,10 +11408,10 @@ London Polyglot to fill in gaps in the Paris Polyglot.</dcterms:abstract>
       <dcterms:isReferencedBy rdf:resource="#note_270-2"/>
    </bib:Book>
    <bib:Memo rdf:about="#note_270-1">
-      <rdf:value>’sche Buchhandlung</rdf:value>
+      <rdf:value>PP: 49-57</rdf:value>
    </bib:Memo>
    <bib:Memo rdf:about="#note_270-2">
-      <rdf:value>-57.</rdf:value>
+      <rdf:value>’sche Buchhandlung, ,</rdf:value>
    </bib:Memo>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -11611,12 +11484,6 @@ Arabic Text of Daniel and its Affinities</dc:title>
                   <foaf:givenname>Wilhelm</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>98-106.</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Der Prophet Jesaia: uebersetzt und mit
@@ -11640,7 +11507,11 @@ Polyglots with a focus on the translation’s relation with its Greek Vorlage
       <dc:subject>MS: Paris, BNF, Ar. 1</dc:subject>
       <dc:subject>Subject: al-ʿAlam</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_273-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_273-1">
+      <rdf:value>PP: 98-106</rdf:value>
+   </bib:Memo>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -11677,12 +11548,6 @@ Polyglots with a focus on the translation’s relation with its Greek Vorlage
                   <foaf:givenname>Laurenz</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>34-37.</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Der Prophet
@@ -11703,7 +11568,11 @@ und historischen Commentar</dc:title>
       <dc:subject>MS: Paris, BNF, Ar. 1</dc:subject>
       <dc:subject>Subject: al-ʿAlam</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_275-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_275-1">
+      <rdf:value>PP: 34-37</rdf:value>
+   </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <bib:authors>
@@ -11712,12 +11581,6 @@ und historischen Commentar</dc:title>
                <foaf:Person>
                   <foaf:surname>Reinke</foaf:surname>
                   <foaf:givenname>Laurenz</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>65-70.</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
                </foaf:Person>
             </rdf:li>
          </rdf:Seq>
@@ -11739,15 +11602,13 @@ und historischen Commentar</dc:title>
       <dc:subject>MS: Paris, BNF, Ar. 1</dc:subject>
       <dc:subject>Subject: al-ʿAlam</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_276-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_276-1">
+      <rdf:value>PP: 65-70</rdf:value>
+   </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>, pp.</dc:title>
-            <dc:identifier>97</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -11781,10 +11642,10 @@ und historischen Commentar</dc:title>
       <dcterms:isReferencedBy rdf:resource="#note_277-2"/>
    </bib:Book>
    <bib:Memo rdf:about="#note_277-1">
-      <rdf:value>’sche Universitätsbuchhandlung</rdf:value>
+      <rdf:value>PP: 97-104</rdf:value>
    </bib:Memo>
    <bib:Memo rdf:about="#note_277-2">
-      <rdf:value>-104.</rdf:value>
+      <rdf:value>’sche Universitätsbuchhandlung, ,</rdf:value>
    </bib:Memo>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -12426,12 +12287,6 @@ literary papyri</dc:title>
                   <foaf:givenname>3</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>31.</foaf:surname>
-                  <foaf:givenname>p.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>A grammar of Christian Arabic, based mainly on
@@ -12454,7 +12309,11 @@ Christianorum Orientalium Vol 267, 276, 279</dc:title>
       <dc:subject>MS: ,  Violet fragment, Violet fragment</dc:subject>
       <dc:subject>Subject: Violet Fragment</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_295-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_295-1">
+      <rdf:value>PP: 31</rdf:value>
+   </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -12565,12 +12424,6 @@ Institut du monde arabe, 11-15 septembre 1990</dc:title>
                   <foaf:givenname>Simon</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>1-2.</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Studies in the grammar of early Arabic: based
@@ -12590,7 +12443,11 @@ upon papyri datable to before 300 A.H./912 A.D</dc:title>
       <dc:subject>MS: ,  Violet fragment, Violet fragment</dc:subject>
       <dc:subject>Subject: Violet Fragment</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_298-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_298-1">
+      <rdf:value>PP: 1-2</rdf:value>
+   </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -13578,12 +13435,6 @@ Buchhandlung, .</rdf:value>
                   <foaf:givenname>James Rendel</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>xi</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Biblical fragments from Mount
@@ -13606,7 +13457,11 @@ Monastery (Compare Lewis [#]).</dcterms:abstract>
       <dc:subject>MS: Today?, belongs with St Petersburg,  Gre. 290. </dc:subject>
       <dc:subject>Subject: Gospels</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_325-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_325-1">
+      <rdf:value>PP: xi, 25-26</rdf:value>
+   </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <bib:authors>
@@ -14957,12 +14812,6 @@ Introduction to the Arabic Diatessaron</dc:title>
                   <foaf:givenname>William Lawrence</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>133-138.</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Tatian’s Diatessaron. Its
@@ -14988,7 +14837,11 @@ Creation, Dissemination, Significance, and History in Scholarship</dc:title>
       <dc:subject>MS: London, BL, Or 3382.</dc:subject>
       <dc:subject>Subject: Diatesseron</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_363-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_363-1">
+      <rdf:value>PP: 133-138</rdf:value>
+   </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <bib:authors>
@@ -14997,12 +14850,6 @@ Creation, Dissemination, Significance, and History in Scholarship</dc:title>
                <foaf:Person>
                   <foaf:surname>Kahle</foaf:surname>
                   <foaf:givenname>Paul</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>297-304.</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
                </foaf:Person>
             </rdf:li>
          </rdf:Seq>
@@ -15031,7 +14878,11 @@ thereof, with notes on the Coptic reception. </dcterms:abstract>
       <dc:subject>MS: London, BL, Or 3382.</dc:subject>
       <dc:subject>Subject: Diatesseron</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_364-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_364-1">
+      <rdf:value>PP: 297-304</rdf:value>
+   </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <bib:authors>
@@ -15046,12 +14897,6 @@ thereof, with notes on the Coptic reception. </dcterms:abstract>
                <foaf:Person>
                   <foaf:surname>Lake</foaf:surname>
                   <foaf:givenname>Silva</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>f.</foaf:surname>
-                  <foaf:givenname>pp. 12</foaf:givenname>
                </foaf:Person>
             </rdf:li>
          </rdf:Seq>
@@ -15082,15 +14927,13 @@ transcription and Introduction by Carl H. Kraeling</dc:title>
       <dc:subject>MS: London, BL,  Beirut Fragments?</dc:subject>
       <dc:subject>Subject: Diatesseron</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_365-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_365-1">
+      <rdf:value>PP: 12 f</rdf:value>
+   </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>pp.</dc:title>
-            <dc:identifier>321</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -15115,13 +14958,12 @@ biblique 44</dc:title>
       <dc:subject>MS: London, BL, Or 3382</dc:subject>
       <dc:subject>MS: London, BL,  Beirut Fragments?</dc:subject>
       <dc:subject>Subject: Diatesseron</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no publisher</dc:subject>
       <dcterms:isReferencedBy rdf:resource="#note_366-1"/>
    </bib:Book>
    <bib:Memo rdf:about="#note_366-1">
-      <rdf:value>-327.</rdf:value>
+      <rdf:value>PP: 321-327</rdf:value>
    </bib:Memo>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -16831,12 +16673,6 @@ Paris, BNF, Ar. 132.</dcterms:abstract>
                   <foaf:givenname>Bellarmino</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>46-51.</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>La Caverna dei
@@ -16860,7 +16696,11 @@ Adam.</dcterms:abstract>
       <dc:subject>MS: Vatican, BAV, Ar. 462</dc:subject>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_412-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_412-1">
+      <rdf:value>PP: 46-51</rdf:value>
+   </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -17271,12 +17111,6 @@ Alexandria</dc:title>
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>pp.</dc:title>
-            <dc:identifier>134</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -17297,13 +17131,12 @@ Alexandria</dc:title>
       <dc:subject>MS: Munich, Staatsbibliothek, Ar. 238</dc:subject>
       <dc:subject>MS: Sinai,  Ar. 155., Ar. 155.</dc:subject>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no publisher</dc:subject>
       <dcterms:isReferencedBy rdf:resource="#note_425-1"/>
    </bib:Book>
    <bib:Memo rdf:about="#note_425-1">
-      <rdf:value>-140.</rdf:value>
+      <rdf:value>PP: 134-140</rdf:value>
    </bib:Memo>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -17695,12 +17528,6 @@ etiopici</dc:title>
                   <foaf:givenname>Adolf</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>xl-xli</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Messias Judaeorum</dc:title>
@@ -17720,7 +17547,11 @@ etiopici</dc:title>
       <dc:subject>MS: Oxford, Bodleian Library, Or. 251</dc:subject>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_437-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_437-1">
+      <rdf:value>PP: xl-xli</rdf:value>
+   </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -18097,12 +17928,6 @@ Edition und Übersetzung der arabischen und äthiopischen Versionen</dc:title>
    </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>pp.</dc:title>
-            <dc:identifier>586</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -18125,22 +17950,15 @@ Edition und Übersetzung der arabischen und äthiopischen Versionen</dc:title>
       <dc:subject>MS: Birmingham, Mingana, Chr.</dc:subject>
       <dc:subject>?MS: Arab. 94.</dc:subject>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no publisher</dc:subject>
       <dcterms:isReferencedBy rdf:resource="#note_446-1"/>
    </bib:Book>
    <bib:Memo rdf:about="#note_446-1">
-      <rdf:value>-590.</rdf:value>
+      <rdf:value>PP: 586-590</rdf:value>
    </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>pp.</dc:title>
-            <dc:identifier>271</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -18163,22 +17981,15 @@ Edition und Übersetzung der arabischen und äthiopischen Versionen</dc:title>
       <dc:subject>MS: Birmingham, Mingana, Chr.</dc:subject>
       <dc:subject>?MS: Arab. 94.</dc:subject>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no publisher</dc:subject>
       <dcterms:isReferencedBy rdf:resource="#note_447-1"/>
    </bib:Book>
    <bib:Memo rdf:about="#note_447-1">
-      <rdf:value>-275.</rdf:value>
+      <rdf:value>PP: 271-275</rdf:value>
    </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>pp.</dc:title>
-            <dc:identifier>278</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:authors>
          <rdf:Seq>
             <rdf:li>
@@ -18202,13 +18013,12 @@ Morgenlands</dc:title>
       <dc:subject>MS: Birmingham, Mingana, Chr.</dc:subject>
       <dc:subject>?MS: Arab. 94.</dc:subject>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no publisher</dc:subject>
       <dcterms:isReferencedBy rdf:resource="#note_448-1"/>
    </bib:Book>
    <bib:Memo rdf:about="#note_448-1">
-      <rdf:value>-281.</rdf:value>
+      <rdf:value>PP: 278-281</rdf:value>
    </bib:Memo>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
@@ -18250,12 +18060,6 @@ Johannes-Apokalypse</dc:title>
                   <foaf:givenname>Albertus Frederik Johannes</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>9.</foaf:surname>
-                  <foaf:givenname>p.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>The Acts of Thomas: Introduction, Text, Commentary</dc:title>
@@ -18275,7 +18079,11 @@ Johannes-Apokalypse</dc:title>
       <dc:subject>?MS: Arab. 94.</dc:subject>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_450-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_450-1">
+      <rdf:value>PP: 9</rdf:value>
+   </bib:Memo>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -18720,12 +18528,6 @@ la ‘Epístola apócrifa a los Laodicenses</dc:title>
    </bib:Article>
    <bib:Book>
       <z:itemType>book</z:itemType>
-      <dcterms:isPartOf>
-         <bib:Series>
-            <dc:title>, pp.</dc:title>
-            <dc:identifier>79</dc:identifier>
-         </bib:Series>
-      </dcterms:isPartOf>
       <bib:editors>
          <rdf:Seq>
             <rdf:li>
@@ -18757,13 +18559,12 @@ Infancy Gospels</dcterms:abstract>
       <dc:subject>?MS: 694, Syr. 199</dc:subject>
       <dc:subject>MS: Sinai,  Ar. 539., Ar. 539.</dc:subject>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no author</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dcterms:isReferencedBy rdf:resource="#note_464-1"/>
    </bib:Book>
    <bib:Memo rdf:about="#note_464-1">
-      <rdf:value>-105.</rdf:value>
+      <rdf:value>PP: 79-105</rdf:value>
    </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
@@ -18920,12 +18721,6 @@ Laurenziano orientale n. 387</dc:title>
                   <foaf:givenname>Constantin von</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>xxxii-xxxvi</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Evangelia Apocrypha</dc:title>
@@ -18949,7 +18744,11 @@ Apocrypha (Leipzig:Avenarius et Mendelssohn, 1853) pp. 171-202.</dcterms:abstrac
       <dc:subject>MS: Sinai,  Ar. 539., Ar. 539.</dc:subject>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_469-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_469-1">
+      <rdf:value>PP: xxxii-xxxvi, 122-139</rdf:value>
+   </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
       <bib:authors>
@@ -19310,12 +19109,6 @@ Book of Ezra</dc:title>
                   <foaf:givenname>Émile de</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>46.</foaf:surname>
-                  <foaf:givenname>p.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>La forme la
@@ -19339,7 +19132,11 @@ briefly, with reference to [] Thilo.</dcterms:abstract>
       <dc:subject>?MS: 251.</dc:subject>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_479-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_479-1">
+      <rdf:value>PP: 46</rdf:value>
+   </bib:Memo>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -19382,12 +19179,6 @@ briefly, with reference to [] Thilo.</dcterms:abstract>
                   <foaf:givenname>Johann Carl</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>xv-xxvi</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Codex Apocryphus Novi Testamenti</dc:title>
@@ -19411,7 +19202,11 @@ alongside Rödiger’s revisions of Wallin’s Arabic text []. The translation i
       <dc:subject>?MS: 251.</dc:subject>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_481-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_481-1">
+      <rdf:value>PP: xv-xxvi, 1-61</rdf:value>
+   </bib:Memo>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -19555,14 +19350,13 @@ Oxford, Bodleian Library, Or. 251.</dcterms:abstract>
       <dc:subject>ID: 485</dc:subject>
       <dc:subject>MS: Paris, BNF, Ar. 51</dc:subject>
       <dc:subject>Subject: Includes edition of the Arabic text.</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no publisher</dc:subject>
       <dcterms:isReferencedBy rdf:resource="#note_485-1"/>
    </bib:Book>
    <bib:Memo rdf:about="#note_485-1">
-      <rdf:value>() p. xxxix</rdf:value>
+      <rdf:value>PP: xxxix</rdf:value>
    </bib:Memo>
    <bib:Thesis>
       <z:itemType>thesis</z:itemType>
@@ -22481,12 +22275,6 @@ was given to Barberini</dcterms:abstract>
                   <foaf:givenname>Alan David</foaf:givenname>
                </foaf:Person>
             </rdf:li>
-            <rdf:li>
-               <foaf:Person>
-                  <foaf:surname>22-25.</foaf:surname>
-                  <foaf:givenname>pp.</foaf:givenname>
-               </foaf:Person>
-            </rdf:li>
          </rdf:Seq>
       </bib:authors>
       <dc:title>The Samaritan Scribes and Manuscripts</dc:title>
@@ -22511,7 +22299,11 @@ was given to Barberini</dcterms:abstract>
       <dc:subject>?MS: II, John Ryland.</dc:subject>
       <dc:subject>Subject: Samaritan</dc:subject>
       <dc:subject>!no abstract</dc:subject>
+      <dcterms:isReferencedBy rdf:resource="#note_555-1"/>
    </bib:Book>
+   <bib:Memo rdf:about="#note_555-1">
+      <rdf:value>PP: 22-25</rdf:value>
+   </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -22713,10 +22505,14 @@ Blackwell, 1959), pp. 54-57.</dcterms:abstract>
       <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dcterms:isReferencedBy rdf:resource="#note_560-1"/>
+      <dcterms:isReferencedBy rdf:resource="#note_560-2"/>
    </bib:Book>
    <bib:Memo rdf:about="#note_560-1">
-      <rdf:value>[Pp. 28-63 have the text of Gen 49 in Samaritan characters and Arabic characters, together with the
-Polyglot version for comparison, along with some annotations.]</rdf:value>
+      <rdf:value>PP: 28-63 have the text of Gen 49 in Samaritan characters and Arabic characters, together with the
+Polyglot version for comparison, along with some annotations</rdf:value>
+   </bib:Memo>
+   <bib:Memo rdf:about="#note_560-2">
+      <rdf:value>[P ]</rdf:value>
    </bib:Memo>
    <bib:Book>
       <z:itemType>book</z:itemType>
