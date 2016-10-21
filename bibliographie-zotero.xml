@@ -5396,7 +5396,7 @@ du Corpus SCO</foaf:name>
          </rdf:Seq>
       </bib:authors>
       <dc:title>The Mount Sinai Arabic Version of IV Ezra. Text, Translation
-and Introduction</dc:title>
+and Introduction,  .</dc:title>
       <dc:publisher>
          <foaf:Organization>
             <foaf:name>Rijksuniversiteit Groningen</foaf:name>
@@ -15876,7 +15876,7 @@ Macchabées dans les Polyglottes de Londres et la Bible manuscrite de St. Péter
          </rdf:Seq>
       </bib:authors>
       <dc:title>The Falasha Version of the Testaments of Abraham, Isaac and
-Jacob</dc:title>
+Jacob,  . 6.52</dc:title>
       <dc:publisher>
          <foaf:Organization>
             <foaf:name>Manchester</foaf:name>

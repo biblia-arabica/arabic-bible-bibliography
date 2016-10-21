@@ -86,38 +86,32 @@
         <xsl:param name="input-node"/>
         <xsl:param name="regex-thesis"/>
         <entry>
-            <xsl:for-each select="$input-node/node()">
-                <xsl:choose>
-                    <xsl:when test=". instance of text()">
-                        <xsl:analyze-string 
-                            select="." 
-                            regex="{$regex-thesis}">
-                            <xsl:matching-substring>
-                                <xsl:if test="regex-group(3)">
-                                    <z:itemType>thesis</z:itemType>
-                                    <dc:publisher>
-                                        <foaf:Organization>
-                                            <foaf:name><xsl:value-of select="regex-group(4)"/></foaf:name>
-                                            <vcard:adr>
-                                                <vcard:Address>
-                                                    <vcard:locality><xsl:value-of select="normalize-space(regex-group(6))"/></vcard:locality>
-                                                </vcard:Address>
-                                            </vcard:adr>
-                                        </foaf:Organization>
-                                    </dc:publisher>
-                                    <dc:date><xsl:value-of select="regex-group(7)"/></dc:date>
-                                    <z:type><xsl:value-of select="regex-group(3)"/></z:type>
-                                </xsl:if>
-                            </xsl:matching-substring>
-                            <xsl:non-matching-substring>
-                                <xsl:copy-of select="."/>
-                            </xsl:non-matching-substring>
-                        </xsl:analyze-string>
-                    </xsl:when>
-                    <xsl:otherwise>
+            <xsl:copy-of select="$input-node/node()[not(. instance of text())]"/>
+            <xsl:for-each select="$input-node/node()[. instance of text()]">
+                <xsl:analyze-string 
+                    select="." 
+                    regex="{$regex-thesis}">
+                    <xsl:matching-substring>
+                        <xsl:if test="regex-group(3)">
+                            <z:itemType>thesis</z:itemType>
+                            <dc:publisher>
+                                <foaf:Organization>
+                                    <foaf:name><xsl:value-of select="regex-group(4)"/></foaf:name>
+                                    <vcard:adr>
+                                        <vcard:Address>
+                                            <vcard:locality><xsl:value-of select="normalize-space(regex-group(6))"/></vcard:locality>
+                                        </vcard:Address>
+                                    </vcard:adr>
+                                </foaf:Organization>
+                            </dc:publisher>
+                            <dc:date><xsl:value-of select="regex-group(7)"/></dc:date>
+                            <z:type><xsl:value-of select="regex-group(3)"/></z:type>
+                        </xsl:if>
+                    </xsl:matching-substring>
+                    <xsl:non-matching-substring>
                         <xsl:copy-of select="."/>
-                    </xsl:otherwise>
-                </xsl:choose>
+                    </xsl:non-matching-substring>
+                </xsl:analyze-string>
             </xsl:for-each>  
         </entry>
     </xsl:function>
