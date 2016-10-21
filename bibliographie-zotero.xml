@@ -272,6 +272,7 @@ Verlagsbuchhandlung</foaf:name>
          </foaf:Organization>
       </dc:publisher>
       <dcterms:abstract>An update of Baumstark [#].</dcterms:abstract>
+      <prism:edition>2.</prism:edition>
       <dc:date>1958</dc:date>
       <bib:pages>394-396</bib:pages>
       <dc:subject>ID: 6</dc:subject>
@@ -284,13 +285,8 @@ Verlagsbuchhandlung</foaf:name>
       <dc:subject>MS: Munich, Staatsbibliothek, Ar. 234</dc:subject>
       <dc:subject>MS: London, BL, Or. 2291.</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_6-1"/>
    </bib:BookSection>
-   <bib:Memo rdf:about="#note_6-1">
-      <rdf:value> in   Ed.  , ,</rdf:value>
-   </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -465,6 +461,7 @@ Orients</dc:title>
 Verlagsbuchhandlung</foaf:name>
          </foaf:Organization>
       </dc:publisher>
+      <prism:edition>1.</prism:edition>
       <dc:date>1931</dc:date>
       <bib:pages>317-319</bib:pages>
       <dc:subject>ID: 10</dc:subject>
@@ -474,13 +471,8 @@ Verlagsbuchhandlung</foaf:name>
       <dc:subject>MS: Vatican, BAV, Copt. 9</dc:subject>
       <dc:subject>MS: Sinai,  Ar. 151., Ar. 151.</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no abstract</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_10-1"/>
    </bib:BookSection>
-   <bib:Memo rdf:about="#note_10-1">
-      <rdf:value> in   Ed.  , ,</rdf:value>
-   </bib:Memo>
    <bib:Article>
       <z:itemType>journalArticle</z:itemType>
       <dcterms:isPartOf>
@@ -1211,20 +1203,16 @@ Arabic versions</bib:pages>
       </bib:authors>
       <dc:title>Bible, Translations, Modern Versions, Arabic</dc:title>
       <dcterms:abstract>Almost entirely based on 1st ed., see [#].</dcterms:abstract>
+      <prism:edition>2.</prism:edition>
       <bib:pages>627</bib:pages>
       <dc:subject>ID: 28</dc:subject>
       <dc:subject>MS: Munich, Staatsbibliothek, Ar. 238</dc:subject>
       <dc:subject>MS: Munich, Staatsbibliothek, Ar. 234.</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_28-1"/>
    </bib:BookSection>
-   <bib:Memo rdf:about="#note_28-1">
-      <rdf:value>   in   Ed.,</rdf:value>
-   </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>
@@ -1878,20 +1866,15 @@ Encyclopédique de la Bible</dc:title>
          </rdf:Seq>
       </bib:authors>
       <dc:title>Bible, Translations, Ancient versions, Arabic</dc:title>
+      <prism:edition>1.</prism:edition>
       <bib:pages>cols. 863-864</bib:pages>
       <dc:subject>ID: 44</dc:subject>
       <dc:subject>MS: ,  Violet fragment, Violet fragment</dc:subject>
       <dc:subject>Subject: Generalia</dc:subject>
-      <dc:subject>!uncaptured data</dc:subject>
       <dc:subject>!no date</dc:subject>
       <dc:subject>!no abstract</dc:subject>
       <dc:subject>!no publisher</dc:subject>
-      <dcterms:isReferencedBy rdf:resource="#note_44-1"/>
    </bib:BookSection>
-   <bib:Memo rdf:about="#note_44-1">
-      <rdf:value> in
-  Ed.,</rdf:value>
-   </bib:Memo>
    <bib:BookSection>
       <z:itemType>bookSection</z:itemType>
       <dcterms:isPartOf>

@@ -322,7 +322,7 @@
                     regex="{$regex-edition}">
                     <xsl:matching-substring>
                         <xsl:if test="regex-group(1)">
-                            <prism:edition><xsl:value-of select="regex-group(1)"/></prism:edition>
+                            <prism:edition><xsl:value-of select="replace(regex-group(1),'[\.\s]*$','')"/></prism:edition>
                         </xsl:if>
                     </xsl:matching-substring>
                     <xsl:non-matching-substring>
@@ -476,7 +476,7 @@
                             <xsl:variable name="regex-publisher" select="'[,\(]\s*([\w\s\.&amp;;/]+):\s*([\w\s\.&amp;;]+)'"/>
                             <xsl:variable name="regex-date" select="'\s*((14|15|16|17|18|19|20)\d{2}(\-\d+)?)(,|\)|\.\s*$)'"/>
                             <xsl:variable name="regex-pages" select="'\s*p?p\.[\s\n\t]*((([0-9A-Za-z]+(\-[0-9A-Za-z]+)?),?\s*)+)\.*|\s*(col(s|l)?\.[\s\n\t]*(([0-9A-Za-z]+(\-[0-9A-Za-z]+)?),?\s*)+)\.*'"/>
-                            <xsl:variable name="regex-edition" select="',\s*([A-Za-z0-9]+\.?)\s*ed\.,?'"/>
+                            <xsl:variable name="regex-edition" select="',\s*([A-Za-z0-9]+\.?)\s*[Ee]d\.,?'"/>
                             <xsl:variable name="regex-editors" select="'(\[#\]|in)\s+([\w\s,À-ʸ\-\.]+?)\(eds?\.?\),?\s*'"/>
                             <xsl:variable name="regex-journal-volume" select="'(^[\s\S]*?|^)\s*(\d+\.?\d*)\s*\(*'"/>
                             <xsl:variable name="regex-series-volume" select="',\s*([\s\S]*?)\s*(\d+\.?\d*)\s*'"/>
