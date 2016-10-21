@@ -81,33 +81,78 @@
         <xsl:if test="$itemType=('journalArticle') and not($item-node/prism:volume)"><dc:subject>!no volume</dc:subject></xsl:if>
         <xsl:if test="$itemType=('book','bookSection') and not($item-node/dc:publisher)"><dc:subject>!no publisher</dc:subject></xsl:if>
     </xsl:function>
-    <xsl:function name="syriaca:extract-thesis">
+    
+    <xsl:function name="syriaca:add-thesis">
         <xsl:param name="input-node"/>
         <xsl:param name="regex-thesis"/>
-        <xsl:analyze-string 
-            select="$input-node" 
-            regex="{$regex-thesis}">
-            <xsl:matching-substring>
-                <xsl:if test="regex-group(1)">
-                    <z:itemType>thesis</z:itemType>
-                    <dc:publisher>
-                        <foaf:Organization>
-                            <foaf:name><xsl:value-of select="regex-group(2)"/></foaf:name>
-                            <vcard:adr>
-                                <vcard:Address>
-                                    <vcard:locality><xsl:value-of select="normalize-space(regex-group(4))"/></vcard:locality>
-                                </vcard:Address>
-                            </vcard:adr>
-                        </foaf:Organization>
-                    </dc:publisher>
-                    <dc:date><xsl:value-of select="regex-group(5)"/></dc:date>
-                    <z:type><xsl:value-of select="regex-group(2)"/></z:type>
-                </xsl:if>
-            </xsl:matching-substring>
-            <xsl:non-matching-substring>
-                <xsl:copy-of select="."/>
-            </xsl:non-matching-substring>
-        </xsl:analyze-string>
+        <xsl:for-each select="$input-node/node()">
+            <xsl:choose>
+                <xsl:when test=". instance of text()">
+                    <xsl:analyze-string 
+                        select="." 
+                        regex="{$regex-thesis}">
+                        <xsl:matching-substring>
+                            <xsl:if test="regex-group(3)">
+                                <z:itemType>thesis</z:itemType>
+                                <dc:publisher>
+                                    <foaf:Organization>
+                                        <foaf:name><xsl:value-of select="regex-group(4)"/></foaf:name>
+                                        <vcard:adr>
+                                            <vcard:Address>
+                                                <vcard:locality><xsl:value-of select="normalize-space(regex-group(6))"/></vcard:locality>
+                                            </vcard:Address>
+                                        </vcard:adr>
+                                    </foaf:Organization>
+                                </dc:publisher>
+                                <dc:date><xsl:value-of select="regex-group(7)"/></dc:date>
+                                <z:type><xsl:value-of select="regex-group(3)"/></z:type>
+                            </xsl:if>
+                        </xsl:matching-substring>
+                        <xsl:non-matching-substring>
+                            <xsl:copy-of select="."/>
+                        </xsl:non-matching-substring>
+                    </xsl:analyze-string>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:copy-of select="."/>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:for-each>        
+    </xsl:function>
+    <xsl:function name="syriaca:add-authors">
+        <xsl:param name="input-node"/>
+        <xsl:param name="regex-authors"/>
+        <xsl:for-each select="$input-node/node()">
+            <xsl:choose>
+                <xsl:when test=". instance of text()">
+                    <xsl:analyze-string 
+                        select="." 
+                        regex="{$regex-authors}">
+                        <xsl:matching-substring>
+                            <xsl:if test="regex-group(1)[matches(.,'[A-Za-zÀ-ʸ]')]">
+                                <bib:authors>
+                                    <rdf:Seq>
+                                        <xsl:for-each select="tokenize(regex-group(1),'(\s+[au]nd|\s+&amp;|,)\s+')[matches(.,'[A-Za-zÀ-ʸ]')]">
+                                            <rdf:li>
+                                                <foaf:Person>
+                                                    <xsl:copy-of select="syriaca:split-names(.)"/>
+                                                </foaf:Person>
+                                            </rdf:li>
+                                        </xsl:for-each>
+                                    </rdf:Seq>
+                                </bib:authors>
+                            </xsl:if>
+                        </xsl:matching-substring>
+                        <xsl:non-matching-substring>
+                            <xsl:copy-of select="."/>
+                        </xsl:non-matching-substring>
+                    </xsl:analyze-string>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:copy-of select="."/>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:for-each>        
     </xsl:function>
     
     <!-- The number the ID tags should start with. -->
@@ -151,19 +196,13 @@
                             <xsl:variable name="regex-authors" select="'\[#\]\s*([\w\s,À-ʸ\-\.]+)'"/>
                             <xsl:variable name="regex-article-title" select="'[“-‟&quot;]+([\s\S]*)[“-‟&quot;]+'"/>
                             <xsl:variable name="regex-translators" select="'([Ee]d\.\s+and\s+)?[Tt]rans?l?\.?\s+(and\s+[Ee]d.\s*)?(\s+by\s+)?([\w\s,À-ʸ\-\.]+?)'"/>
-                            <xsl:variable name="regex-thesis" select="'([\w\.]+)[\s\-]*[Tt]hesis,\s*(.+?),(([\w\s\.,]+),)?\s*((14|15|16|17|18|19|20)\d{2}(\-\d+)?)'"/>
+                            <xsl:variable name="regex-thesis" select="'([Uu]npubl(\.|ished)\s*)?([\w\.]+)[\s\-]*[Tt]hesis,\s*(.+?),(([\w\s\.,]+),)?\s*((14|15|16|17|18|19|20)\d{2}(\-\d+)?)'"/>
                             <xsl:choose>
                                 <xsl:when test="matches(.,'[Tt]hesis')">
                                     <entry>
-                                        <xsl:for-each select="node()">
-                                            <xsl:choose>
-                                                <xsl:when test="name()='dc:title'"><xsl:copy-of select="."/></xsl:when>
-                                                <xsl:otherwise>
-                                                    <!--<z:itemType>thesis</z:itemType>-->
-                                                    <xsl:copy-of select="syriaca:extract-thesis(.,$regex-thesis)"/>
-                                                </xsl:otherwise>
-                                            </xsl:choose>
-                                        </xsl:for-each>
+                                        <xsl:variable name="thesis" select="syriaca:add-thesis(.,$regex-thesis)"/>
+                                        <xsl:variable name="authors" select="syriaca:add-authors(.,$regex-authors)"/>
+                                        <xsl:copy-of select="$thesis"/>
                                     </entry>
                                 </xsl:when>
                                 <xsl:otherwise>
