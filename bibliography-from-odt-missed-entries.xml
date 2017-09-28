@@ -1,0 +1,2684 @@
+<?xml-stylesheet type="text/xsl" href="bibliography.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Untitled Document</title>
+<author>R R</author>
+</titleStmt>
+<editionStmt>
+<edition><date>2016-07-08T02:39:47.68</date></edition>
+</editionStmt>
+<publicationStmt>
+<p>no publication statement available</p>
+</publicationStmt>
+<sourceDesc>
+<p>Written by OpenOffice</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<listChange>
+<change><name>R R</name><date>2016-08-25T16:41:05.60</date></change>
+</listChange>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<p rend="justify"><hi rend="color(#0000ff)underline">Acknowledgement</hi>
+</p>
+<p rend="justify"><hi rend="color(#0000ff)underline">Foreword</hi>
+</p>
+<p rend="justify"><hi rend="color(#0000ff)underline">Baumstark in Lexicon für Theologie und Kirche
+Vol 2:318-319</hi>
+</p>
+<p rend="justify"><hi rend="color(#0000ff)underline">Compilation</hi>
+</p>
+<p rend="justify"><hi rend="color(#0000ff)underline">Content and Organisation</hi>
+</p>
+<p rend="justify"><hi rend="color(#0000ff)underline">Order of Entries</hi>
+</p>
+<p rend="justify"><hi rend="color(#0000ff)underline">Style</hi>
+</p>
+<p rend="justify"><hi rend="color(#0000ff)underline">Annotations</hi>
+</p>
+<p rend="justify"><hi rend="color(#0000ff)underline">Acknowledgments</hi>
+</p>
+<p rend="justify"><ref target="#h.gjdgxs"><hi rend="color(#0000ff)underline"
+>Abbreviations</hi></ref><ref target="#h.gjdgxs"/></p>
+<p rend="justify"><ref target="#h.30j0zll">Part</ref><ref target="#h.30j0zll"> </ref><ref
+target="#h.30j0zll">ONE</ref><ref target="#h.30j0zll"/></p>
+<p rend="justify"><ref target="#h.1fob9te"><hi rend="color(#0000ff)underline"
+>Generalia</hi></ref><ref target="#h.1fob9te"/></p>
+<p rend="justify"><ref target="#h.3znysh7">Historic</ref><ref target="#h.3znysh7"> </ref><ref
+target="#h.3znysh7">Printings</ref><ref target="#h.3znysh7"/></p>
+<p rend="justify"><ref target="#h.2et92p0">Biblia</ref><ref target="#h.2et92p0"> </ref><ref
+target="#h.2et92p0">Sacra</ref><ref target="#h.2et92p0"> </ref><ref target="#h.2et92p0"
+>Arabica</ref><ref target="#h.2et92p0"/></p>
+<p rend="justify"><ref target="#h.tyjcwt">Paris</ref><ref target="#h.tyjcwt"> </ref><ref
+target="#h.tyjcwt">Polyglot</ref><ref target="#h.tyjcwt"/></p>
+<p rend="justify"><ref target="#h.3dy6vkm">London</ref><ref target="#h.3dy6vkm"> </ref><ref
+target="#h.3dy6vkm">Polyglot</ref><ref target="#h.3dy6vkm"/></p>
+<p rend="justify"><ref target="#h.1t3h5sf">Editions</ref><ref target="#h.1t3h5sf">, </ref><ref
+target="#h.1t3h5sf">Chrestomathies</ref><ref target="#h.1t3h5sf"/></p>
+<p rend="justify"><ref target="#h.4d34og8">Art</ref><ref target="#h.4d34og8">, </ref><ref
+target="#h.4d34og8">paleography</ref><ref target="#h.4d34og8">, </ref><ref target="#h.4d34og8"
+>codicology</ref><ref target="#h.4d34og8"/></p>
+<p rend="justify"><ref target="#h.2s8eyo1">Part</ref><ref target="#h.2s8eyo1"> </ref><ref
+target="#h.2s8eyo1">Two</ref><ref target="#h.2s8eyo1"/></p>
+<p rend="justify"><ref target="#h.17dp8vu">Christian</ref><ref target="#h.17dp8vu">-</ref><ref
+target="#h.17dp8vu">Arabic</ref><ref target="#h.17dp8vu"/></p>
+<p rend="justify"><ref target="#h.3rdcrjn"><hi rend="color(#0000ff)underline"
+>Generalia</hi></ref><ref target="#h.3rdcrjn"/></p>
+<p rend="justify"><ref target="#h.26in1rg"><hi rend="color(#0000ff)underline"
+>Pentateuch</hi></ref><ref target="#h.26in1rg"/></p>
+<p rend="justify"><ref target="#h.lnxbz9">Al</ref><ref target="#h.lnxbz9">-</ref><ref
+target="#h.lnxbz9">Harith</ref><ref target="#h.lnxbz9"> </ref><ref target="#h.lnxbz9">ibn</ref><ref
+target="#h.lnxbz9"> </ref><ref target="#h.lnxbz9">Sinan</ref><ref target="#h.lnxbz9"/></p>
+<p rend="justify"><ref target="#h.35nkun2">Marqus</ref><ref target="#h.35nkun2"> </ref><ref
+target="#h.35nkun2">ibn</ref><ref target="#h.35nkun2"> </ref><ref target="#h.35nkun2">al</ref><ref
+target="#h.35nkun2">-</ref><ref target="#h.35nkun2">Qunbar</ref><ref target="#h.35nkun2"/></p>
+<p rend="justify"><ref target="#h.1ksv4uv">Pentateuch</ref><ref target="#h.1ksv4uv"> </ref><ref
+target="#h.1ksv4uv">Catena</ref><ref target="#h.1ksv4uv"/></p>
+<p rend="justify"><ref target="#h.44sinio">Historical</ref><ref target="#h.44sinio"> </ref><ref
+target="#h.44sinio">Books</ref><ref target="#h.44sinio"/></p>
+<p rend="justify"><ref target="#h.2jxsxqh"><hi rend="color(#0000ff)underline"
+>Prophets</hi></ref><ref target="#h.2jxsxqh"/></p>
+<p rend="justify"><ref target="#h.z337ya">Pethion</ref><ref target="#h.z337ya"> </ref><ref
+target="#h.z337ya">ibn</ref><ref target="#h.z337ya"> </ref><ref target="#h.z337ya">Ayyub</ref><ref
+target="#h.z337ya"/></p>
+<p rend="justify"><ref target="#h.3j2qqm3">Al</ref><ref target="#h.3j2qqm3">-</ref><ref
+target="#h.3j2qqm3">alam</ref><ref target="#h.3j2qqm3"/></p>
+<p rend="justify"><ref target="#h.1y810tw">Sapiental</ref><ref target="#h.1y810tw"> </ref><ref
+target="#h.1y810tw">books</ref><ref target="#h.1y810tw"/></p>
+<p rend="justify"><ref target="#h.4i7ojhp">Violet</ref><ref target="#h.4i7ojhp"> </ref><ref
+target="#h.4i7ojhp">Fragment</ref><ref target="#h.4i7ojhp"/></p>
+<p rend="justify"><ref target="#h.2xcytpi">Hafs</ref><ref target="#h.2xcytpi"> </ref><ref
+target="#h.2xcytpi">al</ref><ref target="#h.2xcytpi">-</ref><ref target="#h.2xcytpi">Quti</ref><ref
+target="#h.2xcytpi"/></p>
+<p rend="justify"><ref target="#h.1ci93xb">Al</ref><ref target="#h.1ci93xb">-</ref><ref
+target="#h.1ci93xb">harith</ref><ref target="#h.1ci93xb"> </ref><ref target="#h.1ci93xb"
+>ibn</ref><ref target="#h.1ci93xb"> </ref><ref target="#h.1ci93xb">sinan</ref><ref
+target="#h.1ci93xb"/></p>
+<p rend="justify"><ref target="#h.3whwml4">Other</ref><ref target="#h.3whwml4"> </ref><ref
+target="#h.3whwml4">old</ref><ref target="#h.3whwml4"> </ref><ref target="#h.3whwml4"
+>testament</ref><ref target="#h.3whwml4"/></p>
+<p rend="justify"><ref target="#h.2bn6wsx"><hi rend="color(#0000ff)underline">Gospels</hi></ref><ref
+target="#h.2bn6wsx"/></p>
+<p rend="justify"><ref target="#h.qsh70q"><hi rend="color(#0000ff)underline"
+>Diatesseron</hi></ref><ref target="#h.qsh70q"/></p>
+<p rend="justify"><ref target="#h.3as4poj"><hi rend="color(#0000ff)underline"
+>Hibbatallah</hi></ref><ref target="#h.3as4poj"/></p>
+<p rend="justify"><ref target="#h.1pxezwc">Isaak</ref><ref target="#h.1pxezwc"> </ref><ref
+target="#h.1pxezwc">Velasquez</ref><ref target="#h.1pxezwc"/></p>
+<p rend="justify"><ref target="#h.49x2ik5">Other</ref><ref target="#h.49x2ik5"> </ref><ref
+target="#h.49x2ik5">new</ref><ref target="#h.49x2ik5"> </ref><ref target="#h.49x2ik5"
+>testament</ref><ref target="#h.49x2ik5"/></p>
+<p rend="justify"><ref target="#h.49x2ik5"><hi
+rend="color(#0000ff)
+background-color(#00ff00)underline">Acts</hi></ref><ref target="#h.49x2ik5"
+/></p>
+<p rend="justify"><ref target="#h.2p2csry"><hi rend="color(#0000ff)underline">Hebrews</hi></ref><ref
+target="#h.2p2csry"/></p>
+<p rend="justify"><ref target="#h.147n2zr"><hi rend="color(#0000ff)underline"
+>Corinthians</hi></ref><ref target="#h.147n2zr"/></p>
+<p rend="justify"><ref target="#h.3o7alnk"><hi rend="color(#0000ff)underline"
+>Galatians</hi></ref><ref target="#h.3o7alnk"/></p>
+<p rend="justify"><ref target="#h.23ckvvd"><hi rend="color(#0000ff)underline">James</hi></ref><ref
+target="#h.23ckvvd"/></p>
+<p rend="justify"><ref target="#h.ihv636">Johannine</ref><ref target="#h.ihv636"> </ref><ref
+target="#h.ihv636">Epistles</ref><ref target="#h.ihv636"/></p>
+<p rend="justify"><ref target="#h.32hioqz"><hi rend="color(#0000ff)underline"
+>Revelation</hi></ref><ref target="#h.32hioqz"/></p>
+<p rend="justify"><ref target="#h.1hmsyys">Deuteroncanonicals</ref><ref target="#h.1hmsyys">/
+</ref><ref target="#h.1hmsyys">Apocrypha</ref><ref target="#h.1hmsyys"/></p>
+<p rend="justify"><ref target="#h.41mghml">Judaeo</ref><ref target="#h.41mghml">-</ref><ref
+target="#h.41mghml">Arabic</ref><ref target="#h.41mghml"/></p>
+<p rend="justify"><ref target="#h.2grqrue"><hi rend="color(#0000ff)underline">general</hi></ref><ref
+target="#h.2grqrue"/></p>
+<p rend="justify"><ref target="#h.vx1227"><hi rend="color(#0000ff)underline"
+>Pentateuch</hi></ref><ref target="#h.vx1227"/></p>
+<p rend="justify"><ref target="#h.3fwokq0">Early</ref><ref target="#h.3fwokq0"> </ref><ref
+target="#h.3fwokq0">non</ref><ref target="#h.3fwokq0">-</ref><ref target="#h.3fwokq0"
+>saadianic</ref><ref target="#h.3fwokq0"/></p>
+<p rend="justify"><ref target="#h.1v1yuxt"><hi rend="color(#0000ff)underline">Saadiah</hi></ref><ref
+target="#h.1v1yuxt"/></p>
+<p rend="justify"><ref target="#h.4f1mdlm"><hi rend="color(#0000ff)underline">YbE</hi></ref><ref
+target="#h.4f1mdlm"/></p>
+<p rend="justify"><ref target="#h.2u6wntf"><hi rend="color(#0000ff)underline">YbY</hi></ref><ref
+target="#h.2u6wntf"/></p>
+<p rend="justify"><ref target="#h.19c6y18"><hi rend="color(#0000ff)underline">AbS</hi></ref><ref
+target="#h.19c6y18"/></p>
+<p rend="justify"><ref target="#h.3tbugp1">Historical</ref><ref target="#h.3tbugp1"> </ref><ref
+target="#h.3tbugp1">Books</ref><ref target="#h.3tbugp1"/></p>
+<p rend="justify"><ref target="#h.28h4qwu"><hi rend="color(#0000ff)underline"
+>Prophets</hi></ref><ref target="#h.28h4qwu"/></p>
+<p rend="justify"><ref target="#h.nmf14n">Sapiental</ref><ref target="#h.nmf14n"> </ref><ref
+target="#h.nmf14n">Books</ref><ref target="#h.nmf14n"/></p>
+<p rend="justify"><ref target="#h.37m2jsg">Other</ref><ref target="#h.37m2jsg"> </ref><ref
+target="#h.37m2jsg">old</ref><ref target="#h.37m2jsg"> </ref><ref target="#h.37m2jsg"
+>testament</ref><ref target="#h.37m2jsg"/></p>
+<p rend="justify"><ref target="#h.1mrcu09"><hi rend="color(#0000ff)underline"
+>Samaritan</hi></ref><ref target="#h.1mrcu09"/></p>
+<p rend="justify"><ref target="#h.46r0co2">Muslim</ref><ref target="#h.46r0co2"> </ref><ref
+target="#h.46r0co2">reception</ref><ref target="#h.46r0co2"/></p>
+<p rend="justify"><ref target="#h.2lwamvv">ibn</ref><ref target="#h.2lwamvv"> </ref><ref
+target="#h.2lwamvv">al</ref><ref target="#h.2lwamvv">-</ref><ref target="#h.2lwamvv">Layth</ref><ref
+target="#h.2lwamvv"/></p>
+<p rend="justify"><ref target="#h.111kx3o">al</ref><ref target="#h.111kx3o">-</ref><ref
+target="#h.111kx3o">jahiz</ref><ref target="#h.111kx3o"/></p>
+<p rend="justify"><ref target="#h.3l18frh">ibn</ref><ref target="#h.3l18frh"> </ref><ref
+target="#h.3l18frh">al</ref><ref target="#h.3l18frh">-</ref><ref target="#h.3l18frh"
+>rabban</ref><ref target="#h.3l18frh"/></p>
+<p rend="justify"><ref target="#h.206ipza">al</ref><ref target="#h.206ipza">-</ref><ref
+target="#h.206ipza">yaʿqūbī</ref><ref target="#h.206ipza"> (</ref><ref target="#h.206ipza"
+>d</ref><ref target="#h.206ipza">. 897/98)</ref><ref target="#h.206ipza"/></p>
+<p rend="justify"><ref target="#h.4k668n3">al</ref><ref target="#h.4k668n3">-</ref><ref
+target="#h.4k668n3">Tabari</ref><ref target="#h.4k668n3"/></p>
+<p rend="justify"><ref target="#h.2zbgiuw">Abū</ref><ref target="#h.2zbgiuw"> </ref><ref
+target="#h.2zbgiuw">Nuʿaim</ref><ref target="#h.2zbgiuw"/></p>
+<p rend="justify"><ref target="#h.1egqt2p">Ibn</ref><ref target="#h.1egqt2p"> </ref><ref
+target="#h.1egqt2p">Hazm</ref><ref target="#h.1egqt2p"/></p>
+<p rend="justify"><ref target="#h.3ygebqi">Ibn</ref><ref target="#h.3ygebqi"> </ref><ref
+target="#h.3ygebqi">Qutayba</ref><ref target="#h.3ygebqi"/></p>
+<p rend="justify"><ref target="#h.2dlolyb">al</ref><ref target="#h.2dlolyb">-</ref><ref
+target="#h.2dlolyb">Ghazali</ref><ref target="#h.2dlolyb"/></p>
+<p rend="justify"><ref target="#h.sqyw64">al</ref><ref target="#h.sqyw64">-</ref><ref
+target="#h.sqyw64">Biqāʿī</ref><ref target="#h.sqyw64"/></p>
+<p rend="justify"><ref target="#h.3cqmetx">ibn</ref><ref target="#h.3cqmetx"> </ref><ref
+target="#h.3cqmetx">Khaldun</ref><ref target="#h.3cqmetx"/></p>
+<p rend="justify"><ref target="#h.1rvwp1q">Pseudo</ref><ref target="#h.1rvwp1q">-</ref><ref
+target="#h.1rvwp1q">Scriptures</ref><ref target="#h.1rvwp1q"/></p>
+<p rend="justify"><ref target="#h.4bvk7pj"><hi
+rend="color(#0000ff)
+background-color(#ffff00)underline">rest</hi></ref><ref target="#h.4bvk7pj"
+/></p>
+<p rend="justify"><anchor xml:id="id_h.gjdgxs"/>Abbreviations</p>
+<p rend="justify">GCAL <hi rend="background-color(#ffff00)">G. Graf, </hi><hi
+rend="background-color(#ffff00)italic">Geschichte des christlichen arabischen Literatur</hi><hi
+rend="background-color(#ffff00)">, vol. 1 (Vatican City, 1944), pp. 85-195.</hi></p>
+<p rend="justify">BA Schnurrer, Christian Friedrich von, <hi rend="italic">Bibliotheca arabica</hi>
+(Halae ad Salam: typis et sumtu I. C. Hendelii, 1811</p>
+<p rend="justify">BAV Bibliotheca Apostolica Vaticana</p>
+<p rend="justify">BL British Library</p>
+<p rend="justify">BLM Bibliotheca Medicea Laurentiana</p>
+<p rend="justify">BNF Bibliothèque nationale de France</p>
+<p rend="justify">COP Coptic Orthodox Patriarchate</p>
+<p rend="justify">HCPE Darlow, T. H., and Horace Frederick Moule. <hi rend="italic">Historical
+catalogue of the printed editions of Holy Scripture in the library of the British and foreign Bible
+society</hi> (London: The Bible house.,1903).</p>
+<p rend="justify">JBL Journal of Biblical Literature</p>
+<p rend="justify">OC Oriens Christianus</p>
+<p rend="justify">PO Smitskamp, R., <hi rend="italic">Philologia orientalis: a description of books
+illustrating the study and printing of Oriental languages in 16th and 17th century Europe</hi>
+(Leiden: Brill, 1992)</p>
+<p rend="justify">ZAW Zeitschrift <hi rend="color(#222222)">für die Alttestamentliche
+Wissenschaft</hi></p>
+<p rend="justify">ZfHB Zeitschrift für Hebraeische bibliography</p>
+<p rend="justify">ZDMG Zeitschrift der Deutschen Morgenländischen Gesellschaft</p>
+<p rend="justify"><anchor xml:id="id_h.30j0zll"/>Part ONE</p>
+<p rend="justify"><anchor xml:id="id_h.1fob9te"/>Generalia</p>
+
+
+<p rend="justify">Lists printed Arabic versions and Polyglot Bibles.</p>
+
+<p rend="justify">The author reports and describes his manuscript finds in various libraries on his
+journey to Rome. </p>
+<p rend="justify"><hi rend="bold">Mss</hi>.: Vienna, ÖNP, NF. 97 (cited as Lambecii codex XLIV);
+Venice, St. Mark, Cod. 11; Florence, BML, Or. Or. Or. 57 (formerly 12) and 112 (olim 21); Paris,
+BNF, Ar. 1; Vatican, BAV, Ar. 5 and Syr. 10, Barberini, Or. 1, Borg. Ar. 129.</p>
+
+
+<p rend="justify">An update of Baumstark [#].</p>
+<p rend="justify"><hi rend="bold">Mss</hi>.: Sinai, Ar. 154 and 155; Vatican, BAV, Ar. 28, 468, and
+605; Munich, Staatsbibliothek, Ar. 234; London, BL, Or. 2291.</p>
+
+<p rend="justify">Julius Aßfalg, Trans. Paul Krüger, “Versions bibliques,”<hi rend="italic"> </hi>in
+<hi rend="italic">Petit dictionnaire de l'orient chrétien</hi> (Turnhout: Brepols, 1991), p.
+465.</p>
+
+<p rend="justify color(#000000)"><hi rend="bold">Mss.</hi>: Florence, BML, Or. 112 (formerly 21);
+Coptic Orthodox Patriarchate, Bibl. 23; Vatican, BAV, Ar. 145; Paris, BNF. Ar. 42; Birmingham,
+Mingana, Chr. Ar. 431; and an unspecified Ms. from the monastery of St. Matthew.</p>
+
+
+
+
+<p rend="justify">Presents the most famous manuscripts and historic printings. </p>
+<p rend="justify"><hi rend="bold">Mss</hi>.: Vatican, BAV, Ar. 13, Ar. 71, Ar. 95, and Copt. 9; and
+Sinai, Ar. 151.</p>
+
+
+
+
+<p rend="justify"> Mss.: St Petersburg, RNL, D 226; Vatican, BAV, Ar. 467 and Ar. 468; Bryn Mawr
+College Library, BV 47 (formerly Zurich Or. 94).</p>
+<p rend="justify"> [#] Sebastian Paul Brock, “Übersetzungen ins Arabische,” in <hi rend="italic"
+>Theologische Realenzyklopädie </hi>6 (Berlin/New York: de Gruyter, 1980), pp. 209-211.</p>
+<p rend="justify">
+<hi rend="bold">Mss</hi>.: Bryn Mawr College Library, BV 47 (formerly Zurich Or. 94), Birmingham,
+Mingana, Chris. Ar. Add. 137</p>
+
+<p rend="justify">??? k, ii, 31 in the Propaganda fide collection, most o</p>
+
+
+
+<p rend="justify">Largely based on the item above.</p>
+<p rend="justify"><hi rend="bold">Mss</hi>.: Oxford, Bodleian Library, Poc. 289; London, BL, Or.
+5505 (cited as 5503!); Vatican, BAV, Ar. 13.</p>
+
+
+<p rend="justify">Mentions a long list of manuscript sources. </p>
+<p rend="justify"> [#] Everett Fox, “Bible, Translations, Modern Versions, Arabic,” in <hi
+rend="italic">Encyclopaedia Judaica</hi>, 2. Ed., Vol. 3, pp. 627.</p>
+<p rend="justify">Almost entirely based on 1st ed., see [#].</p>
+
+<p rend="justify">Ms.: Violet Fragment</p>
+
+<p rend="justify">On Isaac Velaquez [chapter] and John of Seville’s alleged translation of the Bible
+into Arabic.</p>
+<p rend="justify"><hi rend="bold">Mss</hi>.: Munich, Staatsbibliothek, Ar. 238 and Ar. 234.</p>
+
+
+<p rend="justify">pdf</p>
+
+
+<p rend="justify">Transl. Monferrer Sala, Juan Pedro, <hi rend="italic">La literatura árabe
+cristiana de los mozárabes</hi>, Córdoba: Servicio de Publ. de la Univ. de Córdoba, 1999. There at
+pp. 17-29.</p>
+<p rend="justify background-color(#ff3333)">Mss. Munich, Staatsbibliothek Ar. 238 (pl. on p. 31 and
+Ar. 234; London, BL Add. 9060 (pls. on pp. 26-27), Add. 9061 (pl. on p. 30), and Or. 3706; Madrid,
+BNE Ms. 4971 (pls. on pp. 24-25) and Ms. 3484; <hi rend="color(#222222)">Archive of the Cathedral of
+Leon, Cod. 35</hi> (olim Escurial, Ms. H, IV, 10) and Cod. 1026; Leipzig, Universitätsbibliothek,
+Cod. 1059; Vatican, BAV, Ar. 5 (pls. on pp. 28-29). </p>
+
+<p rend="justify">Predecessor of the following item, with fewer references to sources. </p>
+
+<p rend="justify">The most comprehensive survey up to date; includes an abundance of primary
+manuscript sources and secondary literature.</p>
+
+<p>Mss.: Vatican, Ar. 13;14; <hi rend="color(#ff0000)">Borg, K II 31</hi>; Leipzig, UBL, Tischend.
+31; Sinai, Ar. 75;154;155; St. Petersburg. A.N.S. 327;Munich, Staatsbibliothek Ar. 238 and Ar.
+234</p>
+<p rend="justify">An examination of the linguistic features of the Arabic Christian literature
+through certain pericopes of several manuscripts.</p>
+
+
+
+
+<p rend="justify"> See below for the following edition [#].</p>
+
+
+
+
+<p rend="justify">Based on GCAL [#].</p>
+
+
+<p rend="justify">Translation of previous.</p>
+
+<p rend="justify">Available in Cambridge, Bible Society</p>
+
+<p rend="justify">See above</p>
+
+<p rend="justify">Part two, Ch. VIII offers a brief account on “the Arabic version”. Mostly on the
+Pentateuch and Daniel in the Paris Polyglot, as the source of the siglum A (<hi rend="italic">versio
+arabica</hi>) in the <hi rend="italic">Biblia Hebraica</hi>.</p>
+
+<p rend="justify">Contains excerpts of historic printings (# eli smith, propaganda), as well as a
+selection of Christian, Judaeo-Arabic and Samaritan traditions. </p>
+<p rend="justify"><hi rend="bold">Mss</hi>.: Paris, BNF Ar. 1, Ar. 5, and Ar. 6; Wolfenb, Oxford;
+Bodl. Cod. II Usserii; St Petersburg, 179; Cambridge, UL Ms. 714; Vatican, BAV, Barberini Or. 1;
+Berlin, Staatsbibliothek, Or. Fol. 534 and Or. Qu. 828; Leiden, University Library Or. 377;
+Florence, BML Or. 112 (formerly 21).</p>
+
+
+
+<p rend="justify">Discusses several biblical translations of Mozarabic origin, such as that of Ḥafṣ
+b. al-Qūṭī [#] and ibn Balashk [#] </p>
+<p rend="justify"><hi rend="bold">Mss</hi>.: Ambrosiana?; Vatican, BAV, Ar. 5; London, BL, Add. 9060
+and Add. 9061; Escurial, Ms. Ar. 1625 and Ms. Ar. 1626; Madrid, BNE, Ms. 4971; Munich, Bayrische
+Staatsbibliothek, Cod. Ar. 238; Leiden, University Library, Or. 214; Vatican, BAV, Lat. 12900
+(formerly Chapter of the Cathedral of Siguenze, Ms. 150).</p>
+
+
+<p rend="justify">Updated version of [#].</p>
+
+
+
+<p rend="justify">Mentions Ḥunayn b. Isḥāq, Abū al-Fatḥ ʿAbd Allāh ibn Faḍl [chapter xxx], al-ʿAlam
+[chapter], al-Asʿad Abū Faraj Hibat Allāh [chapter], Yūḥannā al-Qaylūbī and early printings
+[chapter]. </p>
+
+<p rend="justify">Chapter VI.I The Arabic Versions is based on [#].</p>
+<p rend="justify"><hi rend="bold">Mss</hi>.: In addition to the list above, the following
+manuscripts are mentioned: Vatican, BAV, Ar. 14, Borg. Ar. 250; Coptic Orthodox Patriarchate, Bibl.
+202; Oxford, Bodl. Ar. e. 163; Sbath 1020.</p>
+
+<p rend="justify">Refers to biblical material, e.g. the translations of Saadiah [chapter], Ḥafs b.
+al-Qūṭī [chapter ], Isaak Velasquez [chapter], and al-Ḥārith b. Sinān [chapter].</p>
+<p rend="justify"><hi rend="bold">Mss</hi>.: Mss. Munich, Staatsbibliothek Ar. 238 and Ar. 234;
+London, BL Add. 9061; <hi rend="color(#222222)">Archive of the Cathedral of Leon, Cod. 35, Fez,
+Khizānat al-Qarawiyīn, Ms. 730; Leipzig, University </hi><hi rend="color(#222222)">Library, Cod. Or.
+1059D; Escurial, Cod. 1857 and Cod. 1625.</hi></p>
+
+
+
+
+<p rend="justify">Fernleihe?</p>
+
+<p rend="justify">Fernleihe?</p>
+
+<p rend="justify">Vol. 2.1 (634-750), p. 101 </p>
+<p rend="justify"><hi rend="bold">Mss</hi>.: Violet fragment and Moscow, State Library, Ms. 432.</p>
+<p rend="justify">Vol. 2.2 (750-Xe s.), pp. 184-185: On some ancient pre-10th century manuscripts of
+Arabic translations of the Psalms and New Testament.</p>
+<p rend="justify"><hi rend="bold">Mss</hi>.: Sinai, Gr. 32, Gr. 34, Gr. 35, Gr. 36, Ar. 8, Ar. 10,
+Ar. 50, Ar. 70, Ar. 72, Ar. 73, Ar. 74, Ar. 75, Ar. 151, Ar. 155; Paris, BNF, Ar. 13, Ar. 14, Ar.
+6725; Vatican, BAV, Ar. 1; Ar. 13; Borg. Ar. 95; and Syr. 278; Moscow, State Library, Ms. 432 (given
+incorrectly as Leningrad, Ms. 432); Moscow, State Library, Ms. 432; Oxford, Bodl., Laud. Or. 258
+(formerly A 147) and Laud. Or. 243 (formerly A 146); Escurial, Arabic 1857; Coptic Orthodox
+Patriarchate, Bibl. 14 and Bibl. 27; St Sauveur, Ms. 224; and Birmingham, Mingana, Arab. Chr. 121. </p>
+<p rend="justify">Vol. 3.1 <hi rend="italic">(969-1250)</hi>, pp. 216-220: On translations of parts
+of the Bible by ‘Abdallāh b. al-Faḍl for liturgical use: Psalter and Odes, Gospel Lectionary, Acts
+and Epistles, Prophets (extracts from the Old Testament).</p>
+<p rend="justify">Mss.: Sbath 411; </p>
+<p rend="justify">Vol. 4.1 (1516-1724), pp. 244-245.</p>
+<p rend="justify"><hi rend="bold">Mss</hi>.: Vatican, BAV, Ar. 468 and St Petersburg, Institut of
+Oriental Manuscripts, D 226.</p>
+
+<p rend="justify">Largely on printings. </p>
+<p rend="justify">C. Peters, “Grundsätzliche Bemerkungen zur Frage der arabischen Bibeltexte,” in
+<hi rend="italic">Rivista degli Studi Orientali </hi>20 (1942), 129-143.</p>
+<p rend="justify">pdf</p>
+
+<p rend="justify">Edward Pococke, “Praefatio in qua variantium in Pentateucho Arabico lectionum
+ratio redditur,” in </p>
+
+
+<p rend="justify">Mentions the transcription of Ms. Paris, BNF Ar. 9 by Walter Reimpell, which is
+the possession of the Septuaginta-Unternehmen and has been used for collation.</p>
+<p rend="justify"><hi rend="bold">Mss</hi>.: Paris, BNF, Ar. 9</p>
+
+
+
+
+
+<p rend="justify">With many references to manuscript sources.</p>
+
+<p rend="justify">Fernleihe bestellt</p>
+
+<p rend="justify">Includes a list of printed Maltese Bibles.</p>
+<p rend="justify">T. Sarrouf, Περὶ τῶν ἀραβικῶν μεταφράσεων καὶ ἐκδόσεων τῆς θείας γραφῆς. In
+Πεντηκονταετηρὶς τῆς θεολογικῆς Σχολῆς τοῦ Σταυροῦ (Jerusalem, 1913).</p>
+
+
+
+<p rend="justify"> [#] Peter Paul Saydon, “History of the Maltese Bible,” in <hi rend="italic"
+>Melita Theologica</hi> 10 (1957), pp. 1-15.</p>
+<p rend="justify">Gives an historical survey of printed Maltese Bibles and discusses selected
+features in their translation techniques. </p>
+
+
+
+
+
+
+
+
+<p rend="justify">Enumerates several bilingual manuscripts that contain an Arabic version. </p>
+<p rend="justify">Mss.: Venice, St. Mark 11 (Venet. 11) and 27 (Venet. 539); Greek monastery
+Jerusalem Cod. 1; Leiden, University Library, Or. 243.</p>
+
+
+
+
+
+<p rend="justify">On the major printed Arabic Bibles and their sources.</p>
+<p rend="justify">Mss.: Paris, BNF, Ar. 1; Vatican, BAV, Ar. 468, Copt. 9 and Borg. Syr. 49; Rome,
+Casanatense, Ar.-Carsh. 2 </p>
+
+
+
+<p rend="justify"> [#] Carra de Vaux, “İnjil,” in <hi rend="italic">İslâm Ansiklopedisi</hi>, vol,
+5.2, pp. 991-995.</p>
+<p rend="justify">A Turkish translation of [#].</p>
+
+<p rend="justify">Discusses selected translation techniques in Saadiah Gaon’s translation and an
+unspecified modern one.</p>
+
+
+
+<p rend="justify">Brief summary of primary and secondary sources</p>
+<p rend="justify">Mss. Leiden, University Library Or. 377 and 230; Paris, BNF Ar. 9, 10, 11, and 16;
+Oxford, Bodl. Poc. 219 and March. 440. </p>
+
+<p rend="justify">The revised edition by Fischer, Alexander Achilles, Stuttgart: Deutsche
+Bibelgesellschaft 2009, does not add further material. </p>
+<p rend="justify">Ms.: London, BL Add. 26116 </p>
+<p rend="justify"><anchor xml:id="id_h.3znysh7"/>Blau in Targume Miqra</p>
+<p rend="justify">Historic Printings </p>
+<p rend="justify">Check Fueck, 45-45</p>
+<p rend="justify">Aboussouan, Camille. 1982. Exposition Le Livre et le Liban jusqu'à 1900. Paris:
+Unesco.</p>
+<p rend="justify">Check adler</p>
+<p rend="justify">Levi della Vida 328-332</p>
+<p rend="justify">Darlow &amp; Moule 1635,</p>
+<p rend="justify">Masch </p>
+<p rend="justify">Bailey has a number of modern prints.</p>
+<p rend="justify">Add to Feghali to modern prints. </p>
+<p rend="justify">Maltese</p>
+<p rend="justify">Balagna Coustou, Josée. 1984. L'imprimerie arabe en Occident: XVIe, XVIIe et
+XVIIIe siècles. Paris: Editions Maisonneuve &amp; Larose.</p>
+<p rend="justify">1516</p>
+<p rend="justify">Giustiniani</p>
+
+
+
+<p rend="justify">Check for more literature</p>
+<p rend="justify">Mainz, in E. Hanebutt-Benz, Dagmar Glas, und G. Roper (eds.), Sprachen des Nahen
+Ostens und die Druckrevolution/ Middle Eastern Languages and the Print Revolution, Westhofen: xxxx,
+2002, p.132.</p>
+
+<p rend="justify">Check for more bibliography</p>
+
+<p rend="justify">Gives a full account on the printing and an edition, with English translation, of
+the famous gloss on Ps 18:5 that contains the first mention of Christopher Columbus in print </p>
+
+<p rend="justify">1546 </p>
+<p rend="justify">Constantinople Polyglot</p>
+<p rend="justify">Cf. </p>
+<p rend="justify">Wolf, Bibl. Hebr. 2, 354</p>
+<p rend="justify">Lelong masch 1, 363</p>
+<p rend="justify">Adlers reise, 221</p>
+<p rend="justify bold">1578 </p>
+<p rend="justify">Franciscus Junius </p>
+<p rend="justify">Latin translation of Acts and Corr</p>
+<p rend="justify">1 John, Galatians, and Hebrews in manuscript, cf. Cuno, Franciscus Junius der
+Aeltere, Professor der Theologie und Pastor (1545-1602), Amsterdam, 1891, pp. 58-61. [see above, de
+Nave, pp. 100-101]</p>
+<p rend="justify bold">1582</p>
+<p rend="justify">Alphabetum Arabicum, Jacob Christman</p>
+<p rend="justify">Contains an excerpt of the Epistle to the Philippians </p>
+<p rend="justify">[see above, de Nave, pp. 100-101]</p>
+<p rend="justify
+bold">1583</p>
+<p rend="justify"><hi rend="italic">Epistola Pauli ad Galatas, item sex primaria capita Christianae
+religionis Arabice: quibus ad finem adiunctum est compendium grammatices Arabicae, authore Rutghero
+Spey. Addita quoque est interpretation Latina ad verbum (eodem authore) reddita</hi>, Heidelbergae:
+Excudebat Iacob Mylius, 1583.</p>
+<p rend="justify">Woodcut, Epistle to the Galatians in Arabic and Latin; edited by Rutgher Spey from
+an Arabic Ms. at the Palatine Library, Heidelberg. Today it is preserved as Vatican, BAV, 23.
+Appended with unacknowledged excerpts from Postel’s grammar. In the introduction he dwells on the
+missionary argument in order to persuade the Elector Palatine to erect an Arabic printing press.</p>
+<p rend="justify">Mss.: Vatican, BAV, Ar. 23</p>
+<p rend="justify"> BA, pp. 339-341.</p>
+<p rend="justify"> HCPE, Vol. 2, pp. 63</p>
+
+<p rend="justify">[see above, de Nave, pp. 104-105]</p>
+<p rend="justify bold">1590</p>
+<p rend="justify">Evangelium sanctum Domini Nostri Iesu Christi conscriptum a quatuor Evangelistis
+sanctis idest, Matthaeo, Marco, Luca, et Iohanne, Romae: In typographia Medicea </p>
+<p rend="justify">Gospels in Arabic, edited by Giovan Battista Raymondi, intended for dissemination
+among Eastern Churches. </p>
+<p rend="justify"> HCPE, Vol. 2, pp. 63</p>
+<p rend="justify"> BA, pp. 343-344</p>
+<p rend="justify"> [see above, lumini, pp. 252-253]</p>
+<p rend="justify
+bold">1591</p>
+<p rend="justify">Evangelium sanctum Domini Nostri Iesu Christi conscriptum a quatuor Evangelistis
+sanctis idest, Matthaeo, Marco, Luca, et Iohanne, Romae: In typographia Medicea </p>
+<p rend="justify">Gospels in Arabic and Latin, see above. The bilingual version was intended for the
+European market. </p>
+<p rend="justify"> HCPE, Vol. 2, pp. 63</p>
+<p rend="justify">BA, pp. 344-351</p>
+<p rend="justify"> [see above, lumini, p. 254]</p>
+<p rend="justify">Alder [#, see above], p. 73. </p>
+<p rend="justify"><hi rend="bold">Keywords</hi>: Gospels in Arabic and Latin, edited by Giovanni
+Battista Raymondi;</p>
+<p rend="justify">1595</p>
+<p rend="justify">Specimen Characterum Arabicorum Officinae Plantinianae Franc. Raphelengij, Leiden:
+Franciscus Raphalengius, 1595. </p>
+<p rend="justify">Contains specimens of Psalm 50 in Arabic. </p>
+<p rend="justify">[see above, de Nave, pp. 129-131]</p>
+<p rend="justify">1608 </p>
+<p rend="justify">Kirsten, Petrus, tria specimina characterum arabicorum, Breslau 1608.</p>
+<p rend="justify">Contains John 17, as found in the Medici Gospels. </p>
+<p rend="justify bold">1610</p>
+<p rend="justify">Quzḥayya Psalter </p>
+<p rend="justify">Psalms in <hi rend="italic">Karshūnī</hi> and Syriac, printed at the Monastery of
+Mar Antonius, Quzḥayya, supervised and sponsored by Sergius al-Rizzī, alumni of the Maronite College
+in Rome. The Arabic text is reprinted in de Largarde (1876, cf. # xxx).</p>
+<p rend="justify"> BA, pp. 351-354</p>
+<p rend="justify">HCPE, Vol. 2, pp. 79</p>
+<p rend="justify">Coakley, J.F., <hi rend="italic">The Typograpy of Syriac: A historical catalogue
+of printing types, 1537-1958</hi> (London: Oak Knoll Press/British Library, 2006), pp. 45-48.</p>
+<p rend="justify"> Döderlein, Johann Christoph. 1778/1779. Von Arabischen Psaltern. <hi
+rend="italic">Repertorium fuer </hi><hi rend="italic">Biblische und Morgenlaendische Litteratur</hi>
+2/4:1151-179/57-96.</p>
+<p rend="justify">Moukarzel, Joseph, “Le psautier syriaque garchouni édité à Qozhaya en 1610 :enjeux
+historiques et présentation du livre,” Mélanges de l’Université Saint-Joseph 63 (2010/11), pp.
+511-xxx.</p>
+<p rend="justify">Nasrallah, 1-7, UB <hi rend="color(#333333)">3 A 10</hi></p>
+<p rend="justify">Walbiner, Carsten </p>
+<p rend="justify bold">1611</p>
+<p rend="justify">Epistola S. Judae Apostoli ex Mss. Heidelbergensi arabico ad verbum translate,
+Breslau: xxxx, 1611.</p>
+<p rend="justify">Based on the same Ms. as Spey [#, see above], namely Vatican, BAV, Ar. 23.</p>
+<p rend="justify">Mss.: Vatican, BAV, Ar. 23.</p>
+<p rend="justify bold">1612</p>
+<p rend="justify"><hi rend="italic">D. Pauli Apostoli Epistola ad Titum, Arabicè, cum Ioannis
+Antonidae Alcmariani interlineari versione Latinâ ad verbum</hi>, Leiden: in officinal Platiniana
+Raphalendii, 1612.</p>
+<p rend="justify">Epistle of Titus in Arabic and Latin, edited from a manuscript in the Bodleian
+Library. </p>
+<p rend="justify">[see above, de Nave, p. 69]</p>
+<p rend="justify">Same manuscript as the one below? </p>
+<p rend="justify">Johannis Apostoli &amp; Evangelistae Epistolae Catholicae omnes, Arabicae ante
+aliquot secula factae, Ex antiquissimo Ms. exemplari descriptae et nunc demum Latinae redditae,
+Opera et studio Wilhelmi Bedwelli Halsingburgensis A Saxonis, Leiden: Ex Officina Platiniana
+Raphalengii, 1612. </p>
+<p rend="justify">[see above, de Nave, pp. 69, 206-208]</p>
+<p rend="justify bold">1614</p>
+<p rend="justify"><hi rend="italic">Liber Psalmorum Dauidis Regis et Prophetae: ex Arabico idiomae
+in Latinum translatus</hi>, Rome: ex typographia Savariana, excudebat Stephanus Paulinus, 1614.</p>
+<p rend="justify">Vaccari, Alberto,. I Caratteri Arabi della "Typographia Savariana" <hi
+rend="italic">Rivista degli Studi Orientali </hi>10 (1923-25), pp. 37-47.</p>
+<p rend="justify">Mss. Vatican, Ar. Xxx. </p>
+<p rend="justify bold">1615</p>
+<p rend="justify bold">Erpenius, Thomas, Pauli Apostoli ad Romanos Epistola Arabice, Leiden:
+Typographia Erpeniana, 1615</p>
+<p rend="justify">[see above, de Nave, pp. 154-155]</p>
+<p rend="justify bold">1616 </p>
+<p rend="justify">Erpenius, Thomas, Jesu Christi Testamentum Arabice, Leiden: Typographia Erpeniana,
+1616. </p>
+<p rend="justify">[see above, de Nave, pp. 155-159]</p>
+<p rend="justify">Based on Or. 2369, Cambridge, University Library, G. 5. 33 and G. 5. 27</p>
+<p rend="justify">Mark translated into Latin by C. A. Bode, Lemgo, 1752. Manuscript today at Trinity
+College, Cambridge. ?</p>
+<p rend="justify">Reprints the Raimondi print.</p>
+<p rend="justify
+bold">1622 </p>
+<p rend="justify"><hi rend="italic">Pentateuchus Mosis Arabicè</hi>, Leiden: ex typographia Erpenia,
+prostant Iohannem Maire, 1622.</p>
+<p rend="justify">[see above, de Nave, pp. 164-167]</p>
+<p rend="justify">The edition is based on a manuscript from Scaliger‘s legacy. It contains a late
+Judaeo-Arabic translation that was transcribed in Arabic letters for the purpose of print.</p>
+<p rend="justify">Mss. Leiden, University Library Or. 236</p>
+<p rend="justify bold">1654</p>
+<p rend="justify">Johannes Georgius Nisselius and Theodorus Petraeus (eds.), <hi rend="italic">S.
+Jacobi Apostoli Epistolae Catholicae Versio Arabica &amp; Aethiopica </hi>(Leiden: 1654).</p>
+<p rend="justify">Johannes Georgius Nisselius and Theodorus Petraeus, <hi rend="italic">S. Johannis
+Apostoli &amp; Evangelistae Epistolae Catholicae Tres, Arabicae &amp; Aethiopicae </hi>(Leiden:
+1654).</p>
+<p rend="justify">Johannes Georgius Nisselius and Theodorus Petraeus, <hi rend="italic">S. Judae
+Apostoli Epistolae Catholicae Versio Arabice &amp; Aethiopice </hi>(Leiden: 1654).</p>
+<p rend="justify">1663</p>
+<p rend="justify">Theodorus Petraeus, <hi rend="italic">Psalterium Davidis in lingua Coptica seu
+Aegyptiaca una cum versione Arabica</hi> (Leiden: Theodorus Petraeus, 1663).</p>
+<p rend="justify">[see above, de Nave, pp. 190-191]</p>
+<p rend="justify">1703</p>
+<p rend="justify">Acta apostolorum epistola: Catholiccs et divi</p>
+<p rend="justify">Paulijussu sacr. cotigr. de prop, fide ad usum ecclesice nationis Maronitarum</p>
+<p rend="justify">edita cum Apocalypsi D. Joannis.</p>
+<p rend="justify">Arabic-Syriac</p>
+<p rend="justify"><anchor xml:id="id_h.2et92p0"/>Biblia Sacra Arabica</p>
+<p rend="justify">A. Kleinhans, “De collaborationibus franciscanis in Bibliis arabicis anno 1671
+editis,” in <hi rend="italic">Antonianum </hi>4 (1929), pp. 369-386.</p>
+<p rend="justify">Nikolaus Kowalsky, „Zur Vorgeschichte der arabischen Bibeluebersetzung der
+Propaganda von 1671,“ in <hi rend="italic">Neue Zeitschrift für Missionswissenschaft </hi>16 (1969),
+pp. 268-274.</p>
+<p rend="justify">G. Mercati, “De versione bibliorum arabica a. 1671 edita,” in <hi rend="italic"
+>Revue Biblique </hi>n.s. 1 (1904), pp. 250-251.</p>
+<p rend="justify">Alberto Vaccari, “Un codice carsciunico della Casanatense e la Bibbia araba del
+1671,” in <hi rend="italic">Biblica </hi>4 (1923), pp. 96-108.</p>
+<p rend="justify">Alberto Vaccari, “Una Bibbia araba per il primo Gesuita venuto al Libano,” in <hi
+rend="italic">Mélange de l'Université St. Joseph </hi>10 (1925), pp. 79-104.</p>
+<p rend="justify">Alberto Vaccari, “La storia d'una Bibbia araba,” in <hi rend="italic">Biblica
+</hi>11 (1930), pp. 350-355.</p>
+<p rend="justify">1751</p>
+<p rend="justify">Tukhi</p>
+<p rend="justify">J.F. Schelling, “Über die arabische Bibelausgabe von 1725”, in Johann Goffried
+Eichhorn (ed.), <hi rend="italic">Repertorium für</hi><hi rend="italic"> biblische und
+morgenländische Litteratur,</hi> Vol. 10 (Leipzig: Weidmann, 1782), pp. 154-164.</p>
+<p rend="justify"><anchor xml:id="id_h.tyjcwt"/>Paris Polyglot</p>
+<p rend="justify">Adrian Schenker, “The Polyglot Bibles of Antwerp, London, and Paris: 1568-1658.”
+In Magne Sæbø (ed.), <hi rend="italic">Hebrew Bible/Old Testament: The History of its
+Interpretation</hi>, vol. 2, <hi rend="italic">From the Renaissance to the Enlightenment
+</hi>(Göttingen: 2008), pp. 774-784.</p>
+<p rend="justify"> [] Oluf Gerhard Tychsen, “Untersuchung ob R. Saadjah Haggaon Verfasser der
+arabischen Uebersetzung des Pentateuchs in den Polyglotten sey,” in Johann Goffried Eichhorn (ed.),
+<hi rend="italic">Repertorium für biblische und morgenländische Litteratur,</hi> Vol. 11 (Leipzig:
+Weidmann, 1782), pp. 82-112.</p>
+<p rend="justify"><anchor xml:id="id_h.3dy6vkm"/>London Polyglot</p>
+<p rend="justify bold">1792</p>
+<p rend="justify">Geoffrey Roper, “The Vienna Arabic Psalter of 1792 and the Role of Typography in
+European-Arab Relations in the 18th Century and Earlier,” in Johannes Frimmel and Michael Wögerbauer
+(eds.), <hi rend="italic">Kommunikation und Information im 18. Jahrhundert: Das Beispiel der
+Habsburgermonarchie</hi> (Wiesbaden: 2009), pp. 77-89.</p>
+<p rend="justify
+bold">1850 </p>
+<p rend="justify bold">Shidyaq Psalter</p>
+<p rend="justify">Nadia Al-Baghdadi, “The Cultural Function of Fiction: From Bible to Libertine
+Literature. Historical Criticism and Social Critique in Aḥmed Fāris al-Šidyāq,” in <hi rend="italic"
+>Arabica</hi> 46 (1999), pp. 375-401.</p>
+
+<p rend="justify
+bold">1851 </p>
+<p rend="justify bold">Shidyaq NT</p>
+<p rend="justify bold">1860 </p>
+<p rend="justify bold">Smith Van Dyck NT</p>
+
+
+
+<p rend="justify">http://www.library.yale.edu/div/pub/OccPub4.pdf</p>
+
+
+
+<p rend="justify">Contains reports of Smith and van Dyck as to the progress of the translation
+enterprise<hi rend="italic">.</hi></p>
+<p rend="justify"><ref target="http://archive.org/details/briefdocumentary00pres">http</ref><ref
+target="http://archive.org/details/briefdocumentary00pres">://</ref><ref
+target="http://archive.org/details/briefdocumentary00pres">archive</ref><ref
+target="http://archive.org/details/briefdocumentary00pres">.</ref><ref
+target="http://archive.org/details/briefdocumentary00pres">org</ref><ref
+target="http://archive.org/details/briefdocumentary00pres">/</ref><ref
+target="http://archive.org/details/briefdocumentary00pres">details</ref><ref
+target="http://archive.org/details/briefdocumentary00pres">/</ref><ref
+target="http://archive.org/details/briefdocumentary00pres">briefdocumentary</ref><ref
+target="http://archive.org/details/briefdocumentary00pres">00</ref><ref
+target="http://archive.org/details/briefdocumentary00pres">pres</ref>
+</p>
+
+
+
+<p rend="justify bold">1865</p>
+<p rend="justify">Smith van Dyck bible </p>
+<p rend="justify">Biblio, see above</p>
+<p rend="justify bold">1862 </p>
+<p rend="justify">St. Matthew in Algerian Arabic</p>
+<p rend="justify
+bold">1865</p>
+<p rend="justify">St. Matthew in Algerian Arabic</p>
+<p rend="justify bold">1876-1880 </p>
+<p rend="justify bold">Jesuit Bible</p>
+
+
+<p rend="justify bold">1897</p>
+<p rend="justify">Luke in Tunisian arabic</p>
+<p rend="justify bold">1899</p>
+<p rend="justify">Luke in Tunisian Arabic</p>
+<p rend="justify">1902</p>
+<p rend="justify">Luke in Moroccan Arabic</p>
+<p rend="justify">1905</p>
+<p rend="justify">Luke in Egyptian arabic</p>
+<p rend="justify bold">1907</p>
+<p rend="justify">Parts of the new Testament in Moroccan Arabic</p>
+<p rend="justify
+bold">1908 </p>
+<p rend="justify">Luke in Algerian Arabic</p>
+<p rend="justify">Luke in Egyptian arabic</p>
+<p rend="justify bold">1911</p>
+<p rend="justify">St John’s in Algerian Arabic</p>
+<p rend="justify">Luke in Tunesian Arabic</p>
+<p rend="justify bold">1913</p>
+<p rend="justify">Acts in Algerian Arabic</p>
+<p rend="justify">1914</p>
+<p rend="justify">Genesis and Psalms in Moroccan Arabic</p>
+<p rend="justify">1918</p>
+<p rend="justify">1st epistle of John in Moroccan Arabic</p>
+<p rend="justify">1920</p>
+<p rend="justify">Matt in Moroccan Arabic</p>
+<p rend="justify">1923</p>
+<p rend="justify">Various parts of the new T in Egyptian arabic</p>
+<p rend="justify">Cor, Gal, Eph in Moroccan Arabic</p>
+<p rend="justify">1925 </p>
+<p rend="justify">Matt in Algerian Arabic </p>
+<p rend="justify">Exodus in Egyptian Arabic</p>
+<p rend="justify">Epistles Philippians through to Philemon in Moroccan Arabic</p>
+<p rend="justify">1927</p>
+<p rend="justify">Mark in Sudanese Arabic</p>
+<p rend="justify">1929-1937</p>
+<p rend="justify">Saydon, il-Kotba Mqaddsa bil-Malti</p>
+<p rend="justify">Review
+http://journals.cambridge.org/download.php?file=%2F1566_7592F335ABE963E6DC995098BEC866B1_journals__BSO_BSO9_03_S0041977X00078733a.pdf&amp;cover=Y&amp;code=34b6c9d38a98344bff41ae708a1ef5e1</p>
+<p rend="justify">1931 </p>
+<p rend="justify">Mark in Algerian Arabic</p>
+<p rend="justify">1932</p>
+<p rend="justify">NT in Egyptian Arabic</p>
+<p rend="justify">NT in Moroccan Arabic</p>
+<p rend="justify">1933</p>
+<p rend="justify">Psalms in Egyptian arabic</p>
+<p rend="justify">1935</p>
+<p rend="justify">Romans </p>
+<p rend="justify">1935-1937</p>
+<p rend="justify">Romans, Cor, and Gal in Egyptian arabiv</p>
+<p rend="justify"><anchor xml:id="id_h.1t3h5sf"/>Editions, Chrestomathies</p>
+<p rend="justify"><hi rend="background-color(#ffff00)">Link these later to the secondary
+literature</hi></p>
+
+<p rend="justify background-color(#00ff00)">Contains specimens of the Violet fragment (pp. 68-71),
+an Arabic translation of Daniel (pp. 95-96), Saadiah’s Tafsīr (pp. 98-106); and an early
+Judaeo-Arabic translation of the book of Proverbs (pp. 145-154). All accompanied by linguistic
+notes. </p>
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Violet fragment; Sinai, Ar.
+2; Cambridge, CUL, T-S Ar. 21.183 and Ar. 53.8, and Mosseri vi, 45; and St Petersburg, RNL, Ebr. II
+C 1-2.</p>
+
+<p rend="justify">Matt. 16:14-20, based on an unspecified 9th manuscript at the BO, which is missing
+today.</p>
+
+
+
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Berlin, Staatsbibliothek,
+Petersmann A3 and Or. Fol. 534; Kiel, Universitätsbibliothek, Ms. 14; Vatican, BAV, Barberini Or. 1;
+Paris, BNF, Ar. 5; Leiden, University Library, Or. 1222; Gotha, Forschungsbibliothek, Ar. 1088.</p>
+<p rend="justify">
+<hi rend="bold">Review</hi>: Kahle, Paul, ZfHB 6 (1902), pp. 6-9.</p>
+
+<p rend="justify background-color(#00ff00)">A revised version of her PhD-Thesis, see below.</p>
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Sinai, Ar. 7 and Ar. 589;
+Berlin, Staatsbibliothek, Spreng. 30; Oxford, Bodleian Library, Or. 251 and Hunt. 260; Vatican, BAV,
+Ar. 462 and Borg. Ar. 95; Coptic Orthodox Patriarchate, Bibl. 75, 77, 86, 89 and Theol. 286; and
+Beirut, Bibliothèque Orientale, Ms. 419; Paris, BNF, Ar. 51.</p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Sinai, Ar. 7 and Ar. 589,
+Berlin, Staatsbibliothek, Sprenger 30; Oxford, Bodleian Library, Or. 251 and Hunt. 260; Vatican,
+BAV, Ar. 462 and Borg. Ar. 95; Coptic Orthodox Patriarchate, Bibl. 75, 77, 86, 89 and Theol. 286;
+and Beirut, Bibliothèque Orientale, Ms. 419; Paris, BNF, Ar. 51.</p>
+
+
+
+<p rend="justify background-color(#00ff00)">Reprinted: Piscataway: Gorgias Press, 2004.</p>
+<p rend="justify background-color(#00ff00)">Reviewed: Ryssel, V., Theologische Literaturzeitung 20
+(1895), cols. 321-327. </p>
+<p rend="justify
+background-color(#00ff00)">Contains an edition of the text and several plates of
+the manuscript.</p>
+<p rend="justify background-color(#00ff00)">Mss.: Sinai, Ar. 154.</p>
+
+<p rend="justify">Contains an edition of parts of Madrid, BNE, Ms. 4971.</p>
+
+<p rend="justify"><hi rend="bold">Review</hi>: Simon Hopkins,מהדורה שלמה של התרגום הערבי לתורה נוסח
+שומרון. <hi rend="italic">Cathedra</hi> 115 (2005), pp. 217-221.</p>
+
+<p rend="justify
+background-color(#ff0000)">Boulos Aya Ayad (ed.), <hi rend="italic">Sifr Ayyūb. Qām
+bi-tarjamatihi min al-suryānīya ila al-‘arabīya Tūmā Fusṭāṭī fi al-qarn al-tāsi‘ al-mīlādī
+</hi>(Cairo: 1975). [Edition of a ninth century translation of the Book of Job from Syriac into
+Arabic by Thomas of Fusṭāṭ, from St. Catherine’s Monastery, Mt. Sinai, ms. 514.]</p>
+
+<p rend="justify background-color(#00ff00)">Contains (1) four editions of the Psalms ([#] Savary de
+Breves; [#] Paris Polyglot; [#] Aleppo 1706; [#] that of Abdallāh b. al-Faḍl; (2) two editions of
+the Job (from a codex from Berlin and the Paris Polyglot); (3) Proverbs from the Paris Polyglot.</p>
+
+<p rend="justify"><hi rend="background-color(#00ff00)">[</hi><hi rend="background-color(#66ff66)">#]
+</hi><hi rend="background-color(#66ff66)">Frederik Leemhuis and ‎Albertus Frederik Johannes Klijn
+</hi><hi rend="background-color(#66ff66)"> and</hi><hi rend="background-color(#00ff00)">Geert Jan
+van Gelder, </hi><hi rend="background-color(#00ff00)italic">The Arabic Text of the Apocalypse of
+Baruch: Edited and Translated with a Parallel Translation of the Syriac Text </hi><hi
+rend="background-color(#00ff00)">(Leiden:Brill, 1986).</hi></p>
+<p rend="justify background-color(#00ff00)">Contains an edition and translation of Ms. Sinai, Ar.
+589.</p>
+<p rend="justify"><hi rend="background-color(#00ff00)bold">Mss</hi><hi
+rend="background-color(#00ff00)">.: Sinai, Ar. 589</hi>.</p>
+<p><hi rend="bold">Review</hi>:</p>
+<p>von Sebastian Brock</p>
+<p>Artikel Artikel</p>
+<p>Sprache: English </p>
+<p>Veröffentichung: Bulletin of the School of Oriental and African Studies, v52 n01 (19890224)</p>
+
+<p rend="justify
+background-color(#00ff00)">Contains an edition and translation of the Arabic Ben
+Sira, as based on Ms. Sinai, Ar. 155.</p>
+<p rend="justify"><hi rend="background-color(#00ff00)bold">Mss</hi><hi
+rend="background-color(#00ff00)">.: Sinai, Ar. 155.</hi></p>
+
+<p rend="justify"><hi rend="background-color(#00ff00)">Based on a Ms. In the Bodleian.</hi>
+<hi rend="background-color(#ffff00)">Which one</hi>?</p>
+<p rend="justify"><anchor xml:id="id_h.4d34og8"/>Art, paleography, codicology</p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Florence, BML, Or. 387 (p.
+13, pl. 1).</p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Florence, BML, Or. 387.</p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: London, BL, Add. 11856 (p.
+58, pl. 8b) and Florence, BML, Or. 387.</p>
+
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss.: </hi>Leiden, University Library,
+Or. 1571.</p>
+
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Berlin, Staatsbibliothek,
+Diez A. Fol. 41.</p>
+
+<p rend="justify"><hi rend="background-color(#00ff00)bold">Mss</hi><hi
+rend="background-color(#00ff00)">.: Florence, BML, Or. 387.</hi></p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Munich, Bayrische
+Staatsbibliothek, Cod. Ar. 233 (56-57) and Cod. Ar. 236 (pp. 58-59).</p>
+
+<p rend="justify"><hi rend="background-color(#00ff00)bold">Mss</hi><hi
+rend="background-color(#00ff00)">.: Vatican, BAV, Barberini, Or. 1 (p. 39, pl. 37) and Barberini,
+Or. 2 (p. 49, pl. 45), Ar. 13 (p. 13, pl. 14), Ar. 18 (p. 19, pl. 17), Copt. 9 (p. 38, pl.
+35)</hi>.</p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: St Petersburg, Institute of
+Oriental Manuscripts, D 226.</p>
+
+<p rend="justify"><hi rend="background-color(#00ff00)">Includes many biblical bilinguals</hi>.</p>
+<p rend="justify"><hi rend="background-color(#00ff00)bold">Mss</hi><hi
+rend="background-color(#00ff00)">.: Oxford, Bodl., Hunt 17 (pls. II, IV, XI, 97, and 101) and Marsh.
+Or. 6 (pls. 17 and 40); Vatican, BAV, Copt. 8 (pls. 95 and 100) and Copt. 9 (pls. V, X, XII, XIII,
+18, 19, 87, and 98) and Copt. 12 (pl. 14); London, BL, Or. 1316 (pls. VI, XV, 30, 89, 94, 99, 104,
+109, 110, 111, 119, 124, 132, 141, 142, and 155) and Or. 1317 (pl. 93); Paris, BNF Copt. 2 (pl. 37)
+and </hi><hi rend="background-color(#ff0000)">Copt. </hi><hi rend="background-color(#ff0000)">13
+(pls. XIV, XVI, XVII, XVIII, 120, 125, 129, 133, 135, 136, and 143</hi><hi
+rend="background-color(#00ff00)">); Paris, Institute Catholique, Copt. Ar. 1 (pls. 92, 96, 103, 105,
+106, 107, 108, 118, 121, 122, 123, 130, 131, 134, 138, 139, and 140), Cairo, Coptic Museum, Bibl. 92
+(pls. 21, 22, and 23), Bibl. 91 (pls. 26 and 27), Bibl. 92 (pls. 33 and 34), Bibl. 94 (pls. 84 and
+137), and Bibl. 95 (pl. 102).</hi></p>
+
+<p rend="justify background-color(#00ff00)">Furnishes a paleographic description of a codex in the
+possession of Tischendorf, containing an early version of Job. This manuscript is today Ms. London,
+British Library, Add. 26116. Cf. [#, see below] von Baudissin and [#, see below] Monferrer Sala. </p>
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: London, British Library, Add.
+26116.</p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: St Petersburg, Russian
+National Library, Ar. N.S. 232 and Institute of Oriental Manuscripts, D 226.</p>
+
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Sinai, Ar. 116.</p>
+
+<p rend="justify"><hi rend="background-color(#00ff00)bold">Mss</hi><hi
+rend="background-color(#00ff00)">.: Florence, BML, Or. 387.</hi>
+</p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: St Petersburg, RNL, Ar. N.S.
+327 (pl. 8).</p>
+
+<p rend="justify background-color(#00ff00)">Includes comparisons to Arabic Gospel manuscripts. </p>
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Coptic Orthodox Patriarche,
+Bibl. 196; Cairo, Coptic Museum, Bibl. 91; and Istanbul, Topkapı Sarayı Library, Ahmet III 3519.</p>
+<p rend="justify"><hi rend="background-color(#ff0000)">Leroy</hi></p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Istanbul, Topkapı Sarayı
+Library, Ahmet III 3519 (various plates).</p>
+
+<p rend="justify background-color(#00ff00)">Mss.: Paris, BNF, Ar. 12 (p. 57) and Copt. 1 (pp.
+77-78).</p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Paris, Institut Catholique,
+Copt.-Ar. 1 (p. 204, pls. 4-7 and p. 209, pl. 15); Paris, BNF, Ar. 12 (p. 216, pl. 28); Cairo,
+Coptic Museum, Bibl. 90 (p. 215, pl. 8) and Bibl. 94 (p. 205, pl. 8).</p>
+
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Florence, BMF, Or. 387.</p>
+<p rend="justify background-color(#00ff00)"> [#] Agnes Smith Lewis and Margaret Dunlop Gibson, <hi
+rend="italic">Forty-one facsimiles of dated Christian Arabic manuscripts</hi> (Cambridge: Cambridge
+University Press, 1907).</p>
+<p rend="justify background-color(#00ff00)">Mss.: Sinai, Ar. 69 (p. 13, pl. 8), Ar. 82 (pp. 23-24,
+pl. 12), Ar. 91 (p. 49, pl. 25), Ar. 95 (p. 37, pl. 19), Ar. 97 (p. 19, pl. 10), Ar. 99 (pp. 45-48,
+pls. 23 and 24), Ar. 104 (p. 41, pl. 21), Ar. 106 (pp. 11-12, pl. 7), Ar. 122 (pp. 33-34, pl. 17);
+London, BL, Or. 1327 (p. 55, pl. 28).</p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Paris, Institut Catholique,
+Copt.-Ar. 1; Cairo, Coptic Museum, Bibl. 90 (pp. 124-129, pls. 1-6); and Istanbul, Topkapı Sarayı
+Library, Ahmet III 3519 (pp. 130-132, pls. 7-9).</p>
+
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Paris, Institut Catholique,
+Copt.-Ar. 1; Cairo, Coptic Museum, Bibl. 94; Berlin, Staatsbibliothek, Diez A fol. 41; ; Oxford,
+Bodleian Library, Hunt. 17 (p. 18, pl. 4); London, BL, Add. 11856 (p.19, pl. 5) and Istanbul,
+Topkapı Sarayı Library, Ahmet III 3519 (p. 20, pls. 6-7).</p>
+
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Paris, Institut Catholique,
+Copt.-Ar. 1 and Cairo, Coptic Museum, Bibl. 75 (pp. 412-413, pls. 6-7), Bibl. 90 (pp. 410-411, pls.
+4-5) and Bibl. 94 (pp. 408-</p>
+
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Oxford, Bodleian Library,
+Hunt. 17 (p. 131, pls. 17-18); Paris, Institut Catholique, Copt.-Ar. 1 (p. 120, pl. 7; p. 123, pl.
+8; p. 124, pl. 9, p. 125, pls. 10-11, p. 126, pls. 12-13; p. 127, pl. 14); Vatican, BAV, Copt. 8 and
+Copt. 9 (p. 132, pl. 19); Cairo, Coptic Museum, Bibl. 93, Bibl. 94 (p. 128, pls. 15-16), and Bibl.
+147.</p>
+
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Paris, BNF, Copt. 13; Paris,
+Institut Catholique, Copt.-Ar. 1 (p. 133-134, pl. 1-2); Washington, Freer Gallery, No. 55 (p. 135,
+pl. 3); St Petersburg, RNL, Ar. NF. 327; Oxford, Bodleian Library, Hunt. 17; and Cairo, Coptic
+Museum, Bibl. 94.</p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Florence, BMF, Or. 387 (p.
+317, pl. 7); Leiden, University Library, Or. 1571 (p. 318, pl. 9; p. 319, pl. 10; p. 321, pl. 13; p.
+325, pl. 17; p. 327, pl. 19; p. 3287, pl. 20; p. 329, pls. 22-23); Sinai, Ar. 92, and Istanbul,
+Topkapı Sarayı Library, Ahmet III 3519 (p. 335, pl. 29).</p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Paris, Institut Catholique,
+Copt.-Ar. 1 (pls. 1-4) and BNF, Copt. 13; and Cairo, Coptic Museum, Bibl. 94 (pl. 5).</p>
+
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Paris, Institut Catholique,
+Copt.-Ar. 1; Cairo, Coptic Museum, Bibl. 94; St Petersburg, RNL, Ar. N.S. 327; Vatican, BAV, Copt.
+9.</p>
+
+<p rend="justify"><hi rend="background-color(#00ff00)bold">Mss</hi><hi
+rend="background-color(#00ff00)">.: Munich, Bayrische Staatsbibliothek, Ar. 238 (no. 56); Vatican,
+BAV, Borg. Ar. 129 (no. 68) and Ar. 5</hi> (<hi rend="background-color(#ff0000)">no. ?).</hi></p>
+
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Florence, BML, Or. 387</p>
+
+
+<p rend="justify background-color(#00ff00)">Mss.: Florence, BML, Or. 387.</p>
+
+<p rend="justify"><hi rend="background-color(#00ff00)">On two manuscripts which were originally part
+of Arnold Mettler-Specker collection, on loan at Zurich library. They were auctioned in 1948 and
+eventually donated to Bryn Mawr College Library. One of them, formerly Ms. Zurich, Or. 94, contains
+a 9</hi><hi rend="background-color(#00ff00)">th</hi><hi rend="background-color(#00ff00)"> century
+copy of the Psalms in Arabic [mentioned in GCAL:1, p. 114, #].</hi></p>
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Bryn Mawr College Library, BV
+47</p>
+
+<p rend="justify background-color(#00ff00)">Contains a description of Ms. St Petersburg, Institute
+of Oriental Manuscripts, D 226 and its relations to Ms. Vatican, BAV, Ar. 467-468 (cf. [#] Vaccari
+and [#] Krachkovksi).</p>
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: St Petersburg, Institute of
+Oriental Manuscripts, D 226 and Vatican, BAV, Ar. 467-468.</p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: St Petersburg, Institute of
+Oriental Manuscripts, D 226 and Vatican, BAV, Ar. 467-468.</p>
+
+<p rend="justify"><hi rend="background-color(#00ff00)bold">Mss</hi><hi
+rend="background-color(#00ff00)">.: Berlin, Staatsbibliothek, Ms or.fol. 1320 (pp. 48-49), Ms. or.
+fol. 534 (p. 59),</hi>
+<hi rend="background-color(#00ff00)"> </hi></p>
+
+<p rend="justify background-color(#00ff00)"> Portrait of St. Luke (p. 49) from Sinai NF Arab.
+14.</p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Florence, BML, Or. 387.</p>
+
+
+<p rend="justify background-color(#00ff00)">Contains a description of Tischendorf’s codices, some of
+them containing early biblical books in Arabic. </p>
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: St Petersburg, RNL, A. N.S.
+327 and Leipzig, Universitätsbibliothek, Cod. Tisch. 31 and 37.</p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss.</hi>: Vatican, BAV, Barberini Or. 1
+(p. xiii, pl. 1) and Or. 2 (p. xlvii, pl. 80), Ar. 4 (p.xlii, pl. 61b), Ar. 18 (p. xxxiii, pl. 45a),
+Ar. 581 (p.xli, pl. 59a), Ar. 788 (p. xli, pl. 59c), Borg. Ar. 48 (p. xlii, pl. 61d), Borg. Ar. 71
+(pp. xxxix-xl, pl. 56b), Borg. Ar. 95 (p. xxxix, pl. 55), and Borg. Ar. 129 (p. xxxviii, pl. 53.</p>
+
+<p rend="justify background-color(#00ff00)">Deals with Arabic manuscripts of Iberian provenance in
+the BAV, among them some biblical codices are mentioned. </p>
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Vatican, BAV, Borg. Ar. 67,
+Borg. Ar. 129, Ar. 5, Lat. 12900 (formerly Chapter of the Cathedral of Siguenze, Ms. 150) and Lat.
+13001; London, BL, Add. 9060.</p>
+
+<p rend="justify"><hi rend="background-color(#00ff00)bold">Mss</hi><hi
+rend="background-color(#00ff00)">: Paris, BNF, Ar. 6725 (pl. 4)</hi>.</p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: London, BL, Add. 11856 (p.
+29)</p>
+<p rend="justify"><anchor xml:id="id_h.2s8eyo1"/>Part Two</p>
+<p rend="justify"><anchor xml:id="id_h.17dp8vu"/>Christian-Arabic</p>
+<p rend="justify"><anchor xml:id="id_h.3rdcrjn"/>Generalia</p>
+
+<p rend="justify">For a Spanish translation by Magdalena López Pérez, see “¿Se conservan restos de
+traducciones árabes de la Biblia de época preislámica?,” <hi rend="italic">Collectanea Christiana
+Orientalia </hi>4 (2007), pp. 359-364. available at
+http://www.uco.es/investiga/grupos/hum380/collectanea/sites/default/files/Translations_0.pdf.]</p>
+
+<p rend="justify background-color(#00ff00)">On the disput between [#] Vaccari and [#]
+Krachkovskii.</p>
+<p rend="justify
+background-color(#00ff00)">Mss.: Vatican, BAV, Ar. 467 and Ar. 468 and St
+Petersburg, Institute of Oriental Manuscripts, D 226.</p>
+
+<p rend="justify">Georg Graf, <hi rend="italic">Geschichte der christlichen arabischen
+Literatur</hi>, vol. 1 (Vatican City, 1944), pp. 85-195.</p>
+
+
+<p rend="justify">Also refered to in [#] Ignatii Krachkovskii, <hi rend="italic">Über Arabische
+Handschriften gebeugt. Erinnerung an Bücher und Menschen</hi> (Leipzig: Koehler &amp; Amelang,
+1949), pp. 54.</p>
+
+
+<p rend="justify">Irfan Shahid, “The Problem of an Arabic Bible and Liturgy before the Rise of
+Islam,” in Samir Khalil Samir (ed.), <hi rend="italic">Acts du premier congrès international
+d’études chrétiennes, Goslar, September, 1980 </hi>(OCA 218; Rome: 1982), pp. 481-490.</p>
+<p rend="justify">Alberto Vaccari, “Una Bibbia araba per il primo Gesuita venuto al Libano,” in <hi
+rend="italic">Mélanges de l’Université Saint-Joseph </hi>10 (1925), pp. 79-104.</p>
+<p rend="justify"><anchor xml:id="id_h.26in1rg"/>Pentateuch</p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Sinai, Ar. 2, Ar. 3, and Ar.
+10; Paris, BNF, Ar. 9 and 14; Copenhagen, Royal Library, Ar. 75; and Munich, Staatsbibliothek, Ar.
+234.</p>
+
+
+
+
+
+<p rend="justify
+background-color(#00ff00)">Basically a Hebrew version of his English article [#],
+see there. </p>
+<p rend="justify"><hi rend="background-color(#00ff00)bold">Mss</hi><hi
+rend="background-color(#00ff00)">: Copenhagen, Royal Library, Ar. 75; Leiden, University Library,
+Or. 377 (Warner 377) and Or. 230 (Scaliger Arab. 230).</hi></p>
+
+<p rend="justify background-color(#00ff00)">On an Iberian copy of an Arabic Pentateuch of
+East-Syriac provenance.</p>
+<p rend="justify
+background-color(#00ff00)">(compare [#] Monferrer-Sala)</p>
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Munich, Bayrische
+Staatsbibliothek, Ar. 234 and Ar. 238; Cambridge, CUL, Add. 3289; and Berlin, Staatsbibliothek, Dq.
+106.</p>
+
+<p rend="justify">On Ar. 1 and 2.</p>
+<p rend="justify">John Caleb Hughes, „De Lagardes Ausgabe der arabischen Übersetzung des
+Pentateuchs. Cod. Leid. arab. 377 nachgeprüft,“<hi rend="italic"> Leipziger semitische Studien</hi>
+7,3 (Leipzig: 1920).</p>
+<p rend="justify">Paul de Lagarde, <hi rend="italic">Materialen zur Kritik und Geschichte des
+Pentateuchs</hi>, 2 vols. (Leipzig: 1867).</p>
+<p rend="justify background-color(#ffff00)">Vollandt. lindgren</p>
+<p rend="justify">Ofer Livne-Kafri, “A Note on the Energicus in a Coptic-Arabic Translation of the
+Pentateuch,” <hi rend="italic">Acta Orientalia </hi>62 (2009), pp. 405-411.</p>
+
+
+<p rend="justify background-color(#ffff00)">His Hebrew articles.</p>
+
+
+<p rend="justify">David Heinrich Müller, „Die Mehri- und Soqoṭri-Sprache,“ I, <hi rend="italic"
+>Texte, Südarabische Expedition,</hi> Bd. IV (Vienna: 1902), pp. 1-31. [Includes, alongside a
+translations into Mehri, Gen 37 and 39-45; see also below under Historical Books.]</p>
+
+
+
+<p rend="justify">Malay? It is the manuscript kept in Munich today.</p>
+<p rend="justify">[see above, #] Oluf Gerhard Tychsen, “Über die Quelle aus welcher die Handschrift
+der arabischen Version in den Polylotten geflossen ist,” in Johann Goffried Eichhorn (ed.), <hi
+rend="italic">Repertorium für biblische und morgenländische Litteratur,</hi> Vol. 10 (Leipzig:
+Weidmann, 1782), pp. 95-110.</p>
+<p rend="justify"><hi rend="bold">Mss</hi>. Paris, BNF Ar. 1, Florence, BML Or. 112 (formerly
+21).</p>
+<p rend="justify
+background-color(#00ff00)">[see above, #] Oluf Gerhard Tychsen, “Untersuchung ob R.
+Saadjah Haggaon Verfasser der arabischen Uebersetzung des Pentateuchs in den Polyglotten sey,” in
+Johann Goffried Eichhorn (ed.), <hi rend="italic">Repertorium für biblische und morgenländische
+Litteratur,</hi> Vol. 11 (Leipzig: Weidmann, 1782), pp. 82-112.</p>
+
+<p rend="justify">Offers a survey on the different translations of the Pentateuch and an in-depth
+study of Ms. Sinai, Ar. 2. </p>
+<p rend="justify">Mss.: </p>
+
+
+<p rend="justify background-color(#00ff00)">On the affinities of an alleged “old-Syriac” version on
+Arabic translations of the Pentateuch. </p>
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Berlin, Staatsbibliothek,
+Diez A quart. 106; Leiden, University Library, Or. 377; Munich, Staatsbibliothek, Ar. 234.</p>
+
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Paris, BNF, Ar. 9, Ar. 10,
+Ar. 11, and Ar. 16; Oxford, Bodleian Library, Poc. 219, and March 440; Leiden, University Library,
+Or. 377 (Warner 377) and Or. 230 (Scaliger Arab. 230).</p>
+
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Paris, BNF, Ar. 9, 10, 11,
+16; and Leiden, Oxford, Bodleian Library, Poc. 219, and March 440; University Library, Or. 239
+(Scalinger 239) and Or. 377 (Warner 377).</p>
+<p rend="justify">John William Wevers, “The Arabic Versions of Genesis and the Septuagint,” <hi
+rend="italic">Bulletin of the International Organization for Septuagint and Cognate Studies </hi>3
+(1970), pp. 8-11.</p>
+<p rend="justify"><anchor xml:id="id_h.lnxbz9"/>Al-Harith ibn Sinan</p>
+
+<p rend="justify"><hi rend="background-color(#00ff00)">With a Latin translation of the
+introduction.</hi></p>
+
+<p rend="justify">Reproduces White’s [#] Latin translation of the introduction.</p>
+
+<p rend="justify"><hi rend="background-color(#00ff00)">With a Latin translation of the
+introduction.</hi></p>
+
+<p rend="justify background-color(#00ff00)">Includes an account on al-Ḥārith, with all relevant
+primary and secondary sources. </p>
+<p rend="justify"><hi rend="background-color(#00ff00)">Mss.: Sinai, Ar. 10; Paris, BNF, Ar. 13 and
+Ar. 14; Oxford, Bodl., Laud. Or. 258 (formerly A 147) and Laud. Or. 243 (formerly A 146); Escurial,
+Arabic 1857; Coptic Orthodox Patriarchate, Bibl. 14, Bibl. </hi><hi rend="background-color(#ff0000)"
+>19 </hi><hi rend="background-color(#00ff00)">and Bibl. 27; Vatican, BAV, Ar. 1; an unspecified
+manuscript from the collection Khūkāz, Aleppo: St Sauveur, Ms. 224</hi>; <hi
+rend="background-color(#ff0000)">and Birmingham, Mingana, Arab. Chr. 121.</hi></p>
+
+<p rend="justify background-color(#00ff00)">Deals with al-Ḥārith’s description of the Hexapla in the
+introduction to his translations. Contains an excerpt of the Arabic text.</p>
+<p rend="justify"><hi rend="background-color(#00ff00)bold">Mss</hi><hi
+rend="background-color(#00ff00)">.: Oxford, Bodl., Laud. A 146 and A 147.</hi></p>
+
+<p rend="justify"><hi rend="background-color(#00ff00)">Contains a full Latin translation of
+al-Ḥārith’s introduction, as preserved in the two copies of the Bodleian Library, specimens from Num
+27, and a transcription of the closing formulas of each book.</hi></p>
+<p rend="justify"><hi rend="background-color(#00ff00)bold">Mss</hi><hi
+rend="background-color(#00ff00)">.: Oxford, Bodl., Laud. A 146 and A 147.</hi></p>
+<p rend="justify">[#, see above] Ronny Vollandt, “2.5.8, Arabic versions, Pentateuch, secondary,” in
+Emmanuel Tov (ed.), <hi rend="italic">The Textual History of the Bible</hi> (Leiden: Brill,
+forthcoming).</p>
+<p rend="justify">Mss.: </p>
+<p rend="justify"><anchor xml:id="id_h.35nkun2"/>Marqus ibn al-Qunbar</p>
+<p rend="justify">See [#] Wevers</p>
+
+
+
+
+
+
+
+<p rend="justify">Contains an edition of Gen. 6:9-22</p>
+<p rend="justify"><hi rend="bold">Mss.</hi>: Oxford, Bodl., Hunt. 112, Vatican, BAV, Ar. 33; London,
+BL, Or. 1330.</p>
+
+
+<p rend="justify">Despite the title, the book contains the translation and commentary of Ibn
+al-Qunbar [see]. Edition based on Ms. Oxford, Bodl. Hunt. 112.</p>
+
+<p rend="justify">Based on Ms. Vatican, BAV, Syr. 216.</p>
+
+<p rend="justify">Based on Ms. Oxford, Bodl., Hunt. 112 and Sharfeh, Syr. 1/7.</p>
+<p rend="justify"> [#] Paul Feghali, “Note sur l'auteur du Commentaire de la Genèse attribué à saint
+Éphrem,” in Samir Khalil Samir (ed.), <hi rend="italic">Actes du deuxième congrés international
+d'études arabes chrétiennes</hi> (Rome: Pont. Institutum Studiorum Orientalium, 1986), pp.
+159-175.</p>
+<p rend="justify">[#, see above] Rhode</p>
+
+<p rend="justify">Specimens of Gen 49, Ex 15, Num 23-24, and Deut 27. </p>
+<p rend="justify"><anchor xml:id="id_h.1ksv4uv"/>Pentateuch Catena</p>
+<p rend="justify">The text has been edited by [#, de Lagarde].</p>
+
+<p rend="justify background-color(#00ff00)">On the scholia brought in the name of Hippolytus.</p>
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Leiden, University Library,
+Or. 230 and Or. 2364; Munich, Bayrische Staatsbibliothek, Ar. 235; Oxford, Bodl. Or. 324, Hunt. 84,
+Hunt. 363, Marsch 88, Marsh. 175; London, BL, Rich 7204; Paris, BNF, Ar. 17.</p>
+
+<p rend="justify
+background-color(#00ff00)">On the Hippolytus scholia.</p>
+
+<p rend="justify
+background-color(#00ff00)">Compare [#, De Lagarde]</p>
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Leiden, University Library,
+Or. 230</p>
+
+<p rend="justify
+background-color(#00ff00)">Excerpts from Ms. Oxford, Bodl, Hunt. 84 with Latin
+translation, in two columns, communicated to Fabricius by Jean Gagnier, Professor of Oriental
+Studies, University of Oxford.</p>
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Oxford, Bodl, Hunt. 84</p>
+
+
+<p rend="justify
+background-color(#00ff00)">Reproduces the Latin translation of Fabricius [#].</p>
+<p rend="justify background-color(#00ff00)"> [#] Friedrich Schulthess, “Hyppolytos der Ausleger des
+Targum. Fragmente zum Pentateuch aus der Arabischen Katene,” in Hans Achelis (ed.), <hi
+rend="italic">Hippolytus Werke</hi>, Vol. 1.2 (Leipzig: J.C. Hinrichs, 1897), pp. 85-119.</p>
+<p rend="justify
+background-color(#00ff00)">Gives a German translation of the scholia brought in the
+name of Hippolytus. </p>
+<p rend="justify"><hi rend="background-color(#00ff00)bold">Mss</hi><hi
+rend="background-color(#00ff00)">.: Munich, Bayrischen Staatsbibliothek, Ar. 235.</hi></p>
+<p rend="justify background-color(#00ff00)">[#, see above] Joseph White, <hi rend="italic">A letter
+to the Right Reverend the Lord Bishop of London, Suggesting a Plan for a New Edition of the LXX. To
+which are added Specimens of some inedited Eastern Versions made from the Greek, and a Sketch of a
+Chart of Greek Mss. By the Rev. Joseph White, B.D. Fellow of Wadham College, Laudian Professor of
+Arabic, one of His Majesty's Preachers at Whitehall; and Editor and Translator of the Syriac
+Philoxenian Version of the Gospels</hi> (Oxford: at the Clarendon-Press, 1779), pp. 30-55</p>
+<p rend="justify
+background-color(#00ff00)">Furnishes excerpts from Gen 7 and 11, as preserved in
+Ms. Oxford, Bodl. Marsh 88 and Hunt. 84.</p>
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold italic">Mss</hi>: Oxford, Bodl. Marsh 88,
+Hunt. 84, and Arch. C 7.</p>
+<p rend="justify"><anchor xml:id="id_h.44sinio"/>Historical Books</p>
+
+<p rend="justify
+background-color(#00ff00)">Published as an addition to the previous.</p>
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: St Petersburg, Institute of
+Oriental Manuscripts, D 226; Paris, BNF, Ar. 23; Vatican, BAV, Ar. 449 and Ar. 468; Cambridge, CUL,
+Add. 3044; Beirut, Bibliothèque Orientale, Ms. 419, Coptic Orthodox Patriarchate, Bibl. 32.</p>
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Review</hi>: Heinrichs, Wolfhart,
+Journal of the American Oriental Society 128 (2008), pp. 565-567.</p>
+<p rend="justify">Reviews: Grand’henry, Le Muséon, 111 (1998), pp. 458-462</p>
+<p rend="justify">Polliack, Meira, Vetus Testamentum 48 (), pp. 432-435.</p>
+<p>Khan, Geoffrey, Bulletin of the School of Oriental and African Studies 61 (1998), pp.
+128-129.</p>
+<p rend="justify background-color(#00ff00)"> [#] Anton Jacob, <hi rend="italic">Septuagintastudien
+zu Ezra</hi> (Breslau: Buchdruckerei H. Fleischmann, 1912), pp. 20-22.</p>
+<p rend="justify"><hi rend="background-color(#00ff00)">On the textual affinities of the book of Ezra
+in the Polyglots.</hi></p>
+
+<p rend="justify
+background-color(#00ff00)">Includes a discussion of the Arabic version of Ezra and
+Nehemia, as found in the Polyglots.</p>
+<p rend="justify">Bengt Knutsson, <hi rend="italic">Studies in the Text and Language of Three
+Syriac-Arabic Versions of the Book of Judicum with Special Reference to the Middle Arabic Element
+</hi>(Leiden: 1974).</p>
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Reviews</hi>: Samir, Samir Khalil,
+Bulletin d’Arabe Chretien 2 (1978), pp. 58-59.</p>
+<p rend="justify">Bengt Knutsson, “Trois versions arabes du livre des Juges. Refléxions critiques
+sur un livre récent,” <hi rend="italic">Oriens Christianus </hi>65 (1981), pp. 87-101.</p>
+<p rend="justify">Platti, Emilio, in: MIDEO 13 (1977), pp.443-444.</p>
+<p rend="justify">David Heinrich Müller, „Die Mehri- und Soqoṭri-Sprache“, I, <hi rend="italic"
+>Texte, Südarabische Expedition</hi>, Bd. IV (Vienna: 1902), pp. 31-59. [Includes, alongside
+translations into Mehri (and partly, Soqotri), Judges 8-16 and the book of Ruth in Arabic; see also
+above under Pentateuch.] pp. 1-31.</p>
+
+<p rend="justify"><hi rend="bold">Review</hi> : W.G., in Allgemeine Literaturzeitung 8 (1832), col.
+57</p>
+
+<p rend="justify"><hi rend="background-color(#00ff00)">On the textual affinities of the books of
+Ezra and Nehemia in the Polyglots.</hi></p>
+<p rend="justify"><anchor xml:id="id_h.2jxsxqh"/>Prophets</p>
+<p rend="justify">See above [#] Hjälm and Vollandt. </p>
+
+<p rend="justify"> Contains a study and a categorization of over 40 manuscripts comprising Arabic
+translations of Daniel, extracts from Daniel chapters 1 and 3 from several versions, and a critical
+comparison with the Peshitta.</p>
+<p rend="justify"> Mss.: Berlin, Staatsbibliothek, Diez A fol. 41; <hi
+rend="background-color(#00ff00)">Bibliothek Paul Sbath: Ms. 920</hi>; Birmingham, University
+Library, Mingana Syr. 256, Syr. 624, Syr. 484 A; COP Bibl. 13, Bibl. 55, Bibl. 77, Bibl. 79, Bibl.
+80, Bibl. 81, Bibl. 82, Bibl. 86, Bibl. 87, Bibl. 88, Bibl. 89; Florence, BML, Or. 59; Istanbul, Aya
+Sofia, 3367; London, BL, Harl. 5505, Or. 1314, Or. 1326, Or. 5918, Or. 8745; Manchester, John
+Rylands Library, Copt. 419, Copt. 420; Milan, Biblioteca Ambrosiana, C 58 inf.; Oxford, Bodleian
+Libraries, Fraser (Or.) 257, Arch. Seld. A. 67; Paris, BNF, Ar. 1, Ar. 2, Ar. 25, Copt. 2, Copt. 96;
+Rome, Biblioteca Casanatense, 169, 2108; Sinai, Ar. 1, Ar. 539, Ar. 597; <hi
+rend="background-color(#00ff00)">St Petersburg</hi>, Institute of Oriental MSS, D226; Vatican, BAV,
+Ar. 445, Ar. 468, Ar. 503.</p>
+
+<p rend="justify">Contains an edition and translation of Daniel, as preserved in Ms. Sinai, Ar. 1,
+with a discussion of linguistic features and the relation between Sinai Ar. 1 and a few related
+manuscripts.</p>
+<p rend="justify"><hi rend="bold">Mss</hi>.: London, BL, Add. 26116; Oxford, Bodleian Library,
+Fraser 257, Arch. Seld. A67; Sinai, Ar. 1, Ar. 9, Ar. 448 (?), Ar. 513, Ar. 539; Ar. 597; Vatican,
+BAV, Ar. 503.</p>
+
+
+<p rend="justify">Contains a classification of manuscripts containing a Greek-based version of the
+Prophets which the author attributes to a certain priest named al-ʿAlam. This version is used in the
+Paris and London Polyglots. Vaccari discusses the translator, time of composition as well as the
+date of the original Greek manuscript used as a Vorlage and offers reproductions from Isaiah 44 and
+45.</p>
+<p rend="justify"><hi rend="bold">Mss</hi>.: London, BL, Or. 1326, Or. 1314, Or. 1319; Oxford,
+Bodleian Libraries, Arch. Seld. A. 67; Paris, BNF, Ar. 1, Ar. 25, Copt. 2; Vatican, BAV, Ar. 445</p>
+
+<p rend="justify">Discusses the Syriac-based Arabic translation of Jeremiah, Isaiah and Ezekiel
+attributed to a certain Faṯyūn (Pethiōn) ibn Ayyūb, arguing for the identification of the translator
+with the Pethiōn mentioned in the Fihrist, offers a classification of extant manuscripts and some
+remarks on translation techniques.</p>
+<p rend="justify"><hi rend="bold">Mss</hi>.: Berlin, Staatsbibliothek, Diez A fol. 41; Florence,
+BML, Or. 59; London, BL, Or. 1314, Or. 1319, Or. 1326, and Or. 5918; Oxford, Bodleian Libraries,
+Arch. Seld. A. 67; Milan, Ambrosiana, C 58; Paris, BNF, Ar. 1, Ar. 25, and Copt. 2; Rome,
+Casanatense, Ms 169; Vatican, BAV, Ar. 445, Ar. 495, and Ar. 503.</p>
+<p rend="justify"><anchor xml:id="id_h.z337ya"/>Pethion ibn Ayyūb</p>
+<p rend="justify">See above [#] Vaccari</p>
+
+<p rend="justify">Discusses the Syriac-based Arabic translation of Jeremiah attributed to a certain
+Faṯyūn (Pethiōn) ibn Ayyūb: it offers a classification of extant manuscripts, a discussion of style
+and translation techniques, as well as a reproduction of Jeremiah 1-6.</p>
+<p rend="justify"><hi rend="bold">Mss</hi>.: Berlin, Staatsbibliothek, Diez A fol. 41; Birmingham,
+University Library, Mingana, Syr. 624; Florence, BML, Or. 59; London, British Library, Or. 5918;
+Milan, Bibliotheca Ambrosiana, C58; Oxford, Bodleian Libraries, Seld. Arch. 67; Rome, Bibliotheca
+Casanatense, Ms.169; Vatican, BAV, Ar. 503 and Ar. 495 (originally one manuscript).</p>
+
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Berlin, Staatsbibliothek,
+Diez A fol. 41</p>
+<p rend="justify"><anchor xml:id="id_h.3j2qqm3"/>al-ʿAlam</p>
+<p rend="justify">See above [#] Vaccari. </p>
+
+<p rend="justify">Disucusses the Arabic text of Ezekiel in the Paris Polyglot, which he shows is
+based on a Greek <hi rend="italic">Vorlage</hi>, and notes that an Oxford manuscript is used in the
+London Polyglot to fill in gaps in the Paris Polyglot.</p>
+<p rend="justify"><hi rend="bold">Mss</hi>.: Oxford, Bodleian Libraries, Seld. Arch. A. 67; Paris,
+BNF, Ar. 1.</p>
+
+<p rend="justify background-color(#00ff00)">On the Arabic version in the Paris and London
+Polyglots.</p>
+
+<p rend="justify">Discusses the rendition of Daniel in the Paris and London Polyglots, its <hi
+rend="italic">Vorlage</hi>, and common translation techniqes employed in it.</p>
+<p rend="justify"><hi rend="bold">Mss</hi>.: Paris, BNF, Ar. 1; <hi rend="background-color(#00ff00)"
+>London, BL, Or. 5503(5?);</hi> Oxford,Bodleian Libraries, Arch. Seld. A 67.</p>
+<p rend="justify">[<hi rend="background-color(#00ff00)">see above, #] Sidney Jellicoe, </hi><hi
+rend="background-color(#00ff00)italic">The Septuagint and Modern Study (</hi><hi
+rend="background-color(#00ff00)">Oxford: Clarendon Press, 1968) (reprint, Winona Lake, 1978), pp.
+154-155.</hi></p>
+<p rend="justify background-color(#00ff00)">On al-ʿAlam’s affinity to the Hesychian recension, as
+reflected in the Polyglots</p>
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Vatican, BAV, Ar. 445</p>
+
+<p rend="justify">Discusses the Arabic rendition of Isaiah included in the Paris and London
+Polyglots with a focus on the translation’s relation with its Greek <hi rend="italic">Vorlage</hi>
+</p>
+<p rend="justify"><hi rend="bold">Mss</hi>.: Paris, BNF, Ar. 1</p>
+
+
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Paris, BNF, Ar. 1</p>
+
+<p rend="justify
+background-color(#00ff00)">Mss.: Paris, BNF, Ar. 1</p>
+
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Paris, BNF, Ar. 1</p>
+
+
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Paris, BNF, Ar. 1</p>
+
+<p rend="justify background-color(#00ff00)">Has a few details of Ryssel’s work on an Arabic version
+of Daniel.</p>
+<p rend="justify"> [#] Samuel Gottlieb Wald, “Über die Arabische Übersetzung des Daniel in den
+Polyglotten,” in Johann Gottfried Eichhorn (ed.), <hi rend="italic">Repertorium für biblische und
+morgenländische Litteratur,</hi> Vol. 14 (Leipzig: Weidmann, 1794), pp. 204-211.</p>
+<p rend="justify">Discusses the Arabic rendition of Daniel included in the Paris and London
+Polyglots with an emphasis on its <hi rend="italic">Vorlage</hi> dependence which mainly reflects
+the Alexandrian reception of Theodotion.</p>
+<p rend="justify">Mss: Paris, BNF, Ar. 1</p>
+<p rend="justify"><anchor xml:id="id_h.1y810tw"/>Sapiential books</p>
+
+
+<p rend="justify background-color(#00ff00)">Edition and Latin translation of an early Arabic version
+of Job, as preserved in a manuscript that was acquired by Tischendorf and is today found at London,
+British Library. It belongs with Sinai, Ar. 1. (cf. also [#, see above] Fleischer and [#, see below]
+Monferrer Sala.)</p>
+<p rend="justify"><hi rend="background-color(#00ff00)bold">Mss.</hi><hi
+rend="background-color(#00ff00)">: London, BL, Add. 26116, mentions several unspecified
+manuscripts.</hi></p>
+
+
+<p rend="justify background-color(#ffff00)">Tagging? </p>
+
+
+
+<p rend="justify">Antoine Khater, “L’emploi des Psaumes en thérapie avec formules en caractères
+cryptographiques,” <hi rend="italic">Bulletin de la Société d'Archéologie Copte </hi>19 (1967), pp.
+123-176.</p>
+<p rend="justify">William Duff McHardy, “The Arabic Text of Ecclesiasticus in the Bodleian ms. Hunt.
+260,” in <hi rend="italic">Journal of Theological Studies </hi>46 (1945), pp. 39-41.</p>
+<p rend="justify">Juan Pedro Monferrer-Sala, “Liber Job detractus apud Sin. Ar. 1: Notas en torno a
+la <hi rend="italic">Vorlage </hi>siriaca de un manuscrito árabe christiano (s. IX),” in <hi
+rend="italic">Collectanea Christiana Orientalia </hi>1 (2003), pp. 119-142.</p>
+<p rend="justify">Al-Harith </p>
+
+
+<p rend="justify">Dmitry Morozov, “Aleksandrijskaja Era v Ierusalime IX v.: K datirovke
+Porfirjevskoj Psaltiri,” [The Alexandrian Era in Jerusalem in the Ninth Century and the Date of
+Porfirij Uspenskij’s Psalter] in <hi rend="italic">Monfokon </hi>1 (2007), pp. 89-93 [in Russian,
+abstract in English, touches on the dating of two Christian Arabic manuscripts, copied by Stephen of
+Ramla].</p>
+<p rend="justify">Johannes Georgius Nisselius (ed.), <hi rend="italic">Canticum canticorum
+Schelemonois aethiopice et arabice </hi>(Leiden: 1656).</p>
+<p rend="justify">Valery Vyacheslavoich Polosin, “A seventeenth-century Manuscript of an illuminated
+Psalter,” <hi rend="italic">Manuscripta Orientalia</hi> 4 (1998), pp. 60-66.</p>
+<p rend="justify">Mss.: St Petersburg, Institute of Oriental Manuscripts, A 187 </p>
+
+<p rend="justify">Ps. 70:7-16; 73:4-14; 77:28-38; and 79:9-18</p>
+<p rend="justify">Mss.: Moscow, State Library, Ms. 432.</p>
+<p rend="justify"> [#] Peter Paul Saydon, “The Origin of the ‘Polyglot’ Arabic Psalms,” in <hi
+rend="italic">Biblica </hi>31 (1950), pp. 226-236.</p>
+
+<p rend="justify"><anchor xml:id="id_h.4i7ojhp"/>Violet Fragment</p>
+
+<p rend="justify
+background-color(#00ff00)">Mss.: Violet fragment</p>
+<p rend="justify">[#, see above] Joshua Blau, <hi rend="italic">A Handbook of Early Middle
+Arabic</hi> (Jerusalem: The Max Schloessinger Memorial Foundation ‒ The Hebrew University of
+Jerusalem, 2002), pp. <hi rend="background-color(#ffff00)">68.</hi></p>
+
+
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Violet fragment</p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Violet fragment</p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Violet fragment</p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Violet fragment</p>
+<p rend="justify"><hi rend="bold">Review</hi>: Brockelmann, Literaturzeitung 57 (1905), p. 469.</p>
+<p rend="justify"><anchor xml:id="id_h.2xcytpi"/>Hafs al-Quti</p>
+
+
+
+
+
+<p rend="justify">Juan Pedro Monferrer-Sala, "Salmo 11 en versión árabe versificada: Unas notas en
+torno a las fuentes del Psalterio de Ḥafṣ b. Albar al-Qūṭī," <hi rend="italic">Miscelánea de
+Estudios Árabes y Hebraicos</hi> [=Homenaje a Prof. Antonio Torres Fernández] 49 (2000), pp.
+303-319.</p>
+<p rend="justify">Juan Pedro Monferrer-Sala, “Ibn Albar al-Qūṭī (Ḥafṣ b. Albar al-Qūṭī),” in Lirola
+Delgado and Puerta Vílches, <hi rend="italic">DAOA</hi>, Vol. 1, pp. 433-435</p>
+
+
+<p rend="justify background-color(#00ff00)">On selected translation features, in comparison to
+Saadaiah’s version</p>
+<p rend="justify">Marie-Thérèse Urvoy, <hi rend="italic">Le Psautier mozarabe de Hafs Le Goth
+</hi>(Toulouse: 1994). [Edition and French translation.]</p>
+<p rend="justify">Marie-Thérèse Urvoy, “Influence islamique sur le vocabulaire d’un psautier arabe
+d’Al-Andalus,” in <hi rend="italic">Al-Qanṭara </hi>15 (1994), pp. 509-517.</p>
+<p rend="justify"><anchor xml:id="id_h.1ci93xb"/>Al-harith ibn sinan</p>
+<p rend="justify">Joseph Sadan, "In the Eyes of the Christian Writer al-Ḥāriṯ Ibn Sinān: Poetics and
+Eloquence as a Platform of Inter-Cultural Contacts and Contrasts," <hi rend="italic">Arabica</hi> 56
+(2009), pp. 1-26.</p>
+<p rend="justify">[on style of Scripture, in response to Muslim doctrine of i‘jāz of Koran]</p>
+<p rend="justify"><anchor xml:id="id_h.vaoxelaaww21"/>Other old testament</p>
+<p><anchor xml:id="id_h.kfucg9dytbyc"/>New Testament</p>
+<p>Henk Jan De Jonge, “Joseph Scaliger's Greek-Arabic lectionary,” <hi rend="italic">Quaerendo</hi>
+5, No. 2 (1975), pp. 143 – 172.</p>
+<p><hi rend="bold">Mss.</hi>: Ms, Leiden, Or. 243 (l.6); Vienna, <hi rend="color(#ff0000)"
+>VNL?</hi>, K II 346; London, BL, Or. 1242,6; Oxford, Bodl, Copt. c. 3</p>
+<p>The article traces the history of acquisition of Ms, Leiden, Or. 243 in the Scaliger collection
+of Leiden University Library. It also compares its paleographical features with other lectionaries
+manuscripts in order to identify its provenance.</p>
+
+<p rend="background-color(#00ff00)"><hi rend="bold">Mss.: </hi>Ms,<hi rend="bold"> </hi>Sinai Ar.
+72;73; 151, 154; Sinai, NF, Parch. Ar. 7; St. Petersburg, A.N.S. 327; Paris, BNF, Or. 6725;</p>
+<p rend="background-color(#00ff00)">A survey of the paleography of some Islamic and Christian
+manuscripts from the 9th century along with some bibliography about them and sample pictures from
+these manuscripts</p>
+<p rend="justify"><anchor xml:id="id_h.2bn6wsx"/>Gospels</p>
+
+<p rend="justify"><hi rend="background-color(#00ff00)bold">Mss</hi><hi
+rend="background-color(#00ff00)">.: Sinai, Ar. 54, Ar. 72, Ar. 74, and Ar. 97; Vatican, BAV, Borg.
+Ar. 95; and Berlin, Staatsbibliothek, Or. Oct. 1108</hi>.</p>
+
+<p rend="justify">Samir Arbache, <hi rend="italic">Une ancienne version arabe des Évangiles: langue,
+texte et lexique, </hi>Ph.D. dissertation, Université Michel de Montaigne, Bordeaux, 1994.</p>
+<p rend="justify">Samir Arbache, “Les versions arabe des évangiles,” in <hi rend="italic">Mélanges
+des sciences religieuses </hi>56 (1999), pp. 85-93.</p>
+<p rend="justify">Samir Arbache and Philippe Roisse, “Versions anciennes de Syrie-Palestine et
+d'al-Andalus,” <hi rend="italic">Mélanges de science religieuse </hi>62 (2005), pp. 65-78. [on
+diversity of early Arabic versions of Mk 1.1-11]</p>
+<p rend="justify">A. Chébli, إنجيل خط قديم [A copy of the Gospels in an ancient script], <hi
+rend="italic">al-Machriq</hi> 46 (1952), pp. 425-433; 571-596.</p>
+<p rend="justify">On a karshuni copy from a private collection. </p>
+
+<p>
+<hi rend="bold">Mss.</hi>: Vatican, BAV, Borg. ar. 95; Berlin, BSS, Or. oct. 1108; Leipzig,
+(Tischendorf 31??).</p>
+
+
+<p rend="justify
+background-color(#00ff00)">Describes Paris, BNF, Suppl. Grec. 911, a fragmentary
+Greek-Arabic bilingual of the Gospels of Luke, originating from the monastery of Mar Saba (Compare
+Monferrer [#], Urban [#]) </p>
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Paris, BNF, Suppl. Grec.
+911.</p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Leipzig,
+Universitätsbibliothek, Cod. Tisch. 31 and 37.</p>
+
+<p rend="justify background-color(#00ff00)">On fragments of Christian Arabic manuscripts that were
+acquired by Tischendorf. Comp. [#] Tischendorf, [#] Delitzsch.</p>
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: St Petersburg, RNL, Ar. N.S.
+327; Leipzig, Universitätsbibliothek, Cod. Tisch. 31 and 37.</p>
+<p rend="justify">Amy Galli Garland, <hi rend="italic">An Arabic Translation of the Gospel According
+to Mark [Sin. ar. 72]</hi>, Unpublished MA Thesis, CUA, Washington, 1979.</p>
+
+<p>
+<hi rend="bold">Mss.: </hi>Sinai, Ar. 116;</p>
+
+
+<p rend="justify">Leipzig, Tisch. 12 (Evangelien, Syr.-Ar.)</p>
+<p rend="justify">Ignazio Guidi, “Le traduzioni degli Evangelii in arabo e in etiopico,” in <hi
+rend="italic">Atti della Reale Academia dei Lincei, Memorie</hi>, anno CCLXXV, 4t series, Classe di
+scienze morali, storiche e filologiche, IV, Partie 1 (a), (Rome: 1888), pp. 5-76.</p>
+
+<p rend="justify
+background-color(#00ff00)">On a bilingual Greek-Arabic manuscript of the Gospel of
+Luke, dated 1043 CE, which is today divided between Paris, BNF and St Petersburg, RNL (Compare [#]
+)</p>
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Paris, BNF, Supp. Grec. 911,
+St. Petersburg, RNL Gre. 290.</p>
+
+<p rend="justify">Vol. 2 is dedicated to Arabic versions </p>
+<p rend="justify">Mss.: Gregory 0136 and 0137, St Petersburg </p>
+
+<p rend="justify">Describes and edits a Greek-Arabic bilingual of Matt. 13:46-52 from St Catherines
+Monastery (Compare Lewis [#]).</p>
+<p rend="justify">Mss.: Today?, belongs with St Petersburg, Russian National Library, Gre. 290. </p>
+
+<p rend="justify">Hikmat Kachouh, “The Arabic Gospel Text of Codex Beirut, Bibliothèque Orientale,
+430: Is It Recent or Archaic?,” <hi rend="italic">Parole de l'Orient </hi>32 (2007), pp.
+105-121.</p>
+<p rend="justify">Hikmat Kachouh, “The Arabic Versions of the Gospels: A Case Study of John 1.1 and
+1.18,” in David Thomas (ed.), <hi rend="italic">The Bible in Arab Christianity </hi>(Leiden/Boston:
+Brill, 2007), pp. 9-36.</p>
+<p rend="justify">Hikmat Kachouh [spelled Kashouh], <hi rend="italic">The Arabic Versions of the
+Gospels: The Manuscripts and their Families</hi>, Arbeiten zur neutestamentlichen Textforschung 42
+(Berlin , 2011). [Originally a Ph.D. thesis from the University of Birmingham, 2008.]</p>
+<p rend="justify background-color(#00ff00)">Hikmat Kachouh, “Sinai Ar. N.F. Parchment 8 and 28: Its
+Contribution to Textual Criticism of the Gospel of Luke,” <hi rend="italic">Novum Testamentum
+</hi>50 (2008), pp. 28-57.</p>
+<p rend="justify"><hi rend="background-color(#00ff00)bold">Mss</hi><hi
+rend="background-color(#00ff00)">.: Sinai, Ar. N.F. Parchment 8 and 28.</hi></p>
+<p rend="justify">Sami Khoury, and Samir Khalil Samir, <hi rend="italic">L’Evangéliaire arabe rimé
+de Abdischu‘ de Nisibe</hi>, 2 vols. (Beirut: 2007).</p>
+
+<p><hi rend="bold">Mss.: </hi>Sinai, Ar. 116; Vatican, BAV, Borg. ar. 95; Berlin, BSS, Or. oct.
+1108; Leipzig, (Tischendorf 31??).</p>
+<p>A comparison between Armenian, Georgian, Greek, Greek-Arabic, and Arabic lectionaries of the
+Gospels and their relation to Jerusalem liturgy.</p>
+
+
+
+<p rend="justify"><hi rend="background-color(#00ff00)">No. 9 contains the description and edition of
+a folio (previously edited by Rendel Harris), </hi><hi rend="background-color(#00ff00)">exhibiting
+Matt 13:46-52 in Greek and Arabic.</hi></p>
+<p rend="justify">Mss.: <hi rend="background-color(#ff0000)">What is the current shelfmark</hi>?
+[belongs with Ms. St Petersburg, RNL, Gre 281].</p>
+
+
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Sinai, Ar. 154</p>
+
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Paris, BNF, Supp. Grec. 911
+and St Petersburg, RNL, Gre. 290.</p>
+
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Toledo, Biblioteca Regional
+de Castilla-La Mancha, Ms. 387</p>
+
+
+
+<p rend="justify background-color(#00ff00)"> [#, see above] Joseph Nasrallah, “Deux versions
+Melchites partielles de la Bible du IXe et du Xe siècles,” in <hi rend="italic">OS</hi> 64 (1980),
+pp. 203-206.</p>
+<p rend="justify background-color(#00ff00)">On Bishr b. Sirrī’s translation of the Pauline Epistles. </p>
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Sinai, Ar. 151.</p>
+
+
+<p rend="justify background-color(#00ff00)">Contains an edition and translation of Mt 1:18-25,
+5:23-45; Mark 12:1-12; Luke 4:1-13; John 19:28-42.</p>
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Vatican, BAV, Borg. Ar. 71
+and Ar. 467; Leiden, University Library, Or. 225 and Or. 1571; and St Petersburg, Institut of
+Oriental Manuscripts, D 226.</p>
+
+
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Paris, BNF, Suppl. Grec. 911
+and St Petersburg, RNL, Gre. 290.</p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Paris, BNF, Suppl. Grec.
+911.</p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Paris, BNF, Suppl. Grec. 911
+and St Petersburg, RNL, Gre. 290.</p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Paris, BNF, Suppl. Grec. 911;
+St Petersburg, RNL, Grec 290; Sinai, Ar. 69 and Ar. 69.</p>
+
+
+<p rend="justify"><hi rend="background-color(#00ff00)">Mss. : Vatican, BAV, Ar. 13 (pl. 21), Ar. 17,
+Ar. 18, Borg. Ar. 71, Borg. Ar. 95 (pl. 23), and Copt. 9; Sinai, Ar. 82, Ar. 154, and Ar. 155;
+Berlin, Staatsbibliothek, Or. Quart. 2101; Munich, Staatsbibliothek Ar. 238; London, BL, Ar.</hi>
+<hi rend="background-color(#ff0000)">Suppl. 5</hi>; <hi rend="background-color(#00ff00)">Leiden,
+University Library, Or. 2378.</hi></p>
+<p rend="justify">Gottlob Christian Storr, <hi rend="italic">Dissertatio Inauguralis Critica de
+Evangeliis Arabicis </hi>(Tübingen: 1775).</p>
+<p rend="justify"><anchor xml:id="id_h.qsh70q"/>Diatesseron</p>
+<p rend="justify">See below on the quotations of the Arabic Diatesseron in al-Biqāʿī [Saleh],
+al-Ghazālī</p>
+
+
+
+<p rend="justify background-color(#00ff00)">Presents a 18th century copy of the Arabic Diatesseron
+in the Bodleian Library, Oxford.</p>
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Oxford, Bodleian Library, Ar.
+e. 63</p>
+
+<p rend="justify">Presents the Beirut fragments of the Arabic Diatesseron.</p>
+<p rend="justify">Mss.: Beirut, Bibliotheque Orientale, 429.</p>
+
+
+
+<p rend="justify">The translation is based on Ciasca edition and draws heavily from his Latin
+translation.</p>
+
+
+<p rend="justify
+background-color(#00ff00)">On the textual affinities of the Persian and Arabic
+Harmonies</p>
+<p rend="justify"><hi rend="background-color(#00ff00)bold">Mss</hi><hi
+rend="background-color(#00ff00)">.: Vatican, BAV, Ar. 14 and Borg. Ar 250</hi><hi
+rend="background-color(#ff0000)">; Cairo 202; </hi><hi rend="background-color(#00ff00)">Oxford,
+Bodl., Ar. e. 163.</hi></p>
+
+<p rend="justify background-color(#00ff00)">On the textual affinities of the Persian and Arabic
+Harmonies</p>
+<p rend="justify"><hi rend="background-color(#00ff00)bold">Mss</hi><hi
+rend="background-color(#00ff00)">.: Vienna, ÖNB, Or. 1544; Vatican, BAV, Ar. 14 and Borg. Ar.
+250;</hi>
+<hi rend="background-color(#ff0000)">Cairo 202</hi>
+<hi rend="background-color(#00ff00)">(COP); Sbath 1020; Oxford, Bodl., Ar. e. 163; London, BL, Or
+3382</hi>.</p>
+<p rend="justify">Peter Joosse,<hi rend="italic"> The Sermon on the Mount in the Arabic Diatessaron
+</hi>(Amsterdam: Centrale Huisdrukkerij VU, 1997).</p>
+<p rend="justify"><hi rend="bold">Review</hi>: Sepmeijer, F., in Novum Testamentum 41 (1999), pp.
+297-300.</p>
+
+
+<p rend="justify background-color(#00ff00)">On the Arabic Diatesseron and al-Ghazālī’s quotations
+thereof, with notes on the Coptic reception. </p>
+<p rend="justify"><hi rend="background-color(#00ff00)bold">Mss</hi><hi
+rend="background-color(#00ff00)">.: Vatican, BAV, Ar. 14 and Borg. Ar. 250; </hi><hi
+rend="background-color(#ff0000)">Cairo 202 </hi><hi rend="background-color(#00ff00)">(COP); Sbath
+1020; Oxford, Bodl., Ar. e. 163; London, BL, Or 3382.</hi></p>
+
+
+
+<p rend="justify">Contains a comparative table of the contents of the Persian, Arabic, Latin, Dutch,
+and Venetian Harmonies.</p>
+
+<p rend="justify"><hi rend="bold">Reviews</hi>: Baumstark, Anton in OC<hi rend="italic"> </hi>33
+(1936), pp. 235-245; D.S. Margoliouth in <hi rend="italic">Journal of Theological Studies </hi>38
+(1937): 76-79; P. Benoit in <hi rend="italic">Revue Biblique </hi>46 (1937): 124-128.</p>
+
+<p rend="justify"><hi rend="background-color(#00ff00)bold">Mss</hi><hi
+rend="background-color(#00ff00)">.: Vatican, BAV, Ar. 14 and Borg. Ar. 250; Cairo 202 (COP); Sbath
+1020 and 1280; Oxford, Bodl., Ar. e. 163; London, BL, Or 3382</hi>, <hi
+rend="background-color(#ff0000)">Beirut Fragments?</hi></p>
+
+
+<p rend="justify">An response to [#, Ciasa]</p>
+
+<p rend="justify">Chapter 4</p>
+<p rend="justify"><anchor xml:id="id_h.3as4poj"/>Hibbatallah</p>
+
+
+
+<p rend="justify">Vevian</p>
+
+
+<p rend="justify"><anchor xml:id="id_h.1pxezwc"/>Isaak Velasquez</p>
+<p rend="justify">See as well, Goussen [#], Gehman [#], Monferrer Sala [#], Koningveld [#].</p>
+
+
+<p rend="justify">Notes to [Vollers #]</p>
+
+
+<p rend="justify">Philippe Roisse, “La circulation du savoir des Arabes chrétiens en Méditerranée
+médiévale. Approche des soruces manuscrites,” <hi rend="italic">Collectanea Christiana
+Orientalia</hi> 1 (2004), pp. 219-223.</p>
+
+<p rend="justify background-color(#00ff00)">On an unspecified fragment from Fez, containing the
+Gospel translation of Velasquez.</p>
+<p><hi rend="background-color(#00ff00)bold">Mss</hi><hi rend="background-color(#00ff00)">.: Fes,
+</hi>Al-Qarawiyyin University Library<hi rend="background-color(#00ff00)">, </hi>Cod. 730<hi
+rend="background-color(#00ff00)">; Munich, Bayrische Staatsbibliothek, Cod. 238.</hi></p>
+
+<p rend="justify
+background-color(#00ff00)">Response to Fleischer ZDMG 8, p. 586. Deals with a
+fragment of Isaak Velasquez’s Gospel translation in Leipzig, acquired by Tischendorf [Compare
+Fleischer and Fraenkel #].</p>
+<p rend="justify"><hi rend="background-color(#00ff00)">Ms.: Leipzig, Universitätsbibliothek, Cod.
+Tisch. 31.</hi></p>
+
+<p rend="justify background-color(#00ff00)">Edits and translates into German the Monarchian
+Prologues, as preserved in Ms. Munich, Bayrische Staatsbibliothek, Ar. 238.</p>
+<p rend="justify"><hi rend="background-color(#00ff00)">Mss.: Munich, Bayrische Staatsbibliothek, Ar.
+238.</hi></p>
+<p rend="justify"><anchor xml:id="id_h.49x2ik5"/>Other new testament</p>
+
+<p rend="justify">On Sinai, Ar. 154</p>
+<p rend="justify"><hi rend="bold">Mss</hi>.: Sinai, Ar. 154</p>
+
+
+<p rend="justify">On Sinai, Ar. 154</p>
+<p rend="justify">Mss.: Sinai, Ar. 154</p>
+<p rend="justify
+background-color(#00ff00)">Acts</p>
+
+<p rend="justify
+background-color(#00ff00)">Includes an edition of the Acts of the Apostles, based
+on Vatican, BAV, Ar. 468.</p>
+<p rend="justify"><hi rend="background-color(#00ff00)">Mss.: London, BL,. Or. 1326; Vatican, BAV,
+Ar. 13 and Ar. 468; Sinai, Ar. 151; Escorial Cod. Ar. 1625</hi>.</p>
+<p rend="justify"><anchor xml:id="id_h.2p2csry"/>The Pauline Epistles</p>
+<p rend="justify">One of the earliest codices was brought from Sinai by Tischendorf and is today
+preserved in its two membra disjecta Mss. Leipzig, Universitätsbibliothek, Cod. Tisch. 37 and St.
+Petersburg, RNL, Ar. N.S. 327. [cf. [#, see above] Fleischer and [#, see above] Tischendorf]</p>
+
+<p rend="justify">A Commentary on 1 Corinthians that builds upon its rhetorical pattern borrowed
+from the Hebrew Bible. The Middle Eastern Culture is used to explain some vague points in the text
+through old manuscripts of Arabic, Syriac, and Hebrew translations of 1 Corinthians.</p>
+<p rend="justify"><hi rend="bold"> Mss.</hi>:Oxford, Bodl, Or. 712; Sinai, Ar. 73;151; 155;
+310;Vatican, BAV, Ar. 13.</p>
+
+<p rend="justify background-color(#00ff00)">On Sinai, Ar. 155, assigned to the ninth century CE. The
+Arabic translation was made from Greek. Includes Arabic text with some notes on the text and
+translation technique. (Comp. [# Boyd, Robert])</p>
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Sinai, Ar. 155.</p>
+
+<p rend="justify background-color(#00ff00)"> An argument against the hypothesis that the Palestinian
+Syriac Lectionary is of Egyptian Bohairic Origin.</p>
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss.: </hi>Sinai, Ar. 155 (Gibson’s
+ed.); Leiden, UBL, Or. 217 (Erpenius ed.)</p>
+
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Sinai, Ar. 151.</p>
+
+<p rend="background-color(#00ff00)"><hi rend="bold">Mss.</hi>: Sinai, Ar. 151</p>
+<p rend="background-color(#00ff00)">An examination of the Syriac origin of Sinai, Ar. 151 as well as
+its syntactical, morphological, and stylistic features.</p>
+
+<p rend="justify background-color(#00ff00)">On Mss. London, BL Or. 8605 and 8612, to both of which
+the author assigns a date prior to 1000 CE. A total of four facsimile pages are given, with
+transcription; these samples include parts of Jam, 1 Pet, and Heb, but the complete manuscripts
+contain from Acts to the end of the New Testament.</p>
+<p rend="justify"><hi rend="background-color(#00ff00)bold">Mss</hi><hi
+rend="background-color(#00ff00)">.: London, BL Or. 8605 and 8612</hi>.</p>
+
+<p rend="justify">Investigating the origins of the exegetical annotations on the text of the Pauline
+Epistles in Sinai, Ar. 151. They have common sources with East Syriac exegetical materials, Mainly,
+with Isho‘dad and Theodore of Mopsuestia commentaries. </p>
+<p rend="justify"><hi rend="bold">Mss.: </hi>Sinai, Ar. 151</p>
+<p rend="justify"><anchor xml:id="id_h.147n2zr"/>I Corinthians</p>
+
+<p rend="justify"><anchor xml:id="id_h.3o7alnk"/>Galatians</p>
+
+<p rend="justify">Chapter of the Cathedral of Siguenze 150, one plate of which precedes the article;
+ms dated to around 900 CE on the basis especially of the Latin script. No Arabic text, but a literal
+French translation of Gal. 1:1-15 with commentary.</p>
+<p rend="justify"><hi rend="bold">Mss</hi>.: Vatican, BAV, Lat. 12900 (formerly Chapter of the
+Cathedral of Siguenze, Ms. 150).</p>
+
+<p rend="justify">An edition and English translation of the text. A description of the manuscript
+and a comparison with Sinai, Ar. 151 and a Greek version.</p>
+<p rend="justify"><hi rend="bold">Mss</hi>.: Madrid, Esc, Ar. 1625</p>
+<p><anchor xml:id="id_h.whq9vx884z0t"/>Philemon</p>
+
+<p rend="justify">A transcription of the Arabic text of Philemon of Vatican, BAV, Ar. 13 along with
+an examination of the paleographical and linguistic features of the text. This is followed by an
+analysis of the text that suggests a Greek Vorlage with some Syriac influence. </p>
+<p rend="justify"><anchor xml:id="id_h.tp86x89fb7uw"/>Hebrews</p>
+
+
+<p rend="justify"><anchor xml:id="id_h.23ckvvd"/>James</p>
+<p rend="justify">Juan Pedro Monferrer-Sala, “Un manuscrito árabe oriental de la ‘Epistola de
+Santiago’, guardado en la Biblioteca de El Escurial,” <hi rend="italic">Al-Andalus-Magreb</hi> 7
+(1998), pp. 231-233.</p>
+
+<p rend="justify"><anchor xml:id="id_h.ihv636"/>Johannine Epistles</p>
+<p rend="justify">A short history of the Christian Arabic manuscripts in Spain, especially the
+biblical ones. Then, a description of the physical and orthographical characters of Ms, Madrid, Esc,
+Ar. 1625 and a comparison with the Greek Vorlage. Finally, a transcription of the Arabic text of the
+Johannine epistles and an English translation of them.</p>
+<p rend="justify"><anchor xml:id="id_h.32hioqz"/>Revelation</p>
+
+
+<p rend="justify"><anchor xml:id="id_h.1hmsyys"/>Includes edition of the Arabic text.</p>
+<p rend="justify">Ms. Escurial, Ar. 1625.</p>
+<p rend="justify">Apocrypha/Pseudoepigrapha</p>
+<p rend="justify"><hi rend="italic">The Mythological Acts of the Apostles Transcribed from an Arabic
+Ms. in the Convent of Deyr-es-Suriani, Egypt, and from Mss. in the Convent of St Catherine on Mount
+Sinai and in the Vatican Library</hi>.</p>
+<p rend="justify"><hi rend="italic">Évangiles Apocryphes II: L’Évangile de l’Enfance. Rédactions
+syriaques, arabe et arméniennes traduites et annotées</hi>. Textes et documents pour l’étude
+historique du christianisme. Translated by Paul Peeters (Paris: Auguste Picard, 1914).</p>
+
+
+<p rend="justify background-color(#00ff00)">Contains an English translation of excerpts from Ms.
+Paris, BNF, Ar. 132.</p>
+<p rend="justify"><hi rend="background-color(#00ff00)">Mss.: Paris, BNF, Ar. 132.</hi></p>
+
+
+<p rend="justify">Contains an Italian translation of the Arabic version of the Testament of
+Adam.</p>
+
+
+
+
+
+<p rend="justify">Refers to several Arabic translations of Pseudepigrapha: Fourth Book of Ezra (pp.
+519), Testament of Abraham (p. 871), Testament of Isaac (pp. 903-911), Testament of Jacob (pp.
+913-918), Testament of Adam (pp. 989-990).</p>
+<p rend="justify"><hi rend="bold">Mss</hi>.: Paris, BNF, Ar. 132; Oxford, Bodl., Or. 251; Vatican,
+BAV, Ar. 462;</p>
+<p rend="justify">Stanley Arthur Cook, “An Arabic Version of the Prologue to Ecclesiasticus,” in <hi
+rend="italic">Proceedings of the Society of Biblical Archaeology </hi>28 (1902), pp. 173-184.</p>
+
+<p rend="justify">Contains an English translation of the Arabic Infancy Gospels, bases on Sike’s
+edition [#].</p>
+
+<p rend="justify background-color(#00ff00)">Contains a translation of the texts from Ms. Paris, BNF,
+Ar. 132 (by Marius Chaîne). </p>
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Paris, BNF, Ar. 132. </p>
+<p rend="justify"><hi rend="background-color(#00ff00)bold">Review</hi><hi
+rend="background-color(#00ff00)">: Samir Khalil Samir, BAC 2 (1978), pp. 20-21.</hi></p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Sinai, Ar. 589.</p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Sinai, Ar. 589 and Berlin,
+Staatsbibliothek, Spreng. 30.</p>
+
+<p rend="justify
+background-color(#00ff00)">An edition and translation of the Actes of Philipp in
+Arabic, based on Ms. Cambridge, CUL, Or. 1287. </p>
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Cambridge, CUL, Or. 1287;
+Oxford, Bodl. Nicoll 49; Vatican, BAV, Ar. 694, Sbath, 68; Sinai, Ar. 397, Ar. 469, and Ar. 553.</p>
+
+
+<p rend="justify">GCAL 1, pp. 245-246</p>
+<p rend="justify">De sacerdotio Christi in Arabic. </p>
+
+<p rend="justify">Acta Marci</p>
+
+
+
+<p rend="justify">Vol. ?, pp. 309-36.Contains a Latin translation of an Arabic version of the
+“History of Joseph the Carpenter.”</p>
+<p rend="justify">Vol. 1, pp. 168 “Infancy Gospels” </p>
+
+<p rend="justify"><hi rend="background-color(#00ff00)bold">Mss</hi><hi
+rend="background-color(#00ff00)">.: Paris, BNF, Ar. 1; London, BL, Add. 30851; Vatican, BAV, Ar. 5;
+Munich, Staatsbibliothek, Ar. 238; and Sinai, Ar. 155.</hi></p>
+<p rend="justify">Giovanni Galbiati, <hi rend="italic">Iohannis Evangelium Apocryphum
+Arabice</hi></p>
+<p rend="justify"> Review</p>
+<p rend="justify"> Löfgren, Oscar, Det bortglömda evangeliet, Svenska Dagbladet 7 Oct. 1960.</p>
+<p rend="justify"> ------, “Das apokryphe Johannesevangelium”, Orientalistische Literaturzeitung 56
+(1961), cols. 229-233.</p>
+
+<p rend="justify"><hi rend="background-color(#00ff00)bold">Mss</hi><hi
+rend="background-color(#00ff00)">.: St Petersburg, Institute of Oriental Manuscripts, D 226 and
+Vatican, BAA, Ar. 468.</hi></p>
+
+<p rend="justify">Treats a literal and freer translation of Arabic version into Ge’ez. </p>
+
+<p rend="justify">Protoevangelium of James</p>
+<p rend="justify"><hi rend="bold">Mss</hi>.: Sinai, Ar. 436, Ar. 535, and Ar. 556.</p>
+<p rend="justify
+background-color(#00ff00)"> [#] Charles Genequand, “Vie de Jésus en Arabe,” in
+François Bovon and Pierre Geoltrain, <hi rend="italic">Écrits apocryphes chrétiens</hi> (Paris:
+Gallimard, 1997), pp. 207-238.</p>
+<p rend="justify
+background-color(#00ff00)">Introduction and French translation of the Infancy
+Gospels in Arabis. </p>
+<p rend="justify"><hi rend="background-color(#00ff00)bold">Mss</hi><hi
+rend="background-color(#00ff00)">.: Oxford, Bodl., Or. 350; Florence, BML, Or. 32; and Vatican, BAV,
+Syr. 159.</hi></p>
+<p rend="justify">Johannes Gildemeister, <hi rend="italic">Esdras Liber Quartus Arabice</hi> (Bonn:
+1877).</p>
+<p rend="justify">Contains an edition of IV Ezra, based on Mss. Vatican, Ar. 462 and Oxford,
+Bodleian Library, Hunt. 260.</p>
+<p rend="justify">Mss.: <hi rend="background-color(#ff0000)">Berlin, Staatsbibliothek, Spreng.
+30</hi>, Vatican, Ar. 462 and Oxford, Bodleian Library, Hunt. 260.</p>
+
+<p rend="justify">The History of Joseph the Carpenter </p>
+
+<p rend="justify"><hi rend="background-color(#00ff00)bold">Mss</hi><hi
+rend="background-color(#00ff00)">.: Paris, BNF, Ar. 107</hi> (<hi rend="background-color(#ff0000)"
+>check</hi>)</p>
+
+
+<p rend="justify">On Ms. Oxford, Bodleian Library, Or. 251, containting IV Ezra. </p>
+<p rend="justify">Mss.: Oxford, Bodleian Library, Or. 251</p>
+
+<p rend="justify"><hi rend="background-color(#00ff00)">Comp. [#,Barnes, William Emery</hi>]</p>
+
+<p rend="justify"><hi rend="background-color(#00ff00)bold">Mss</hi><hi
+rend="background-color(#00ff00)">.: Paris, BNF, Ar. 132 and Ar. 4785; COP, Bibl. 185 and Hist. 54;
+Cairo, Coptic Museum, Hist. 485; St Macarius, Hag. 38; and Vatica, BAV, Syr. 199.</hi></p>
+
+<p rend="justify background-color(#00ff00)">Mss.: Paris, BNF, Ar. 132 and Ar. 4785; Cairo, Coptic
+Museum, Hist. 485; St Macarius, Hag. 38; and Vatica, BAV, Syr. 199.</p>
+
+<p rend="justify bold">OLS Da AFR äth 10-1</p>
+<p rend="justify"> OLS
+Da AFR äth 10-1</p>
+
+<p rend="justify"><hi rend="background-color(#00ff00)">Contains references to the Arabic
+versions.</hi></p>
+
+<p rend="justify"><hi rend="background-color(#00ff00)">Mentions several Ge’ez versions based on the
+Arabic.</hi></p>
+<table rend="frame" xml:id="Tabelle2">
+<row>
+<cell/>
+<cell rend="justify bold">OLS Da AFR äth 10-1</cell>
+</row>
+</table>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Paris, BNF, Ar. 132 and Ar.
+4785;; Cairo, Coptic Museum, Hist. 485; and Vatica, BAV, Syr. 199.</p>
+
+<p rend="justify background-color(#00ff00)">
+<hi rend="bold">Mss</hi>.: Paris, BNF, Ar. 4785 and Cairo, Coptic Museum, Hist. 485; St Macarius,
+Hag. 38 and 44.</p>
+
+
+
+
+
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>. Birmingham, Mingana, Chr.
+Arab. 94.</p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Sinai, Ar. 589</p>
+<p rend="justify">Also refered to in [#, see above] Ignatii Krachkovskii, <hi rend="italic">Über
+Arabische Handschriften gebeugt. Erinnerung an Bücher und Menschen</hi> (Leipzig: Koehler &amp;
+Amelang, 1949), pp. 11-12.</p>
+
+
+
+
+<p rend="justify
+background-color(#00ff00)">Touches on the Arabic source text of the Ethiopic
+Testaments of Abraham, Isaac and Jacob. </p>
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Paris, BNF, Ar. 132.</p>
+
+
+
+
+
+<p rend="justify">Byzantinische Zeitschrift 14 (1905), p. 690.</p>
+
+<p rend="justify">Review: James, M.R. in JthSt 33 (1923), pp. 311</p>
+<p rend="justify background-color(#00ff00)">[see above, #] Juan Pedron Monferrer-Sala, <hi
+rend="italic">Scripta arabica orientalia: dos studios de la literatura árabe cristiana</hi>,
+(Granada: Athos Pérgamos, 1999).</p>
+<p rend="justify background-color(#00ff00)">Includes an edition of 1 Esdras, based on London, BL,
+Or. 1326.</p>
+<p rend="justify background-color(#00ff00)">Mss.: London, BL, Or. 1326; Vatican, BAV, Ar. 13 and Ar.
+468; Sinai, Ar. 151; Escorial Cod. Ar. 1625.</p>
+
+
+<p rend="justify"><hi rend="background-color(#00ff00)">For a French translation of the Arabic
+Infancy Gospels</hi></p>
+
+<p rend="justify">Italian translation of the Arabic Infancy Gospels.</p>
+
+
+<p rend="justify">French translation of the Arabic Infancy Gospels, based on the edition of Sike
+[#].</p>
+
+
+<p rend="justify">Fleischer in Constantin von Tischendorf, <hi rend="italic">Evangelia
+Apocrypha</hi> (Leipzig:Avenarius et Mendelssohn, 1853) pp. 171-202.</p>
+<p rend="justify">On infancy gospels in Arabic</p>
+<p rend="justify">Latin from Arabic, “The Story of Joseph the Carpenter”</p>
+
+<p rend="justify">Contains a German translation of the Testament of Isaac. </p>
+<p rend="justify">K. Samaan, <hi rend="italic">Sept traductions arabes de Ben Sira </hi>(Frankfurt
+am Main: 1994).</p>
+
+
+<p rend="justify background-color(#00ff00)">Mentions Arabic versions of the Acts of John, Acts of
+Thomas, Acts of John by Prochorus, Acta Petri et Pauli, Acta Andreae et Bathololmaei, Acta Thomae,
+Martyrium Marci, Passio Lucae, Acta Philippi et Petri, Acta Iacobi, Acta Simonis, Acta Thaddaei, and
+Revelation of Peter.</p>
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Vatican, BAV, Ar. 171, Ar.
+694, Syr. 199; Sinai, Ar. 539.</p>
+<p rend="justify"><hi rend="background-color(#ff0000)">Vol. 2, p. 398</hi></p>
+<p rend="justify"> [#] W. Scott Watson, “A Syriac Arabic Narrative of Miracles of Jesus,” <hi
+rend="italic">American Journal of Semitic Languages and Literatures</hi> 16 (1899-1900), pp.
+37-46.</p>
+
+<p rend="justify"><hi rend="background-color(#00ff00)">The edition is based on a manuscript,
+acquired by Golius in Turkey in 1625. It was sold to the Bodleian Library, where it is preserved
+today under the shelf mark Ms. Oxford, Bodl., Or. </hi><hi rend="background-color(#00ff00)"
+>350.</hi>
+<hi rend="background-color(#00ff00)">With Latin translation.</hi></p>
+<p rend="justify"><hi rend="background-color(#00ff00)bold">Mss</hi><hi
+rend="background-color(#00ff00)">,: Oxford, Bodl., Or. 350.</hi></p>
+
+
+
+<p rend="justify"><hi rend="bold">Ms</hi>s.: Sinai, Arabic 589</p>
+
+<p rend="justify"><hi rend="background-color(#00ff00)">Mentions the Arabic versions of the text
+briefly, with reference to [] Thilo.</hi></p>
+
+
+<p rend="justify">Contains a Latin translation of “The History of Joseph the Carpenter” in Arabic,
+alongside Rödiger’s revisions of Wallin’s Arabic text []. The translation is based on Sike’s edition
+[#].</p>
+
+
+
+<p rend="justify
+background-color(#00ff00)">Contains a translation of IV Ezra, as preserved in Ms.
+Oxford, Bodleian Library, Or. 251.</p>
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Mss</hi>.: Oxford, Bodleian Library, Or.
+251.</p>
+<p rend="justify italic">The Epistle to the Laodiceans</p>
+<p rend="justify">Carra de Vaux, “L’Épitre aux Laodicéens en arabe,” <hi rend="italic">Revue
+Biblique </hi>5 (1896), pp. 221-226. [BnF arab. 80. Translated from Latin. Arabic text with
+commentary.]</p>
+<p rend="justify">Georgio Wallin, <hi rend="italic">Historia Iosephi fabri lignarii. Liber
+apocryphus ex manuscripto Regiae Bibliothecae Parisiensis nunc primum arabice editus, nec non
+versione latina et notis illustrates, Leipzig</hi></p>
+<p rend="justify">Compare the corrections on this text by Rödiger [#].</p>
+
+<p rend="justify">Biblical quotations in Christian Arabic writings</p>
+<p rend="justify"><hi rend="italic">ʿAmmār al-Baṣrī</hi>
+</p>
+
+<p rend="justify"><hi rend="italic">Abū Rāʾiṭa al-Takrītī</hi>, <hi rend="italic">Ḥabīb b.
+Khidma</hi>
+</p>
+
+
+<p rend="justify italic"> Dimitrie Cantemir</p>
+
+<p rend="justify">
+<hi rend="background-color(#00ff00)">Contains a section on biblical quotations.</hi></p>
+<p rend="justify italic">Peter of Bayt Raʾs (Kitāb al-Burhān)</p>
+<p rend="justify">Arab. text CSCO 192; Eng. trans. CSCO 193. The <hi rend="italic">Kitāb al-Burhān
+</hi>was ascribed to St. Athanasius in the manuscript tradition. Following Graf [#], Chachia and
+Watt take Eutychius (Saʿīd ibn al-Biṭrīq) to be the author. The oldest Ms (Sinai, Ar. 75, fol.
+102b), however, names Peter of Bayt Raʾs (Buṭrus al-Shammās ibn Nasṭās al-Bayt Raʾsī) as its author.
+Books II and III (§§ 401ff.) consist of <hi rend="italic">testimonia</hi> catalogues.</p>
+
+
+<p rend="justify"><hi rend="italic">Al-Kitāb al-Jāmiʿ Wujūh al-Īmān bi-Tathlīth Waḥdaniyyat Allāh
+wa-Taʾannus Allāh al-Kalima min al-Ṭāhira al-ʿAdhrāʾ Maryam</hi> (<hi rend="italic">The Compilation
+of the aspects of the faith in the Tri-unity of God and the Incarnation of God the Word from the
+pure one, the Virgin Mary</hi> = <hi rend="italic">Summa Theologiae Arabica</hi>)</p>
+<p rend="justify"><hi rend="bold">Mss</hi>: Beirut, Bibliothèque orientale, Ar. 552; Birmingham,
+Mingana, Chr. Ar. 170 (= Chr. Add. 140); London, British Library, Or. 4950; Munich, State Library,
+Cod. Ar. 1071; Sinai, Ar. 330; Ar. 431; Ar. 448; Ar. 483; St. Andrews, University Library, 14.</p>
+
+
+
+<p rend="justify"> On [#], with comprehensive bibliography.</p>
+<p rend="justify italic">Fī Tathlīth Allāh al-Wāḥid (On the Trinune Nature of God)</p>
+
+<p rend="justify"> Italian translation of Gibson's edition [#]. </p>
+
+<p rend="justify"><hi rend="bold">Ms</hi>.: Sinai, Ar. 154, fols. 99r-139v.</p>
+<p rend="justify">The third section of the text contains a list of 34 Old Testament <hi
+rend="italic">testemonia</hi>. </p>
+
+<p rend="justify"> PP. <hi rend="background-color(#00ff00)">######</hi> on [#].</p>
+
+<p rend="justify"> On <hi rend="italic">Fī Tathlīth Allāh al-Wāḥid</hi> [#]: pp. 53-57; 89-90;
+167-68.</p>
+
+
+
+
+
+<p rend="justify"><hi rend="italic">Testimonia</hi>
+</p>
+
+
+<p rend="justify">On 1 Cor 2:9, compares Christian Arabic translations with Muslim testimonies.</p>
+
+<p rend="justify">On the oldest Christian Arabic apologies preserved in several papyrus fragments.
+Fragmentary quotes of <hi rend="background-color(#ff3333)">#######</hi>.</p>
+
+<p rend="justify"> PP. <hi rend="background-color(#00ff00)">#######</hi> on <hi rend="italic"
+>testimonia</hi>.<hi rend="italic"> </hi></p>
+
+<p rend="justify"><hi rend="italic">Theodore Abū Qurrah</hi>
+</p>
+
+
+
+
+
+<p rend="justify italic">Timothy I</p>
+
+
+
+<p rend="justify"><anchor xml:id="id_h.41mghml"/>Judaeo-Arabic</p>
+<p rend="justify"><anchor xml:id="id_h.2grqrue"/>general</p>
+<p rend="justify
+background-color(#ffff00)">Joshua Blau, “On karaite translations of the Bible into
+Arabic from the tenth and eleventh centuries,” [in Hebrew] <hi rend="italic">Tarbiz</hi>, 67.3
+(1998), pp. 417-430.</p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>.: St. Petersburg, RNL, Yevr. II
+C 1/2</p>
+
+
+
+<p rend="justify"> [#] Meira Polliack, “Arabic Bible translations in the Cairo Genizah collections,”
+in Ulf Haxen, <hi rend="background-color(#ff0000)"> </hi>Hanne Trautner-Kromann and Karen Lisa
+Goldschmidt Salamon<hi rend="italic"> </hi>(eds.), <hi rend="italic">Jewish studies in a new Europe:
+proceedings of the Fifth Congress of Jewish Studies in Copenhagen 1994 under the auspices of the
+European Association for Jewish Studies</hi> (Copenhagen: C.A. Reitzel, 1998), pp. 595-620.</p>
+<p rend="justify">Meira Polliack, “Medieval Karaite Methods of Translating Biblical Narrative into
+Arabic,” in <hi rend="italic">Vetus Testamentum </hi>48 (1998), pp. 375-398.</p>
+<p rend="justify">Meira Polliack, “suge na-targumim ha-ʿaraviyim la-miqra be-genizat qahir ʿal-pi
+qatalog ha-ḥomer ha-ʿaravi T-S Arabic,”‬ <hi rend="italic">Te'udah</hi> 15 (1999), pp. 109-125.</p>
+<p rend="justify">Meira Polliack and Sasson Somekh, "שני גלוסרים מקראיים עבריים-ערביים מגניזת קהיר,“
+<hi rend="italic">Pe'amim</hi> 83 (2001), pp. 15-47.</p>
+<p rend="justify">Moritz Steinschneider, <hi rend="italic">Die arabische Literatur der Juden
+</hi>(Frankfurt: 1902), pp. 283-289.</p>
+<p rend="justify"><anchor xml:id="id_h.vx1227"/>Pentateuch</p>
+<p rend="justify">Meira Polliack, „The Karaite Tradition of Arabic Bible Translation. A Linguistic
+and Exegetical Study of Karaite Translations of the Pentateuch from the Tenth and Eleventh Centuries
+C.E.,“ <hi rend="italic">Études sur le Judaïsme Médiéval </hi>17 (Leiden: 1997). [Rev. A. Shivtiel
+in <hi rend="italic">VT </hi>50 (2000), pp. 275-276; Simon Hopkins in <hi rend="italic">JQR
+</hi>n.s. 89 (1999), pp. 426-431.]</p>
+<p rend="justify">Israelson, Samuel ben-Hofni</p>
+<p rend="justify"><anchor xml:id="id_h.3fwokq0"/>Early non-saadianic</p>
+<p rend="justify">Y. Tobi, "Seridei Targum ‘Aravi la-Torah Qodem le-Tafsir Rav Saadiah Gaon,"
+[Fragments of a pre-Sa'adian Arabic Translation of the Torah] <hi rend="italic">Mesorot </hi>7
+(1993), pp. 87-127.</p>
+<p rend="justify">Y. Tobi, "Targum ‘Aravi-Yehudi 'Ammami Nosaf la-Torah," [An Additional Popular
+Judeo-Arabic Translation of the Torah] in Meir Bar-Asher (ed.), <hi rend="italic">Meḥqārīm be-Lašon
+ha-ʿIvrit uve-Lešonot ha-Yehūdīm Mugašīm le-Shelomo Morag</hi> (Jerusalem: 1996), pp. 481-501.</p>
+<p rend="justify">Y. Tobi, "‘Al Qadmuto shel Tirgumei ha-Miqra be-'Aravit Yehudit ve-Qeta‘ mi-
+Tirgum ‘Aravi-Yehudi Qadum la-Miqra," [On the antiquity of Judeo-Arabic translations of the Bible
+and on a fragment of an ancient Judeo-Arabic translation of the Bible] in Y. Tobi (ed.), <hi
+rend="italic">Bein 'Ever le-'Arav</hi> (Tel Aviv: 2001), pp. 17-60.</p>
+<p rend="justify"><anchor xml:id="id_h.1v1yuxt"/>Saadiah</p>
+
+
+
+
+
+<p rend="justify">John Caleb Hughes, „De Lagardes Ausgabe der arabischen Übersetzung des
+Pentateuchs. Cod. Leid. arab. 377 nachgeprüft,“ in <hi rend="italic">Leipziger semitische
+Studien</hi> 7,3 (Leipzig: 1920).</p>
+<p rend="justify">Max Katten and Samir Khalil Samir, “Untersuchungen zu Saadjas arabischer
+Pentateuchübersetzung,” in <hi rend="italic">Parole de L’Orient </hi>32 (2007), pp. 23-74.</p>
+<p rend="justify"><hi rend="background-color(#ffff00)">link to Katten's original
+publication</hi></p>
+<p rend="justify">Henry Malter, <hi rend="italic">Saadia Gaon: His Life and Works
+</hi>(Philadelphia: 1921), pp. 308-329. [An overview of the remnants of Saadia Gaon’s Judeo-Arabic
+translation.]</p>
+<p rend="justify">Mutius, x von, Targum and Saadia</p>
+<p rend="justify">+ other mutius on Judaeo-Arabic</p>
+
+
+
+<p rend="justify"><anchor xml:id="id_h.4f1mdlm"/>YbE</p>
+<p rend="justify">Marjena</p>
+<p rend="justify"><anchor xml:id="id_h.2u6wntf"/>YbY</p>
+<p rend="justify">Meira Polliack, “Alternate Renderings and Additions in Yeshu‘ah ben Yehudah’s
+Arabic Translation of the Pentateuch,” in <hi rend="italic">Jewish Quarterly Review </hi>84
+(1993-94), pp. 209-225.</p>
+<p rend="justify"><anchor xml:id="id_h.19c6y18"/>AbS</p>
+<p rend="justify">Solomon Leon Skoss, <hi rend="italic">Arabic commentary of ben Suleimān the
+Karaite on the book of Genesis, edited from the unique manuscripts and provided with critical notes
+and an introduction </hi>(Philadelphia: 1928).</p>
+<p rend="justify">Others</p>
+<p rend="justify">J. Hirsch, <hi rend="italic">Fragment einer arabischen Pentateuch-Übersetzung
+</hi>(Leipzig: 1900).</p>
+<p rend="justify">Sharh</p>
+
+
+
+<p rend="justify"><anchor xml:id="id_h.3tbugp1"/>Historical Books</p>
+<p rend="justify">Nahum Schorstein (ed.), <hi rend="italic">Der Kommentar des Jephet ben ‘Ali zum
+Buche Rûth, zum ersten Male nach drei Mss. ediert, mit Einleitung und Anmerkungen versehen,
+</hi>Inaugural-Dissertation zu Heidelberg (Berlin: 1903).</p>
+<p rend="justify">Moritz Peritz: Zwei alte arabische Uebersetzungen des Buches Ruth (Berlin:
+1900)</p>
+<p rend="justify"><anchor xml:id="id_h.28h4qwu"/>Prophets</p>
+<p rend="justify">Philipp Birnbaum (ed.), <hi rend="italic">The Arabic Commentary of Yephet ben ‘Ali
+the Karaite on the Book of Hosea </hi>(Philadelphia: 1942).</p>
+<p rend="justify">Oscar Löfgren, <hi rend="italic">Studien zu den arabischen Danielübersetzungen mit
+besonderer Berücksichtigung der christlichen Texte. Nebst einem Beitrag zur Kritik des
+Peschittatextes, </hi>Uppsala Universitets Årsskrift 4 (Uppsala: 1936).</p>
+<p rend="justify">David Samuel Margoliouth (ed.), <hi rend="italic">A Commentary on the Book of
+Daniel by Jephet ibn Ali, </hi>Anecdota Oxoniensia (Oxford: 1889).</p>
+<p rend="justify">Salomon Munk, <hi rend="italic">Notice sur R. Saadia Gaon et sa version arabe
+d’Isaïe </hi>(Paris: 1838).</p>
+<p rend="justify">Joshua A. Sabih, <hi rend="italic">Japheth ben Ali's Book of Jeremiah: A Critical
+Edition and Linguistic Analysis of the Judaeo-Arabic Translation </hi>(London/Oakville, CT:
+2009).</p>
+
+<p rend="justify background-color(#00ff00)">Deals with a Judaeo-Arabic commentary of Hosea and
+furnishes an edition text in Arabic letters, as well as a German translation. </p>
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Ms</hi>.: Oxford, Bodl. Hunt. 206</p>
+
+<p rend="justify background-color(#00ff00)">As the previous, for Joel. </p>
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Ms</hi>.: Oxford, Bodl. Hunt. 206</p>
+
+<p rend="justify">Jan B. van Zijl, “The British Library MS Or. 2211 of Saadia Gaon’s Arabic
+Translation of Isaiah,” <hi rend="italic">JSS </hi>37 (2001), pp. 1992-57-63.</p>
+<p rend="justify"><anchor xml:id="id_h.nmf14n"/>Sapiental Books</p>
+
+<p rend="justify
+background-color(#00ff00)"><hi rend="bold">Review</hi>: Friedländer, J., ZfHB 6
+(1901), pp. 40-41.</p>
+
+<p rend="justify background-color(#00ff00)"><hi rend="bold">Mss</hi>: Violet fragment and Bryn Mawr
+College Library, BV 47 (formerly Zurich Or. 94).</p>
+
+<p rend="justify">Additional fragments have been published/announced in (Hopkins) </p>
+<p rend="justify">Jean Joseph Léandre Bargès (ed.), <hi rend="italic">Libri Psalmorum...versio a R.
+Yapheth ben Heli </hi>(Paris: 1861).</p>
+<p rend="justify">Jean Joseph Léandre Bargès (ed.), <hi rend="italic">Rabbi Yepheth abou </hi>[sic]
+<hi rend="italic">Aly...in Canticum Canticorum commentarium arabicum </hi>(Paris: 1884).</p>
+<p rend="justify">John Cohn, <hi rend="italic">Das Buch Hiob: Cap. 1-5. Übers. u. erl. von Gaon
+Saadia</hi> (Altona:xxx, 1889).</p>
+<p rend="justify">Roman Ecker, „Die arabische Job-Übersetzung des Gaon Saadja ben Josef
+al-Fajjûmî,“<hi rend="italic"> in Studien zum alten und neuen Testament</hi> 4 (Munich: 1962).</p>
+<p rend="justify">Ernst Eisen, <hi rend="italic">Saʻadja al-Fajjûmî's arabische Übersetzung und
+Erklärung der Psalmen. Psalm 90-106</hi>, (Leipzig: Teicher, 1934).</p>
+
+<p rend="justify">On Saadiah’s translation of the Psalms and Saadiah’s and ibn Gikatila’s
+translations of Job.</p>
+<p rend="justify">Mss.: Oxford, Bodl. Poc. 281, and <hi rend="background-color(#ffff00)">?</hi></p>
+
+<p rend="justify background-color(#ff0000)">Theodor Hoffmann, <hi rend="italic">Über die in einer
+Münchener Handschrift auf- behaltene arab. Psalmenübersetzung d. R. Saadia Gaon</hi> (1891)</p>
+
+
+<p rend="justify">Review: Eppenstein, ZfHB 8 (1904), pp. 98-99.</p>
+
+
+
+
+
+
+
+
+<p rend="justify">Michael Wechsler, “An Early Karaite Commentary on the Book of Esther,” <hi
+rend="italic">Hebrew Union College Annual </hi>72 (2002), pp. 101–37.</p>
+
+<p rend="justify"><anchor xml:id="id_h.37m2jsg"/>Other old testament</p>
+
+<p rend="justify">Michael Wechsler, „The Arabic Translation and Commentary of Yefet ben ‘Eli the
+Karaite on the Book of Esther,“ in<hi rend="italic"> Karaite Texts and Studies</hi> 1 / <hi
+rend="italic">Études sur le judaïsme médiéval</hi> 36 (Leiden: Brill, 2008).</p>
+<p rend="justify">Michael Wechsler,„From Persia with Love: The Arabic Translation and Homiletical
+Commentary of Salmon ben Yeruḥam on the Book of Esther,“ in<hi rend="italic"> Karaite Texts and
+Studies 1 / Études sur le judaïsme médiéval 36</hi> (Leiden: Brill, 2011).</p>
+<p rend="justify"><anchor xml:id="id_h.1mrcu09"/>Samaritan</p>
+<p>See above [#] Bloch.</p>
+
+<p rend="justify
+background-color(#00ff00)">On the Barberini Triglot, which belonged to Peiresc and
+was given to Barberini</p>
+<p rend="justify">Mss.: Vatican, BAV, Barberini Or. 1.</p>
+<p rend="justify"> [#] Alan David Crown, <hi rend="italic">The Samaritan Scribes and Manuscripts
+</hi>(Tübingen: 2001), pp. 22-25.</p>
+
+<p rend="justify"><hi rend="background-color(#ffff00)">Check the bibliography there.</hi></p>
+
+
+
+
+<p rend="justify">[#, see above] Paul Kahle, <hi rend="italic">The Cairo Genizah</hi> (Oxford: Basil
+Blackwell, 1959), pp. 54-57.</p>
+<p rend="justify">He regarded the Samaritan translations into Arabic dependent on Saadiah’s version
+and was followed by his pupils [Katten, Algermissen]</p>
+<p rend="justify"><hi rend="bold">Mss.</hi>: Berlin, Staatsbibliothek, Petermann 3; London, BL, Or.
+7562; St Petersburg, NRL, Sam 179; Oxford, Bodl., Or. 139; <hi rend="background-color(#ff0000)">Uss.
+II, John Ryland.</hi></p>
+
+
+
+<p rend="justify">Rudolf Macuch, “On the Problems of the Arabic Translation of the Samaritan
+Pentateuch,” <hi rend="italic">Israel Oriental Studies </hi>9 (1979), pp. 147-173.</p>
+
+<p rend="justify">Edward Robertson, “The Relationship of the Arabic Translation of the Samaritan
+Pentateuch to that of Saadya,” in Erwin I. J. Rosenthal (ed.), <hi rend="italic">Saadya Studies
+</hi>(Manchester: 1943), pp. 166-176.</p>
+<p rend="justify">Antoine Isaac Silvestre de Sacy, “Mémoire sur la version arabe des livres de Moïse
+à l’usage des Samaritains et sur les manuscrits de cette version,” in <hi rend="italic">Mémoires de
+l’Académie Royale des Inscriptions et Belles-Lettres </hi>49 (1808), pp. 1-149, 783-786.</p>
+<p rend="justify">Haseeb Shehadeh, “The Arabic Translation of the Samaritan Pentateuch,” in Alan
+David Crown (ed.), <hi rend="italic">The Samaritans </hi>(Tübingen: 1989), pp. 481-516.</p>
+<p rend="justify">Haseeb Shehadeh, <hi rend="italic">The Arabic Translation of the Samaritan
+Pentateuch</hi> [in Hebrew], PhD thesis, Hebrew University of Jerusalem, 1977.</p>
+<p rend="justify">Haseeb Shehadeh, “The Arabic Translation of the Samaritan Pentateuch” [in Hebrew],
+<hi rend="italic">Tarbiz</hi>, 52.1 (1982), pp. 59-82.</p>
+<p rend="justify">Haseeb Shehadeh, <hi rend="italic">The Arabic Translation of the Samaritan
+Pentateuch edited from Manuscripts</hi>, vol. 1, <hi rend="italic">Genesis-Exodus </hi>[Hebrew,
+Arabic, and English] (Jerusalem: 1989).</p>
+<p rend="justify">Haseeb Shehadeh, <hi rend="italic">The Arabic Translation of the Samaritan
+Pentateuch Volume II: Leviticus, Numbers, Deuteronomy</hi> (Jerusalem: The Israel Academy of Science
+and Humanities, 2002).</p>
+<p rend="justify">Haseeb Shehadeh, “Arabic Versions of the Pentateuch,” in Alan David Crown,
+Reinhard Pummer, and Abraham Tal (eds.), <hi rend="italic">A Companion to Samaritan Studies
+</hi>(Tübingen: 1993), pp. 22-24.</p>
+<p rend="justify">Haseeb Shehadeh, “The Classification of the Versions of the Samaritan Arabic
+Translation of the Pentateuch and Identifying Nomenclature of the Fauna” [in Hebrew, English
+summary], <hi rend="italic">Leshonenu</hi>, 48-49.1 (1984), pp. 35-48.</p>
+<p rend="justify">Haseeb Shehadeh, “The Groups of the Samaritan Manuscripts of the Arabic
+Translation of the Pentateuch,” in Jean-Pierre Rothschild and Guy Dominique Sixdenier (eds.), <hi
+rend="italic">Études samaritaines, Pentateuque et Targum, exégèse et philologie, chroniques
+</hi>(Paris: 1988), pp. 205-218.</p>
+<p rend="justify">________, “A New Group of Manuscripts including an Arabic translation of the
+Samaritan Pentateuch (ATSP),” In A. Tal and M. Florentin, eds. <hi rend="italic">Proceedings of the
+First International </hi><hi rend="italic">Congress of the Société d’ Études Samaritaines, Tel-Aviv,
+April-13, 1988</hi>. Tel-Aviv, 1991. Pp. 275-292.</p>
+<p rend="justify">Haseeb Shehadeh, “A New Unknown Version of the Arabic Translation of the Samaritan
+Pentateuch?” in Maria Macuch et al. (eds.), <hi rend="italic">Studia Semitica necnon Iranica
+Rudolpho Macuch septuagenario </hi>(Wiesbaden: 1989), pp. 303-327.</p>
+<p rend="justify">W. van Vloten, <hi rend="italic">Specimen philogicum continens descriptionem
+codicis MS Bibliothecae Lugduno-Batavae partemque inde excerptam versionis Samaritano-arabicae
+Pentateuchi Mosaici</hi> (1803).</p>
+<p rend="justify">A. S. Zhamkochian, <hi rend="italic">Neopublikovannye fragmenty arabskikh versij
+samaritianskogo Piatiknizhija iz sobranija RNB</hi> [Newly Identified and Unpublished Fragments of
+the Arabic Versions of the Samaritan Pentateuch from the collection of the National Library of
+Russia], PhD Dissertation, Yerevan University, 1994.</p>
+<p rend="justify">A. S. Zhamkochian, “Samaritiano-arabskie rukopisi Knigi Iisusa syna Navina v
+Rossijskoj Natsional’noj biblioteke” [Samaritan Arabic manuscripts of the Book of Joshua in the
+National Library of Russia], in <hi rend="italic">Arabskij mir v kontse XX veka: Materialy I-oj
+konferentsii arabistov IV RAN</hi> (Moscow: 1996).</p>
+<p rend="justify">A. S. Zhamkochian, <hi rend="italic">Vnov’ identifitsirovannye i neopublikovannye
+fragmenty arabskikh versij samaritianskogo Piatiknizhija iz sobranija Rossijskoj Natsional’noj
+biblioteki</hi> [Newly Identified and Unpublished Fragments of the Arabic Versions of the Samaritan
+Pentateuch from the collection of the National Library of Russia] (Moscow: 2001).</p>
+<p rend="justify"><anchor xml:id="id_h.46r0co2"/>Muslim reception</p>
+<p rend="justify">Nikolai on Christian Poets </p>
+<p rend="justify"><hi rend="background-color(#00ffff)">Im ordner</hi></p>
+
+<p rend="justify
+background-color(#00ffff)">Im ordner</p>
+
+
+<p rend="justify">Tjitze Baarda, „Het ontstaan van de vier Evangelien volgense Abd al-Djabbar,” <hi
+rend="italic">Nederlands Theologisch Tijdschrift </hi>28 (1974), pp. 215-38.</p>
+
+
+<p rend="justify">Anton Baumstark, „Das Problem eines vorislamischen christlich-kirchlichen
+Schrifttums in arabischer Sprache,“ <hi rend="italic">Islamica</hi> 4 (1929-1931), pp. 565-66.</p>
+<p rend="justify">Anton Baumstark, “Zu den Schriften al-Kirmani’s,” <hi rend="italic">Der Islam</hi>
+20 (1932), pp. 308-13.</p>
+<p rend="justify">Anton Baumstark, “Eine altarabische Evangelienuebersetzung aus dem Christlich
+Palaestinensischen,” <hi rend="italic">Zeitschrift für Semitistik</hi> 8 (1932), pp. 201-09.</p>
+<p rend="justify">Mark Beaumont, “Muslim Readings of John’s Gospel in the ‘Abbasid Period,” <hi
+rend="italic">Islam and Christian Muslim Relations</hi> 19.2 (2008), pp. 179-197.</p>
+
+<p rend="justify"> [#] Louis Cheikho, “Quelques Legendes Islamiques Apocryphes,” <hi rend="italic"
+>Mélanges de la Faculté Orientale</hi> 4 (1910), pp. 33-56.</p>
+<p rend="justify">On the influence of biblical and apocryphal material Jāhilī poets, Qurʾān, and
+early Muslim authors. Contains references to Muslim Pseudo-Scriptures (see below). </p>
+<p rend="justify">David Cook, “New Testament Citations in the Ḥadīth Literature and the Question of
+Early Gospel Translations into Arabic,” in Emmanouela Grypeou, Mark N. Swanson and David Thomas
+(eds.), <hi rend="italic">The Encounter of Eastern Christianity with Early Islam </hi>(Leiden:
+2006), pp. 185-223.</p>
+
+
+
+<p rend="justify">Reprint in Gesammlete Schriften. Islamische und jüdisch-islamische Studien, pp.
+347-365.</p>
+<p rend="justify">Miriam Goldstein, “Sa‘adya Tafsir in Light of Muslim Polemic against Ninth-Century
+Arabic Bible Translations,” <hi rend="italic">Jerusalem Studies in Arabic and Islam </hi>36 (2009),
+pp. 173-199.</p>
+
+
+
+<p rend="justify background-color(#ffff00)">Identical?</p>
+<p rend="justify"> [#][#] Ignaz Goldziher, “Neutestamentliche Elemente in der Traditionsliteratur
+des Islam,” <hi rend="italic">OC</hi> 2 (192), pp. 390-397.</p>
+<p rend="justify background-color(#ffff00)">Melanges judeo-arabes REJ 44 und 45</p>
+
+<p rend="justify
+background-color(#00ff00)">A new translation of Psalms 1-25.</p>
+<p rend="justify
+background-color(#00ff00)">[see above, #] Karoui, Said, “Die arabische Bibel und
+ihre Rezeption in der arabischen Literatur – Eine bibliographische Skizze,” Oriens Christianus, 83
+(1999), pp. 130-146.</p>
+<p rend="justify">Raif Georges Khoury, “Quelques réflexions sur la première ou les premières Bibles
+arabes,” in Toufic Fahd (ed.), <hi rend="italic">L’Arabie préislamique et son environnement
+historique et culturel (Actes du Colloque de Strasbourg 24-27 juin 1987) </hi>(Leiden: 1989), pp.
+551-561.</p>
+
+<p rend="justify">On Wahb b. Munabbih, Kaʿb al-Aḥbār, and xxx.</p>
+
+<p rend="justify">Reprinted in <hi rend="italic">Opera Minora. Textes recueillis, classes et
+presentés avec une bibliographic par Y. Moubarac. Sous le Patronage du Centre d'Etudes Dar
+El-Salam</hi>.</p>
+
+<p rend="justify">Shlomo Pines, „Gospel quotations and cognate topics in 'Abd al-Jabbār's“
+(1987).</p>
+<p rend="justify">Martin Schreiner, „Zur Geschichte der Aussprache des Hebräischen ,“ <hi
+rend="italic">ZATW</hi> 6 (1886), pp. 213-59.</p>
+
+
+<p rend="justify">Hermann Stieglecker, “Die muhammedanische Pentateuchkritik zu Beginn des 2.
+Jahrtausends,” <hi rend="italic">Theologisch-Praktische Quartalschrift</hi> 88 (1935), pp. 72-87,
+282-302, 472-486.</p>
+<p rend="justify">Harald Suermann, „The Use of Biblical Quotations in Christian Apocalyptic Writings
+of the Umayyad Period,“ in <hi rend="italic">David Thomas </hi>(ed.), <hi rend="italic">The Bible in
+Arab Christianity = The History of Christian-Muslim Relations</hi> 6 (Leiden, Bosten 2007), pp.
+69-90.</p>
+<p rend="justify">David Samuel Margoliouth, “Old and New Testaments in Muhammadanism,” in James
+Hastings (ed.) <hi rend="italic">Encyclopedia of Religion and Ethics</hi>, vol. 9 (Edinburgh / New
+York: 1908-1926), pp. 480-483.</p>
+
+<p rend="justify
+background-color(#00ff00)">On Warqā b. Nawfal and his alleged translation of the
+Gospels</p>
+<p rend="justify"><anchor xml:id="id_h.m9tkp8c8g5li"/>Ibn Barrajān of Seville</p>
+<p>Yousef Casewit, “A Muslim Scholar of the Bible: Prooftexts from Genesis and Matthew in the Qur’an
+Commentary of Ibn Barrajān of Seville (d. 536/1141),” <hi rend="italic">Journal of Qur’anic
+Studies</hi> 18.1 (2016), pp. 1-48.</p>
+<p> Also on other AT and NT texts.</p>
+<p rend="justify"><anchor xml:id="id_h.2lwamvv"/>ibn al-Layth</p>
+<p rend="justify">Muslim-Christian </p>
+<p rend="justify"><anchor xml:id="id_h.111kx3o"/>al-jahiz</p>
+
+<p rend="justify"><anchor xml:id="id_h.3l18frh"/>ibn al-rabban</p>
+
+<p rend="justify">Abdo Khalife and Wilhelm Kutsch, „ar-radd ala-n-Nasara de Ali at-Tabari,“ <hi
+rend="italic">MUSJ</hi> 36 (1959), pp. 115-48.</p>
+<p rend="justify"><anchor xml:id="id_h.206ipza"/>al-yaʿqūbī (d. 897/98)</p>
+<p rend="justify">Dwight M. Donaldson, “al-Ya’qûbî's Chapter about Jesus Christ,” in <hi
+rend="italic">The Macdonald Presentation Volume </hi>(New York, 1933), pp. 89-105.</p>
+
+<p rend="justify">André Ferré, „L’historien al-Ya’qûbî et les Evangiles,“ <hi rend="italic"
+>Islamochristiana</hi> 3 (1977), pp. 65-83.</p>
+<p rend="justify">Martin Klamroth, „Der Auszug aus den Evangelien bei dem arabischen Historiker
+Ja'qûbî,“ Festschrift zur Einweihung des Wilhelmsgymnasium in Hamburg (Hamburg: 1885), pp.
+117-128.</p>
+<p rend="justify"><anchor xml:id="id_h.4k668n3"/>al-Tabari</p>
+
+<p rend="justify">On the quotations from the book of Job in al-Ṭabarī’s </p>
+<p rend="justify"><anchor xml:id="id_h.2zbgiuw"/>Abū Nuʿaim</p>
+<p rend="justify">Curt Peters, “Arabische Psalmenzitate bei Abū Nu‘aim,” in <hi rend="italic"
+>Biblica </hi>20 (1939), pp. 1-9.</p>
+<p rend="justify"><anchor xml:id="id_h.1egqt2p"/>Ibn Hazm</p>
+<p rend="justify">Camilla Adang, “Some hitherto Neglected Biblical Material in the Work of Ibn
+Ḥazm,” in <hi rend="italic">Al-Masāq. Studia Arabo-Islamica Mediterranea </hi>V (1992), pp.
+17-28.</p>
+
+<p rend="justify">Samuel-Martin Behloul, „Ibn Hazms Evangelienkritik: eine methodische
+Untersuchung,“<hi rend="italic"> Islamic philosophy, theology, and science</hi> 50 (Leiden / Boston:
+2002).</p>
+<p rend="justify">Rifaat Ebied and L. R. Wickham, „al-Yakubi's account of the Israelite Prophets and
+Kings,“ <hi rend="italic">JNES </hi>29, (1970), pp. 80-98.</p>
+
+<p rend="justify"><anchor xml:id="id_h.3ygebqi"/>Ibn Qutayba</p>
+
+
+<p rend="justify">GeorgesVajda, „Judaeo-Arabica: observations sur quelques citations bibliques chez
+Ibn Qotayba,“ <hi rend="italic">Revue des Études Juives</hi> 99 (1935), pp. 68-80.</p>
+<p rend="justify">Gérard Lecomte, „Les citations de l’ancien et du nouveau testament dans l’oeuvre
+d’Ibn Qutayba,“ <hi rend="italic">Arabica</hi> 5 (1950), pp. 34-46.</p>
+<p rend="justify">Albert Isteero, <hi rend="italic">‘Abdullah Muslim ibn Qutayba’s Biblical
+Quotations and Their Source: An Inquiry into the Earliest Existing Arabic Bible Translations
+</hi>(Ph.D. dissertation, Johns Hopkins University, 1991).</p>
+<p rend="justify"><anchor xml:id="id_h.2dlolyb"/>al-Ghazali</p>
+
+<p rend="justify">On the New Testament quotations.</p>
+
+<p rend="justify"><anchor xml:id="id_h.sqyw64"/>al-Biqāʿī</p>
+
+
+
+<p rend="justify"> [#] Walid Saleh, “Sublime in its Style, Exquisite in its Tenderness: The Hebrew
+Bible Quotations in al-Biqāʿī’s Qurʾān Commentary,” in Tvi Langermann and Josef Stern (eds.), <hi
+rend="italic">Adaptations and Innovations</hi> (Paris: Peeters, 2007), pp. 331-347.</p>
+
+<p rend="justify"><anchor xml:id="id_h.3cqmetx"/>ibn Khaldun</p>
+<p rend="justify">Anton Baumstark, „Der Bibelkanon bei Ibn Chaldûn,“ <hi rend="italic">Oriens
+Christianus</hi> 4:2 (1904),pp. 393-398.</p>
+<p rend="justify"><anchor xml:id="id_h.1rvwp1q"/>Pseudo-Scriptures</p>
+<p rend="justify">What do I mean with that, in intro. </p>
+
+<p rend="justify">Deals with a booklet of forty-five pages, lithographed at Bombay and entitled "The
+Book of the Torah which God sent down to Moses." Contains a translation of the first chapters (Ar.
+<hi rend="italic">sura</hi>).</p>
+<p rend="justify">Keywords: Pentateuch, India</p>
+
+<p rend="justify">Describes an unspecified Ms. from Mosul, containing Muslim Pseudo-Psalms (<hi
+rend="italic">zabūr</hi>), and unspecified Mss. from Beirut, containing the <hi rend="italic"
+>ṣuḥuf</hi> of Abraham and Moses.</p>
+<p rend="justify background-color(#ffff00)">Check</p>
+<p rend="justify
+background-color(#ffff00)">Zabur in EI</p>
+<p rend="justify
+background-color(#ffff00)">Guenzburg and von Rosen published a copy of the Suhuf of
+Abraham in the Annual of the St. Petersburg Institute of Oriental Languages. </p>
+<p rend="justify background-color(#ffff00)">Cheikho published selection of a zabur (discovered at
+Mosul) in Melanges de la Faculte Orientale de Beyrouth in 1910.</p>
+<p rend="justify background-color(#ffff00)"><anchor xml:id="id_h.4bvk7pj"/>rest</p>
+<p rend="justify">كتاب الدر الثمين في شرح سفر التكوين (Cairo, 1895). [At the expense of Ghaṭṭās
+Yūsuf Khoury and Buṭrus Mikhā’īl Al-Miṣrī. Ibn al-Qanbar?]</p>
+<p rend="justify italic">Poetical Books (including the Psalter)</p>
+<p rend="justify background-color(#ffff00)">Anton Baumstark, “Der älteste erhaltene
+griechisch-arabische Text von Psalm 110 (109),” in <hi rend="italic">Oriens Christianus </hi>31
+(1934), pp. 55-66.</p>
+<p rend="justify
+background-color(#ff0000)">= Bryn Mawr College Zurich 94 (Hiersemann)</p>
+<p rend="justify"><hi rend="bold">Mss</hi>.: Bryn Mawr College Library, BV 47</p>
+<p rend="justify background-color(#ffff00)">Anton Baumstark, “Minbar = Thron, und älteste arabische
+Psaltertexte,” in <hi rend="italic">Orientalistische Literaturzeitung </hi>46 (1943), pp.
+337-341.</p>
+<p rend="justify">H. Fleischer, in <hi rend="italic">ZDMG </hi>18 (1864), pp. 288-291.</p>
+<p rend="justify
+background-color(#ffff00)">C. Karalevsky, in Χρυσοστομικά (Rome, 1908), pp.
+604ff.</p>
+<p rend="justify">On the editions of Abdallah ibn al-FAdl. </p>
+<p rend="justify background-color(#ffff00)">Eugen Mittwoch, “Aus einer arabischen Übersetzung und
+Erklärung der Psalmen,” in <hi rend="italic">Zeitschrift für die Alttestamentliche Wissenschaft
+</hi>23 (1903), pp. 87-93.</p>
+<p rend="justify">Julian Faultless, “The Two Recensions of the Prologue to John in Ibn al-Ṭayyib’s
+<hi rend="italic">Commentary on the Gospels</hi>,” in David Thomas (ed.), <hi rend="italic"
+>Christians at the Heart of Islamic Rule: Church Life and Scholarship in ‘Abbasid Iraq </hi>(Leiden
+/ Boston: 2003), pp. 177-198.</p>
+<p rend="justify">Paul Féghali, “Le commentaire de Matthieu de Denys bar Salibi en langue arabe,”
+<hi rend="italic">Parole de l'Orient </hi>32 (2007). pp. 75-103.</p>
+<p rend="justify italic">Other New Testament</p>
+<p rend="justify">Georg Graf, “Sinaitische Bibelfragmente,” <hi rend="italic">Oriens Christianus
+</hi>12-14 (1922-24), pp. 217-220. [Refers to mss. containing parts of Acts, the Pauline and General
+Epistles.]</p>
+<p rend="justify"> [Arabic text, with text-critical notes, of the letters in question, from Sinai
+no. 154 (Gibson’s no.). The second and third installments of the article offer a careful description
+of the manuscript itself and then a focus on each letter with attention to the underlying Greek and
+Syriac texts.]</p>
+<p rend="justify italic">The Epistles of John</p>
+<p rend="justify">Stephen John Davis, “Introducing an Arabic Commentary on the Apocalypse: Ibn Katib
+Qaysar on Revelation,” <hi rend="italic">Harvard Theological Review </hi>101 (2008), pp. 77-96.</p>
+<p rend="justify">Shawqi Najib Talia, <hi rend="italic">Bûlus al-Bûši’s Arabic Commentary on the
+Apocalypse of St. John: An English </hi><hi rend="italic">Translation and a Commentary </hi>(Ph.D.
+dissertation, Catholic University of America, 1987).</p>
+<p rend="justify italic">Quotations</p>
+<p rend="justify">Shawqi Najib Talia, “Arabische Übersetzung eines altsyrischen Evangelientextes und
+die in Sure 21:105 zitierte Psalmenübersetzung,” <hi rend="italic">Oriens Christianus </hi>3, Ser. 9
+(1934), pp. 165-188.</p>
+<p rend="justify">Neue orientalistische Probleme biblischer Textgeschichte, ZDMG 89 (1935), pp.
+107-109.</p>
+<p rend="justify">Gerhard Böwering, “The Light Verse: Text and Ṣūfī Interpretation,” in <hi
+rend="italic">Oriens </hi>36 (2001) [FS Rosenthal], pp. 113-144. [Includes discussion of the Sufi
+Abū <hi rend="underline">T</hi>ābit Šams al-Dīn Daylamī quoting from the Hebrew Bible.]</p>
+<p rend="justify">Douglas Morton Dunlop, “A letter of Harun ar-Rashid to the Emperor Contantine VI,”
+in Matthew Black and Georg Fohrer (eds.), <hi rend="italic">In Memoriam Paul Kahle </hi>(Berlin:
+1968), pp. 106-115.</p>
+<p rend="justify">Douglas Morton Dunlop, “La vie de Jésus dans les Annales de Tabarî,” <hi
+rend="italic">Islamochristiana Roma</hi> 5 (1975), pp. 7-29</p>
+<p rend="justify">Richard M. Frank, “A ‘Citation’ from the Prophet Jeremias in Ibn Qutaiba and
+Tabari,” <hi rend="italic">CBQ </hi>17 (1955), pp. 379-402.</p>
+<p rend="justify">Serge Frantsuzov, “Ob odnoj novozavetnoj tsitate v arabo-musul’manskikh
+sochinenijakh” [A Quotation from the New Testament in Arab Muslim Writings]. <hi rend="italic"
+>Vestnik PSTGU </hi>III.1 (7) (2007), pp. 99-106. [on 1 Cor. 2:9]</p>
+<p rend="justify">Tarif Khalidi, T<hi rend="italic">he Muslim Jesus: Sayings and Stories in Islamic
+Literature</hi> (Cambridge, MA: 2001). also Khalidi’s collection of the same texts in Arabic</p>
+<p rend="justify">Raif Georges Khoury, „Quelques réflexions sur la première ou les premières Bibles
+arabes,“ in Toufic Fahd (ed.), <hi rend="italic">L'Arabie préislamique et son environnement
+historique et culturel </hi>(1989), pp. 549-61.</p>
+<p rend="justify">Raif Georges Khoury, „Quelques Réflexions sur les citations de la Bible dans les
+premières générations islamiques du premier et du deuxième siècle de l'Hégire,“ <hi rend="italic"
+>Bulletin d'études orientales</hi> 29 (1989), pp. 269-78.</p>
+<p rend="justify">Paul Kraus, „Hebräische und syrisch Zitate in Ismailitischen Schriften,“ <hi
+rend="italic">Der Islam </hi>19 (1930), pp. 143-63. [repr. in idem, Alchemie, Ketzerei, Apokryphen
+im frühen Islam, ed. R. Brague, Hildesheim/Zürich/NY: Georg Olms Verlag, 1994]</p>
+<p rend="justify">Hava Lazarus-Yafeh, <hi rend="italic">Intertwined worlds: medieval Islam and Bible
+criticism</hi> (Princeton, N.J.: Princeton University Press, 1992) pp. xiii,178.</p>
+<p rend="justify">Ignazio di Matteo, „Confuzione contro I Christiani dello Zaydita al-Qasim b.
+Ibrahim,“ <hi rend="italic">Rivista degli Studi Orientali</hi> 9 (1921-1923), pp. 301-364.</p>
+<p rend="justify">Juan Pedro Monferrer-Sala, “An Arabic-Muslim Quotation of a Biblical Text: Ibn
+Kathīr’s al-Bidāya wa-l-nihāya and the Construction of the Ark of the Covenant,” in Rifaat Ebied and
+Hermann Teule, <hi rend="italic">Studies on the Christian Arabic Heritage</hi>, pp. 263-278.</p>
+<p rend="justify">Franz-Christoph Muth, „'Sichtungen' des Christlichen bei arabischen Historikern:
+die Evangelienauszüge bei al-Ya'qubi (gest. um 292/905),“ in Detlev Kreikenbom et al. (eds.) <hi
+rend="italic">Arabische Christen, Christen in Arabien</hi> (Frankfurt: 2007), pp. 85ff.</p>
+<p rend="justify">Curt Peters, „Arabische Psalmenzitate bei Abū Nu'aim,“ <hi rend="italic"
+>Biblica</hi> 20 (1939), pp. 1-9.</p>
+<p rend="justify">Curt Peters, „Psalm 149 in Zitaten islamischer Autoren,“ <hi rend="italic"
+>Biblica</hi> 21 (1940), pp. 138-51.</p>
+<p rend="justify">Tathbit in Relation to Early Christian and Judaeo-Arabic readings and
+Traditions</p>
+<p rend="justify">', JSAI 9, 195-251.</p>
+<p rend="justify">S</p>
+<p rend="justify">Sabine Schmidtke, "Abū al-Ḥusayn al-Baṣrī and His Transmission of Biblical
+Materials from Kitāb al-Dīn wa-al-Dawla by Ibn Rabban al-Ṭabarī: The Evidence from Fakhr al-Dīn
+al-Rāzī's Mafātīḥ al-Ghayb," <hi rend="italic">Islam and Christian-Muslim Relations </hi>20 (2009),
+pp. 105-118.</p>
+<p rend="justify">G. Smit, <hi rend="italic">Bijbel en Legende bij den Arabischen schrijver
+Ja'kubi</hi> (Leiden: 1907).</p>
+<p rend="justify">Dominique Sourdel, „Un pamphlet musulman anonyme d’époque Abbaside contre les
+chrétiens,“ <hi rend="italic">Revue des Etudes Islamiques</hi> 34 (1966), pp. 1-34.</p>
+<p rend="justify">Samuel M. Stern, „Quotations From Apocryphal Gospels in Abd al-Gabbar,“ <hi
+rend="italic">Journal of Theological Studies</hi> 18 (1967), pp. 34-57.</p>
+<p rend="justify">Ali ibn Sahl Rabban Tabari, „The book of religion and empire: a semi-official
+defence and exposition of Islam,“ in Alphonse Mingana (ed.), (Manchester / New York: University
+Press Longmans Green, 1923), p. 144.</p>
+<p rend="justify">quotations.enl Page 3</p>
+<p rend="justify">Arthur S. Tritton, „The Bible Text of Theodore Abu Kurra,“ <hi rend="italic"
+>Journal of Theological Studies </hi>34 (1933), pp. 52-54.</p>
+<p rend="justify color(#ff0000)italic">UNCLASSIFIED</p>
+<p rend="justify">Samir Arbache, “Bible et liturgie chez les Arabes chrétiens (VIe-IXe siècle),” in
+David Thomas (ed.), <hi rend="italic">The Bible in Arab Christianity </hi>(Leiden / Boston: 2007),
+pp. 37-48.</p>
+<p rend="justify">Joshua Blau, “On a Fragment of the Oldest Judaeo-Arabic Bible Translation Extant,”
+in Joshua Blau and Stefan Reif (eds.), <hi rend="italic">Genizah Research after Ninety Years: The
+Case of Judaeo-Arabic </hi>(Cambridge: 1992), pp. 31-39.</p>
+<p rend="justify">Sidney Harrison Griffith, “The Gospel in Arabic: An Inquiry into its Appearance in
+the First Abbasid Century,” in <hi rend="italic">Oriens Christianus </hi>69 (1985), pp. 126-167.</p>
+<p rend="justify">Constance Padwick, “The Arabic Gospel,” in <hi rend="italic">The Muslim World
+</hi>29 (1939), pp. 130-140.</p>
+<p rend="justify">Alberto Vaccari, “The Hesychian Recension of the Septuagint,” in <hi rend="italic"
+>Biblica </hi>46 (1965), pp. 60-66.</p>
+<p rend="justify">Maria Cramer, “The Vienna Folio and Fragments of a Coptic-Greek-Arabic Holy Week
+Lectionary from Scetis,” in <hi rend="italic">Bulletin de la Société d’Archéologie Copte </hi>19
+(1967), pp.49-55. [on Pss21:21ff. and 66:2]</p>
+<p rend="justify">Joseph Nasrallah, “La liturgie des Patriarcats melchites de 969 à 1300,” in <hi
+rend="italic">Oriens Christianus </hi>71 (1987), pp. 156-181.</p>
+<p rend="justify"><hi rend="italic">and New Testaments in the Arabic Language </hi>(Newcastle upon
+Tyne, 1811).</p>
+<p rend="justify italic">New Testament</p>
+<p rend="justify
+italic">Complete</p>
+<p rend="justify">(London, 1829). [Text of Erpenius.]</p>
+<p rend="justify">Ed. Faustus Nairon, (Rome, 1703) [Garshuni.]</p>
+<p rend="justify">De Sacy (Paris, 1824).</p>
+<p rend="justify">E.M. Quatremère (Paris, 1824). [Text of Erpenius in Garshuni, with Syriac.]</p>
+</body>
+</text>
+</TEI>
