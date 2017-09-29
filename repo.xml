@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>Working data used by Biblia Arabica project</description>
+    <author>Biblia Arabica</author>
+    <website>http://biblia-arabica.com/</website>
+    <status>alpha</status>
+    <license>?</license>
+    <copyright>true</copyright>
+    <type>library</type>
+    <target>ba-working-data</target>
+    <prepare>pre-install.xql</prepare>
+    <finish/>
+    <deployed/>
+</meta>
