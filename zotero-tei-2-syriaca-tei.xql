@@ -1,12 +1,27 @@
 xquery version "3.0";
 
-(:Convert TEI exported from Zotero to Syriaca TEI bibl records. :)
-(: If there is a tag with "Subject: " (used to identify records to which this bibl should be added as a citation), :)
-(:then it is added as <note type="tag">Subject: ...</note>.:)
-(:If a bibl record with the same Zotero ID already exists, then the script adds the subject tag to the existing bibl record. :)
-(:Subject tags should be processed with an additional script after this to add them to the appropriate record. See add-citation-from-zotero-subject.xql :)
-(: KNOWN ISSUES:)
-(: May produce duplicate subject tags :)
+(:Convert TEI exported from Zotero to Syriaca TEI bibl records. 
+    This script makes the following CHANGES to TEI exported from Zotero: 
+     - Adds a biblia-arabica.com URI as an idno and saves each biblStruct as an individual file.
+     - Uses the Zotero ID (manually numbered tag) to add an idno with @type='zotero'
+     - Changes the biblStruct/@corresp to an idno with @type='URI'
+     - Changes tags starting with 'Subject: ' to <note type="tag">Subject: ...</note> 
+     - Changes 1 or more space-separated numbers contained in idno[@type='callNumber'] to WorldCat URIs 
+     - Separates multiple ISBN numbers into multiple idno[@type='ISBN'] elements
+     - Changes URLs into refs. If a note begins with 'Vol: http' or 'URL: http' these are also converted into 
+        refs, with the volume number as the ref text node.
+     - Changes biblScope units for volumes and pages to Syriaca norms. (These could be changed but if so 
+        should be done across all bibl records.
+     - Changes respStmts with resp='translator' to editor[@role='translator']
+        :)
+     
+(: KNOWN ISSUES
+    - If a bibl record already exists with the same Zotero ID, it is not overwritten, 
+        but subject tags are added to the existing record. 
+    - Subject tags (which contain the URI of a record which should cite the bibl) are merely 
+        kept as note[@type='tag']. They should be further processed with an additional script
+        to add them to the appropriate record. See add-citation-from-zotero-subject.xql
+    - This script may produce duplicate subject tags. :)
 
 declare default element namespace "http://www.tei-c.org/ns/1.0";
 declare namespace tei = "http://www.tei-c.org/ns/1.0";
@@ -24,28 +39,42 @@ as node()*
                         $node/node()}
 };
 
-let $bibls := collection("/db/apps/srophe-data/data/bibl/tei/")/TEI/text/body/biblStruct
-let $zotero-doc := doc("/db/apps/srophe-data/data/bibl/sbd-2017-06-20.xml")
+let $bibls := collection("/db/apps/ba-data/data/bibl/tei/")/TEI/text/body/biblStruct
+let $zotero-doc := doc("/db/apps/ba-working-data/zotero-tei-2017-09-28.xml")
+
 (:    Set this to the number of the highest existing bibl record. If the eXist data is up-to-date and no bibl URIs have been reserved outside eXist, 
  : this can be left blank and will be automatically determined. :)
-let $max-bibl-id := ''
+(: Re-enable if not assigning bibl ids using Zotero ids :)
+(:let $max-bibl-id := ''
 
 let $all-bibl-ids := 
-    for $uri in $bibls/descendant-or-self::idno[starts-with(.,'http://syriaca.org/bibl')]
-    return number(replace($uri,'http://syriaca.org/bibl/',''))
-let $max-bibl-id-auto := max($all-bibl-ids)
+    for $uri in $bibls/descendant-or-self::idno[starts-with(.,'http://biblia-arabica.com/bibl')]
+    return number(replace($uri,'http://biblia-arabica.com/bibl/',''))
+let $max-bibl-id-auto := max($all-bibl-ids):)
 
 for $zotero-bibl at $i in $zotero-doc/listBibl/biblStruct
     
 
-    let $bibl-id := ( if(string-length($max-bibl-id)) then $max-bibl-id else $max-bibl-id-auto + $i)
-    let $syriaca-uri := concat('http://syriaca.org/bibl/',$bibl-id)
-    let $syriaca-idno := <idno type='URI'>{$syriaca-uri}</idno>
+(:    let $bibl-id := ( if(string-length($max-bibl-id)) then $max-bibl-id else $max-bibl-id-auto + $i):)
+    let $bibl-id := $zotero-bibl/note[@type='tags']/note[@type='tag' and matches(.,'ID:\s*^\d+$')]/replace(text(),'ID:\s*','')
+    let $ba-uri := concat('http://biblia-arabica.com/bibl/',$bibl-id)
+    
+(:    Adds a biblia-arabica.com URI :)
+    let $ba-idno := <idno type='URI'>{$ba-uri}</idno>
+    
     (:tags:)
-    let $zotero-id := $zotero-bibl/note[@type='tags']/note[@type='tag' and matches(.,'^\d+$')]/text()
-    let $zotero-idno := <idno type='zotero'>{$zotero-id}</idno>
+(:    Uses the Zotero ID (manually numbered tag) to add an idno with @type='zotero':)
+(: Re-enable here and in $all-idnos if Zotero ID is different from bibl ID. :)
+(:    let $zotero-id := $zotero-bibl/note[@type='tags']/note[@type='tag' and matches(.,'^\d+$')]/text()
+    let $zotero-idno := <idno type='zotero'>{$zotero-id}</idno>:)
+    
+(:    Changes the biblStruct/@corresp to an idno with @type='URI':)
     let $zotero-idno-uri := <idno type='URI'>{string($zotero-bibl/@corresp)}</idno>
+    
+(:    Grabs URI in tags prefixed by 'Subject: '. :)
     let $subject-uri := $zotero-bibl/note[@type='tags']/note[@type='tag' and matches(.,'^\s*Subject:\s*')]
+    
+(:    Changes 1 or more space-separated numbers contained in idno[@type='callNumber'] to WorldCat URIs :)
     let $callNumbers := $zotero-bibl/idno[@type='callNumber']
     let $callNumber-idnos := 
         for $num in $callNumbers
@@ -54,14 +83,20 @@ for $zotero-bibl at $i in $zotero-doc/listBibl/biblStruct
                 for $split-num in tokenize($num/text(), ' ')
                 return <idno type='URI'>{concat('http://www.worldcat.org/oclc/',$split-num)}</idno>
             else $num
+            
     let $issn-idnos := $zotero-bibl/idno[@type='ISSN']
+    
+(:    Separates multiple ISBN numbers into multiple idno[@type='ISBN'] elements :)
     let $isbns := tokenize(normalize-space($zotero-bibl/idno[@type='ISBN']/text()),'\s')
     let $isbn-idnos := 
         for $isbn in $isbns
         return <idno type='ISBN'>{$isbn}</idno>
-    let $all-idnos := ($syriaca-idno,$zotero-idno,$zotero-idno-uri,$callNumber-idnos,$issn-idnos,$isbn-idnos)
+        
+    let $all-idnos := ($ba-idno,(:$zotero-idno,:)$zotero-idno-uri,$callNumber-idnos,$issn-idnos,$isbn-idnos)
     
 (:    links to external resources:)
+(:    Changes URLs into refs. If a note begins with 'Vol: http' or 'URL: http' these are also converted into 
+    refs, with the volume number as the ref text node.:) 
     let $refs := 
         let $vol-regex := '^\s*[Vv][Oo][Ll]\.*\s*(\d+)\s*:\s*http.*'
         let $url-regex := '^\s*[Uu][Rr][Ll]*\s*:\s*http.*'
@@ -70,7 +105,8 @@ for $zotero-bibl at $i in $zotero-doc/listBibl/biblStruct
             let $link := replace($url,'^[A-Za-z:\d\s\.]*(http.*).*?$','$1')
         return element ref {attribute target {$link}, $link-text}
         
-    (:biblScope & @unit:)
+(:    Changes biblScope units for volumes and pages to Syriaca norms. (These could be changed but if so 
+        should be done across all bibl records. :)
     let $biblScopes-monogr-old := $zotero-bibl/monogr/imprint/biblScope
     let $biblScopes-monogr-new := 
         (syriaca:update-attribute($biblScopes-monogr-old[@unit='volume'], 'unit', 'vol'),
@@ -82,7 +118,9 @@ for $zotero-bibl at $i in $zotero-doc/listBibl/biblStruct
         (syriaca:update-attribute($biblScopes-series-old[@unit='volume'], 'unit', 'vol'),
         $biblScopes-series-old[@unit!='volume']
         )
+        
     (: respStmt :)
+(:    Changes respStmts with resp='translator' to editor[@role='translator']. :)
     let $resps-analytic := $zotero-bibl/analytic/respStmt
     let $resps-monogr := $zotero-bibl/monogr/respStmt
     let $translators-analytic := 
@@ -92,6 +130,8 @@ for $zotero-bibl at $i in $zotero-doc/listBibl/biblStruct
         for $translator in $resps-monogr[resp='translator']/persName
         return element editor {attribute role {'translator'},$translator/node()}
         
+        
+(:    Reconstructs record using transformed data. :)
     let $analytic := $zotero-bibl/analytic
     let $tei-analytic :=
         if ($analytic) then
@@ -135,21 +175,23 @@ for $zotero-bibl at $i in $zotero-doc/listBibl/biblStruct
             <fileDesc>
                 <titleStmt>
                     {$titles-all}
-                    <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
-                    <funder>The National Endowment for the Humanities</funder>
-                    <funder>The International Balzan Prize Foundation</funder>
-                    <principal>David A. Michelson</principal>
-                    <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
-                    <editor role="general" ref="http://syriaca.org/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
-                    <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                    <sponsor>Biblia Arabica</sponsor>
+                    <funder>Deutsche Forschungsgemeinschaft</funder>
+                    <principal>Ronny Vollandt</principal>
+                    <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                    <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                     <respStmt>
-                        <resp>Bibliography curation and TEI record generation by</resp>
-                        <name ref="http://syriaca.org/documentation/editors.xml#ngibson">Nathan P. Gibson</name>
+                        <resp>Bibliography curation by</resp>
+                        <name>Biblia Arabica research team</name>
+                    </respStmt>
+                    <respStmt>
+                        <resp>TEI encoding by</resp>
+                        <name ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</name>
                     </respStmt>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Syriaca.org: The Syriac Reference Portal</authority>
-                    <idno type="URI">http://syriaca.org/bibl/{$bibl-id}/tei</idno>
+                    <authority>Biblia Arabica</authority>
+                    <idno type="URI">http://biblia-arabica.com/bibl/{$bibl-id}/tei</idno>
                     <availability>
                         <licence target="http://creativecommons.org/licenses/by/3.0/">
                             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -162,7 +204,7 @@ for $zotero-bibl at $i in $zotero-doc/listBibl/biblStruct
                 </sourceDesc>
             </fileDesc>
             <revisionDesc>
-                <change who="http://syriaca.org/documentation/editors.xml#ngibson" when="{current-date()}">CREATED: bibl</change>
+                <change who="http://biblia-arabica.com/documentation/editors.xml#ngibson" when="{current-date()}">CREATED: bibl</change>
             </revisionDesc>
         </teiHeader>
         <text>
