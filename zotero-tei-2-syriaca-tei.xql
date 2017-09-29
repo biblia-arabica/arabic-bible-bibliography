@@ -40,7 +40,7 @@ as node()*
 };
 
 let $bibls := collection("/db/apps/ba-data/data/bibl/tei/")/TEI/text/body/biblStruct
-let $zotero-doc := doc("/db/apps/ba-working-data/zotero-tei-2017-09-28.xml")
+let $zotero-doc := doc("/db/apps/ba-working-data/zotero-tei-2017-09-29.xml")
 
 (:    Set this to the number of the highest existing bibl record. If the eXist data is up-to-date and no bibl URIs have been reserved outside eXist, 
  : this can be left blank and will be automatically determined. :)
@@ -56,7 +56,7 @@ for $zotero-bibl at $i in $zotero-doc/listBibl/biblStruct
     
 
 (:    let $bibl-id := ( if(string-length($max-bibl-id)) then $max-bibl-id else $max-bibl-id-auto + $i):)
-    let $bibl-id := $zotero-bibl/note[@type='tags']/note[@type='tag' and matches(.,'ID:\s*^\d+$')]/replace(text(),'ID:\s*','')
+    let $bibl-id := $zotero-bibl/note[@type='tags']/note[@type='tag' and matches(.,'ID:\s*\d+$')]/replace(text(),'ID:\s*','')
     let $ba-uri := concat('http://biblia-arabica.com/bibl/',$bibl-id)
     
 (:    Adds a biblia-arabica.com URI :)
@@ -64,7 +64,7 @@ for $zotero-bibl at $i in $zotero-doc/listBibl/biblStruct
     
     (:tags:)
 (:    Uses the Zotero ID (manually numbered tag) to add an idno with @type='zotero':)
-(: Re-enable here and in $all-idnos if Zotero ID is different from bibl ID. :)
+(: Re-enable here and in $all-idnos and $matching-bibl if Zotero ID is different from bibl ID. :)
 (:    let $zotero-id := $zotero-bibl/note[@type='tags']/note[@type='tag' and matches(.,'^\d+$')]/text()
     let $zotero-idno := <idno type='zotero'>{$zotero-id}</idno>:)
     
@@ -73,6 +73,9 @@ for $zotero-bibl at $i in $zotero-doc/listBibl/biblStruct
     
 (:    Grabs URI in tags prefixed by 'Subject: '. :)
     let $subject-uri := $zotero-bibl/note[@type='tags']/note[@type='tag' and matches(.,'^\s*Subject:\s*')]
+    let $tags := $zotero-bibl/note[@type='tags']/note[@type='tag' and not(matches(.,'^\s*Subject:\s*'))]
+    let $notes := $zotero-bibl/note[not(@type=('tags','abstract'))]
+    let $abstract := $zotero-bibl/note[@type='abstract']
     
 (:    Changes 1 or more space-separated numbers contained in idno[@type='callNumber'] to WorldCat URIs :)
     let $callNumbers := $zotero-bibl/idno[@type='callNumber']
@@ -213,19 +216,23 @@ for $zotero-bibl at $i in $zotero-doc/listBibl/biblStruct
                     {$tei-analytic}
                     {$tei-monogr}
                     {$tei-series}
+                    {$abstract}
                     {$subject-uri[.!='']}
+                    {$tags}
+                    {$notes}
                 </biblStruct>
             </body>
         </text>
     </TEI>
     
-    let $collection-uri := "/db/apps/srophe-data/data/bibl/tei/"
+    let $collection-uri := "/db/apps/ba-data/data/bibl/tei/"
     let $resource-name := concat($bibl-id,'.xml')
-    let $matching-bibl := $bibls[*[1]/idno=$zotero-idno]
+    let $matching-bibl := $bibls[*[1]/idno=$ba-idno]
+(:    let $matching-bibl := $bibls[*[1]/idno=$zotero-idno]:)
     
     return 
         if ($matching-bibl) then
-            (concat('The bibl with Zotero id ', $zotero-id,' was not created because one with the same ID already exists in the database.'),
+            (concat('The bibl with URI ', $ba-idno/text(),' was not created because one with the same URI already exists in the database.'),
             if ($subject-uri) then update insert $subject-uri into $matching-bibl else ())
         else 
             xmldb:store($collection-uri, $resource-name, $tei-record)
