@@ -1,0 +1,2023 @@
+MS: Venice, St. Mark, Cod. 11
+MS: Paris, Bibliothèque nationale de France, Ar. 1
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 5
+MS: Vatican, Biblioteca Apostolica Vaticana, Syr. 10
+MS: Florence, Biblioteca Medicea Laurenziana, Or. 112 (formerly 21)
+MS: Florence, Biblioteca Medicea Laurenziana, Or. 57 (formerly 12)
+MS: Vatican, Biblioteca Apostolica Vaticana, Barberini Or. 1
+MS: Vatican, Biblioteca Apostolica Vaticana, Borg.ar. 129
+MS: Vienna, Österreichische Nationalbibliothek, NF. 9 (cited as Lambecii codex XLIV)
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 28
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 605
+MS: London, British Library, Or. 2291
+MS: Sinai, St. Catherine's Monastery, Ar. 154
+MS: Sinai, St. Catherine's Monastery, Ar. 155
+MS: Vatican, Biblioteca Apostolica Vaticana, Vat.ar. 468
+MS: Munich, Bavarian State Library, Ar. 234
+MS: Vatican, Biblioteca Apostolica Vaticana, Borg.ar. 71
+MS: Vatican, Biblioteca Apostolica Vaticana, Copt. 9
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 95
+MS: Sinai, St. Catherine's Monastery, Ar. 151
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 13
+MS: Istanbul, Süleymaniye, Carullah 3
+MS: Berlin, Staatsbibliothek, Violet Fragment
+MS: Cambridge, Cambridge University Library, T-S Ar. 1a.55
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 145
+MS: Birmingham, Birmingham University Library, Mingana, Chr. Ar. 431
+MS: Paris, Bibliothèque nationale de France, Ar. 42
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 23
+MS: Vatican, Biblioteca Apostolica Vaticana, Vat.ar. 467
+MS: St. Petersburg, National Library of Russia, D 226
+MS: Bryn Mawr, Bryn Mawr College Library, BV 47 (=Zurich, Or. 94)
+MS: Berlin, Staatsbibliothek, Or. Quart. 2101
+MS: London, British Library, Add. 9060
+MS: London, British Library, Or. 1475
+MS: Sinai, St. Catherine's Monastery,  Ar. 82
+MS: Birmingham, Birmingham University Library, Mingana, Chris. Ar. Add. 137
+MS: London, British Library, Harl. 5505
+MS: St. Petersburg, National Library of Russia, A.N.S. 327
+MS: London, British Library, Harl. 5474
+MS: Leipzig, Universitätsbibliothek Leipzig, Tisch. 12
+MS: Sinai, St. Catherine's Monastery,  Ar. 75
+MS: London, British Library, Arundel Or. 15
+MS: Sinai, St. Catherine's Monastery, Ar. 74
+MS: Vatican, Biblioteca Apostolica Vaticana, Borg.ar. 95
+MS: Berlin, Staatsbibliothek, Or.oct. 1108
+MS: Oxford, Bodleian Library, Poc. 289
+MS: London, BL, Harl.
+MS: London, British Library, Harl. 5505 (cited as 5503!)
+MS: Oxford, Bodleian Libraries, Poc. 289
+MS: Munich, Bavarian State Library, Cod.arab. 238
+MS: Munich, Bavarian State Library, Ar. 234.
+MS: London, British Library, Add. 9061
+MS: Madrid, Biblioteca Nacional de España, Or. 4971
+MS: Madrid, Biblioteca Nacional de España, Or. 3484
+MS: London, British Library, Or. 3706
+MS: Munich, Bavarian State Library, Cod.arab. 234
+MS: Leon, Archive of the Cathedral of Leon, Cod. 35 (=MS: Madrid, Real Biblioteca del Monasterio de San Lorenzo de El Escorial, Ms. H, IV, 10)
+MS: Leon, Archive of the Cathedral of Leon, Cod. 1026
+MS: Leipzig, Universitätsbibliothek Leipzig, Cod. 1059
+MS: London, British Library, Or. 1316
+MS: Sinai, St. Catherine's Monastery, Ar. 589
+MS: Sinai, St. Catherine's Monastery, Ar. 1
+MS: Paris, Bibliothèque nationale de France,  Copt. 17
+MS: Vienna, Österreichische Nationalbibliothek, Or. 43
+MS: Berlin, Staatsbibliothek, Or. Fol. 534
+MS: Berlin, Staatsbibliothek, Or. Qu. 828
+MS: Oxford, Bodleian Libraries, Or. 139
+MS: Paris, Bibliothèque nationale de France, Ar. 5
+MS: Paris, Bibliothèque nationale de France, Ar. 6
+MS: Leiden, University of Leiden Library, Or. 377
+MS: Cambridge, Cambridge University Library, Add. 714
+MS: St. Petersburg, National Library of Russia, Sam. IIa 179
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 2
+MS: Leiden, University of Leiden Library, Or. 214 (=Cod. 214 Scaliger)
+MS: Vatican, Biblioteca Apostolica Vaticana, Vat.lat. 12900 (=Sigüenze, Chapter of the Cathedral of Sigüenze, Ms. 150)
+MS: Madrid, El-Escurial, Ar. 1625
+MS: Madrid, El-Escurial, Ar. 1626
+MS: Munich, Bavarian State Library, Cod.ar. 238
+MS: St. Petersburg, Imperial Library, Cod. 226
+MS: Sinai, St. Catherine's Monastery, Ar. 72
+MS: St. Petersburg, Institute of Oriental Manuscripts, D. 226
+MS: Sinai, St. Catherine's Monastery, Ar. 73
+MS: Sinai, St. Catherine's Monastery, Ar. 70
+MS: Paris, Bibliothèque nationale de France, Anc. F. 27
+MS: Paris, Bibliothèque nationale de France, Suppl. Ar. 27 (Coisl. 239)
+MS: Vatican, Biblioteca Apostolica Vaticana,  Borg.ar. 95
+MS: Vatican, Biblioteca Apostolica Vaticana, Sbath 1020
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 14 (=Joose A)
+MS: Oxford, Bodleian Libraries, Ar. e. 163 (=Joose O)
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 202
+MS: Vatican, Biblioteca Apostolica Vaticana, Borg.ar. 250 (=Joose B)
+MS: Fes, Al-Qarawiyyin University Library, Cod. 730
+MS: Madrid, El-Escurial,  Ar. 1857
+MS: Madrid, Real Biblioteca del Monasterio de San Lorenzo de El Escorial, Codex Ar. 1625
+MS: Leipzig, Universitätsbibliothek Leipzig, Vollers 1059A (Cod. Tisch. 31A)
+MS: Leipzig, Universitätsbibliothek Leipzig, Cod. Or. 1059D
+MS: Leon, Archive of the Cathedral of Leon, Cod. 35 (=Escurial, Ms. H, IV, 10)
+MS: Sinai, St. Catherine's Monastery, Ar. 2
+MS: Sinai, St. Catherine's Monastery, Ar. 4
+MS: Paris, Bibliothèque nationale de France, Ar. 6725
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 1
+MS: Sinai, St. Catherine's Monastery, Ar. 75
+MS: Oxford, Bodleian Libraries, Laud. Or. 243 (formerly A 146)
+MS: Oxford, Bodleian Libraries, Laud. Or. 258 (formerly A 147)
+MS: Sinai, St. Catherine's Monastery, Gr. 35
+MS: Sinai, St. Catherine's Monastery, Gr. 36
+MS: Birmingham, Birmingham University Library, Mingana, Chr. Ar. 121
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 14
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 27
+MS: Paris, Bibliothèque nationale de France, Ar. 13
+MS: Paris, Bibliothèque nationale de France, Ar. 14
+MS: Madrid, El-Escurial, Ar. 1857
+MS: Moscow, Moscow State Library, Ms. 432 (given incorrectly as Leningrad, Ms. 432)
+MS: Sinai, St. Catherine's Monastery, Ar. 10
+MS: Sinai, St. Catherine's Monastery, Ar. 50
+MS: Sinai, St. Catherine's Monastery, Ar. 8
+MS: Sinai, St. Catherine's Monastery, Gr. 32
+MS: Sinai, St. Catherine's Monastery, Gr. 34
+MS: Vatican, Biblioteca Apostolica Vaticana, Syr. 278
+MS: Oxford, Bodleian Libraries, Hunt. 206
+MS: Oxford, Bodleian Libraries, Poc. 70
+MS: London, British Library, Or. 1041
+MS: London, British Library, Or. 1302
+MS: London, British Library, Or. 1476
+MS: Oxford, Bodleian Libraries, Poc. 285
+MS: Paris, Bibliothèque nationale de France, Ar. 9
+MS: Venice,  St. Mark 11 (Venet. 11) and 27 (Venet. 539), St. Mark 11 (Venet. 11)
+MS: Venice,  St. Mark 11 (Venet. 11) and 27 (Venet. 539), 27 (Venet. 539)
+MS: , Greek monastery, Greek monastery
+MS: Leiden, University of Leiden Library, Or. 243.
+MS: Jerusalem, Greek Monastery, Cod. 1
+MS: Venice,  St. Mark, Cod. 11 (Venet. 11)
+MS: Venice, St. Mark, Cod. 27 (Venet. 539)
+MS: Rome, Casanatense, Ar.-Carsh. 2
+MS: Vatican, Biblioteca Apostolica Vaticana, Borg. Syr. 49
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 17
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 18
+MS: Leiden, University of Leiden Library, Or. 2348
+MS: Oxford,  Bodleian Libraries, March. 440
+MS: Oxford,  Bodleian Libraries, Poc. 219
+MS: Paris, Bibliothèque nationale de France,  Ar. 10
+MS: Paris, Bibliothèque nationale de France,  Ar. 16
+MS: Paris, Bibliothèque nationale de France,  Ar. 9
+MS: Paris, Bibliothèque nationale de France,  Ar. 11
+MS: Leiden, University of Leiden Library, Or. 230
+MS: Cambridge, Cambridge University Library, T-S Ar. 53.8
+MS: Cambridge, Cambridge University Library,  45
+MS: Cambridge, Cambridge University Library, T-S Ar. 21.183
+MS: Cambridge, Cambridge University Library, Mosseri vi.45
+MS: St. Petersburg, National Library of Russia, Ebr. II C 1
+MS: Kiel, Universitätsbibliothek, Ms. 14
+MS: London, British Library, Add. 19011
+MS: London, British Library, Or. 1450
+MS: Leiden, University of Leiden Library, Or. 1222
+MS: Manchester, John Rylands Library, Sam. 2
+MS: London, British Library, Or. 1441
+MS: London, British Library, Or. 1446
+MS: London, British Library, Or. 2688
+MS: Berlin, Staatsbibliothek, Petermann I 3
+MS: Paris, Bibliothèque nationale de France, Ar. 7
+MS: Oxford, Bodleian Libraries, Or. 345
+MS: Gotha, Forschungsbibliothek, Ar. 1088
+MS: Paris, Bibliothèque nationale de France, Ar. 8 (= Ancien fonds 12)
+MS: London, British Library, Add. 17553
+MS: Paris, Bibliothèque nationale de France, Ar. 4
+MS: Berlin, Staatsbibliothek, Spreng. 30
+MS: Beirut, Bibliothèque Orientale, Ms. 419
+MS: Paris, Bibliothèque nationale de France,  Ar. 51
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 462
+MS: Oxford, Bodleian Libraries, Or. 251
+MS: Sinai, St. Catherine's Monastery, Ar. 7
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 75
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 77
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 86
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 89
+MS: Cairo, Coptic Orthodox Patriarchate, Theol. 286
+MS: Oxford, Bodleian Libraries, Hunt. 260
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 462
+MS: Paris, Bibliothèque nationale de France, Ar. 51
+MS: St. Petersburg, Institute of Oriental Manuscripts, A 187
+MS: Florence, Biblioteca Medicea Laurenziana, Or. 387
+MS: London, British Library, Add. 11856 (p. 58, pl. 8b)
+MS: Florence, Biblioteca Medicea Laurenziana, Or. 387 (p. 13, pl. 1)
+MS: Leiden, University of Leiden Library, Or. 1571
+MS: London, British Library, Add. 11850
+MS: Jerusalem, Greek Patriarchate, Ar. 9
+MS: Berlin, Staatsbibliothek, Diez A fol. 41
+MS: St. Petersburg, Institute of Oriental Manuscripts, D 226
+MS: Paris, Bibliothèque nationale de France, Copt. 2 (pl. 37)
+MS: London, British Library, Or. 1316 (pls. VI, XV, 30, 89, 94, 99, 104, 109, 110, 111, 119, 124, 132, 141, 142, and 155)
+MS: London, British Library, Or. 1317 (pl. 93)
+MS: Oxford, Bodleian Libraries, Hunt. 17 (pls. II, IV, XI, 97, and 101)
+MS: Oxford, Bodleian Libraries, Marsh. Or. 6 (pls. 17 and 40)
+MS: Vatican, Biblioteca Apostolica Vaticana, Copt. 8 (pls. 95 and 100)
+MS: Vatican, Biblioteca Apostolica Vaticana, Copt. 9 (pls. V, X, XII, XIII, 18, 19, 87, and 98)
+MS: Paris, Bibliothèque nationale de France, Copt. 13 (pls. XIV, XVI, XVII, XVIII, 120, 125, 129, 133, 135, 136, and 143)
+MS: Paris, Institute Catholique, Copt. Ar. 1 (pls. 92, 96, 103, 105, 106, 107, 108, 118, 121, 122, 123, 130, 131, 134, 138, 139, and 140)
+MS: Vatican, Biblioteca Apostolica Vaticana, Copt. 12 (pl. 14)
+MS: Cairo, Coptic Museum, Bibl. 91 (pls. 26 and 27)
+MS: Cairo, Coptic Museum, Bibl. 92 (pls. 21, 22, 23, 33 and 34)
+MS: Cairo, Coptic Museum, Bibl. 94 (pls. 84 and 137)
+MS: Cairo, Coptic Museum, Bibl. 95 (pl. 102)
+MS: London, British Library, Add. 26116
+MS: St. Petersburg, National Library of Russia, Ar. N.S. 232
+MS: St. Petersburg, National Library of Russia, A.N.S. 327 (pl. 8)
+MS: Cairo, Coptic Museum, Bibl. 91
+MS: Cairo, Coptic Orthodox Patriarchate,  Bibl. 196
+MS: Istanbul, Topkapı Sarayı Library, Ahmet III 3519
+MS: Istanbul,
+MS: Istanbul, Topkapı Sarayı Library, Ahmet III 3519 (various plates)
+MS: Munich, Bavarian State Library, Cod.arab. 233 (pp. 56-57)
+MS: Munich, Bavarian State Library, Cod.arab. 236 (pp. 58-59)
+MS: Vatican, Biblioteca Apostolica Vaticana, Barb.or. 1 (p. 39, pl. 37)
+MS: Vatican, Biblioteca Apostolica Vaticana, Barb.or. 2 (p. 49, pl. 45)
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 13 (p. 13, pl. 14)
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 18 (p. 19, pl. 17)
+MS: Vatican, Biblioteca Apostolica Vaticana, Copt. 9 (p. 38, pl. 35)
+MS: Paris, Bibliothèque nationale de France, Ar. 12 (p. 57)
+MS: Paris, Bibliothèque nationale de France, Copt. 1 (pp. 77-78)
+MS: Cairo, Coptic Museum, Bibl. 93
+MS: Vatican, Biblioteca Apostolica Vaticana, Copt. 8
+MS: Cairo, Coptic Museum,  Bibl. 94 (p. 128, pls. 15-16)
+MS: Cairo, Coptic Museum, Bibl. 147
+MS: Oxford, Bodleian Libraries, Hunt. 17 (p. 131, pls. 17-18)
+MS: Paris, Institut Catholique, Copt.-Ar. 1 (p. 120, pl. 7; p. 123, pl. 8; p. 124, pl. 9, p. 125, pls. 10-11, p. 126, pls. 12-13; p. 127, pl. 14)
+MS: Vatican, Biblioteca Apostolica Vaticana, Copt. 9 (p. 132, pl. 19)
+MS: Cairo, Coptic Museum, Bibl. 94
+MS: Oxford, Bodleian Libraries, Hunt. 17
+MS: Washington, Freer Gallery, No. 55 (p. 135, pl. 3)
+MS: Paris, Bibliothèque nationale de France, Copt. 13
+MS: Paris, Institut Catholique, Copt.-Ar. 1 (p. 133-134, pl. 1-2)
+MS: Paris, Institut Catholique, Copt.-Ar. 1
+MS: Cairo, Coptic Museum, Bibl. 75 (pp. 412-413, pls. 6-7)
+MS: Cairo, Coptic Museum, Bibl. 90 (pp. 410-411, pls. 4-5)
+MS: Cairo, Coptic Museum, Bibl. 94 (p. 408-)
+MS: Istanbul, Topkapı Sarayı Library, Ahmet III 3519 (p. 335, pl. 29)
+MS: Sinai, St. Catherine's Monastery, Ar. 92
+MS: Florence, Biblioteca Medicea Laurenziana, Or. 387 (p. 317, pl. 7)
+MS: Leiden, University of Leiden Library, Or. 1571 (p. 318, pl. 9; p. 319, pl. 10; p. 321, pl. 13; p. 325, pl. 17; p. 327, pl. 19; p. 3287, pl. 20; p. 329, pls. 22-23)
+MS: Istanbul, Topkapı Sarayı Library, Ahmet III 3519 (p. 20, pls. 6-7)
+MS: London, British Library, Add. 11856 (p. 19, pl. 5)
+MS: Oxford, Bodleian Libraries, Hunt. 17 (p. 18, pl. 4)
+MS: Cairo, Coptic Museum, Bibl. 90
+MS: Istanbul, Topkapı Sarayı, Ahmet III, 3159
+MS: Paris, Institut Catholique, Copt. Ar. 1
+MS: London, British Library, Or. 1327 (p. 55, pl. 28)
+MS: Sinai, St. Catherine's Monastery, Ar. 104 (p. 41, pl. 21)
+MS: Sinai, St. Catherine's Monastery, Ar. 106 (pp. 11-12, pl. 7)
+MS: Sinai, St. Catherine's Monastery, Ar. 122 (pp. 33-34, pl. 17)
+MS: Sinai, St. Catherine's Monastery, Ar. 69 (p. 13, pl. 8)
+MS: Sinai, St. Catherine's Monastery, Ar. 82 (pp. 23-24, pl. 12)
+MS: Sinai, St. Catherine's Monastery, Ar. 91 (p. 49, pl. 25)
+MS: Sinai, St. Catherine's Monastery, Ar. 95 (p. 37, pl. 19)
+MS: Sinai, St. Catherine's Monastery, Ar. 97 (p. 19, pl. 10)
+MS: Sinai, St. Catherine's Monastery, Ar. 99 (pp. 45-48, pls. 23 and 24)
+MS: Cairo, Coptic Museum, Bibl. 90 (p. 215, pl. 8)
+MS: Cairo, Coptic Museum, Bibl. 94 (p. 205, pl. 8)
+MS: Paris, Bibliothèque nationale de France, Ar. 12 (p. 216, pl. 28)
+MS: Paris, Institut Catholique, Copt.-Ar. 1 (p. 204, pls. 4-7 and p. 209, pl. 15)
+MS: Paris, Institut Catholique, Copt.-Ar. 1 (pls. 1-4)
+MS: Cairo, Coptic Museum, Bibl. 94 (pl. 5)
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 23
+MS: Munich, Bavarian State Library, Cod.arab. 238 (no. 56)
+MS: Vatican, Biblioteca Apostolica Vaticana, Borg.ar. 129 (no. 68)
+MS: Berlin, Staatsbibliothek, Mss. Orient. Fol. 1320
+MS: Berlin, Staatsbibliothek, Mss. Orient. Fol. 534
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 468
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 467
+MS: Leipzig, Universitätsbibliothek Leipzig, Vollers 1059B (Cod. Tisch. 31B)
+MS: Leipzig, Universitätsbibliothek Leipzig, Vollers 1058 (=Cod. Tisch. 37)
+MS: Vatican, Biblioteca Apostolica Vaticana, Borg. Ar. 95
+MS: Vatican, Biblioteca Apostolica Vaticana, Borg. Ar. 129
+MS: Vatican, Biblioteca Apostolica Vaticana, Borg. Ar. 71
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 4
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 581
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 788
+MS: Vatican, Biblioteca Apostolica Vaticana, Borg. Ar. 48
+MS: Vatican, Biblioteca Apostolica Vaticana, Barberini Or. 2
+MS: Vatican, Biblioteca Apostolica Vaticana, Borg. Ar. 67
+MS: Vatican, Biblioteca Apostolica Vaticana, Lat. 13001
+MS: Vatican, Biblioteca Apostolica Vaticana, Lat. 12900 (=Siguenze, Chapter of the Cathedral of Siguenze, Ms. 150)
+MS: Berlin, Staatsbibliothek, Diez A 41.
+MS: London, British Library, Add. 11856
+MS: Copenhagen, Royal Library, Ar. 75
+MS: Leiden, University of Leiden Library, Or. 230 (Scaliger Arab. 230).
+MS: Leiden, University of Leiden Library, Or. 377 (Warner 377)
+MS: Cambridge, Cambridge University Library, Add. 3289
+MS: Berlin, Staatsbibliothek, Dq. 106
+MS: Munich, Bavarian State Library, Ar. 238
+MS: Paris, Bibliothèque nationale de France, Copt. 1
+MS: Berlin, Staatsbibliothek, Diez A quart. 106
+MS: London, British Library, Or. 8745
+MS: Paris, Bibliothèque nationale de France, Ar. 2
+MS: London, British Library, Add. 11855
+MS: Florence, Biblioteca Medicea Laurenziana, Or. 112 (olim 21)
+MS: Munich, Bavarian State Library, Ar. 233
+MS: Paris, Bibliothèque nationale de France, Ar. 16
+MS: Beirut, Bibliothèque Orientale, Or. 419
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 29
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 3
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 41
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 48
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 1
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 2
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 22
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 31
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 4
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 5
+MS: Cambridge, Cambridge University Library, Or. 193
+MS: Florence, Biblioteca Medicea Laurenziana, Or. 77 (formerly 15)
+MS: Leiden, University of Leiden Library, Or. 215
+MS: London, British Library, Add. 14425
+MS: London, British Library, Or. 422
+MS: Oxford, Bodleian Libraries, Hunt. 186
+MS: Oxford, Bodleian Libraries, Hunt. 424
+MS: Oxford, Bodleian Libraries, Laud. Or. 272 (formerly Laud. A 182)
+MS: Oxford, New College Library, 335
+MS: Paris, Bibliothèque nationale de France, Ar. 12
+MS: Sinai, St. Catherine's Monastery, Ar. 3
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 525
+MS: Vatican, Biblioteca Apostolica Vaticana, Borg. Ar. 150
+MS: Vatican, Biblioteca Apostolica Vaticana, Borg. Ar. 154
+MS: Vatican, Biblioteca Apostolica Vaticana, Borg. Ar. 239
+MS: Vatican, Biblioteca Apostolica Vaticana, Cop. 2
+MS: Vatican, Biblioteca Apostolica Vaticana, Cop. 3
+MS: Vatican, Biblioteca Apostolica Vaticana, Cop. 4
+MS: Vatican, Biblioteca Apostolica Vaticana, Copt. 1
+MS: Aleppo, unspecified copy in possession of the Khūkāz family
+MS: Oxford, Bodleian Libraries, Arch. Seld. A. 66
+MS: Prague, Jewish Museum, 356
+MS: Sharfeh, Ar. 1/4
+MS: Oxford, Bodleian Libraries, March. 440
+MS: Oxford, Bodleian Libraries, Poc. 219
+MS: Paris, Bibliothèque nationale de France, Ar. 11
+MS: Leiden, University of Leiden Library, Or. 239 (Scalinger 239)
+MS: Paris, Bibliothèque nationale de France, Ar. 10
+MS: Oxford, Bodleian Libraries, March 440
+MS: Sinai, St. Catherine's Monastery,  Ar. 10
+MS: Aleppo, Khūkāz, Aleppo, [unspecified manuscript]
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 19
+MS: Joun, L’Ordre Basilien du Saint-Sauveur, 224
+MS: Madrid, Real Biblioteca del Monasterio de San Lorenzo de El Escorial, Codex Ar. 1857
+MS: Oxford, Bodleian Libraries, Laud. A 146
+MS: Oxford, Bodleian Libraries, Laud. A 147
+MS: Oxford, Bodleian Libraries, Marsh. 88
+MS: Oxford, Bodleian Libraries, Hunt. 84
+MS: Oxford, Bodleian Libraries, Arch. C7
+MS: London, British Library, Rich 7204
+MS: Paris, Bibliothèque nationale de France, Ar. 17
+MS: Leiden, University of Leiden Library, Or. 2364
+MS: Munich, Bavarian State Library, Ar. 235
+MS: Oxford, Bodleian Libraries, Or. 324
+MS: Oxford, Bodleian Libraries, Hunt. 363
+MS: Oxford, Bodleian Libraries, Marsh. 175
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 449
+MS: Paris, Bibliothèque nationale de France, Ar. 23
+MS: Cambridge, Cambridge University Library, Add. 3044
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 32.
+MS: London, British Library, Or. 1330.
+MS: Oxford, Bodleian Libraries, Hunt. 112
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 33
+MS: Oxford, Bodleian Libraries, Seld. Arch. A. 67
+MS: Paris, Bibliothèque nationale de France, Ar. 1.
+MS: Milan, Biblioteca Ambrosiana, C 58 inf.
+MS: Rome, Biblioteca Casanatense, 169
+MS: London, British Library, Or. 5918
+MS: Oxford,  Bodleian Libraries, Arch. Seld. A. 67
+MS: Florence, Biblioteca Medicea Laurenziana, Or. 59
+MS: Birmingham, Birmingham University Library,  Syr. 624
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 503
+MS: Oxford, Bodleian Libraries, Arch. Seld. A 67.
+MS: London, British Library, Or. 5503
+MS: London, British Library, Or. 5505
+MS: Rome, Biblioteca Casanatense,  2108
+MS: Bibliothek Paul Sbath: Ms. 920
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 13
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 55
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 79
+MS: Istanbul, Aya Sofia, 3367
+MS: Oxford,  Bodleian Libraries, Fraser (Or.) 257
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 80
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 81
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 82
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 86
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 87
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 88
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 89
+MS: Manchester, John Rylands Library, Copt. 419
+MS: Manchester, John Rylands Library, Copt. 420
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 77
+MS: London, British Library,  Or. 1314
+MS: London, British Library,  Or. 1326
+MS: London, British Library,  Or. 5918
+MS: London, British Library,  Or. 8745
+MS: Paris, Bibliothèque nationale de France,  Ar. 25
+MS: Paris, Bibliothèque nationale de France,  Copt. 2
+MS: Birmingham, Birmingham University Library, Syr. 256
+MS: Birmingham, Birmingham University Library, Syr. 484 A
+MS: Birmingham, Birmingham University Library, Syr. 624
+MS: Paris, Bibliothèque nationale de France,  Ar. 2
+MS: Paris, Bibliothèque nationale de France,  Copt. 96
+MS: Sinai, St. Catherine's Monastery, Ar. 539
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 445
+MS: Sinai, St. Catherine's Monastery,  Ar. 597
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 468
+MS: Birmingham, University Library,  Syr. 624
+MS: Milan, Bibliotheca Ambrosiana, C58
+MS: Oxford, Bodleian Libraries, Seld. Arch. 67
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 503
+MS: Oxford, Bodleian Libraries,  Arch. Seld. A 67
+MS: Oxford, Bodleian Libraries, (Or.) Fraser 257
+MS: Sinai, St. Catherine's Monastery, Ar. 513
+MS: Sinai, St. Catherine's Monastery, Ar. 597
+MS: Sinai, St. Catherine's Monastery, Ar. 9
+MS: Sinai, St. Catherine's Monastery, Ar. 448
+MS: Oxford, Bodleian Libraries, Arch. Seld. A. 67
+MS: London, British Library, Or. 1314
+MS: Rome, Casanatense, 169
+MS: London, British Library,  Or. 1319
+MS: London, British Library, Or. 1326
+MS: Oxford, Bodleian Libraries, Arch. Seld. A 67
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 495
+MS: Moscow, Moscow State Library, Ms. 432.
+MS: Vatican, Biblioteca Apostolica Vaticana, Borg. ar. 95
+MS: Sinai, St. Catherine's Monastery, Harris 9
+MS: Jerusalem, St. James Monastery, 121
+MS: Berlin, Staatsbibliothek, Or. oct. 1108
+MS: Sinai, St. Catherine's Monastery, Ar. 97
+MS: Sinai, St. Catherine's Monastery, Ar. 54
+MS: Moscow, Library of the Holy Synod, Ms. 139
+MS: Sinai, St. Catherine's Monastery, Ar. NF. Parch. 7
+MS: Paris, Bibliothèque nationale de France, Suppl. Grec. 911
+MS: St. Petersburg, National Library of Russia, A.N.S. 263
+MS: Strasbourg, Bibliothèque nationale et universitaire de Strasbourg, MS 4226 (Arabic 151)
+MS: Birmingham, Birmingham University Library, Mingana, Chr. Ar. 233 (= Chr. Add. 136)
+MS: Leipzig, Universitätsbibliothek Leipzig, Cod. Tisch. 31
+MS: Leipzig, Universitätsbibliothek Leipzig, Cod. Tisch. 37
+MS: St. Petersburg, National Library of Russia, Grec 290
+MS: Sinai, St. Catherine's Monastery,  Ar. 116
+MS: St. Petersburg, National Library of Russia, [unidentified Gospel manuscript, =Gregory 137]
+MS: Leiden, University of Leiden Library, Or. 225
+MS: Berlin, Staatsbibliothek,  Oct. Diez. 162
+MS: Vienna, Österreichische Nationalbibliothek, Or. 1544 (=Wiener Handschrift 43)
+MS: Leiden, University of Leiden Library, Or. 217
+MS: Leiden, University of Leiden Library, Or. 223
+MS: Sinai, St. Catherine's Monastery, Ar. 69
+MS: Toledo, Regional Library of Castilla-La Mancha, Ms. 387
+MS: Oxford, Bodleian Library, Ar. e. 63
+MS: Beirut, Bibliotheque Orientale, 429.
+MS: London, British Library, Ar. suppl. 5
+MS: Sinai, St. Catherine's Monastery, Ar. 82
+MS: Vatican, Biblioteca Apostolica Vaticana, Syr. 197
+MS: Leiden, University of Leiden Library, Or. 2378
+MS: Munich, Bavarian State Library, Cod. Arab. 238
+MS: Cairo, Coptic Orthodox Patriarchate, 202
+MS: Vatican, Biblioteca Apostolica Vaticana, Borg. Ar. 250 (=Joose B)
+MS: London, British Library, Or. 3382
+MS: London, British Library, Or. 7562
+MS: Leiden, Leiden University Library, Or. 1222
+MS: Oxford, Bodleian Libraries, Ar. e. 163 (= Joose O)
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 14 (= Joose A)
+MS: Vatican, Biblioteca Apostolica Vaticana, Borg. Ar. 250 (= Joose B)
+MS: Beirut, unidentified "fragment, consisting of only three folios"
+MS: Leipzig, Universitätsbibliothek Leipzig, Vollers 1059 (=Codex Tischendorf 31B)
+MS: Vatican, Biblioteca Apostolica Vaticana, Sbath 1280
+MS: Madrid, Real Biblioteca del Monasterio de San Lorenzo de El Escorial, Codex Ar. 1626
+MS: Oxford, Bodleian Libraries, Or. 712
+MS: Sinai, St. Catherine's Monastery, Ar. 310
+MS: Vatican, Biblioteca Apostolica Vaticana, Lat. 12900 (=Sigüenze, Chapter of the Cathedral of Sigüenze, Ms. 150)
+MS: Leiden, University of Leiden Library, Or. 217 (=Cod. 217 Scaliger)
+MS: Dublin, Trinity College Library, MS 1509 (=B.5.16 / MS 1677 / Ussher)
+MS: London, British Library, Or. 8605
+MS: London, British Library, Or. 8612
+MS: Paris, Bibliothèque nationale de France, Ar. 132
+MS: Berlin, Staatsbibliothek, Do. 162
+MS: Cairo, Coptic Museum, Bible Sbath 1017
+MS: London, British Library,  Or. 1329
+MS: Paris, Bibliothèque nationale de France,  Ar. 132
+MS: Paris, Bibliothèque nationale de France,  Ar. 67
+MS: Paris, Bibliothèque nationale de France,  Ar. 80
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 118
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 31
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 406
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 466
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 29
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 156
+MS: Vatican, Biblioteca Apostolica Vaticana,  Borg. Ar. 34
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 254
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 26
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 260
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 328
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 338
+MS: Leiden, University of Leiden Library, Or. 2380
+MS: Cairo, Coptic Museum, Bibl. 11
+MS: Oxford, Bodleian Libraries, Or. 350
+MS: Berlin, Staatsbibliothek,  Spreng. 30
+MS: Birmingham, Birmingham University Library, Mingana, Chr. Ar. Add. 136
+MS: Birmingham, Birmingham University Library, Mingana, Chr. Ar. Add. 148
+MS: Birmingham, Birmingham University Library, Mingana, Chr. Ar. Add. 149
+MS: Bryn Mawr, Bryn Mawr College Library, BV 69
+MS: Leiden, Leiden University Library, Or. 14238
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 694
+MS: Oxford,  Bodleian Libraries, Nicoll. 49
+MS: Cambridge, Cambridge University Library, Or. 1287
+MS: Sinai, St. Catherine's Monastery, Ar. 397
+MS: Sinai, St. Catherine's Monastery, Ar. 469
+MS: Sinai, St. Catherine's Monastery, Ar. 553
+MS: Vatican, Biblioteca Apostolica Vaticana, Sbath. 68
+MS: London, British Library, Add. 30851
+MS: Sinai, St. Catherine's Monastery, Ar. 436
+MS: Sinai, St. Catherine's Monastery, Ar. 535
+MS: Sinai, St. Catherine's Monastery, Ar. 556
+MS: Vatican, Biblioteca Apostolica Vaticana, Syr. 159
+MS: Florence, Biblioteca Medicea Laurenziana, Or. 32
+MS: Paris, Bibliothèque nationale de France, Ar. 107
+MS: Cairo, Coptic Museum, Hist. 485
+MS: Vatican, Biblioteca Apostolica Vaticana, Syr. 199
+MS: St Macarius, Hag. 38
+MS: Paris, Bibliothèque nationale de France, Ar. 4785
+MS: Cairo, Coptic Orthodox Patriarchate,  Bibl. 185
+MS: Cairo, Coptic Orthodox Patriarchate,  Hist. 54
+MS: Oxford, Bodleian Library, Or. 251
+MS: Vatican, Biblioteca Apostolica Vaticana, Syr. 199.
+MS: Paris, Bibliothèque nationale de France, Ar.
+MS: Birmingham, Birmingham University Library, Mingana, Chr. Arab. 94
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 171
+MS: Sinai, St. Catherine's Monastery,  Ar. 539
+MS: Oxford, Bodleian Library, Or.
+MS: Jerusalem, St. Anne, 33
+MS: Cairo, Coptic Orthodox Patriarchate, Theol. 209 (Saimaika 238)
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 491
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 645
+MS: Sinai, St. Catherine's Monastery, Ar. 441
+MS: St. Petersburg, National Library of Russia, Yevr. II
+MS: Beirut, Bibliothèque orientale, Ar. 552
+MS: London, British Library, Or. 4950
+MS: St. Andrews, University Library, 14.
+MS: Birmingham, Birmingham University Library, Mingana, Chr. Ar. 170 (= Chr. Add. 140)
+MS: Munich, Bavarian State Library, Ar. 1071
+MS: Sinai, St. Catherine's Monastery,  Ar. 330
+MS: Sinai, St. Catherine's Monastery, Ar. 431
+MS: Sinai, St. Catherine's Monastery, Ar. 483
+MS: Sinai, St. Catherine’s Monastery, Ar. 151
+MS: Sinai, St. Catherine’s Monastery, Ar. 72
+MS: Heidelberg, Institut für Papyrologie, P. Heid. Inv. Arab. 438a-d
+MS: Sinai, St. Catherine's Monastery,  Ar. 154
+MS: St. Petersburg, National Library of Russia, Evr. II C 1/2
+MS: St. Petersburg, National Library of Russia, Antonin B 109
+MS: Munich, Bavarian State Library, Cod.arab. 122b
+MS: Oxford, Bodleian Libraries, Poc. 281
+MS: London, British Library, Or. 2517
+MS: St. Petersburg, National Library of Russia, Evr. I 599
+MS: Paris, Bibliothèque nationale de France, héb. 292
+MS: London, British Library, Or. 2402
+MS: London, British Library, Or. 2507
+MS: London, British Library, Or. 2553
+MS: New York, Jewish Theological Seminary, ENA 219
+MS: St. Petersburg, National Library of Russia, Evr. I 578
+MS: Berlin, Staatsbibliothek, Or. quart. 828
+MS: St. Petersburg, National Library of Russia, Sam. IIa 178
+MS: St. Petersburg, National Library of Russia, Sam. IIa 177
+MS: Paris, Bibliothèque nationale de France, Sam. 5 (= Ancien fonds 1)
+MS: Cambridge, Westminster College, R. 15.1
+MS: Oxford, Bodleian Libraries, Copt. Uri 2 (Maresch. 31)
+MS: Paris, Bibliothèque nationale de France, Syr. 4
+MS: Lebanon, Sherfeh, Ar. 1/2
+MS: Dayr Abū Maqār, Bibl. 8.
+MS: Cairo, Coptic Catholic Patriarchate, Roll 1 item 6
+MS: Dayr Abū Maqār, Bibl. 7
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 73
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 45
+MS: Cairo, Coptic Catholic Patriarchate, Roll 9 item 3
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 84
+MS: Dayr Abū Maqār, Bibl. 9
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 74
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 78
+MS: Dayr Abū Maqār, Bibl. 16
+MS: Dayr Mar ʿAbda Harharaya, 3
+MS: Dayr Mar ʿAbda Harharaya, 4
+MS: Sinai, St. Catherine's Monastery, Ar. NF. Parch. 18
+MS: Vienna, Österreichische Nationalbibliothek, Or. 1548
+MS: Birmingham, Birmingham University Library, Mingana 256 (Kol. 511)
+MS: Birmingham, Birmingham University Library, Syr. 607
+MS: Sinai, St. Catherine's Monastery, Ar. 12
+MS: Sinai, St. Catherine's Monastery, Ar. 32
+MS: Sinai, St. Catherine's Monastery, Ar. 398
+MS: Sinai, St. Catherine's Monastery, Ar. NF. Pap. 9
+MS: Vatican, Biblioteca Apostolica Vaticana, Borg. syr. 28
+MS: Diyārbakr  5
+MS: Diyārbakr 144
+MS: Diyārbakr 4
+MS: St. Petersburg, Institute of Oriental Manuscripts, D226
+MS: Oxford, Bodleian Libraries, Fraser 257
+MS: Vatican, Bibliotheca Apostolica Vaticana, Copt. 1
+MS: Madrid, Biblioteca Nacional de España, Vit 13.1
+MS: Madrid, Biblioteca Nacional de España, 10.031
+MS: Jerusalem, National Library of Israel, Sam. 2° 1
+MS: Nablus, Samaritan Synagogue, 15
+MS: Nablus, Samaritan Synagogue, 18
+MS: Nablus, Samaritan Synagogue, 20
+MS: Nablus, Samaritan Synagogue, 4
+MS: Nablus, Samaritan Synagogue, 6
+MS: Nablus, Samaritan Synagogue, 8
+MS: Manchester, John Rylands Library, Sam. 33 (= Gaster 1861)
+MS: Manchester, John Rylands Library, Sam. 39 (= Gaster 1135)
+MS: Oxford, Bodleian Libraries, Sam. C. 2
+MS: Paris, Bibliothèque nationale de France,  Ar. 8 (= Ancien fonds 12)
+MS: Jerusalem, Ben Zvi Institute, 7001
+MS: Jerusalem, Ben Zvi Institute, 7002
+MS: Oxford, Bodleian Libraries, Sam. C. 4
+MS: Private Collection Raṣon b. Benyamim Ṣedaqa
+MS: Sinai, St. Catherine's Monastery, Ar. NF. Parch. 14
+MS: Sinai, St. Catherine's Monastery, Ar. NF. Parch. 16
+MS: Cambridge, Cambridge University Library, Add. 3226
+MS: Venice, Biblioteca Nazionale Marciana, Gr. Z. 11 (379)
+MS: Berlin, Staatsbibliothek, Diez A oct. 162
+MS: Bzommar, Bibliothèque du Couvent de Bzommar 215
+MS: Cairo, Coptic Museum, Bibl. 100
+MS: Cairo, Coptic Museum, Bibl. 101
+MS: Cairo, Coptic Museum, Bibl. 3
+MS: Cairo, Coptic Museum, Bibl. 5
+MS: Cairo, Coptic Museum, New 150 (E)
+MS: Cairo, Coptic Museum, New 458 (Q)
+MS: Cairo, Coptic Museum, New 465 (I)
+MS: Cairo, Coptic Museum, New 57 (A)
+MS: Cairo, Coptic Museum, New 63 (B)
+MS: Cairo, Coptic Museum, New 6421 (R)/(U)
+MS: Cairo, Coptic Museum, New 6430 (C)
+MS: Cairo, Coptic Museum, New 6437 (E)
+MS: Cairo, Franciscan Center of Christian Oriental Studies, Ar. Christ. 12
+MS: Cairo, Franciscan Center of Christian Oriental Studies, Ar. Christ. 16
+MS: Cairo, Franciscan Center of Christian Oriental Studies, Ar. Christ. 186
+MS: Cairo, Franciscan Center of Christian Oriental Studies, Ar. Christ. 5
+MS: Cairo, Franciscan Center of Christian Oriental Studies, Ar. Christ. 79
+MS: Cairo, Franciscan Center of Christian Oriental Studies, Ar. Christ. 9
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 141
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 142
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 143
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 144
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 146
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 147
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 148
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 149
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 150
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 151
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 152
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 153
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 154
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 155
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 157
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 158
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 159
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 160
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 161
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 162
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 163
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 164
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 165
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 166
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 167
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 168
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 169
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 170
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 171
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 173
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 174
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 178
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 195
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 208
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 213
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 214
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 215
+MS: Cairo, Coptic Orthodox Patriarchate, Theol. 215
+MS: Cairo, Coptic Orthodox Patriarchate, Theol. 76
+MS: Cairo, Mar Menas, Bibl. 1
+MS: Cambridge, Cambridge University Library, Add. 2621
+MS: Cambridge, Cambridge University Library, Add. 3212
+MS: Cambridge, Cambridge University Library, Add. 3213
+MS: Cambridge, Cambridge University Library, Add. Y 9
+MS: Cambridge, Cambridge University Library, Dd. 15.4
+MS: Charfeh, Bibliothèque patriarcale du monastère syro-catholique, Ar. 2/16 17 18
+MS: Charfeh, Bibliothèque patriarcale du monastère syro-catholique, Ar. 2/9 10 11
+MS: Charfeh, Bibliothèque patriarcale du monastère syro-catholique, Syr. 2/16
+MS: Charfeh, Bibliothèque patriarcale du monastère syro-catholique, Syr. 2/17
+MS: Copenhagen, Royal Library, Or. 19
+MS: Dayr al-Muḥarraq, Coptic Monastery, unspecified shelfmark
+MS: Dublin, Trinity College Library, MS 1531
+MS: Florence, Biblioteca Medicea Laurenziana, Or. 14
+MS: Florence, Biblioteca Medicea Laurenziana, Or. 2
+MS: Florence, Biblioteca Medicea Laurenziana, Or. 24
+MS: Florence, Biblioteca Medicea Laurenziana, Or. 3
+MS: Göttingen, Göttingen University, Or. 125/5
+MS: Göttingen, Göttingen University, Or. 125/6
+MS: Hamburg, Staats- und Universitätsbibliothek, Or. 19
+MS: Jerusalem, Orthodox Patriarchate, Ar. 119
+MS: Manchester, John Rylands Library, Ar. 2
+MS: Milan, Biblioteca Ambrosiana, B 20 inf. A
+MS: Modena, Biblioteca Estense, I. D. 8
+MS: Naples, Biblioteca nazionale Vittorio Emanuele III, Ar. 3
+MS: Oxford, Bodleian Libraries, Canonic. Or. 129
+MS: Princeton, University Library, Garret, Ar. 3916
+MS: Princeton, University Library, Garret, Ar. 3926
+MS: Vatican, Biblioteca Apostolica Vaticana, Sbath 1007
+MS: Vatican, Biblioteca Apostolica Vaticana, Sbath 651
+MS: Venice, Biblioteca Nazionale Marciana, Or. 4 (13)
+MS: Wolfenbüttel, Herzog August Library, Guelf. 31 Gud. Graec.
+MS: Wolfenbüttel, Herzog August Library, Guelf. 32 Gud. Graec.
+MS: Paris, Bibliothèque nationale de France, Copt. 17
+MS: Leiden, University of Leiden Library, Acad. 2
+MS: Leiden, University of Leiden Library, Or. 14447
+MS: Leiden, University of Leiden Library, Or. 2083
+MS: Sinai, St. Catherine's Monastery, Ar. 156
+MS: Sinai, St. Catherine's Monastery, Ar. 157
+MS: Sinai, St. Catherine's Monastery, Ar. 158
+MS: Sinai, St. Catherine's Monastery, Ar. 161
+MS: Sinai, St. Catherine's Monastery, Ar. 165
+MS: Sinai, St. Catherine's Monastery, Ar. 166
+MS: Sinai, St. Catherine's Monastery, Ar. 167
+MS: Sinai, St. Catherine's Monastery, Ar. 168
+MS: St. Petersburg, Institute of Oriental Manuscripts, C 867
+MS: St. Petersburg, Institute of Oriental Manuscripts, D 226/3
+MS: St. Petersburg, Institute of Oriental Manuscripts, D 228
+MS: Beirut, Bibliothèque Orientale, Or. 1358
+MS: London, Bible Society, unspecified shelfmark
+MS: Cairo, Coptic Catholic Patriarchate, 2-4
+MS: Cairo, Coptic Catholic Patriarchate, 3-3A
+MS: Cairo, Coptic Catholic Patriarchate, 5-12
+MS: Cairo, Coptic Catholic Patriarchate, 5-13
+MS: Cairo, Coptic Catholic Patriarchate, 9-6
+MS: Damascus, Syrian Orthodox Patriarchate, 1/18
+MS: Diyārbakr, Meryem Ana, 1/17
+MS: Diyārbakr, Meryem Ana, 1/18
+MS: Diyārbakr, Meryem Ana, 261
+MS: Diyārbakr, Meryem Ana, 272
+MS: Duluth, University of Minnesota Kathryn A. Martin Library, The Ramseyer-Northern
+MS: Groningen, Groningen University Library, 460
+MS: Halle, Archiv der Franckeschen Stiftungen, Q 81
+MS: Jerusalem, St. Mark's Monastery, 263
+MS: Leipzig, Universitätsbibliothek Leipzig, Vollers 1058-01 (=Cod. Tisch. 37A)
+MS: Leipzig, Universitätsbibliothek Leipzig, Vollers 1058-02 (=Cod. Tisch. 37B)
+MS: London, Library of the School of Oriental and African Studies, 14086
+MS: Mardin, Chaldean Cathedral, 56 (=89; 12.4)
+MS: Mor Mattay, Syrian-Orthodox Monastery, 1
+MS: Mosul, Dominican Friars of Mosul, 391
+MS: Oxford, Queen's College Library, 351
+MS: Sinai, St. Catherine's Monastery, Gr. NF. Parch. 40
+MS: Sinai, St. Catherine's Monastery, Gr. NF. Parch. 52
+MS: Sinai, St. Catherine's Monastery, Gr. NF. Parch. 60
+MS: Sinai, St. Catherine's Monastery, Gr. NF. Pap. 35
+MS: Sinai, St. Catherine's Monastery, Gr. NF. MG 2
+MS: Beirut, Bibliothèque Orientale, Or. 441
+MS: Berlin, Staatsbibliothek, Or. Folio 115
+MS: Berlin, Staatsbibliothek, Or. Folio 116
+MS: Berlin, Staatsbibliothek, Or. Quart. 612
+MS: London, British Library, Arundel Or. 19
+MS: London, British Library, Arundel Or. 7
+MS: London, British Library, Harley 5474
+MS: London, British Library, Or. 1318
+MS: London, British Library, Or. 1328
+MS: London, British Library, Or. 3383
+MS: London, British Library, Or. 424
+MS: London, British Library, Sloane 1796
+MS: Oxford, Bodleian Libraries, Arch. Seld. A. 70
+MS: Oxford, Bodleian Libraries, Arch. Seld. B. 50 sup.
+MS: Oxford, Bodleian Libraries, Hunt. 43
+MS: Oxford, Bodleian Libraries, Laud. Or. 135
+MS: Oxford, Bodleian Libraries, Laud. Or. 24
+MS: Oxford, Bodleian Libraries, Marsh. 426
+MS: Oxford, Bodleian Libraries, Or. 333
+MS: Paris, Bibliothèque nationale de France, Ar. 62
+MS: Paris, Bibliothèque nationale de France, Ar. 6274
+MS: Paris, Bibliothèque nationale de France, Ar. 63
+MS: Paris, Bibliothèque nationale de France, Ar. 64
+MS: Paris, Bibliothèque nationale de France, Ar. 65
+MS: Paris, Bibliothèque nationale de France, Ar. 66
+MS: Paris, Bibliothèque nationale de France, Copt. 64
+MS: Paris, Bibliothèque nationale de France, Syr. 50
+MS: Paris, Bibliothèque nationale de France, Syr. 55
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 22
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 433
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 513
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 517
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 568
+MS: Vatican, Biblioteca Apostolica Vaticana, Borg. Ar. 34
+MS: Vatican, Biblioteca Apostolica Vaticana, Borg. Ar. 63
+MS: Vatican, Biblioteca Apostolica Vaticana, Borg. Copt. 51
+MS: Vatican, Biblioteca Apostolica Vaticana, Borg. Copt. 71
+MS: Vatican, Biblioteca Apostolica Vaticana, Borg. Syr. 47
+MS: Vatican, Biblioteca Apostolica Vaticana, Copt. 12
+MS: Vatican, Biblioteca Apostolica Vaticana, Copt. 13
+MS: Vatican, Biblioteca Apostolica Vaticana, Copt. 14
+MS: Vatican, Biblioteca Apostolica Vaticana, Syr. 203
+MS: Sinai, St. Catherine's Monastery, Ar. 159
+MS: Sinai, St. Catherine's Monastery, Ar. 160
+MS: Beirut, Bibliothèque Orientale,  Or. 430
+MS: London, British Library,  Or. 3382
+MS: London, British Library,  Add. 9061
+MS: Oxford, Bodleian Libraries, Hunt. 118
+MS: Léon, Cathedral of Léon, cod. 35
+MS: Oxford,  Bodleian Libraries, Arch. Seld. 3202 A.69
+MS: Oxford,  Bodleian Libraries, Hunt. 17
+MS: Sinai, St. Catherine's Monastery, Ar. 517
+MS: Saint Petersburg, Institute of Oriental Studies, MS B051
+MS: Saint Petersburg, Institute of Oriental Studies, MS B220
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 1427
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 1754
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 3204
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4785
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 556
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. II 3167
+MS: Sinai, St. Catherine's Monastery, Ar. NF. Parch. 28
+MS: Sinai, St. Catherine's Monastery, Ar. NF. Parch. 8
+MS: Sinai, St. Catherine's Monastery, Ar. 514
+MS: Sbath 920
+MS: Milan, Biblioteca Ambrosiana, X200 sup.
+MS: London, British Library,  Add. 26116
+MS: Leiden, University of Leiden Library, Or. 454
+MS: Sinai, St. Catherine's Monastery,  Ar. 2
+MS: Sinai, St. Catherine's Monastery,  Ar. 3
+MS: Sinai, St. Catherine's Monastery,  Ar. 4
+MS: Amesterdam, Amesterdam University Library, III. E. 20
+MS: Beirut, Bibliothèque Orientale,  Or. 432
+MS: Beirut, Bibliothèque Orientale,  Or. 433
+MS: Beirut, Bibliothèque Orientale,  Or. 434
+MS: Beirut, Bibliothèque Orientale,  Or. 435
+MS: Beirut, Bibliothèque Orientale,  Or. 436
+MS: Beirut, Bibliothèque Orientale,  Or. 441
+MS: Berlin, Staatsbibliothek,  Copt. 191
+MS: Berlin, Staatsbibliothek,  Copt. 396
+MS: Berlin, Staatsbibliothek, Df. 42
+MS: Berlin, Staatsbibliothek, WE. 184
+MS: Birmingham, Birmingham University Library, Chr. Arab. 10
+MS: Birmingham, Birmingham University Library, Chr. Arab. 7
+MS: Birmingham, Birmingham University Library, Chr. Arab. Add. 155
+MS: Birmingham, Birmingham University Library, Chr. Arab. Add. 222
+MS: Birmingham, Birmingham University Library, Chr. Arab. Add. 271
+MS: Cambridge, Cambridge University Library, Add. 1045
+MS: Cambridge, Cambridge University Library, Add. 1860
+MS: Cambridge, Cambridge University Library, Add. 1905
+MS: Cambridge, Cambridge University Library, Add. 3216
+MS: Cambridge, Cambridge University Library, Add. 3508
+MS: Cambridge, Cambridge University Library, Gg. 5.27
+MS: Cambridge, Cambridge University Library, Gg. 5.33
+MS: Cambridge, Cambridge University Library, Or. 643 (8)
+MS: Florence, Biblioteque Nazionale Centrale, CL. III. 66
+MS: Göttingen, Göttingen University, Ar. 102
+MS: Jerusalem, Orthodox Patriarchate, Ar. 103
+MS: Jerusalem, Orthodox Patriarchate, Ar. 135
+MS: Jerusalem, Orthodox Patriarchate, Ar. 194
+MS: Jerusalem, Orthodox Patriarchate, Ar. 207
+MS: Jerusalem, Orthodox Patriarchate, Ar. 213
+MS: Jerusalem, Orthodox Patriarchate, Ar. 220
+MS: Jerusalem, Orthodox Patriarchate, Ar. 235
+MS: Jerusalem, Orthodox Patriarchate, Ar. 36
+MS: Jerusalem, Orthodox Patriarchate, Ar. 72
+MS: Lebanon, Sherfeh, Ar. 2/8
+MS: London, British Library,  Add. 11,856
+MS: London, British Library,  Add. 14,467
+MS: London, British Library,  Add. 17,224
+MS: London, British Library,  Add. 5995
+MS: London, British Library,  Arundel 19
+MS: London, British Library,  Arundel 20
+MS: London, British Library,  Or. 1001
+MS: London, British Library,  Or. 1242 (4)
+MS: London, British Library,  Or. 1315
+MS: London, British Library,  Or. 1316
+MS: London, British Library,  Or. 1317
+MS: London, British Library,  Or. 1327
+MS: London, British Library,  Or. 425
+MS: London, British Library,  Or. 426
+MS: Lucca, Lucca National Library, 803
+MS: Manchester, Manchester University, Or. 9
+MS: Milan, Biblioteca Ambrosiana, C 48 Inf.
+MS: Milan, Biblioteca Ambrosiana, E. 95
+MS: Oxford, Bodleian Libraries, Arch. Seld. A. 68
+MS: Oxford, Bodleian Libraries, Bodl. 265
+MS: Oxford, Bodleian Libraries, Bodl. 299
+MS: Oxford, Bodleian Libraries, Bodl. 447
+MS: Oxford, Bodleian Libraries, Canon. Orient. 115
+MS: Oxford, Bodleian Libraries, Hunt. 366
+MS: Oxford, Bodleian Libraries, Laud. Or. 191
+MS: Oxford, Bodleian Libraries, Marsh. 167
+MS: Oxford, Bodleian Libraries, Marsh. 575
+MS: Oxford, Bodleian Libraries, Seld. 3202, A. 69
+MS: Paris, Bibliothèque nationale de France,  Ar. 144
+MS: Paris, Bibliothèque nationale de France,  Ar. 4522
+MS: Paris, Bibliothèque nationale de France,  Ar. 4900
+MS: Paris, Bibliothèque nationale de France,  Ar. 53
+MS: Paris, Bibliothèque nationale de France,  Ar. 54
+MS: Paris, Bibliothèque nationale de France,  Ar. 56
+MS: Paris, Bibliothèque nationale de France,  Ar. 57
+MS: Paris, Bibliothèque nationale de France,  Ar. 60
+MS: Paris, Bibliothèque nationale de France,  Ar. 61
+MS: Paris, Bibliothèque nationale de France,  Ar. 62
+MS: Paris, Bibliothèque nationale de France,  Ar. 6280
+MS: Paris, Bibliothèque nationale de France,  Coisl. 239
+MS: Paris, Bibliothèque nationale de France,  Copt. 14
+MS: Paris, Bibliothèque nationale de France,  Copt. 14 A
+MS: Paris, Bibliothèque nationale de France,  Copt. 16
+MS: Paris, Bibliothèque nationale de France,  SYR. 42
+MS: Rome, Biblioteca Casanatense,  2023
+MS: Rome, Biblioteca Casanatense,  2039
+MS: Rome, Biblioteca Casanatense,  2309
+MS: Rome, Biblioteca Nazionale Centrale, Or. 14
+MS: Rome, Biblioteca Nazionale Centrale, Or. 84
+MS: Tübingen, Tübingen University, Ar. 202
+MS: Venice, Biblioteca Nazionale Marciana, Gr. 539 (1)
+MS: Venice, Biblioteca Nazionale Marciana, Or. 3 (12)
+MS: Paris, Bibliothèque Nationale de France,  Ar. 58
+MS: Vatican, Biblioteca Apostolica Vaticana,  Copt. 9
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 10
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 15
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 18
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 501
+MS: Vatican, Biblioteca Apostolica Vaticana,  Borg. Ar. 203
+MS: Vatican, Biblioteca Apostolica Vaticana,  Borg. Ar. 226
+MS: Vatican, Biblioteca Apostolica Vaticana,  Borg. Ar. 48
+MS: Sinai, St. Catherine's Monastery, Ar. 99
+MS: Sinai, St. Catherine's Monastery, Ar. NF. Parch. 15
+MS: Sinai, St. Catherine's Monastery, Ar. NF. Parch. 24
+MS: Sinai, St. Catherine's Monastery, Ar. NF. Parch. 36
+MS: Sinai, St. Catherine's Monastery, Ar. NF. Parch. 44
+MS: Sinai, St. Catherine's Monastery, Ar. NF. Parch. 5
+MS: Sinai, St. Catherine's Monastery, Ar. NF. Parch. 6
+MS: Sinai, St. Catherine's Monastery, Ar. NF. Parch. 63
+MS: Sinai, St. Catherine's Monastery, Ar. NF. Parch. 64
+MS: Vienna, Österreichische Nationalbibliothek, A. F. 97 (545)
+MS: Vienna, Österreichische Nationalbibliothek, MXT. 490
+MS: Vienna, Österreichische Nationalbibliothek, MXT. 514
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 100
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 101
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 102
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 104
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 105
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 106
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 107
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 108
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 109
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 110
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 111
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 112
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 113
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 114
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 115
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 117
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 122
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 130
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 131
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 132
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 133
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 137
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 196
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 93
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 99
+MS: Leiden, University of Leiden Library, Scaliger. 218
+MS: Leiden, University of Leiden Library, Scaliger. 223
+MS: Leiden, University of Leiden Library, Scaliger. 225
+MS: Leiden, University of Leiden Library, Scaliger. 255
+MS: Leiden, University of Leiden Library, Warn. 561
+MS: Leiden, University of Leiden Library, Warn. 619
+MS: Leipzig, Universitätsbibliothek Leipzig, Tischend. XII
+MS: Sinai, St. Catherine's Monastery, Ar. 100
+MS: Sinai, St. Catherine's Monastery, Ar. 101
+MS: Sinai, St. Catherine's Monastery, Ar. 102
+MS: Sinai, St. Catherine's Monastery, Ar. 103
+MS: Sinai, St. Catherine's Monastery, Ar. 104
+MS: Sinai, St. Catherine's Monastery, Ar. 105
+MS: Sinai, St. Catherine's Monastery, Ar. 106
+MS: Sinai, St. Catherine's Monastery, Ar. 107
+MS: Sinai, St. Catherine's Monastery, Ar. 108
+MS: Sinai, St. Catherine's Monastery, Ar. 109
+MS: Sinai, St. Catherine's Monastery, Ar. 110
+MS: Sinai, St. Catherine's Monastery, Ar. 111
+MS: Sinai, St. Catherine's Monastery, Ar. 112
+MS: Sinai, St. Catherine's Monastery, Ar. 113
+MS: Sinai, St. Catherine's Monastery, Ar. 114
+MS: Sinai, St. Catherine's Monastery, Ar. 115
+MS: Sinai, St. Catherine's Monastery, Ar. 146
+MS: Sinai, St. Catherine's Monastery, Ar. 147
+MS: Sinai, St. Catherine's Monastery, Ar. 628
+MS: Sinai, St. Catherine's Monastery, Ar. 68
+MS: Sinai, St. Catherine's Monastery, Ar. 71
+MS: Sinai, St. Catherine's Monastery, Ar. 76
+MS: Sinai, St. Catherine's Monastery, Ar. 77
+MS: Sinai, St. Catherine's Monastery, Ar. 78
+MS: Sinai, St. Catherine's Monastery, Ar. 79
+MS: Sinai, St. Catherine's Monastery, Ar. 80
+MS: Sinai, St. Catherine's Monastery, Ar. 81
+MS: Sinai, St. Catherine's Monastery, Ar. 83
+MS: Sinai, St. Catherine's Monastery, Ar. 84
+MS: Sinai, St. Catherine's Monastery, Ar. 86
+MS: Sinai, St. Catherine's Monastery, Ar. 87
+MS: Sinai, St. Catherine's Monastery, Ar. 88
+MS: Sinai, St. Catherine's Monastery, Ar. 89
+MS: Sinai, St. Catherine's Monastery, Ar. 90
+MS: Sinai, St. Catherine's Monastery, Ar. 91
+MS: Sinai, St. Catherine's Monastery, Ar. 93
+MS: Sinai, St. Catherine's Monastery, Ar. 94
+MS: Sinai, St. Catherine's Monastery, Ar. 95
+MS: Sinai, St. Catherine's Monastery, Ar. 98
+MS: Sinai, St. Catherine's Monastery, Ar. NF. Pap. 51
+MS: Sinai, St. Catherine's Monastery, Ar. NF. Pap. 61
+MS: Sinai, St. Catherine's Monastery, Ar. NF. Pap. 62
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 557
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 559
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 589
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 603
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 609
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 610
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 611
+MS: Vatican, Biblioteca Apostolica Vaticana,  Copt. 10
+MS: Vatican, Biblioteca Apostolica Vaticana,  Copt. 11
+MS: Vatican, Biblioteca Apostolica Vaticana,  Copt. 8
+MS: Vatican, Biblioteca Apostolica Vaticana,  Sbath 121
+MS: Vatican, Biblioteca Apostolica Vaticana,  Sbath 27
+MS: Vatican, Biblioteca Apostolica Vaticana,  Sbath 651
+MS: Vatican, Biblioteca Apostolica Vaticana,  Sbath 776
+MS: Vatican, Biblioteca Apostolica Vaticana,  Sbath. 64
+MS: St. Petersburg, National Library of Russia, Or. 2
+MS: Cairo, Coptic Museum, Bibl. 2
+MS: Cairo, Coptic Museum, Bibl. 7
+MS: Cairo, Coptic Museum, Bibl. 8
+MS: Cairo, Coptic Museum, Bibl. 10 A
+MS: Cairo, Coptic Museum, Bibl. 62
+MS: Cairo, Coptic Museum, Bibl. 75
+MS: Cairo, Coptic Museum, Bibl. 84
+MS: Cairo, Coptic Museum, Bibl. 96
+MS: Cairo, Coptic Museum, Bibl. 97
+MS: Cairo, Coptic Museum, Bibl. 99
+MS: Cairo, Coptic Museum, Bibl. 106
+MS: Cairo, Coptic Museum, Bibl. 107
+MS: Cairo, Coptic Museum, Bibl. 108
+MS: Cairo, Coptic Museum, Bibl. B
+MS: London, British Library, 280A
+MS: Saint Petersburg, National Library of Russia, Yevr.-Arab. I 298 (433)
+MS: Cambridge, Cambridge University Library, Jacques Mosseri Collection, III.121
+MS: Cambridge, Cambridge University Library, Taylor-Schechter Collection, Ar. 18 (2).132
+MS: Cambridge, Cambridge University Library, Taylor-Schechter Collection, Ar. 22.51
+MS: Cambridge, Cambridge University Library, Taylor-Schechter Collection, Ar. 26.15
+MS: Cambridge, Cambridge University Library, Taylor-Schechter Collection, Ar. 27.57
+MS: Cambridge, Cambridge University Library, Taylor-Schechter Collection, Ar. 46.227
+MS: Cambridge, Cambridge University Library, Taylor-Schechter Collection, E2.111
+MS: Cambridge, Cambridge University Library, Taylor-Schechter Collection, Fi(2).9
+MS: Cambridge, Cambridge University Library, Taylor-Schechter Collection, Misc. 6.174
+MS: Cambridge, Cambridge University Library, Taylor-Schechter Collection, NS 186.25
+MS: Cambridge, Cambridge University Library, Taylor-Schechter Collection, NS 186.35
+MS: Cambridge, Cambridge University Library, Taylor-Schechter Collection, NS 262.15
+MS: Cambridge, Cambridge University Library, Taylor-Schechter Collection, NS 318.72
+MS: London, British Library, Or. 2598
+MS: London, British Library, Or. 5563D.28
+MS: Manchester, John Rylands Library, 8254.10
+MS: Manchester, John Rylands Library, 8254.18
+MS: Manchester, John Rylands Library, A698
+MS: Manchester, John Rylands Library, B 4364
+MS: Manchester, John Rylands Library, B 5274
+MS: Manchester, John Rylands Library, G 38
+MS: Manchester, John Rylands Library, L 126+182
+MS: Manchester, John Rylands Library, L563 (26)
+MS: New York, Jewish Theological Seminary of America, Adler Collection, 2445.21
+MS: New York, Jewish Theological Seminary of America, Adler Collection, 2697.17
+MS: New York, Jewish Theological Seminary of America, Adler Collection, 2697.18
+MS: New York, Jewish Theological Seminary of America, Adler Collection, 2711.44
+MS: New York, Jewish Theological Seminary of America, Adler Collection, 2984.7
+MS: New York, Jewish Theological Seminary of America, Adler Collection, 3180.11
+MS: Oxford,  Bodleian Libraries, Heb. D. 39
+MS: Paris, Alliance Israélite universelle, v.B.55
+MS: Paris, Alliance Israélite universelle, XI.45
+MS: Vatican, Ar. ?
+MS: Leiden, University of Leiden Library, Or. 236
+MS: Milan, Biblioteca Ambrosiana, 95
+MS: Vatican, Biblioteca Apostolica Vaticana,  Borg. Ar. 201
+MS: Vatican, Biblioteca Apostolica Vaticana,  Syr. 19
+MS: Vatican, Biblioteca Apostolica Vaticana,  Syr. 407
+MS: Oxford, Bodleian Library, Ar. 299 (Christ. Nicoll 15)
+MS: Oxford, Bodleian Library, Hunt. 118 (Christ. Uri 25)
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 106
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 16
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 467
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 71
+MS: Leiden, University of Leiden Library, Or. 2376 (Cod. 225 Scaliger)
+MS: Leiden, University of Leiden Library, Or. 2377 (Cod. 1571)
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 119
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 207
+MS: London,  British Library, Or. 3382
+MS: Milan, Biblioteca Ambrosiana, Hammer 84
+MS: Vatican, Biblioteca Apostolica Vaticana, Borg.ar. 67
+MS: St. Petersburg, National Library of Russia, Evr. II C 1
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 32
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 21
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 465
+MS: Berlin, Staatsbibliothek, Or. Quart. 1082
+MS: Cambridge, Cambridge University Library, T-S Ar. 41.122
+MS: London, British Library, Harl. 5475
+MS: Istanbul, Topkapı Sarayı Library, Ahmet III 3522
+MS: Vienna, Österreichische Nationalbibliothek, Mxt. 664
+MS: Aleppo, Collection Khūkāz
+MS: Beirut, Bibliothèque Orientale, 419
+MS: Berlin, Staatsbibliothek, Diez quart. 106
+MS: Berlin, Staatsbibliothek, Or. Oct. 1108
+MS: Bern, Bürgerbibliothek, Cod. 686
+MS: Birmingham, Birmingham University Library, Mingana, Chr. Ar. 4
+MS: Birmingham, Birmingham University Library, Mingana, Chr. Ar. 7
+MS: Cairo, Coptic Catholic Patriarchate, 5-1
+MS: Cairo, Coptic Museum, Bibl. 1
+MS: Cairo, Coptic Museum, Theol. 193
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 15
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 16
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 17
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 18
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 183
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 184
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 20
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 24
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 25
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 26
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 28
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 30
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 51
+MS: Cairo, Coptic Orthodox Patriarchate, New 469
+MS: Cairo, Coptic Orthodox Patriarchate, New 56
+MS: Cairo, Coptic Orthodox Patriarchate, New 61
+MS: Cairo, Coptic Orthodox Patriarchate, Theol. 3
+MS: Cairo, Coptic Orthodox Patriarchate, Theol. 5
+MS: Cambridge, Cambridge University Library, Or. 929
+MS: Cambridge, Cambridge University Library, T-S Ar. 41.129
+MS: Cambridge, Cambridge University Library, T-S NS 297.258
+MS: Cambridge, Cambridge University Library, T-S NS 297.259
+MS: Cambridge, Cambridge University Library, T-S NS 327.128
+MS: Cambridge, Cambridge University Library, T-S NS 327.92
+MS: Dayr Abū Maqār, Bibl. 1
+MS: Dayr Abū Maqār, Bibl. 3
+MS: Dayr Abū Maqār, Bibl. 4
+MS: Diyarbakir, Diyarbakir 22
+MS: Florence, Biblioteca Medicea Laurenziana, Or. 57 (olim 12)
+MS: Florence, Biblioteca Medicea Laurenziana, Or. 77 (olim 15)
+MS: Hamburg, Staats- und Universitätsbibliothek, Or. 27
+MS: Istanbul, Topkapı Sarayı Library, Ahmet III 3523
+MS: Istanbul, Topkapı Sarayı Library, Ahmet III 3524
+MS: Karlsruhe, Badische Landesbibliothek, Df. 118
+MS: London, British Library, Add. 17193
+MS: London, British Library, Or. 1240
+MS: London, British Library, Or. 422 (Copt. 712)
+MS: London, British Library, Or. 5019
+MS: Madrid, Biblioteca Nacional de España, Cod. 4971
+MS: Milan, Biblioteca Ambrosiana, Eth. 6
+MS: Moscow, Moscow State Library, 432
+MS: Munich, Bavarian State Library, Ar. 920
+MS: Oxford, Bodleian Libraries, Arch. Seld. A 66
+MS: Oxford, Bodleian Libraries, Hunt. 33
+MS: Oxford, Bodleian Libraries, Laud. Or. 243 (olim Laud. A 146)
+MS: Oxford, Bodleian Libraries, Laud. Or. 258 (olim Laud. A 147)
+MS: Oxford, Bodleian Libraries, Laud. Or. 272 (olim Laud. A 182)
+MS: Oxford, Bodleian Libraries, Or. 461
+MS: Paris, Bibliothèque nationale de France, Ar. 15
+MS: Paris, Bibliothèque nationale de France, Ar. 4759
+MS: Paris, Bibliothèque nationale de France, Syr. 6
+MS: Rome, Biblioteca Casanatense, Ar.-Karsh. 2
+MS: Sinai, St. Catherine’s Monastery, Ar. 10
+MS: Sinai, St. Catherine’s Monastery, Ar. 154
+MS: Sinai, St. Catherine’s Monastery, Ar. 155
+MS: Sinai, St. Catherine’s Monastery, Ar. 2
+MS: Sinai, St. Catherine’s Monastery, Ar. 3
+MS: Sinai, St. Catherine’s Monastery, Ar. 309
+MS: Sinai, St. Catherine’s Monastery, Ar. 4
+MS: Sinai, St. Catherine’s Monastery, Ar. 436
+MS: Sinai, St. Catherine’s Monastery, Ar. 489
+MS: Sinai, St. Catherine’s Monastery, Ar. 542
+MS: Sinai, St. Catherine’s Monastery, Ar. 580
+MS: Sinai, St. Catherine’s Monastery, Ar. 589
+MS: Sinai, St. Catherine’s Monastery, Ar. 74
+MS: Sinai, St. Catherine’s Monastery, Ar. 75
+MS: Sinai, St. Catherine’s Monastery, Ar. NF Parch. 14
+MS: Sinai, St. Catherine’s Monastery, Ar. NF Parch. 15
+MS: Sinai, St. Catherine’s Monastery, Ar. NF Parch. 16
+MS: Sinai, St. Catherine’s Monastery, Ar. NF Parch. 28
+MS: Sinai, St. Catherine’s Monastery, Ar. NF Parch. 54
+MS: Sinai, St. Catherine’s Monastery, Ar. NF Parch. 8
+MS: Sinai, St. Catherine’s Monastery, Greek 34
+MS: Sinai, St. Catherine’s Monastery, Greek 35
+MS: Sinai, St. Catherine’s Monastery, Greek 36
+MS: Stockholm, National Library of Sweden, A777
+MS: Vatican, Biblioteca Apostolica Vaticana, Copt. 2
+MS: Vatican, Biblioteca Apostolica Vaticana, Copt. 3
+MS: Vatican, Biblioteca Apostolica Vaticana, Copt. 4
+MS: Vienna, Österreichische Nationalbibliothek, 9737S
+MS: Vienna, Österreichische Nationalbibliothek, N.F. 97
+MS: Wolfenbüttel, Herzog August Library, Gudianus Graecus, 33
+MS: Istanbul, Topkapı Sarayı Library, 3523
+MS: Istanbul, Topkapı Sarayı Library, 3524
+MS: London, India Office, Islamic 1280
+MS: Nikosia, Mahmud II Library M377
+MS: Rome, Bibl. Angelica, Coptic 4
+MS: Saidanaya, 14
+MS: Sharfeh, Ar. 1/1
+MS: Sharfeh, Ar. 1/2
+MS: Sinai, St. Catherine’s Monastery, Ar. Parch. 15
+MS: Paris, Bibliothèque nationale de France, Or. 6725
+MS: Sinai, St. Catherine's Monastery, Ar. 116
+MS: Sinai, St. Catherine's Monastery, Ar. 542
+MS: St. Petersburg, National Library of Russia, Gr. 281
+MS: Sinai, St. Catherine's Monastery,  Ar. 72
+MS: London,  British Library, Add. 9060
+MS: Milan, Biblioteca Ambrosiana, Cod. &amp; 120 sup.
+MS: Cairo, Coptic Orthodox Patriarchate, 608
+MS: Cairo, Coptic Orthodox Patriarchate, 666
+MS: London, British Library, Or. 1242
+MS: London, British Library, Or. 6
+MS: Oxford, Bodleian Libraries, Copt. c. 3
+MS: Leiden, University of Leiden Library, Or. 243 (l.6)
+MS: Vienna, Österreichische Nationalbibliothek, Papyri K 11346 Pap
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 30
+MS: London, British Library, Or. 2475
+MS: Paris, Bibliothèque nationale de France, héb. 283
+MS: London, British Library, Or. 2398
+MS: London, British Library, Or. 2491
+MS: London, British Library, Or. 2544
+MS: London, British Library, Or. 2399
+MS: London, British Library, Or. 2403
+MS: London, British Library, Or. 2462
+MS: London, British Library, Or. 2463
+MS: London, British Library, Or. 2465
+MS: London, British Library, Or. 2468
+MS: London, British Library, Or. 2469
+MS: London, British Library, Or. 2473
+MS: London, British Library, Or. 2493
+MS: London, British Library, Or. 2494
+MS: London, British Library, Or. 2496
+MS: London, British Library, Or. 2497
+MS: London, British Library, Or. 2546
+MS: London, British Library, Or. 2559
+MS: London, British Library, Or. 2560
+MS: London, British Library, Or. 2561
+MS: London, British Library, Or. 2562
+MS: London, British Library, Or. 2563
+MS: London, British Library, Or. 2581A
+MS: London, British Library, Or. 2445
+MS: Paris, Bibliothèque nationale de France, héb. 281
+MS: Paris, Bibliothèque nationale de France, héb. 277
+MS: Paris, Bibliothèque nationale de France, héb. 278
+MS: Paris, Bibliothèque nationale de France, héb. 280
+MS: Cambridge, Trinity College, F 12 109 (=Loewe 24)
+MS: Cambridge, Trinity College, F 12 110 (=Loewe 25)
+MS: Paris, Bibliothèque nationale de France, héb. 282
+MS: Paris, Bibliothèque nationale de France, héb. 284
+MS: London, British Library, Or. 2545
+MS: New York, Jewish Theological Seminary, ENA 3753
+MS: Berlin, Staatsbibliothek, Or. Qu. 1082
+MS: St. Petersburg, National Library of Russia, Sam. IIa 178.2-3
+MS: Manchester, John Rylands Library, Sam. 73 (= Gaster 2106/3)
+MS: Oxford, Bodleian Libraries, Poc. 395-396
+MS: Cambridge, Cambridge University Library, T-S Ar. 19.152
+MS: Cambridge, Cambridge University Library, T-S Ar. 28.154
+MS: Cambridge, Cambridge University Library, T-S Ar. 28.168
+MS: London, British Library, Or. 5562a
+MS: New York, Jewish Theological Seminary, ENA 2570.1
+MS: Oxford, Bodleian Libraries, Heb. c. 19/3
+MS: Cambridge, Cambridge University Library, T-S Ar. 1a.140
+MS: New York, Jewish Theological Seminary, Lutzki 154
+MS: St. Petersburg, IOS, B 222
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 22
+MS: St. Petersburg, Institute of Oriental Manuscripts, A 140
+MS: St. Petersburg, Institute of Oriental Manuscripts, B 221
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 136
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 1909
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 23
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 26
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 3209
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4136
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. II 3356
+MS: London, British Library, Or. 2506
+MS: New York, Jewish Theological Seminary, ENA 3356
+MS: New York, Jewish Theological Seminary, ENA 3357
+MS: St. Petersburg, Institute of Oriental Manuscripts, B 28
+MS: St. Petersburg, National Library of Russia, Evr. I 217
+MS: St. Petersburg, National Library of Russia, Evr. I 231
+MS: St. Petersburg, National Library of Russia, Evr. I 232
+MS: St. Petersburg, National Library of Russia, Evr. I 240
+MS: St. Petersburg, National Library of Russia, Evr. I 241
+MS: St. Petersburg, National Library of Russia, Evr. I 577
+MS: London, British Library, Or. 2549
+MS: London, British Library, Or. 2503
+MS: London, British Library, Or. 2504
+MS: New York, Jewish Theological Seminary, ENA 3913
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. 70
+MS: London, British Library, Or. 2520
+MS: Lausanne, Lichaa (Elisha; private coll.) 10
+MS: Paris, Bibliothèque nationale de France, héb. 295
+MS: London, British Library, Or. 2517 (incorrectly referenced as 2520 on p. 143 and again in fn. 24)
+MS: New York, Jewish Theological Seminary, ENA 1651
+MS: St. Petersburg, National Library of Russia, Evr. II C 521–22
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 272
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 3476
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 3963
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 3964
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4255
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4380
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4382
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4467
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4468
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4469
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4878
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. II 110
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. II 29
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. II 3295
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. II 3350
+MS: London, British Library, Or. 2400
+MS: Cambridge, Trinity College, F 12 118
+MS: Oxford, Bodleian Libraries, Opp. Add. Quart. 169
+MS: London, British Library, Or. 2554
+MS: London, British Library, Or. 2513
+MS: Cambridge, Cambridge University Library, T-S Ar. 1b.98
+MS: Paris, Bibliothèque nationale de France, héb. 294
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4228
+MS: Cambridge, Cambridge University Library, Kk. 6.3
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 56
+MS: Oxford, Bodleian Libraries, Hunt. 511
+MS: Paris, Bibliothèque nationale de France, Suppl. Grec 911
+MS: MS: Rome, Biblioteca Nazionale Centrale, Or. 84
+MS: Borg, K II 31
+MS: Leipzig, Universitätsbibliothek Leipzig, Tischend. 31
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 14
+MS: London, British Library, Or. 5560c
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4633
+MS: London, British Library, Or. 10754
+MS: London, British Library, Or. 5036
+MS: St. Petersburg, National Library of Russia, Sam. IIa 178.4
+MS: St. Petersburg, National Library of Russia, Sam. IIa 192
+MS: St. Petersburg, National Library of Russia, Sam. IIa 195
+MS: St. Petersburg, National Library of Russia, Sam. IIa 200
+MS: St. Petersburg, National Library of Russia, Sam. IIa 185
+MS: St. Petersburg, National Library of Russia, Sam. IIa 186
+MS: St. Petersburg, National Library of Russia, Sam. IIa 187
+MS: St. Petersburg, National Library of Russia, Sam. IIa 188
+MS: St. Petersburg, National Library of Russia, Sam. IIa 189
+MS: St. Petersburg, National Library of Russia, Sam. IIa 190
+MS: St. Petersburg, National Library of Russia, Sam. IIa 191
+MS: St. Petersburg, National Library of Russia, Sam. IIa 193
+MS: St. Petersburg, National Library of Russia, Sam. IIa 194
+MS: St. Petersburg, National Library of Russia, Sam. IIa 196
+MS: St. Petersburg, National Library of Russia, Sam. IIa 197
+MS: St. Petersburg, National Library of Russia, Sam. IIa 198
+MS: St. Petersburg, National Library of Russia, Sam. IIa 199
+MS: St. Petersburg, National Library of Russia, Sam. IIa 201
+MS: St. Petersburg, National Library of Russia, Sam. IIa 191.1
+MS: St. Petersburg, National Library of Russia, Sam. IIa 191.2-3
+MS: Cambridge, Cambridge University Library, T-S 16.317
+MS: Cambridge, Cambridge University Library, T-S Ar. 1a.136
+MS: Private Collection John Wilson (formerly), [Saadiah's Tafsir]
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 129
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 1458
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 3181
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4634
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4635
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4760
+MS: Oxford,  Bodleian Libraries, Hunt. 186
+MS: New York, Jewish Theological Seminary, 9334(?) (“The Sulzberger MS.”)
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4423
+MS: Vatican, Biblioteca Apostolica Vaticana,
+MS: Vatican, Biblioteca Apostolica Vaticana,  Borg. Ar. 5?
+MS: St. Petersburg, National Library of Russia, Evr. II C.
+MS: Damascus, National Library of Syria, unspecified manuscript of Aʿlām al-Nubwwa
+MS: Hamburg, Staats- und Universitätsbibliothek, Frag. copt. Suppl. 26
+MS: London,  British Library, Add. 9061
+MS: London,  British Library, Harley 5786
+MS: Naples, Biblioteca nazionale Vittorio Emanuele III, Gr. 20
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 525
+MS: Vatican, Biblioteca Apostolica Vaticana,  Borg. Ar. 129
+MS: St. Petersburg, Institute of Oriental Manuscripts, B 51
+MS: St Macarius, Hag. 44
+MS: Rouen, Bibliothèque municipale, 1477 (= Or. 3)
+MS: Private Collection Johann Heinrich Hottinger
+MS: St. Petersburg, National Library of Russia, Evr. I 1755
+MS: Paris, Bibliothèque nationale de France, héb. 293
+MS: Oxford, Bodleian Libraries, Hunt. 573
+MS: Oxford, Bodleian Libraries, Pacocke 136
+MS: Oxford, Bodleian Libraries, Pacocke 148
+MS: Oxford, Bodleian Libraries, Pacocke 256
+MS: Oxford, Bodleian Libraries, Pacocke 32
+MS: Oxford, Bodleian Libraries, Uri 359
+MS:
+MS: London, British Library, Or. 5062
+MS: New York, Jewish Theological Seminary, 3323
+MS: St. Petersburg, National Library of Russia, Evr. I 555
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 1345
+MS: London, British Library, Or. 2502
+MS: London, British Library, Or. 2548
+MS: Cambridge, Cambridge University Library, T-S Ar. 1b.65
+MS: St. Petersburg, National Library of Russia, Evr. I 569
+MS: London, British Library, Or. 10831
+MS: London, British Library, Or. 10835
+MS: London, British Library, Or. 10839
+MS: London, British Library, Or. 2515
+MS: London, British Library, Or. 2516
+MS: New York, Jewish Theological Seminary, ENA 114
+MS: Leipzig, Universitätsbibliothek Leipzig, Vollers 1057—05 [olim SS 281—05]
+MS: Sinai, St. Catherine's Monastery, Ar. 588
+MS: Paris, Bibliothèque nationale de France, Copt. 2
+MS: Paris, Bibliothèque nationale de France, Ar. 25
+MS: Paris, Bibliothèque nationale de France, Copt. 96
+MS: Cairo, Coptic Orthodox Patriarchate,  Bible 78
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 445
+MS: Sinai, St. Catherine's Monastery, Ar. 22
+MS: Sinai, St. Catherine's Monastery, Ar. 30
+MS: Sinai, St. Catherine's Monastery, Ar. 21
+MS: Sinai, St Catherines
+MS: Sinai, St. Catherine's Monastery, Ar. 595
+MS: Paris, Bibliothèque nationale de France,  Ar. 6725
+MS: Berlin, Staatsbibliothek,  Or. Folio 115
+MS: Berlin, Staatsbibliothek,  Or. Folio 116
+MS: Berlin, Staatsbibliothek,  Or. Quart. 612
+MS: London,  British Library, Arundel Or. 19
+MS: London,  British Library, Arundel Or. 7
+MS: London,  British Library, Harley 5474
+MS: London,  British Library, Or. 1318
+MS: London,  British Library, Or. 1328
+MS: London,  British Library, Or. 3383
+MS: London,  British Library, Or. 424
+MS: London,  British Library, Sloane 1796
+MS: Oxford,  Bodleian Libraries, Arch. Seld. A. 70
+MS: Oxford,  Bodleian Libraries, Arch. Seld. B. 50 sup.
+MS: Oxford,  Bodleian Libraries, Hunt. 43
+MS: Oxford,  Bodleian Libraries, Laud. Or. 135
+MS: Oxford,  Bodleian Libraries, Laud. Or. 24
+MS: Oxford,  Bodleian Libraries, Marsh. 426
+MS: Oxford,  Bodleian Libraries, Or. 333
+MS: Paris, Bibliothèque nationale de France,  Ar. 6274
+MS: Paris, Bibliothèque nationale de France,  Ar. 63
+MS: Paris, Bibliothèque nationale de France,  Ar. 64
+MS: Paris, Bibliothèque nationale de France,  Ar. 65
+MS: Paris, Bibliothèque nationale de France,  Ar. 66
+MS: Paris, Bibliothèque nationale de France,  Copt. 64
+MS: Paris, Bibliothèque nationale de France,  Syr. 50
+MS: Paris, Bibliothèque nationale de France,  Syr. 55
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 22
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 23
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 28
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 433
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 513
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 517
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 568
+MS: Vatican, Biblioteca Apostolica Vaticana,  Borg. Ar. 63
+MS: Vatican, Biblioteca Apostolica Vaticana,  Borg. Copt. 51
+MS: Vatican, Biblioteca Apostolica Vaticana,  Borg. Copt. 71
+MS: Vatican, Biblioteca Apostolica Vaticana,  Borg. Syr. 47
+MS: Vatican, Biblioteca Apostolica Vaticana,  Copt. 12
+MS: Vatican, Biblioteca Apostolica Vaticana,  Copt. 13
+MS: Vatican, Biblioteca Apostolica Vaticana,  Copt. 14
+MS: Vatican, Biblioteca Apostolica Vaticana,  Syr. 203
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 136 (=Joose E)
+MS: Munich, Bavarian State Library, Cod.arab. 1071
+MS: London, British Library, Or. 2401
+MS: London, British Library, Or. 2550
+MS: London, British Library, Or. 2557
+MS: New York, Jewish Theological Seminary, 3338
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 1410
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 298
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 3523
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 3532
+MS: St. Petersburg, Institute of Oriental Manuscripts, B 365
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 123
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 171
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 86
+MS: Paris, Bibliothèque nationale de France, héb. 286
+MS: Paris, Bibliothèque nationale de France, héb. 290
+MS: Paris, Bibliothèque nationale de France,  Supp. Grec. 911
+MS: London, British Library, Or. 2512
+MS: London, British Library, Or. 2552
+MS: London, British Library, Or. 2509
+MS: London, British Library, Or. 2510
+MS: New York, Jewish Theological Seminary, ENA 100
+MS: New York, Jewish Theological Seminary, ENA 101
+MS: Oxford, Bodleian Libraries, Opp. Add. Quart. 165
+MS: London, British Library, Or. 2505
+MS: London, British Library, Or. 2518
+MS: London, British Library, Or. 2466
+MS: London, British Library, Or. 2467
+MS: London, British Library, Or. 2470
+MS: London, British Library, Or. 2501
+MS: London, British Library, Or. 2511
+MS: New York, Jewish Theological Seminary, Micr. 3336
+MS: Paris, Bibliothèque nationale de France, héb. 289
+MS: Paris, Bibliothèque nationale de France, héb. 291
+MS: Leiden, University of Leiden Library, Or. 4750 (=Warner 12)
+MS: London, British Library, Or. 10822
+MS: London, British Library, Or. 2492
+MS: London, British Library, Or. 2498
+MS: London, British Library, Or. 2521
+MS: London, British Library, Or. 4201
+MS: London, British Library, Or. 2479
+MS: London, British Library, Or. 2551
+MS: London, British Library, Or. 2547
+MS: Cambridge, Trinity College, F 12 118 (=Loewe 37)
+MS: Cambridge, Cambridge University Library, T-S Ar. 23.6
+MS: Cambridge, Cambridge University Library, T-S Ar. 28.24
+MS: New York, Jewish Theological Seminary, 3336
+MS: New York, Jewish Theological Seminary, ENA 102
+MS: New York, Jewish Theological Seminary, ENA 103
+MS: New York, Jewish Theological Seminary, ENA 1752
+MS: New York, Jewish Theological Seminary, ENA 94
+MS: New York, Jewish Theological Seminary, ENA 96
+MS: New York, Jewish Theological Seminary, ENA 97
+MS: Paris, Bibliothèque nationale de France, héb. 279
+MS: Paris, Bibliothèque nationale de France, héb. 287
+MS: Paris, Bibliothèque nationale de France, héb. 288
+MS: London, British Library, Or. 2461
+MS: Oxford, Bodleian Libraries, Opp. Add. Quart. 168
+MS: Berlin, Staatsbibliothek, Or. quart. 943
+MS: Cambridge, Trinity College, F 12 109
+MS: London, British Library, Or. 2464
+MS: London, British Library, Or. 2474
+MS: London, British Library, Or. 2477
+MS: London, British Library, Or. 2478
+MS: London, British Library, Or. 2480
+MS: Lausanne, Lichaa 11
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 207
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 208
+MS: St. Petersburg, National Library of Russia, Evr. I 554
+MS: Cambridge, Trinity College, F.12.109
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 135
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 142
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 21
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 25
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 3211
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 3264
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4162
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 81
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. II 2821
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. II 3429
+MS: Saint Petersburg, Institute of Oriental Manuscripts, D.226
+MS: Florence, Biblioteca Medicea Laurenziana, Or. 112
+MS: Beirut, Bibliothèque Orientale,  419
+MS: Beirut, Bibliothèque Orientale,  63
+MS: Beirut, Bibliothèque Orientale,  64
+MS: Cairo, Coptic Orthodox Patriarchate,  Bible 34
+MS: Cairo, Coptic Orthodox Patriarchate,  Bible 46
+MS: Göttingen, Göttingen University, Ar. 129
+MS: Göttingen, Göttingen University, Ar. 129b
+MS: London,  British Library, Or. 1326
+MS: London,  British Library, Or. 1336
+MS: Oxford,  Bodleian Libraries, Hunt. 238
+MS: Oxford,  Bodleian Libraries, Maresc. 139
+MS: Paris, Bibliothèque nationale de France,  Ar. 158
+MS: Paris, Bibliothèque nationale de France,  Ar. 1906
+MS: Paris, Bibliothèque nationale de France,  Ar. 287
+MS: Paris, Bibliothèque nationale de France,  Ar. 5255
+MS: Saint Petersburg, Institute of Oriental Manuscripts, B. 625
+MS: Uppsala,University Library, I Or. 485
+MS: Cairo, Coptic Orthodox Patriarchate,  Bible 21
+MS: Cairo, Coptic Orthodox Patriarchate,  Bible 32
+MS: Paris, Bibliothèque nationale de France,  Ar. 1
+MS: Vatican, Biblioteca Apostolica Vaticana,  Barb. Or. 2
+MS: Vatican, Biblioteca Apostolica Vaticana,  Borg. Ar. 95
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 13
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 111
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 1535
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 17
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 57
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 95
+MS: New York, Jewish Theological Seminary, ENA 95
+MS: St. Petersburg, Institute of Oriental Manuscripts, A 143
+MS: St. Petersburg, Institute of Oriental Manuscripts, C 41
+MS: St. Petersburg, Institute of Oriental Manuscripts, C 72
+MS: St. Petersburg, National Library of Russia, Evr. I 567
+MS: St. Petersburg, National Library of Russia, Evr. I 568
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 19
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 20
+MS: Lausanne, Lichaa (Elisha; private coll.), no number (IMHM film no. F 50815)
+MS: New York, Jewish Theological Seminary, ENA 96A
+MS: St. Petersburg, National Library of Russia, Evr. I 576
+MS: London, British Library, Or. 2556
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 420
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 313
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 314
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 315
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 580
+MS: Oxford, Bodleian Libraries, Opp. Add. Quart. 166
+MS: Cambridge, Cambridge University Library, T-S 10C2.2
+MS: St. Petersburg, National Library of Russia, Evr. II A 113
+MS: St. Petersburg, National Library of Russia, Evr. I 556
+MS: Oxford, Bodleian Libraries, Opp. Add. Quart. 99
+MS: London, British Library, Or. 2581b
+MS: Budapest, University of Jewish Studies, an unspecified copy of Hunt. 206
+MS: New York, Jewish Theological Seminary, ENA 397
+MS: Cambridge, Cambridge University Library, T-S Ar.41.18
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 2351
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 2374
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 2405
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 2406
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 2437
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 2441
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 2447
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 2475
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 2480
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 2504
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 2584
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 2702
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 2788
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 2946
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4478
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4602
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 1756
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 1759
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 2635
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 2723
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 2823
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 3842
+MS: Cambridge, Cambridge University Library, T-S Ar. 31.3, 184
+MS: AS 140.31
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 2451
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 2705
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 3068
+MS: St. Petersburg, National Library of Russia
+MS: Cambridge, Cambridge University Library, T-S Ar. 31.202
+MS: Cambridge, Cambridge University Library, T-S Ar. 31.211
+MS: Paris, Bibliothèque nationale de France, héb. 286–89
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. II 896
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4116
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4466
+MS: Cambridge, Cambridge University Library, T-S Misc.36.208 (&lt; T-S Loan 208)
+MS: London, British Library, Or. 15549
+MS: London, British Library, Or. 5559
+MS: New York, Jewish Theological Seminary, ENA 2778
+MS: New York, Jewish Theological Seminary, ENA 2903
+MS: New York, Jewish Theological Seminary, ENA 2991
+MS: New York, Jewish Theological Seminary, ENA 3110
+MS: New York, Jewish Theological Seminary, ENA 3184
+MS: Oxford, Bodleian Libraries, Heb. d. 64
+MS: Oxford, Bodleian Libraries, Heb. d. 56
+MS: Oxford, Bodleian Libraries, Opp. Add. fol. 25
+MS: St. Petersburg, National Library of Russia, Evr. I 605
+MS: St. Petersburg, National Library of Russia, Evr. I 564
+MS: Cambridge, Cambridge University Library, T-S, NS 261.17
+MS: Cambridge, Cambridge University Library, T-S, NS 261.8
+MS: Cambridge, Cambridge University Library, T-S, NS 261.43
+MS: Cambridge, Cambridge University Library, T-S, NS 261.59
+MS: Cambridge, Cambridge University Library, T-S, NS 261.62
+MS: Cambridge, Cambridge University Library, T-S, NS 261.63
+MS: Cambridge, Cambridge University Library, T-S, NS 261.67
+MS: Cambridge, Cambridge University Library, T-S, NS 261.minute
+MS: Cambridge, Cambridge University Library, T-S, NS 341
+MS: St. Petersburg, National Library of Russia, Evr. I 604
+MS: St. Petersburg, National Library of Russia, Evr. I 559
+MS: St. Petersburg, National Library of Russia, Evr. I 560
+MS: Cambridge, Cambridge University Library, T-S 16.316
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 241
+MS: St. Petersburg, Institute of Oriental Manuscripts, B 60
+MS: St. Petersburg, National Library of Russia, Evr. I 1779
+MS: St. Petersburg, National Library of Russia, Evr. I 1780
+MS: St. Petersburg, National Library of Russia, Evr. I 1781
+MS: St. Petersburg, National Library of Russia, Evr. I 273
+MS: St. Petersburg, National Library of Russia, Evr. II 104
+MS: St. Petersburg, National Library of Russia, Evr. II 108
+MS: St. Petersburg, National Library of Russia, Evr. II 109
+MS: St. Petersburg, National Library of Russia, Evr. II 142
+MS: St. Petersburg, National Library of Russia, Evr. II 3324
+MS: St. Petersburg, National Library of Russia, Evr. II 712
+MS: London, British Library, Or. 2404
+MS: New York, Jewish Theological Seminary, 3361 (ENA 112)
+MS: Cambridge, Trinity College, F 12 115
+MS: St. Petersburg, National Library of Russia Arab.-Evr. I 149
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. I 1843
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. I 1845
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. I 1934
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. I 2582
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. I 324
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. I 3340
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. I 3341
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. I 3342
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. I 3355
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. I 3710
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. I 4894
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. II 3211
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. II 3284
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. IV 76
+MS: London, British Library, Or. 2524
+MS: London, British Library, Or. 2578
+MS: London, British Library, Or. 2579
+MS: London, British Library, Or. 2580
+MS: London, British Library, Or. 2582
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 1092
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 1335
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 1343
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 1686
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 1687
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 321
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4462
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4513
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4519
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4520
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4522
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4523
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4524
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4525
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4526
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4584
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 489
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 702
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 832
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 833
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 842
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 845
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 848
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 866
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 871
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 873
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 884
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 891
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 893
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 905
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 906
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 907
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 923
+MS: Cambridge, Cambridge University Library, T-S Ar. 32.10
+MS:  Cambridge, CUL, T-S Ar. 21.141
+MS:  Cambridge, CUL, T-S Ar. 22.90
+MS:  Cambridge, CUL, T-S Ar. 24.178
+MS:  Cambridge, CUL, T-S Ar. 24.27
+MS:  Cambridge, CUL, T-S Ar. 26.10
+MS: Cambridge, Cambridge University Library, T-S NS 263.34
+MS: Cambridge, Cambridge University Library, T-S NS 263.118
+MS: Cambridge, Cambridge University Library, T-S NS 293.12
+MS: Cambridge, Cambridge University Library, T-S NS 303.38
+MS: Cambridge, Cambridge University Library, T-S NS 303.43
+MS: Cambridge, Cambridge University Library, T-S NS 329.766
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. I 207
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. I 208
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. I 1405
+MS: London, British Library, Or. 5562 B.1
+MS: Oxford, Bodleian Libraries, Poc. 395
+MS: Oxford, Bodleian Libraries, Poc. 396
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 4826
+MS: Cambridge, Cambridge University Library, T-S Ar. 1a.44
+MS: Cambridge, Cambridge University Library, T-S Ar. 21.21
+MS: Cambridge, Cambridge University Library, T-S Ar. 27.105
+MS: Cambridge, Cambridge University Library, T-S Ar. 40.20
+MS: Cambridge, Cambridge University Library, T-S Ar. 42.148
+MS: Sassoon (private) 1044
+MS: Vienna, IKG. 24
+MS: St. Petersburg, National Library of Russia, Evr. I 2288
+MS: St. Petersburg, National Library of Russia, Evr. I 2294
+MS: St. Petersburg, National Library of Russia, Evr. I 2333
+MS: St. Petersburg, National Library of Russia, Evr. I 2385
+MS: St. Petersburg, National Library of Russia, Evr. I 2401
+MS: St. Petersburg, National Library of Russia, Evr. I 2402
+MS: St. Petersburg, National Library of Russia, Evr. I 2442
+MS: St. Petersburg, National Library of Russia, Evr. I 2608
+MS: St. Petersburg, National Library of Russia, Evr. I 2623
+MS: St. Petersburg, National Library of Russia, Evr. I 2642
+MS: St. Petersburg, National Library of Russia, Evr. I 2661
+MS: St. Petersburg, National Library of Russia, Evr. I 2663
+MS: St. Petersburg, National Library of Russia, Evr. I 2666
+MS: St. Petersburg, National Library of Russia, Evr. I 2673
+MS: St. Petersburg, National Library of Russia, Evr. I 2726
+MS: St. Petersburg, National Library of Russia, Evr. I 2729
+MS: St. Petersburg, National Library of Russia, Evr. I 2889
+MS: St. Petersburg, National Library of Russia, Evr. I 2923
+MS: St. Petersburg, National Library of Russia, Evr. I 2957
+MS: St. Petersburg, National Library of Russia, Evr. I 4470
+MS: St. Petersburg, National Library of Russia, Evr. I 4471
+MS: St. Petersburg, National Library of Russia, Evr. I 4472
+MS: St. Petersburg, National Library of Russia, Evr. I 4473
+MS: St. Petersburg, National Library of Russia, Evr. I 4475
+MS: St. Petersburg, National Library of Russia, Evr. I 4476
+MS: St. Petersburg, National Library of Russia, Evr. I 4482
+MS: St. Petersburg, National Library of Russia, Evr. I 4494
+MS: St. Petersburg, National Library of Russia, Evr. I 4496
+MS: St. Petersburg, National Library of Russia, Evr. I 4497
+MS: St. Petersburg, National Library of Russia, Evr. I 4505
+MS: St. Petersburg, National Library of Russia, Evr. I 4506
+MS: St. Petersburg, National Library of Russia, Evr. II 1074
+MS: St. Petersburg, National Library of Russia, Evr. II 246
+MS: St. Petersburg, National Library of Russia, Evr. II 402
+MS: St. Petersburg, National Library of Russia, Evr. II 587
+MS: St. Petersburg, National Library of Russia, Evr. II 625
+MS: St. Petersburg, National Library of Russia, Evr. II 627
+MS: St. Petersburg, National Library of Russia, Evr. II 632
+MS: St. Petersburg, National Library of Russia, Evr. II 634
+MS: St. Petersburg, National Library of Russia, Evr. II 636
+MS: St. Petersburg, National Library of Russia, Evr. II 645
+MS: St. Petersburg, National Library of Russia, Evr. II 649
+MS: St. Petersburg, National Library of Russia, Evr. II 652
+MS: St. Petersburg, National Library of Russia, Evr. II 661
+MS: St. Petersburg, National Library of Russia, Evr. II 110
+MS: St. Petersburg, National Library of Russia, Evr. II 29
+MS: St. Petersburg, National Library of Russia, Evr. II 3295
+MS: St. Petersburg, National Library of Russia, Evr. II 3350
+MS: Cambridge, Cambridge University Library, T-S Ar. 31.231
+MS: Cambridge, Cambridge University Library, T-S Ar. 5.7
+MS: Cambridge, Cambridge University Library, T-S Ar. 28.116
+MS: Cambridge, Cambridge University Library, T-S Ar. 31.39
+MS: Saint Petersburg, Institute of Oriental Studies, C 38
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 2136
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 3371
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 3372
+MS: St. Petersburg, National Library of Russia, Evr.-Arab. I 3373
+MS: Leiden, University of Leiden Library, Cod. Or. 4750
+MS: Florence, Biblioteca Medicea Laurenziana, Or. 57
+MS: Cambridge, Cambridge University Library, T-S 10 K 20.10
+MS: Paris, Bibliothèque nationale de France, Ar. 8
+MS: Berlin, BBAW-GCS, Akz.-Nr. 481/196
+MS: Berlin, BBAW-GCS, Akz.-Nr. 481/26
+MS: Berlin, BBAW-GCS, Akz.-Nr. 481/27
+MS: Birmingham, University Library, Chr. Arab. Add. 137
+MS: Paris, Bibliothèque nationale de France, Syr. 378
+MS: Saint Petersburg, State Library, 432
+MS: Sinai, St. Catherine's Monastery, Ar. NF. Parch. 4
+MS: London, British Library, Or. 1319
+MS: London, British Library, Copt. 729
+MS: Cairo, Coptic Orthodox Patriarchate, Bible 198
+MS: Sinai, St. Catherine's Monastery, Ar. 11
+MS: Sinai, St. Catherine's Monastery, Ar. 18
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 406
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 9
+MS: Vatican, Biblioteca Apostolica Vaticana, Borg. Ar. 28
+MS: London, British Library, Or. 2211
+MS: Oxford, Bodleian Libraries, Opp. Add. fol. 64
+MS: Saint Petersburg, National Library of Russia, Evr.-Arab. I 4002
+MS: Saint Petersburg, National Library of Russia, Evr.-Arab. I 4003
+MS: St. Petersburg, National Library of Russia, Sam. IIa 202
+MS: New York, Jewish Theological Seminary, Adler 1352
+MS: New York, Jewish Theological Seminary, Adler 1808
+MS: Nablus, Private Collection Ṣadok b. Abishaʿ b. Pinḥas ha-Kohen
+MS: Sassoon 404
+MS: Cambridge, Girton College, 11
+MS: Cambridge, Girton College, 8
+MS: Jerusalem, National Library of Israel, Sam. 8° 46
+MS: London, British Library, Or. 10318
+MS: Sassoon 71
+MS: Manchester, John Rylands Library, Sam. 38 (= Gaster 814)
+MS: Manchester, John Rylands Library, Sam. 40 (= Gaster 1883)
+MS: Manchester, John Rylands Library, Sam. 376 (formerly Sassoon 404)
+MS: Oxford, Bodleian Libraries, Sam. B. 2
+MS: Oxford, Bodleian Libraries, Sam. B. 3
+MS: Oxford, Bodleian Libraries, Sam. B. 6
+MS: Turin, Biblioteca di Orientalistica, Fondo Paul Kahle MSB39
+MS: London; British Library, Add. 19011
+MS: Princeton, University Library, Garrett Sam. 27
+MS: St. Petersburg, National Library of Russia, Sam. IIa 178.1
+MS: St. Petersburg, National Library of Russia, Sam. III 1
+MS: St. Petersburg, National Library of Russia, Sam. III 10
+MS: St. Petersburg, National Library of Russia, Sam. III 11
+MS: St. Petersburg, National Library of Russia, Sam. III 14
+MS: St. Petersburg, National Library of Russia, Sam. III 30
+MS: St. Petersburg, National Library of Russia, Sam. III 31
+MS: St. Petersburg, National Library of Russia, Sam. III 9
+MS: East Lansing, Michigan State University Library, Chamberlain-Warren 2478a
+MS: London, British Library, Or. 10777
+MS: Manchester, John Rylands Library, Sam. 3
+MS: St. Petersburg, National Library of Russia, Sam. IIb 121
+MS: St. Petersburg, National Library of Russia, Sam. IIb 122
+MS: St. Petersburg, National Library of Russia, Sam. IIb 123
+MS: St. Petersburg, National Library of Russia, Sam. IIb 56
+MS: St. Petersburg, National Library of Russia, Sam. IIb 57
+MS: St. Petersburg, National Library of Russia, Sam. IIb 58
+MS: St. Petersburg, National Library of Russia, Sam. III 32
+MS: Vatican, Biblioteca Apostolica Vaticana,  Borg. Sir. 49
+MS: St. Petersburg, National Library of Russia, Sam. IIa 200.1
+MS: Oxford, Bodleian Library, Sam. C. 4
+MS: Jerusalem, Ben Zvi Institute, 7055
+MS: Jerusalem, National Library of Israel, Sam. 8° 38
+MS: Manchester, John Rylands
+MS: Paris, Bibliothèque Nationale, Ar. 5
+MS: Paris, Bibliothèque Nationale, Ar. 6
+MS: Sinai, St. Catherine's Monastery,  Gr. 35
+MS: Moscow, Moscow State Library, Ms. 432
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 21
+MS: Florence, Biblioteca Medicea Laurenziana, Or. 61
+MS: Florence, Biblioteca Medicea Laurenziana, Or. 226
+MS: London, British Library, Or. 8738
+MS: East Lansing, Michigan State University Library, Chamberlain-Warren 10262
+MS: Paris, Bibliothèque nationale de France, Ar. 3
+MS: Birmingham, Birmingham University Library, Mingana, Chr. Ar. 103
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 36
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 37
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 38
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 42
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 43
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 44
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 50
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 57
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 87
+MS: Copenhagen, Royal Library, Ar. 76
+MS: Florence, Biblioteca Medicea Laurenziana, Or. 9 (formerly Or. 4)
+MS: Oxford, Bodleian Libraries, Or. 270
+MS: Oxford, Bodleian Libraries, Or. 493
+MS: Paris, Bibliothèque nationale de France, Ar. 22
+MS: Rome, Biblioteca Casanatense, 2108
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 399
+MS: Cambridge, Cambridge University Library, T-S Ar. 1a.152
+MS: Cambridge, Cambridge University Library, T-S Ar. 1a.4
+MS: Cambridge, Cambridge University Library, T-S Ar. 27.60
+MS: Cambridge, Cambridge University Library, T-S Ar. 28.170
+MS: Cambridge, Westminster College, Arabica I.120
+MS: London, British Library, Or. 5562.A
+MS: Cairo, Coptic Museum,  Bible 54
+MS: Cairo, Coptic Museum,  Theol. 839
+MS: Paris, Bibliothèque nationale de France,  Ar. 12
+MS: Cairo, Coptic Museum,  Bible 38
+MS: Cairo, Coptic Orthodox Patriarchate,  Bible 179
+MS: Cairo, Coptic Orthodox Patriarchate,  Bible 193
+MS: Cairo, Coptic Orthodox Patriarchate,  Bible 194
+MS: Cairo, Coptic Orthodox Patriarchate,  Bible 60
+MS: Cairo, Coptic Orthodox Patriarchate,  Bible 61
+MS: Cairo, Coptic Orthodox Patriarchate,  Bible 64
+MS: Cairo, Coptic Orthodox Patriarchate,  Bible 65
+MS: Cairo, Coptic Orthodox Patriarchate,  Bible 67
+MS: Cairo, Coptic Orthodox Patriarchate,  Bible 68
+MS: Cairo, Coptic Orthodox Patriarchate,  Bible 7
+MS: Cairo, Coptic Orthodox Patriarchate,  Bible 70
+MS: Cairo, Coptic Orthodox Patriarchate,  Bible 71
+MS: Cairo, Coptic Orthodox Patriarchate,  Bible 8
+MS: Cairo, Coptic Orthodox Patriarchate,  Bible 9
+MS: Cairo, Coptic Orthodox Patriarchate, Theo. 20
+MS: Vatican, Biblioteca Apostolica Vaticana, Barb. Or. 2
+MS: Sinai, St. Catherine's Monastery,  Ar. 151
+MS: Alexandria, unspecified copy of the Gospels in the possession of Jibrāʾīl al-mikhallaʿ
+MS: Beirut, St. Joseph Library,  unspecified fragment of the Diatessaron
+MS: Beirut, St. Joseph, unspecified manuscript of the Gospels by Yaʿqūb al-Dibsī
+MS: Beirut, St. Joseph, unspecified manuscript of ʿAbd Yashūʿ al-Ṣūbawī's Gospels in possession of Iskandar Ṣayfī
+MS: Jerusalem, Holy Sepulchre Library of the Greek Orthodox, unspecified copy that originated in Mar Saba Monastery
+MS: Jerusalem, Jacobite Bishopric, unspecified manuscript of the Gospels translated from the Harklean Syriac
+MS: Mardin, unspecified illuminated manuscript of Ibn al-ʿAssāl Gospels
+MS: Milan, Biblioteca Ambrosiana, Ar. 47
+MS: Oxford,  Bodleian Libraries, Uri. 24
+MS: Unspecified manuscript of Ibn al-ʿAssāl's Gospels in the possession of Ibrahim Afandī
+MS: ʿAyn Tazār Library, unspecified manuscript of the Gospels
+MS: Cairo, unspecified manuscript of the Pentateuch in possession of Ahmad Taymūr
+MS: Istanbul, unspecified manuscript of the Pentateuch
+MS: Vatican, Biblioteca Apostolica Vaticana, unspecified manuscript of Infancy Gospels transcribed by Isḥaq ibn abī al-Faraj
+MS: Damascus, Dar al-Watha'iq, 229/23
+MS: Damascus, unspecified manuscript of the Pentateuch in Judeo-Arabic that was in possession of ʿAbd al-Hādī Hāshim
+MS: Damascus, unspecified manuscript of the Pentateuch in Judeo-Arabic that was in possession of ʿAbd al-Hādī Hashim
+MS: Kasrawan, unspecified manuscripts of the Sundays lectionary of the Gospels
+MS: Kasrawan, unspecified manuscripts of the Gospels in Syriac and Garshuni transcribed in 1677 CE, and was in the possession of Yousef Fransis
+MS: London,  British Museum, unspecified manuscript of Psalms
+MS: Al-Najaf, unspecified manuscript of the Islamic Psalms copied of a copy from 976 CE
+MS: Baghdad, unspecified manuscript of Islamic Psalms written in 1375 CE
+MS: Mossul, unspecified manuscript of Islamic Psalms written in 1870 CE
+MS: Sinai, St. Catherine's Monastery,  unspecified manuscript of  Psalms in Arabic and Syriac
+MS: Sinai, St. Catherine's Monastery,  unspecified manuscript of the Gospels transcribed by the scribe Surūr ibn Frayḥ
+MS: Sinai, St. Catherine's Monastery,  unspecified manuscript that contains 1 Timothy
+MS: Birmingham, Birmingham University Library, Mingana, Syr. 484
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 34
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 35
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 45
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 49
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 53
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 54
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 74
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 76
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 78
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 83
+MS: Florence, Biblioteca Medicea Laurenziana, Or. 78 (formerly 18)
+MS: Paris, Bibliothèque nationale de France, Ar. 153
+MS: Paris, Bibliothèque nationale de France, Ar. 50
+MS: Tübingen, Tübingen University, Ar. 194
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 448
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 47
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 55
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 185
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 33
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 13
+MS: Cairo, Coptic Orthodox Patriarchate, Theol. 23
+MS: Manchester, John Rylands Library, Copt. 418
+MS: Sinai, St. Catherine’s Monastery, Ar. 9
+MS: London, British Library, Copt. 725
+MS: Sinai, St. Catherine’s Monastery, Ar. 18
+MS: Sinai, St. Catherine’s Monastery, Ar. 500
+MS: Sinai, St. Catherine’s Monastery, Ar. 588
+MS: Sinai, St. Catherine’s Monastery, Ar. 595
+MS: Sinai, St. Catherine’s Monastery, Ar. 597
+MS: St. Petersburg, National Library of Russia, Or. 3
+MS: Vatican, Biblioteca Apostolica Vaticana, Borg. Syr. 28
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. I 3806
+MS: Cairo, Coptic Museum, Bibl. 70
+MS: Cairo, Coptic Orthodox Patriarchate, Bibl. 6
+MS: Copenhagen, Royal Library, Or. 76
+MS: Dayr Abū Maqār, Bibl. 12
+MS: Milan, Biblioteca Ambrosiana, Hammer 88
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. I 1396
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 95
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. I 3812
+MS: London, British Library, Harl. 5786
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. I 1409
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. I 1430
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. I 3675
+MS: Jubayl, Lady of Help Monastery, unspecified manuscripts of the Gospels in Syriac-Garshuni, originated in Cyprus and was copied in 1565 CE
+MS: Kasrawan, unspecified manuscripts of the Gospels in Garshuni transcribed in 1684 CE
+MS: Nabil, St. Michael Monastery, unspecified manuscript of the Gospels translation by Jermanos Faraḥāt
+MS: Cairo, Coptic Museum, Bibl. 102
+MS: Cairo, Coptic Museum, Bibl. 87
+MS: Florence, Biblioteca Medicea Laurenziana, Or. 9
+MS: Paris, Bibliothèque nationale de France, Ar. 24
+MS: Sinai, St. Catherine’s Monastery, Ar. 7
+MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 3
+MS: Cambridge, Cambridge University Library, T-S Misc 36.134
+MS: London, British Library, Add. 27298
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. I 1395
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. I 2635
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. I 4050
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. I 4250
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. I 4321
+MS: St. Petersburg, National Library of Russia, Arab.-Evr. II 3345
+MS: Leiden, Leiden University Library, unspecified manuscript contains rhymed Gospels
+MS: Vatican, Biblioteca Apostolica Vaticana,  unspecified manuscript contains rhymed Gospels
+MS: Beirut, St. Joseph Library,  Commentary 11-25
+MS: Beirut, St. Joseph Library,  Bible 1
+MS: Beirut, St. Joseph Library,  Bible 10
+MS: Beirut, St. Joseph Library,  Bible 2
+MS: Beirut, St. Joseph Library,  Bible 3
+MS: Beirut, St. Joseph Library,  Bible 4
+MS: Beirut, St. Joseph Library,  Bible 5
+MS: Beirut, St. Joseph Library,  Bible 6
+MS: Beirut, St. Joseph Library,  Bible 7
+MS: Beirut, St. Joseph Library,  Bible 8
+MS: Beirut, St. Joseph Library,  Bible 9
+MS: Sinai, St. Catherine's Monastery,  Ar. 309
+MS: Sinai, St. Catherine's Monastery,  Ar. 436
+MS: Sinai, St. Catherine's Monastery,  NF. Ar. Perg. 40
+MS: Jerusalem, Khizanat al-Kutub al-Khālidiyya, unspecified manuscript of Islamic Psalms
+MS: Jerusalem, unspecified manuscript of Islamic Psalms in the Library of Al-Dajānī
+MS: Mecca, Grand Mosque, unspecified manuscript of Islamic Psalms dated to 1860 CE
+MS: Vatican, Biblioteca Apostolica Vaticana,  Ar. 17
