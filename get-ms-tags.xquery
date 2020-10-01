@@ -13,4 +13,10 @@ declare namespace link="http://purl.org/rss/1.0/modules/link/";
 let $doc := doc('biblia-arabica-zotero-export.rdf')
 let $shelfmarks := distinct-values($doc//dc:subject[starts-with(.,'MS:')])
 
-return $shelfmarks
+for $shelfmark in $shelfmarks 
+    let $sections := $doc//dc:subject[starts-with(.,'Section:') and (./following-sibling::dc:subject=$shelfmark or ./preceding-sibling::dc:subject=$shelfmark)]
+    let $sections-distinct := string-join(distinct-values($sections),', ')
+    let $sections-labels-removed := replace($sections-distinct, 'Section:\s+','')
+    return if ($sections-labels-removed) then 
+        concat($shelfmark,' (',$sections-labels-removed,')')
+        else concat($shelfmark, ' (undesignated) ')
