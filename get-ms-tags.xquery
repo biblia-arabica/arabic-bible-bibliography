@@ -71,12 +71,13 @@ return
                 ({count($shelfmarks-revised)} manuscripts)</h1>
                 <p>The following list of collections and shelfmarks reflects manuscripts mentioned in secondary literature 
                 about Arabic Bible translations (not including catalogues), as recorded in the 
-                <a href="https://biblia-arabica.com/bibl">Bibliography of the Arabic Bible</a> (Ronny Vollandt, general editor). Biblical sections in parentheses, such as "(Pentateuch)," 
+                <i><a href="https://biblia-arabica.com/bibl">Bibliography of the Arabic Bible</a></i> (Ronny Vollandt, general editor). 
+                Biblical sections in parentheses, such as "(Pentateuch)," 
                 indicate which parts of the Bible have been tagged for the literature about the manuscript. They indicate which 
                 biblical texts the bibliographic item discusses and may or may not reflect which texts the manuscript contains.
                 Manuscripts related to the New Testament are included here for completeness.</p>
                 <p>Each manuscript shelfmark listed here has corresponding secondary literature describing it, detailed in the latest 
-                pre-publication version of the Bibliography of the Arabic Bible (1,758 items). NB: this list may not be fully 
+                pre-publication version of the <i>Bibliography of the Arabic Bible</i> (1,758 items). NB: this list may not be fully 
                 standardized, since some of the entries it is based on have not yet been fully edited for publication.</p>
                 <p>Last updated {current-date()}.</p>
                 {$collections-with-shelfmarks}
