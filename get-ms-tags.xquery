@@ -9,16 +9,66 @@ declare namespace bib="http://purl.org/net/biblio#";
 declare namespace dcterms="http://purl.org/dc/terms/";
 declare namespace prism="http://prismstandard.org/namespaces/1.2/basic/";
 declare namespace link="http://purl.org/rss/1.0/modules/link/";
+declare namespace functx = "http://www.functx.com";
+declare function functx:escape-for-regex
+  ( $arg as xs:string? )  as xs:string {
+
+   replace($arg,
+           '(\.|\[|\]|\\|\||\-|\^|\$|\?|\*|\+|\{|\}|\(|\))','\\$1')
+ } ;
 
 let $doc := doc('biblia-arabica-zotero-export.rdf')
 let $shelfmarks := distinct-values($doc//dc:subject[starts-with(.,'MS:')])
-
-return string-join($shelfmarks,'
-')
-(:for $shelfmark in $shelfmarks 
-    let $sections := $doc//dc:subject[starts-with(.,'Section:') and (./following-sibling::dc:subject=$shelfmark or ./preceding-sibling::dc:subject=$shelfmark)]
-    let $sections-distinct := string-join(distinct-values($sections),', ')
-    let $sections-labels-removed := replace($sections-distinct, 'Section:\s+','')
+let $sections-all := $doc//dc:subject[starts-with(.,'Section:')]
+let $shelfmark-revisions := doc('biblia-arabica-mss-tags-revised.xml')/JSON/rows
+let $shelfmarks-revised := distinct-values($shelfmark-revisions/Revised_Tag/normalize-space())
+let $collections := 
+    for $shelfmark in $shelfmarks-revised
+    return replace($shelfmark,'MS:\s*([^=\(]*),.*$','$1')
+let $collections-distinct := distinct-values($collections)
+(:let $collections-distinct-regex := string-join($collections-distinct,"|"):)
+let $shelfmarks-with-sections := 
+    for $shelfmark in $shelfmarks-revised
+        let $shelfmarks-raw := $shelfmark-revisions[normalize-space(Revised_Tag)=$shelfmark]/Raw_Tag/normalize-space()
+        (:let $shelfmark-no-collection := 
+            replace(
+                $shelfmark, 
+                'MS:\s*[^=]*,\s*',
+                ''):)
+        let $sections := $sections-all[./following-sibling::dc:subject/normalize-space()=$shelfmarks-raw or ./preceding-sibling::dc:subject/normalize-space()=$shelfmarks-raw]
+        let $sections-distinct := string-join(distinct-values($sections),', ')
+        let $sections-labels-removed := replace($sections-distinct, 'Section:\s+','')
+        
     return if ($sections-labels-removed) then 
         concat($shelfmark,' (',$sections-labels-removed,')')
-        else concat($shelfmark, ' (undesignated) '):)
+        else concat($shelfmark, ' (undesignated) ')
+        
+let $collections-with-shelfmarks := 
+    for $collection in $collections-distinct
+    let $shelfmarks-in-collection := $shelfmarks-with-sections[matches(.,concat('MS:\s*',$collection))]
+    let $shelfmarks-in-collection-shortened := 
+        for $shelfmark in $shelfmarks-in-collection
+        return 
+            replace(
+                $shelfmark,
+                concat(
+                    'MS:\s*',
+                    functx:escape-for-regex($collection),
+                    ',\s*'),
+                '')
+    return 
+        (element h2 {$collection, 
+        concat('(',count($shelfmarks-in-collection-shortened),' manuscript[s])')},
+        element p {string-join($shelfmarks-in-collection-shortened,', ')})
+
+return 
+<html xmlns="http://www.w3.org/1999/xhtml">
+            <head>
+                <title>Manuscript references related to Arabic Bible translations recorded in the Bibliography of the Arabic Bible</title>
+            </head>
+            <body>
+                <h1>Manuscript references related to Arabic Bible translations recorded in the <a href="https://biblia-arabica.com/bibl">Bibliography of the Arabic Bible</a></h1>
+                {$collections-with-shelfmarks}
+            </body>
+        </html> 
+
